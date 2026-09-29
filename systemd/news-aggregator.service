@@ -1,0 +1,23 @@
+[Unit]
+Description=30-Minute Media-Rich News & Social Aggregator (Server 2 ARM64)
+Documentation=https://github.com/
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=ubuntu
+WorkingDirectory=/home/ubuntu/resilient-news-aggregator
+ExecStart=/home/ubuntu/resilient-news-aggregator/run_local.sh
+StandardOutput=journal
+StandardError=journal
+TimeoutSec=60
+
+# Resource governance & isolation (ARM64 efficiency)
+MemoryMax=64M
+CPUQuota=50%
+Nice=10
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target

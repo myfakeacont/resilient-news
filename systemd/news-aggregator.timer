@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer for 30-Minute News & Media Aggregator (Server 2 ARM64)
+After=network-online.target
+
+[Timer]
+OnCalendar=*:0/30
+Persistent=true
+RandomizedDelaySec=15
+
+[Install]
+WantedBy=timers.target

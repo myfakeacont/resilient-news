@@ -1,25 +1,29 @@
-# 📡 Resilient Zero-Token Hourly News Aggregator
-> **پایگاه خبری بدون توکن، تاب‌آور در شرایط اینترنت ملی و مسدودسازی کامل شبکه**  
-> Deployed on GitHub Actions, GitHub Pages, and Vercel.
+# 📡 Resilient 30-Minute Media-Rich News & Social Aggregator (Server 2 ARM64)
+> **پایگاه خبری و چندرسانه‌ای تاب‌آور بدون توکن هوش مصنوعی (Zero-Token Cost)**  
+> Deployed on Server 2 (Ubuntu ARM64) with Git auto-commit & GitHub sync every 30 minutes.
 
-A fully autonomous, zero-cost news monitoring system designed for severe internet throttling, DNS poisoning, and national intranet (NIN / شبکه ملی اطلاعات) blackouts in Iran.
+A high-performance, memory-bounded (<30MB RAM), sub-30-second multi-source intelligence aggregator designed for severe internet throttling, DNS poisoning, and national intranet (NIN / شبکه ملی اطلاعات) blackouts in Iran.
 
 ---
 
 ## 🌟 Key Architectural Features
 
-- **Zero LLM Tokens ($0.00 / month):** Runs on pure Python standard library (`urllib.request`, `xml.etree.ElementTree`). Requires zero external LLM API tokens (OpenAI, Anthropic, Gemini), eliminating foreign billing traps, sanctions barriers, or upstream API rate limits.
-- **High-Trust Source Ingestion:** Aggregates real-time feeds across:
-  * **Persian News:** BBC Persian, Radio Farda, Iran International, Euronews Persian, DW Persian.
-  * **Global Wire:** Reuters, Associated Press (AP News).
-  * **Tech & Open Source:** Hacker News.
-- **Hourly Snapshot Architecture:** Saves immutable hourly archives to `news/YYYY-MM-DD/HH-00.md`, maintains rolling `news/latest.md`, and compiles a chronological archive index in `index.md`.
-- **Dual Timezone Formatting:** All entries and headlines carry both **UTC** and **Iran Standard Time (IRST = UTC+3:30)** timestamps.
-- **Micro-Payload Engineering (< 15 KB):** In conditions where a normal 6 MB news website times out and fails, raw Markdown downloads in under 3 seconds even on a throttled 32 kbps connection.
-- **Dual Hosting & Redundancy:**
-  * **GitHub Pages & Raw CDN:** Accessible via `raw.githubusercontent.com` and GitHub Pages.
-  * **Vercel Edge Anycast:** Instant global edge routing via `*.vercel.app` with zero-config deployment.
-- **Local & Offline Friendly:** Clone once; an incremental `git pull` takes seconds and updates your entire local archive, seamlessly readable in Obsidian, VS Code, or Termux.
+- **Zero LLM Tokens ($0.00 / month):** Runs entirely on pure Python standard library (`urllib.request`, `xml.etree.ElementTree`, `concurrent.futures`, `hashlib`). No external LLM API tokens required, eliminating foreign billing risks, sanction blocks, or upstream rate limits.
+- **32 Curated High-Priority Sources Across 3 Ingestion Tiers:**
+  1. **Twitter / X Accounts (12 Accounts):** SharifiZarchi, thetwelfth_Imam, USABehFarsi, souzangar, bookunt, tom_doerr, MatinSenPai, patterniha, MitraHejazipour, EdaalateAli1400, realDonaldTrump, PahlaviComms.
+  2. **Telegram Channels (12 Channels):** Linuxor, jadivarlog, OfficialRezaPahlavi, IranintlTV, VahidOnline, MatinSenPaii, EdaalateAli1400_Dark, patt_channel_x, M4tinBeigi, Rostamchannel, ircfspace, whitedns.
+  3. **RSS News Wires (8 Outlets):** BBC Persian, Radio Farda, Iran International, Euronews Persian, DW Persian, Reuters Wire, AP Wire, Hacker News.
+- **Robust Twitter Fetching Without Official API Keys:** Multi-tiered fallback architecture prioritizing Google News RSS Twitter indexing (`site:twitter.com/<user> OR site:x.com/<user>`), public syndication endpoints, and rotating Nitter mirrors.
+- **Robust Telegram Web Scraping:** Scrapes public channel previews (`https://t.me/s/<channel>`) extracting post IDs, timestamps, formatted Persian/English text, and media attachments.
+- **Media Archiving Pipeline:** Extracts images from Telegram photos, RSS enclosures, and social posts. Downloads and stores images directly to `media/YYYY-MM-DD/<hash>.jpg` with deterministic SHA-256 deduplication and links them directly in Markdown.
+- **Unified 30-Minute Git Workflow:**
+  * Runs every 30 minutes (`news/YYYY-MM-DD/HH-MM.md`).
+  * Creates a single atomic commit: `chore(digest): sync updates YYYY-MM-DD HH:MM`.
+  * Automatically pushes to GitHub using `gh` CLI credential helper.
+- **Resource & Memory Governance (<30MB RAM, <30s execution):**
+  * ThreadPoolExecutor concurrency with small per-thread stack size (`128 KB`).
+  * Chunked streaming downloads with 2MB image cap.
+  * Real-world execution benchmark: **~2.5 - 4.5 seconds** total runtime, **~8.7MB** Python heap RAM.
 
 ---
 
@@ -27,100 +31,81 @@ A fully autonomous, zero-cost news monitoring system designed for severe interne
 
 ```text
 resilient-news-aggregator/
-├── .github/
-│   └── workflows/
-│       └── news.yml             # Hourly GitHub Actions cron workflow
+├── media/
+│   └── YYYY-MM-DD/
+│       ├── <hash>.jpg               # Archived post & news images
+│       └── ...
 ├── news/
 │   ├── YYYY-MM-DD/
-│   │   ├── 00-00.md             # Hourly snapshots (UTC / IRST)
-│   │   ├── ...
-│   │   └── 23-00.md
-│   └── latest.md                # Rolling latest headlines digest
+│   │   ├── 00-00.md                 # 30-minute interval snapshots (UTC / IRST)
+│   │   ├── 00-30.md
+│   │   └── ...
+│   └── latest.md                    # Rolling latest headlines digest
 ├── public/
-│   ├── index.html               # Lightweight (<30 KB) RTL static web dashboard
-│   └── latest.json              # Machine-readable JSON feed for curl / CLI
-├── aggregator.py                # Pure Python standard-library aggregator engine
-├── run_local.sh                 # Local / VPS crontab execution script
-├── vercel.json                  # Vercel edge deployment configuration
-├── index.md                     # Root archive index & quick access links
-├── state.json                   # SHA-256 deduplication state cache
-├── BLACKOUT_RESILIENCE.md       # Technical deep-dive on Iranian network topology
-└── README.md                    # Project documentation
+│   ├── index.html                   # Lightweight (<35 KB) RTL static web dashboard
+│   └── latest.json                  # Machine-readable JSON feed for curl / bots
+├── systemd/
+│   ├── news-aggregator.service      # Systemd service unit (ARM64 resource-bounded)
+│   └── news-aggregator.timer        # Systemd timer unit (30-minute interval)
+├── aggregator.py                    # 30-min multi-source concurrent engine
+├── run_local.sh                     # Runner script with unified Git commit & gh CLI push
+├── index.md                         # Root archive index & quick navigation
+├── state.json                       # SHA-256 deduplication & media state cache
+├── BLACKOUT_RESILIENCE.md           # Technical deep-dive on Iranian network topology
+└── README.md                        # Documentation
 ```
 
 ---
 
-## 🚀 Quickstart & Deployment
+## 🚀 Setup & Automation on Server 2 (Ubuntu ARM64)
 
-### 1. GitHub Actions Setup (Zero Maintenance)
-1. Fork or push this repository to GitHub.
-2. Go to **Settings → Actions → General → Workflow permissions**.
-3. Select **Read and write permissions** (allows the workflow to commit hourly news files).
-4. Go to **Settings → Pages**:
-   - Source: **GitHub Actions** (the workflow deploys automatically).
-5. The workflow in `.github/workflows/news.yml` will automatically run at the start of every hour (`cron: '0 * * * *'`), or trigger it manually anytime under the **Actions** tab via **Run workflow**.
+### 1. Manual Execution & Verification
+```bash
+cd /home/ubuntu/resilient-news-aggregator
+./run_local.sh
+```
 
-### 2. Vercel Mirror Setup (1-Click)
-1. Log in to [Vercel](https://vercel.com) and click **Add New Project**.
-2. Select this GitHub repository.
-3. In Build & Output Settings:
-   - Output Directory: `public` (pre-configured in `vercel.json`).
-4. Click **Deploy**. Vercel will automatically redeploy on every hourly commit pushed by GitHub Actions.
+### 2. GitHub CLI (`gh`) Setup
+To enable automated Git pushes to GitHub:
+```bash
+# If not authenticated, login via gh
+gh auth login
 
-### 3. Local Machine / Remote Linux VPS Setup
-To run the sync locally or on a personal VPS:
+# Configure git to use gh authentication credentials automatically
+gh auth setup-git
+```
+
+### 3. Automated Scheduling via Systemd Timer (Recommended)
+Systemd timers are superior to cron on Linux servers because they isolate resources, handle missed triggers across reboots, and log directly to `journalctl`.
 
 ```bash
-# Clone the repository
-git clone https://github.com/<your-username>/resilient-news-aggregator.git
-cd resilient-news-aggregator
+# Copy systemd unit files
+sudo cp /home/ubuntu/resilient-news-aggregator/systemd/news-aggregator.* /etc/systemd/system/
 
-# Run immediately
-python3 aggregator.py
+# Reload systemd and enable timer
+sudo systemctl daemon-reload
+sudo systemctl enable --now news-aggregator.timer
 
-# Add to crontab for hourly updates
+# Check status and upcoming triggers
+systemctl list-timers news-aggregator.timer
+sudo systemctl status news-aggregator.timer
+```
+
+### 4. Alternative Scheduling via Crontab
+If systemd is not desired, add this entry to crontab:
+```bash
 crontab -e
-# Add the following line:
-0 * * * * /home/ubuntu/resilient-news-aggregator/run_local.sh >> /var/log/news_sync.log 2>&1
+# Add:
+*/30 * * * * /home/ubuntu/resilient-news-aggregator/run_local.sh >> /home/ubuntu/resilient-news-aggregator/cron.log 2>&1
 ```
 
 ---
 
-## 📱 How to Access News During Network Blackouts
+## 📱 Accessing News & Media During Internet Blackouts
 
-### 1. Minimal Bandwidth Raw Markdown (Fastest)
-Open directly in any mobile or desktop browser:
-```text
-https://raw.githubusercontent.com/<user>/<repo>/main/news/latest.md
-```
-Or stream in your terminal:
-```bash
-curl -sL https://raw.githubusercontent.com/<user>/<repo>/main/news/latest.md | less
-```
-
-### 2. Machine-Readable JSON for Scripts & Bots
-```bash
-curl -sL https://raw.githubusercontent.com/<user>/<repo>/main/public/latest.json | jq .
-```
-
-### 3. Git-Over-SSH (Bypassing TLS Middleboxes)
-If HTTPS ports (443) are subject to aggressive DPI throttling:
-```bash
-git pull origin main
-```
-Git fetches compressed zlib packfiles over SSH (port 22), evading TLS SNI middleboxes.
-
-### 4. Offline Obsidian / Markdown Reader
-Clone this repository directly into an **Obsidian** vault. Even if you only get a 5-second window of connectivity per day, a single `git pull` downloads all missed hourly bulletins into your local searchable notes.
-
----
-
-## 🛡️ Deep Resilience Technical Analysis
-
-For an in-depth technical analysis of:
-- Why `github.com` and `raw.githubusercontent.com` survive Iranian national intranet (NIN) whitelisting,
-- The domestic tech ecosystem dependency shield (Snapp, Digikala, Divar, npm, pip, go get),
-- Fastly Anycast and Vercel edge IP distribution,
-- Layer 7 SNI inspection vs Layer 3/4 border gateway drops,
-
-👉 **Read the full whitepaper:** [`BLACKOUT_RESILIENCE.md`](BLACKOUT_RESILIENCE.md).
+1. **Lightweight Markdown (< 20 KB):** Direct raw fetch from GitHub CDN:
+   ```bash
+   curl -sL https://raw.githubusercontent.com/<user>/<repo>/main/news/latest.md | less
+   ```
+2. **Local Media Images:** Downloaded directly in `media/YYYY-MM-DD/`, fully viewable offline.
+3. **Low-Bandwidth Git Sync:** Running `git pull origin main` retrieves both text updates and media packfiles even on throttled 32 kbps networks.
