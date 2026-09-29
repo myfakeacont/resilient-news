@@ -188,6 +188,12 @@ func main() {
 
 	for i := range allFetched {
 		item := &allFetched[i]
+		relPath := fmt.Sprintf("articles/%s/%s.md", dateFolder, item.Hash)
+		fullPath := filepath.Join(baseDir, relPath)
+		if _, err := os.Stat(fullPath); err == nil {
+			item.ArticleRelPath = relPath
+		}
+
 		if !seenMap[item.Hash] {
 			seenMap[item.Hash] = true
 			newHashes = append(newHashes, item.Hash)
@@ -655,7 +661,13 @@ func generateDigestMarkdown(nowUTC time.Time, timeStrTehran string, items []Arti
 	for _, it := range rssItems[:min(len(rssItems), 15)] {
 		sb.WriteString(fmt.Sprintf("### [%s](%s) — `%s`\n", it.Title, it.Link, it.SourceNameFa))
 		if it.ArticleRelPath != "" {
-			sb.WriteString(fmt.Sprintf("📖 **[مطالعه متن کامل مقاله به‌صورت آفلاین](%s)**\n\n", it.ArticleRelPath))
+			linkPath := it.ArticleRelPath
+			if isInterval {
+				linkPath = "../../" + it.ArticleRelPath
+			} else {
+				linkPath = "../" + it.ArticleRelPath
+			}
+			sb.WriteString(fmt.Sprintf("📖 **[مطالعه متن کامل مقاله به‌صورت آفلاین](%s)**\n\n", linkPath))
 		}
 		sb.WriteString(fmt.Sprintf("> %s\n\n---\n\n", it.Summary))
 	}
