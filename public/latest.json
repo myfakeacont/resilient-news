@@ -1,24 +1,75 @@
 {
-  "generated_at_utc": "2026-09-29T17:43:57.801280+00:00",
-  "generated_at_tehran": "2026-09-29T21:13:57.801280+03:30",
+  "generated_at_utc": "2026-09-29T18:00:40.355782+00:00",
+  "generated_at_tehran": "2026-09-29T21:30:40.355782+03:30",
   "article_count": 100,
   "articles": [
     {
       "hash": "19379a82e445b8f8",
-      "title": "قیمت دلار در بازار آزاد ایران از ۲۵۰ هزار تومان گذشت",
+      "title": "رضایی: شروط‌ ایران گفته شده اما ترامپ قادر به تصمیم‌گیری نیست",
       "link": "https://www.bbc.co.uk/persian/live/cq0lrdlp2lgnt?at_medium=RSS&at_campaign=rss",
-      "summary": "نرخ دلار در معاملات امروز بازار آزاد ایران با ثبت یک رکورد تازه از ۲۵۰ هزار تومان گذشت. در همین حال محمدباقر قالیباف به آمریکا و «سایر کشورها» هشدار داد «در منطقه‌ای که ما نفت نفروشیم، کسی نفت نخواهد فروخت و اگر امنیت ما تامین نشود، هیچ زیرساختی ایمن نخواهد بود.» دونالد ترامپ گزارش‌ها درباره پیشنهاد لغو تحریم‌ها و آزادسازی دارایی‌های ایران را جعلی خواند و گفت هیچ پیشنهادی به ایران نداده است.",
+      "summary": "دبیر شورای‌عالی امنیت ملی ایران گفته است که تهران شروط خود را به آمریکا اطلاع داده است اما دونالد ترامپ «قادر به تصمیم‌گیری نیست.» محسن رضایی گفته است که رئیس‌جمهور آمریکا «نه می‌تواند مذاکره کند و نه می‌تواند بجنگد.» نرخ دلار در معاملات امروز بازار آزاد ایران با ثبت یک رکورد تازه از ۲۵۰ هزار تومان گذشت. محمدباقر قالیباف هم هشدار داد «در منطقه‌ای که ما نفت نفروشیم، کسی نفت نخواهد فروخت.»",
       "source_id": "bbc_persian",
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-09-29T17:43:59.586073+00:00",
-      "published_epoch": 1790703839,
+      "published_at": "2026-09-29T18:00:42.368049+00:00",
+      "published_epoch": 1790704842,
       "rtl": true,
       "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a951/live/2648fb80-bbe8-11f1-bd21-bdf910f2cec6.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf1/live/ed112f80-bc2e-11f1-bd53-1b67dc8fba34.jpg"
       ],
-      "local_media_path": "media/2026-09-29/c482bcb2e472640b.jpg"
+      "local_media_path": null
+    },
+    {
+      "hash": "61916ddfa75961b1",
+      "title": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر جاویدنام پرنیان دبیری با خودداری از ذکر نام یک مسئول حکومتی، خطاب ...",
+      "link": "https://t.me/IranintlTV/359866",
+      "summary": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر جاویدنام پرنیان دبیری با خودداری از ذکر نام یک مسئول حکومتی، خطاب به او گفت: «آیا از اتفاقات ۱۸ و ۱۹ دی درکی دارید که مدرکی از شما بخواهیم؟»\n\nاین مادر دادخواه افزود: «همه آدمهای بیشعور مسئولیت کار خود را بر گردن دیگران می‌اندازند.»\n\nپرنیان دبیری ۱۹ دی ۱۴۰۴ همراه پدر و مادرش در خیابان بود و از پشت سر با گلوله جنگی سرکوبگران هدف گرفته شد.\n\nپزشکیان در گفت‌وگو با فاکس‌نیوز و سخنرانی در مجمع عمومی سازمان ملل گفته بود معترضان دی‌ماه از سوی آمریکا و اسرائیل آموزش دیده و مسلح شده بودند.",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-09-29T18:00:19+00:00",
+      "published_epoch": 1790704819,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/HhAt7Z9I2gXt2koIC_lOjzSa0ObzMnkluzBQk4bXdZQjJEw9Q1R1pXHkAHPsaVjGU8woBvOvOboKW1yRdQ_Pyzosci96796AChMkvmwoGtZ4UugVHw_S8uItdxy1QHpgARXgTD4o7J-2Mr3BUJo8Zd5CWmnQWltuQibKPmqZSkGJFZOILgF8FW3HAM2cCEGqZZP05hH47bvMz2J9YLEe-k3hOYSe696WE_592GCtQqOBS-kgqEi7dMqIwOg6v1QwesoIvsL3FJyDczDC11DrpZiGRZ8fvd1NoK4Cunq8o0W2-r1Nn3rsB4lg3PxLzzqdyIrdr3Dx6-1XVZV2wJv-LA"
+      ],
+      "local_media_path": "media/2026-09-29/649e92f2fdd5a18b.jpg"
+    },
+    {
+      "hash": "10553e3ba552e7aa",
+      "title": "وزارت خزانه‌داری آمریکا شبکه‌های تأمین تجهیزات نظامی ایران را هدف قرار داد",
+      "link": "https://www.radiofarda.com/a/operation-economic-outcast-takes-down-iranian-military-procurement-networks/33866695.html",
+      "summary": "وزارت خزانه‌داری آمریکا می‌گوید «سید اصغر علیزاده طباطبایی»، نماینده وزارت دفاع ایران در پکن، را نیز تحریم کرده است.",
+      "source_id": "radio_farda",
+      "source_name": "Radio Farda",
+      "source_name_fa": "رادیو فردا",
+      "category": "persian",
+      "published_at": "2026-09-29T17:51:43+00:00",
+      "published_epoch": 1790704303,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://gdb.rferl.org/0cfca489-10c5-4220-c391-08debadc7311_w800_h450.jpg"
+      ],
+      "local_media_path": "media/2026-09-29/5fa1113bc9113b5a.jpg"
+    },
+    {
+      "hash": "1951ed45a12788b1",
+      "title": "وزارت خزانه‌داری آمریکا اعلام کرد در چارچوب عملیات «طرد اقتصادی»، ۱۰ فرد و نهاد را در کشورهای مختلف به‌دلیل مشارکت در تا...",
+      "link": "https://t.me/IranintlTV/359865",
+      "summary": "وزارت خزانه‌داری آمریکا اعلام کرد در چارچوب عملیات «طرد اقتصادی»، ۱۰ فرد و نهاد را در کشورهای مختلف به‌دلیل مشارکت در تامین تسلیحات و قطعات برای وزارت دفاع جمهوری اسلامی تحریم کرده است.\nاسکات بسنت گفت وزارت خزانه‌داری هیچ‌گونه حمایتی از این حکومت را تحمل نخواهد کرد و به شناسایی، افشا و منزوی کردن حامیان جمهوری اسلامی ادامه خواهد داد.\nوزارت خزانه‌داری آمریکا افزود تحریم‌های جدید توانایی حکومت ایران را برای بازسازی برنامه‌های تسلیحاتی خود بیش از پیش تضعیف می‌کند و هزینه همکاری با تهران در زمینه تامین تجهیزات نظامی را افزایش می‌دهد.\nافراد تحریم‌شده شامل اصغر علی‌زاده طباطبایی، نماینده وزارت دفاع در پکن، علی فتوت احمدی، مدیر شرکت «کاوش‌کام»، لی فن، نماینده شرکت «ای‌سی موجو» در چین، پریسا لالی، نماینده «کاوش‌کام» و وسیم پاشا تجمل، رییس گروه «کاوالیر»، هستند.\nوزارت خزانه‌داری آمریکا همچنین پنج شرکت مستقر در ایران، هنگ‌کنگ، پاکستان، عربستان سعودی و ترکیه را در فهرست تحریم‌های جدید قرار داد.\nاین شرکت‌ها شامل کاوش‌کام در ایران، ای‌سی موجو در هنگ‌کنگ و سه شرکت وابسته به گروه کاوالیر در پاکستان، عربستان و ترکیه هستند.",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-09-29T17:51:27+00:00",
+      "published_epoch": 1790704287,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/d7jpc0gln58e7zmPpHSVvAZHT5DhoLAKXuok9RzmKY8GdqPFeDnwLze1IU8xeOpHLVeFVuUuFqk3uCs2PhngSTz4R2YYlMBPmPN8oQTFh-1HMCGQ-RN_aplnYc1PIiYT5kqOr5-YYZDN2BnPswP0zQVw0sHcmZXGAedyGZzjNoqqysS_oKg6G7O367NCscyvtV5vwzxXH7tmak5eVP1be9HMDlafSgK84v8ll5fRmTDSbsRicGq4SsQcupnVojGb3F_n0fuH4jAiRkPhhFgOVo0ioUO84Exm5QewGX5kFxsAxBAVlZhlMs16zHBEQNafi_FUM_ehB1kEJVSeo0cTvw.jpg"
+      ],
+      "local_media_path": "media/2026-09-29/2e4fdf67fed2bc08.jpg"
     },
     {
       "hash": "59b79e8d30bdd87a",
@@ -35,7 +86,39 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/PpDgQU_aagNd2Fy4jOTLLX6FWXvWgqRt-OtlNaDBfY4hfUrahw1BK5ehzdXMQImOWugBgSIxMAB2lwGyRF9y5gRKEcsX9ihU9FlfIdsnFmDiNQ2jwC4ZLLiCF0C026MK71nLjd4L1eVQzZ91x9pQ5cRtbvJHudhb-HHAzUUSxU-QTM_RFjHMmRhC_pqvS_aM8zmFzWNMM4pQw2JFPLeJyeOoVGaPHPgYHxe4nVPDwsA3bZ_MeO_rGGOYt8hmIBAlMyjq96LvXlnoF5AqNl6LVb3spIp17-jbGZLNlbF5hThqHfFcO6JmGrGQ48VewcxJU0RHZLMVDLkd8PPpnHAPHA.jpg"
       ],
-      "local_media_path": "media/2026-09-29/9af7d486e46af3be.jpg"
+      "local_media_path": null
+    },
+    {
+      "hash": "64490ccdad7b2899",
+      "title": "Man City found guilty of all charges of financial rule breaches, Premier League confirms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0QzWWRSUWRHcU1jbzctM0hpVXc3UW1NbEFMejJWRHJhZmFMdmFZY3MwZ2Y2elluREM5ekd1RHF4SlFXemZKNHZUb2VTLXM4bFFJQWxPcURGVWxidk9ORmlaRGF0T0tURi1CQTV6QlZQU2lQM2kxVll4eUQxS2NGMm9tWENmcWcxTDVMcEE1ajVKa2ZrNUdBMUkyVTMySzN3aUlRbkR0OVpxZ3lwRzZTR095WDhCMzVRcmJzSHhRQk5CQmpnQlJsX253?oc=5",
+      "summary": "Man City found guilty of all charges of financial rule breaches, Premier League confirms    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-09-29T17:39:20+00:00",
+      "published_epoch": 1790703560,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "3cd533796b024ea5",
+      "title": "با وجود افزایش چشمگیر عبور نفت از تنگه هرمز، قیمت نفت مهار نشده است",
+      "link": "https://www.iranintl.com/202609295526",
+      "summary": "فایننشال‌تایمز با بررسی داده‌های بازار کالا و حمل‌ونقل دریایی گزارش داد صادرات نفت خاورمیانه، با وجود حملات پراکنده سپاه به کشتی‌های تجاری در تنگه هرمز به بالاترین سطح از آغاز جنگ ایران در نهم اسفند ۱۴۰۴ رسیده است اما این افزایش هنوز قیمت نفت را مهار نکرده است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-09-29T17:35:46+00:00",
+      "published_epoch": 1790703346,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/7333bde554ca6aad504aea9dcc07166a4d93902d-960x540.jpg?rect=0,19,960,502&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-09-29/be6f699fd49e1031.jpg"
     },
     {
       "hash": "bd2510cddab3b311",
@@ -49,21 +132,6 @@
       "published_at": "2026-09-29T17:32:29+00:00",
       "published_epoch": 1790703149,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "46723a55b52ae2ad",
-      "title": "ChatGPT Pro 500",
-      "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-      "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers \n Comments URL: https://news.ycombinator.com/item?id=49896975 \n Points: 42 \n # Comments: 21",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T17:26:27+00:00",
-      "published_epoch": 1790702787,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -82,7 +150,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/F8rHwBI1DBX1GEibPKxyS9hrD1QcFlJI8sCv3Gx2tXRN-vNEU9HZR0LVC1ehRMHsqPu8KAhRsqJ1SHuu0oWdlZSYxvSc1r3Lm4P5nz1ScohqXa0ushKwRoOJ---WWCOaKsTi_JlPpVx6W9-4zbJcR-UQ8AntJm0yV2T7ZznZYvYAbDhA0C71l7brKz77Ol6xzEPqrmB96Aa7XBwaOw1veK2CiFOZC7ym66YsEZHOQIdHK2i7ohXao6uJjr_dtAfhTba49WpaDnAPLoQyNj8XrcsHqSBHEFmYzX77R8dzLycfiX5P-ptO4CeBRuHwDiUSWcT5cRZfSn_wUO0NhlnCfg.jpg"
       ],
-      "local_media_path": "media/2026-09-29/667ca9998c74abd9.jpg"
+      "local_media_path": null
     },
     {
       "hash": "7e7a08aab1443353",
@@ -96,6 +164,21 @@
       "published_at": "2026-09-29T17:22:58+00:00",
       "published_epoch": 1790702578,
       "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "42cb825ede90faf9",
+      "title": "کولبری؛ چاره تحریم یا مرز معاش و مرگ",
+      "link": "https://www.dw.com/fa-ir/کولبری؛-چاره-تحریم-یا-مرز-معاش-و-مرگ/a-79478238?maca=per-rss-per-all-1491-xml-mrss",
+      "summary": "به گزارش سازمان تجارت توسعه تجارت، کولبری به مسیر ورود کالا تبدیل می‌شود؛ کولبران اما همچنان با فقر، خطر مرگ و نبود شغل پایدار روبه‌رو هستند.",
+      "source_id": "dw_persian",
+      "source_name": "DW Persian",
+      "source_name_fa": "دویچه‌وله فارسی",
+      "category": "persian",
+      "published_at": "2026-09-29T17:22:00+00:00",
+      "published_epoch": 1790702520,
+      "rtl": true,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -114,7 +197,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/6daa4356679ca26c5cd71d9ad14804ef712f8361-1440x1920.jpg?rect=0,341,1440,754&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-09-29/3d900f665cc6d0bb.jpg"
+      "local_media_path": null
     },
     {
       "hash": "9ee9ef4dd766a1bb",
@@ -131,21 +214,6 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/UMkC-5VeQQFnB4RylWj9q1z2K4jjb5-WqrkzK704d_36pn32pgqEpGZMkjpyxLOzzz8J6lYelxxLxJ8UEi__ilcke-qEvDMl-8oQgOU0QD2qEZSgSdCPe4N3JCNR-IJsHpcMuU7USJx7krCjOHv_yJCdja0RL-yM5HEZj_Tv-ZQ5jYyjs2H-soPUstkJX8pMJ_hxWaHd-hRQSZbQmjhXmbuciAQcuXTU6xioIYEEg4siMk3tsGXociFqrrRw0rnbQ9CneX7arGCcpsLd5cLhro07eTqQ2vvx4nTRh-aX2fxna5qWXDKln64mTSUOO9HUEr1Fc3R8sSyBSfO5sNxICA"
       ],
-      "local_media_path": "media/2026-09-29/50e91f5a549d2fdb.jpg"
-    },
-    {
-      "hash": "9989b4a69cf98c4d",
-      "title": "Tcl/Tk 9.1 Released",
-      "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html \n Comments URL: https://news.ycombinator.com/item?id=49896712 \n Points: 21 \n # Comments: 2",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T17:13:38+00:00",
-      "published_epoch": 1790702018,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -163,36 +231,6 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/NMkf1Yn3Dt_WSNACtItDHEW7QxeCprwogB4J00HcFVs1zi3GggVFOWzXPcvLem_WdWac67SU6YLMEbH3XAZEYWEH0tuE_qa77xd5kZ9i6nuVwICCK5Rj0go0hyza2aO_DUT1aThT96xcRAVMFGcBsaAMtt0SGgNWQLVbg5C8r9C1kyD66NqgyO0s_JYM97wspZuY5qLNkVQZGuDiaSRYrXJEE_JUWwzOGVAVAuHOmJ314lnVja65s0jLy6X1SipTFFjScpCK48dAXEWjUrx1OMzBh_cnPqCeunN-oK7CXQ9JssYwSOdOynesySYypcFV8wcr7RDzK5pjtux7Ip-ksw"
       ],
-      "local_media_path": "media/2026-09-29/18a511216eaf0765.jpg"
-    },
-    {
-      "hash": "f9bc2ffb70719411",
-      "title": "Dots",
-      "link": "https://openai.com/index/introducing-dots/",
-      "summary": "Article URL: https://openai.com/index/introducing-dots/ \n Comments URL: https://news.ycombinator.com/item?id=49896604 \n Points: 135 \n # Comments: 70",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T17:07:57+00:00",
-      "published_epoch": 1790701677,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "c3c777ce0e6321bc",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap/",
-      "summary": "Article URL: https://openai.com/index/devday-2026-recap/ \n Comments URL: https://news.ycombinator.com/item?id=49896600 \n Points: 12 \n # Comments: 1",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T17:07:45+00:00",
-      "published_epoch": 1790701665,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -210,7 +248,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/pWVb9O0Oj5rzvQ6RKV78F_dvLMGIyvbuAO6n5mgYqfIn6zLWqUEuhLEdqV1CoE8IE4YbJdU1JTipleXJCJWvVTYOEiZXZVtAhgD_UHqXwP0qpPCf4_Dugv2QbZutgfndbvuJZu97uT3DiZ8rWIa-7YPpBVEUTC7vSYlJcR9Iakcqo5doNe58DYJyHOTva_Q0bubtaa5HlUvu7WLV9se5ZmwaaA8E_ycnJ3JgxAFDL1IRZO5r0r0fO_FsbTFLmAI-RbeYBNVO0OqTNtYME4oRRbSZJC0Xem6_ObKGooMmdV_bvVfCvc2hbOuaUGqbK3fbyFFhfPGIPsqn7EsDliQSPg"
       ],
-      "local_media_path": "media/2026-09-29/0f645e2c0ccdb7d7.jpg"
+      "local_media_path": null
     },
     {
       "hash": "0c5c080ca21d9254",
@@ -227,21 +265,6 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/SBn4z-0rg1eSTsdHNAkbgc5xB-M6LegpO3kAhWNT-2f0nwanmIUSa_g_Kcr7X9SPZHQiehg6tn6mY3T8vCB7JdpDFkVUNn_G5NGFuC7noEzkkB6SSTYoiMxDrYUs2-xhXCqpQ-AzzcpgWTiM3Dcsp9KssksnU_Cv0UYZ-P8GgMuwhX6hkxr_jmz97uJG0wV41QkUINB5Hk77tWF61T-CdlNfVaZh_0D9K161QfLccMxDy6mvnvGuPi_K1RNrXnqlHqChupD_gHrPSwTQBYPiGQ5cxS_UtXfGZ0dpZzJIYkVOyFiG4u9wpG_xbimf3KYzfxJZ4roYaiPA7iF4R1BVlQ.jpg"
       ],
-      "local_media_path": "media/2026-09-29/5fe50a03efb18e72.jpg"
-    },
-    {
-      "hash": "27064b9d25522de2",
-      "title": "GPT 6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ \n Comments URL: https://news.ycombinator.com/item?id=49896586 \n Points: 226 \n # Comments: 151",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T17:06:45+00:00",
-      "published_epoch": 1790701605,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -259,7 +282,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/oK73wq-7YmKubv-KUuHyV-lP7za-JG_Ho5XwZrrM71nRmXYjiTWYEuCcrNVJnh6aDOmDocpN3fmzyYwOosshiW8ETLjiRnGj2mfQP3WYDIewm8mlGqXF6RUR38YexQ12bIQaI8kMCkym1A3993e3UlPuynmuMqwDMRJaC-cs_XyK8thNXZJVGOU767MVhVhrvxz4QkcFHw7IFresQVXp4NFhl21lYhKVJle0SpmbIwmVU32utS4af579CpsMZ3m1K70GS7DtizfRfWb667PBWEV-ghuCm2gsu6Or5YejhPFLDxp1H3_oQ8LfCllEjxuTVHRCsMxUtqBXLAyZRmEdOA"
       ],
-      "local_media_path": "media/2026-09-29/7d0ae2c4ebb01b7d.jpg"
+      "local_media_path": null
     },
     {
       "hash": "c20218cdfd28baff",
@@ -276,7 +299,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/jbUQLctiaDuw71DeZUtucyLsFOTTTmb0lCQTn9KRjk4K7QlLNfFHNfsxUK4XtfPH4JLOQ2dUFeJWEnINlms0E7DeT9K6uP9JuR3zgXjGkN8Ei_Zb56GPzlNC4H11oL3T-gmQWQfzlzaRAic5BTNotraH80eo_nIvdty7LuqZ1MbfNHBOxx5W7GfigebKS8amu9PwyShB0LyDf6nUPqAmEahSaSizOeBc6k4XLP7FxsEUBWAgkLkP9zJ2ZjXteNdqUJtI9o8Ug1NvszKr15_DuAOG1cB4gJuE8l7FJUKJluqvincTWrt2qo2a_go5UfQM7716Fvz92GgrFs5BsfST3A.jpg"
       ],
-      "local_media_path": "media/2026-09-29/54a4bd6b16f4d613.jpg"
+      "local_media_path": null
     },
     {
       "hash": "cfb93d73985faf32",
@@ -293,7 +316,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/4148709eb7e9259dc266ea2b3c272b0e4a65fba7-1920x1080.png?rect=0,38,1920,1005&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-09-29/473e87837b33de6c.jpg"
+      "local_media_path": null
     },
     {
       "hash": "80586c03e015b12f",
@@ -310,7 +333,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/apD2ub36-FUiA6OXHiJ0SudiZzaLz66pPGOCQM4Lja-p8HRtKW7Fa4AHQgqEDyF9-hAKVJknS6lt6Ed6xwIKWsAvPb8ZX-4vwlYiHvV9qPvixvIt0DYvfu0deu8-7CAwjqc6qtfOlILZu_bKQIm70igpZ259aW58ODjuX7ugVk8LMrT_RSd6HqwdNc4lOgv21AtWkIej2aEmpxZzA1L8XPTPsErQ85Y7K8MNGO8DE6xuPaTCTEdtFm9shRegO9VBFIJueBY92fRL_Ynk_kOv0edtF1957PyzsZ76Rm-n-xOvlhBlHOkyq-OdGjjtUarQzQPq3Np6dQ684Cvy7GBFag.jpg"
       ],
-      "local_media_path": "media/2026-09-29/bfa49f5f1331934d.jpg"
+      "local_media_path": null
     },
     {
       "hash": "e943d100619e5254",
@@ -327,7 +350,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/324d2e7915a2c0f02fe1eff71a5ea4136f6e45dc-5506x3620.jpg?rect=0,370,5506,2881&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-09-29/6fad7cfe179ee1c8.jpg"
+      "local_media_path": null
     },
     {
       "hash": "6b5fc7ab169cc248",
@@ -411,50 +434,16 @@
       "local_media_path": null
     },
     {
-      "hash": "b54d4b619c9d3aed",
-      "title": "محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، سه‌شنبه هفتم مهر در سخنانی گفت در جنگ راهبرد نظامی «از پدافند به آفند» عملیات...",
-      "link": "https://t.me/IranintlTV/359855",
-      "summary": "محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، سه‌شنبه هفتم مهر در سخنانی گفت در جنگ راهبرد نظامی «از پدافند به آفند» عملیاتی شده است و این در واقع نوعی جنگ پیش‌دستانه محسوب می‌شود.\n\nسخنگوی ارتش افزود: «قبل از اینکه دشمن دست به تعرضی بزند، مورد هدف قرار گرفته و در آینده نیز به همین شکل خواهد بود.»\n\nاکرمی‌نیا اضافه کرد: «اگر به این نتیجه برسیم که دشمن حمله قریب‌الوقوعی خواهد داشت، ما حتما جنگ پیش‌دستانه یا عملیات پیش‌دستانه انجام خواهیم داد.»\n https://iranintl.com/202609292141",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-09-29T16:35:07+00:00",
-      "published_epoch": 1790699707,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/Rg1Qundl0cN3GzKdhDCahds4M5KtkAgDPjnm-WMpAN4Z0aLKfzxUQJDWrX0hIJVP1iDcL4Khb_YmcHXAixgZ4dDdnXMeGh0WokRC7QGGEJLKz4Xv0_uKneSVhWJMTBz3qUfLqemLDGOiK6I0f6gDMxtMIAs5NH4MwepIbcTnEvjvBsrFVybD1Ki4VVeGUxTgiAkSfDBvUE1TUlsnbnVkIfyNSeBr2QQxxj8n7VuApriT5OPFTgomEh7IJiRQ76ezvVPkmtEaW2Kp6shdWyk2N7lqdvYcu3wC78fEA4zZSxr-e7QggSixva_Tgx08A0CY9Jy9B5vh-_SvfyRbByO4bA.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "1c501142a0ca9b91",
-      "title": "ویدیوی منتشرشده در رسانه‌های اجتماعی دیده شدن یک پلنگ ایرانی را در کجور استان مازندران نشان می‌دهد.",
-      "link": "https://t.me/IranintlTV/359854",
-      "summary": "ویدیوی منتشرشده در رسانه‌های اجتماعی دیده شدن یک پلنگ ایرانی را در کجور استان مازندران نشان می‌دهد.",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-09-29T16:32:52+00:00",
-      "published_epoch": 1790699572,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/co_YenCuTdVTYcZMf5V9gzUU6Z9EkEQAyU_r2qc7k1Z-MB9_73whiKLmeQvdQqSmye0zMihZ33tMF3CdwACDhsxn9luCI2PFNbR6WiDRUI2g0F2o2CcwNdzihnY8wsstWPFeoeVvnAIFc9N3Ona93r_wEhAcEqEBO2-wR7hYKOoCNtNtUfbYftTd-qlT9sv6BZlIuFxkOfi_8cjCfdczg6ApfZf8RhUmK5P0LTu6UzeLMv5MXoQl-qVZHpmMrM8L0LhcPovYEWTYxM5znIMpUECfW-YBZm-KE0iMTzG770r5dAvptRLb2carkVIyl-dJu_5QQloHCsMcATRUIEJ4AQ"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "eabee9e2ae6c4446",
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising \n Comments URL: https://news.ycombinator.com/item?id=49896050 \n Points: 135 \n # Comments: 90",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T16:30:48+00:00",
-      "published_epoch": 1790699448,
+      "hash": "2a8cfbfdee2500ec",
+      "title": "Russia to cut welfare, education funding in 2027 as war spending soars - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWUVoVnpYNzFMVk5lcmMxM1BfREoxTVhaTmcxU3ItcXZMRjVfU3FfSEtVZ0lTdmVTcmF2cDZyTkJWaGI1dHhzNnc2cU1PaktCaHc1WXJ6ZWswNVoteGp1ZDJfSHd2MFluTEI4WjJHNWRmRy1WV05Nd2U5c1JaNjZmZ2t4YlVoM2w4MXYyUkRZRHdYaTYyRE1vMk5vaUNNNmdpS1dNLVdmc2g?oc=5",
+      "summary": "Russia to cut welfare, education funding in 2027 as war spending soars    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-09-29T16:33:46+00:00",
+      "published_epoch": 1790699626,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -488,21 +477,6 @@
       "published_at": "2026-09-29T16:21:41+00:00",
       "published_epoch": 1790698901,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "b177b90c878e5ce5",
-      "title": "Apple's Ternus eyes engineering-led overhaul, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVS1iZU1pQXkzLXgxVDY2UVRGRUUtQTROZkFDbDFDZWgyalpCczN6U3F5Wm9rVmJqSlVQbVJGNkN2WVEwVEZEQ3VFWmlqNmpUSmZxSGtDU25LdUlVUWhXem9HYWI3V3N0c2wtRDVlSmpZVlVWWF9SMVAxbnMyYUY3ckFKakI1NnUtdk1JY1EyaTFFNTBUSUZmZU04S1ozNGlnYWh3cWpXQkpCdGI4ZFJrN09HS3FfODZjZGVDa3JzR20zRWs?oc=5",
-      "summary": "Apple's Ternus eyes engineering-led overhaul, Bloomberg News reports    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-09-29T16:17:53+00:00",
-      "published_epoch": 1790698673,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -550,6 +524,21 @@
       "published_at": "2026-09-29T16:10:32+00:00",
       "published_epoch": 1790698232,
       "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "d8cfaaeacefa536a",
+      "title": "Visa joins growing alarm over AI-powered risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRU5PVkVzbG1WV2hVMlBycDJnT2dXNFZVRkNmTzdlTGh6QXBla05FYWZsRDB5ZDljekx5aGF1ZkpFSEl4ZDdTcEpkT1ZUOGh6SkJOXzJRMkpBZkk1UzBXSmR2TmxKaEhaaHNmVGdXMHJnRjNMTG9zc2UtVTNXbnE3YW9TamJWQVd2UHlEUE1QVWpCd3NOdFE0ZmgySEpMdExv?oc=5",
+      "summary": "Visa joins growing alarm over AI-powered risks    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-09-29T16:10:16+00:00",
+      "published_epoch": 1790698216,
+      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -665,21 +654,6 @@
       "local_media_path": null
     },
     {
-      "hash": "06e4a74fda3ef264",
-      "title": "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmxnMEM4VmZvZUtSUTFlQWI0bWIyRFJmMEh4RTh5ck5obV85T2RMeTJoU1VLN3BwRkE4d3F4ZjNiaDN1RzNtVDczTGNPQnF0ZzIyUnNzSk40TnhaZXZNRmVyUUZ5cjZXUGtWR0puZHZSejFnQkthMHJfQkhxMEZVTWgxVTBQeUJxM3RlaXBKcXB4RDZIOFU3SExnR3lHcUN3dUdlUHhPZ25SN0xPMEJGcnc4d0d5VkwwUmxaMlQ0blZqcU0?oc=5",
-      "summary": "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-09-29T15:50:51+00:00",
-      "published_epoch": 1790697051,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "82ef594d7fa2a856",
       "title": "AMD ۸.۲ میلیارد دلار روی «مادرخوانده هوش مصنوعی» و دنیاهای مجازی‌اش سرمایه‌گذاری می‌کند",
       "link": "https://parsi.euronews.com/2026/09/29/nvidia-rival-amd-bets-82bn-on-the-godmother-of-ai-and-her-virtual-worlds",
@@ -705,6 +679,36 @@
       "category": "wire",
       "published_at": "2026-09-29T15:40:00+00:00",
       "published_epoch": 1790696400,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "b177b90c878e5ce5",
+      "title": "Apple plans engineering-focused overhaul under Ternus, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVS1iZU1pQXkzLXgxVDY2UVRGRUUtQTROZkFDbDFDZWgyalpCczN6U3F5Wm9rVmJqSlVQbVJGNkN2WVEwVEZEQ3VFWmlqNmpUSmZxSGtDU25LdUlVUWhXem9HYWI3V3N0c2wtRDVlSmpZVlVWWF9SMVAxbnMyYUY3ckFKakI1NnUtdk1JY1EyaTFFNTBUSUZmZU04S1ozNGlnYWh3cWpXQkpCdGI4ZFJrN09HS3FfODZjZGVDa3JzR20zRWs?oc=5",
+      "summary": "Apple plans engineering-focused overhaul under Ternus, Bloomberg News reports    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-09-29T15:38:10+00:00",
+      "published_epoch": 1790696290,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "b6db034cc46b69ca",
+      "title": "Czechs would be ready to respond to attack on Baltics, prime minister Babis says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkx0dUNjOS03NTVOOUliNnhGTEt4dnc2U0RfRklYa3NuU1d4MDVLdmlqUFJLREV4S1dNalJVWTRfbUJTN1FvcERuTG0xRWFqejBmaE82MTdDOGltYkxaLVcyd3kyYTNfVWNFeTFRc0FOZ3hIaWxCN3NSOXVESmY1VDhxMGQtMHJLdy1ZNkZlRFVPSDJUWGtSQ1VpSC1JNEVYWHFjTFBaeUtRMUtDbDZwYWV3?oc=5",
+      "summary": "Czechs would be ready to respond to attack on Baltics, prime minister Babis says    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-09-29T15:29:47+00:00",
+      "published_epoch": 1790695787,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -776,21 +780,6 @@
       "local_media_path": null
     },
     {
-      "hash": "1c25e8c81d39dedd",
-      "title": "Show HN: NSL – WSL for Linux",
-      "link": "https://frostyard.github.io/nsl/",
-      "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX. NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing...",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T14:51:36+00:00",
-      "published_epoch": 1790693496,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "23d77358e5071571",
       "title": "آمار رسمی؛ وابستگی محسوس بازار کار آلمان به مهاجران",
       "link": "https://www.dw.com/fa-ir/آمار-رسمی؛-وابستگی-محسوس-بازار-کار-آلمان-به-مهاجران/a-79476830?maca=per-rss-per-all-1491-xml-mrss",
@@ -855,21 +844,6 @@
       "local_media_path": null
     },
     {
-      "hash": "6104cdbf2d554b02",
-      "title": "macOS Golden Gate Is a Buggy Mess",
-      "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
-      "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/ \n Comments URL: https://news.ycombinator.com/item?id=49894005 \n Points: 328 \n # Comments: 233",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T14:32:33+00:00",
-      "published_epoch": 1790692353,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "f6f903c932db8b8b",
       "title": "سلام دوستان 🌹",
       "link": "https://t.me/Linuxor/5484",
@@ -896,21 +870,6 @@
       "published_at": "2026-09-29T14:14:00+00:00",
       "published_epoch": 1790691240,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "2df3bd1480693525",
-      "title": "Google ending ChromeOS support two years early",
-      "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
-      "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674 \n Comments URL: https://news.ycombinator.com/item?id=49893653 \n Points: 110 \n # Comments: 86",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T14:12:15+00:00",
-      "published_epoch": 1790691135,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -1060,21 +1019,6 @@
       "local_media_path": null
     },
     {
-      "hash": "94ae486eed311d21",
-      "title": "AT&T signs over $3 billion fiber deal with Corning as data demand surges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTFBWVFQaDBka0NCQzJEb3Q1STFOQy1pSDFYTVhBaWt5Y3NGa0xiUGpYNDlES0xFdFN5S2ZBa3l2WFgxc2NxQk5DUkZaSFdVSGpDZkx5a0Jqc24tMGkxRURkSURrZGRnNVRZdjhkM3NhY3FiOFVvc2tVUnpWWXJXTTd1dzFac3NObDE4TWQ2RVpvZ0Q4VVFJVlBtRDFlMjdkX1lXal9fVF9TUF95bXg5RjdUNGpFdk1rRV9WQWNVUGFiTFdx?oc=5",
-      "summary": "AT&T signs over $3 billion fiber deal with Corning as data demand surges    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-09-29T13:31:29+00:00",
-      "published_epoch": 1790688689,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "5834af8ac94e31f3",
       "title": "فشار بر حزب چپ آلمان؛ تهدید به قطع حمایت مالی از برلین",
       "link": "https://www.dw.com/fa-ir/فشار-بر-حزب-چپ-آلمان؛-تهدید-به-قطع-حمایت-مالی-از-برلین/a-79474731?maca=per-rss-per-all-1491-xml-mrss",
@@ -1107,21 +1051,6 @@
       "local_media_path": null
     },
     {
-      "hash": "3fab9e17d464ec5e",
-      "title": "China opens rare joint military support centre in Laos - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWF6MFFMYXZfSUVHb2h1NlIxcHB4ckJ1dWZXcGNOdzc2OG1tSXZLMlR5MkZPUGRQbHhhTlpnX2U0YjNtelgzMWt1aEdZcVEtcFVwYVI3TEFhck9ZeDZDbnpmUExlMHFvWG1Jb0ZHRW5EMk9fYzNZSTBHUXNHRmd6d2ZPamZrTkNrNVlIcG1Ebk44cHRWSnBFajVLOXo2V2xjSFdKRkJfUF9IQQ?oc=5",
-      "summary": "China opens rare joint military support centre in Laos    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-09-29T13:12:02+00:00",
-      "published_epoch": 1790687522,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "14aaf9a039d73b33",
       "title": "یک دانش‌آموز: پول خرید شلوار فرم مدرسه را نداشتم، سر کلاس راهم ندادند",
       "link": "https://www.iranintl.com/202609294988",
@@ -1136,6 +1065,21 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/43dd26967f45d0ef1f4016de139a2241d8c09180-1280x720.jpg?rect=0,25,1280,670&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
+      "local_media_path": null
+    },
+    {
+      "hash": "a1b34f3a1f98f71b",
+      "title": "Thailand's government approves emergency funding after deadly floods that impacted millions - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG5JUnRUdElQRno3S2RXNUFQN3JSU0NIUVAybnZ3Rk56eHJDQlJoNXczbXpUVElCX05PUm4zenVDSnVIMjhwWTFpeDJfTFp1OFdSZE5vUUlYeHFhUWpKVmxNb1hQR3pxUDhaTDR0QUZFSDFSbkhRb1FLME9UdmM0NnM5YmNjdWZHVzdPSEJURzQ2LWlwN1JTTjlCMzVucUZDZHZXOQ?oc=5",
+      "summary": "Thailand's government approves emergency funding after deadly floods that impacted millions    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-09-29T13:08:00+00:00",
+      "published_epoch": 1790687280,
+      "rtl": false,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -1188,38 +1132,6 @@
       "local_media_path": null
     },
     {
-      "hash": "9f7ad2b3f4c32a7c",
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss \n Comments URL: https://news.ycombinator.com/item?id=49892245 \n Points: 311 \n # Comments: 185",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T12:43:29+00:00",
-      "published_epoch": 1790685809,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "57e9743a63d6f433",
-      "title": "حکومت اموال خانواده برخی جاویدنام‌ها را مسدود و مصادره کرده است",
-      "link": "https://www.iranintl.com/202609295779",
-      "summary": "اطلاعات رسیده به ایران اینترنشنال حاکی از افزایش فشارهای حکومت به خانواده برخی جاویدنامان با مسدودسازی و مصادره اموال شخصی آن‌هاست.\nبه گفته یک منبع آگاه،‌ در دست‌کم یک مورد سیم‌کارت اعضای خانواده یک جاویدنام در تهران مسدود شده است.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-09-29T12:43:18+00:00",
-      "published_epoch": 1790685798,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/62a62d92e2537753eaaed0ee6a5d1084f4249971-1274x1235.png?rect=136,393,1138,596&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
       "hash": "f13c379d447eafd2",
       "title": "این مدل، Qwen Image 2.1 به‌صورت Native و بدون استفاده از LoRA می‌تونه اشیا رو داخل یه تصویر به‌صورت کاملاً یکپارچه جابه‌...",
       "link": "https://t.me/Linuxor/5483",
@@ -1251,21 +1163,6 @@
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eca9/live/a3b62b10-bc01-11f1-bd21-bdf910f2cec6.jpg"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "b09f1b38959f2234",
-      "title": "China unveils rate cut, mortgage subsidies to spur growth - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGZMSndvRHFuSzN1ZnJCbHNuYmlzalpvVTc3Y3JTU3lCYjc4X1I1VHdnVmQzUUV4M2JwSEdvMGF3TnFFTVp1NHFaTkJ3a01XY1lSWTNkaVRhZHBDajZkN1VZOGEyN3lsT3JiV1BibE9wSG5taEZPUjVLR0djeTJGcGtORWYtd1FZaUZMQ215RkhLekVDUkJ1U3BEQ3BmTWc5TF9ubUZoNXNWRGFa?oc=5",
-      "summary": "China unveils rate cut, mortgage subsidies to spur growth    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-09-29T12:27:16+00:00",
-      "published_epoch": 1790684836,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -1602,6 +1499,115 @@
       "published_at": "2026-09-29T04:10:01+00:00",
       "published_epoch": 1790655001,
       "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "7fdc0a67c94bbe4e",
+      "title": "Senate passes college sports bill that would rein in athlete payments and transfers - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWl1WGdfaDlGZi1ucEtoWWxwdmNEQ0NyQ0VYOC12d0lySW9Ec3ZCNWphUGFRa0RzZVNNenNvUnFFTHBEMl94WUhuNXFhcmJnMXBxRUpNZy12UHFVT3FkSHZuM0hZSWxMMlUzTTZ0MTV3TzN1QW8xWjBlQVF1Z0FsTmVhdjdxa3JTVXRCSElQczdFVmVuY1Q2Sy1xaE1KWUMxZ2x6Vm05MmNZdw?oc=5",
+      "summary": "Senate passes college sports bill that would rein in athlete payments and transfers    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-09-29T03:08:00+00:00",
+      "published_epoch": 1790651280,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "b06e7f7472f65fde",
+      "title": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTFEOXNVSFlsb2xMS3dPWklqX1UwMEpMa1dzLXFFQWlZUHlTc0YxNy02eVJoakRuNjNMMzN3NWN0Y0p1WGlIVzZ0NWdWd2Y0dUs1TmI1bVVENmtUOGFpZUdSeVFxMzZQWmxtYm9mZk85alZ0aGtMRFh4bkkzOFQzM2lDM2ZCem9rU0o1eGpBRXhvR2VubHpqN3RjT3pyMG5uVVEyOFRGZEU0WGhy?oc=5",
+      "summary": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-09-29T02:10:00+00:00",
+      "published_epoch": 1790647800,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "5c27b532fbdb75c6",
+      "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’ - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhKYktPd0xYRGF2UF9KZW85Uk9SZWtnclVZMHJxdFRMdWpMUlU1ZmVlbGJLb2ZsVFAwcExqbHhiY2ZfdGF4c1ItUG4yenFDSkloZDBnbnVQalU1OUtOMVpreVBQaDZtUzVWNWp1TW01dkR1LXRfU0h6bGdPa2dwLUtMTkZ6X1RvNUp3TVM0U3hmMHd1TmVzQmpTVHQwLVhnMEQ0YXlraw?oc=5",
+      "summary": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-09-29T01:56:00+00:00",
+      "published_epoch": 1790646960,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "ab61c54f89047706",
+      "title": "🌎 سرور IPهای اختصاصی ری‌استارت شدن",
+      "link": "https://t.me/whitedns/1877",
+      "summary": "🌎 سرور IPهای اختصاصی ری‌استارت شدن \n\n 🔭 برای دریافت آخرین تغییرات، برید به: \n سابسکریپشن ← سرور اختصاصی ← دکمه تازه‌سازی \n\nبعد از به‌روزرسانی، دوباره وصل بشید.",
+      "source_id": "tg_whitedns",
+      "source_name": "@whitedns",
+      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
+      "category": "telegram",
+      "published_at": "2026-09-28T23:30:12+00:00",
+      "published_epoch": 1790638212,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "73609c83d427d731",
+      "title": "آیا تنسی نخستین زن را پس از ۲۰۰ سال اعدام می‌کند؟",
+      "link": "https://www.bbc.com/persian/articles/ckpd0g5y87g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "وکلای پایک که در سال ۱۹۹۵ به قتل یکی از همکلاسی‌هایش محکوم شد، می‌گویند او باید مشمول عفو شود و اگر این جنایت امروز رخ داده بود، احتمالا به اعدام محکوم نمی‌شد.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-09-28T23:27:08+00:00",
+      "published_epoch": 1790638028,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c63/live/9ec92970-b8de-11f1-b1d1-571ed4d7ff2c.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "fdca4c22f89da5cc",
+      "title": "ترامپ، ترجمه ماشین:",
+      "link": "https://t.me/VahidOnline/78556",
+      "summary": "ترامپ، ترجمه ماشین:\nاکسیوس همین الان گزارشی منتشر کرده که مدعی است «ترامپ» به ایران پیشنهاد کاهش تحریم‌ها و آزادسازی منابع مالی مسدودشده را داده است. این حقیقت ندارد. من به آن‌ها هیچ‌چیز پیشنهاد نکردم!\n\nگزارش اکسیوس، مثل بیشتر گزارش‌های دیگر، یک حقه و دروغ است که فقط برای ارضای «سندروم جنون ترامپ» آن‌ها منتشر شده است. آن‌ها باید این گزارش جعلی را فوراً پس بگیرند!\n\nرئیس‌جمهور دونالد جی. ترامپ\n realDonaldTrump \n\n 📡 @VahidOnline",
+      "source_id": "tg_VahidOnline",
+      "source_name": "@VahidOnline",
+      "source_name_fa": "@VahidOnline (وحید آنلاین)",
+      "category": "telegram",
+      "published_at": "2026-09-28T22:17:53+00:00",
+      "published_epoch": 1790633873,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn1.telesco.pe/file/Yh8kYanQ7dj8Z19VYZ5Qjqpe0L7h94GgoNW27OZbwOMnPGKlEEPUTg-OOZr-fOIA6Ofmv0IQMrG6-ec3dtE4QwMVrIRreNWs0GoUYPlxN2okJMQ6YYqAnJutrxnQ5yJDYmD4gQgQ-gxkgk075NTZ6X78UxxB8N2e63Otg_ZV_YWXumUOWOfCz7qc4fM7SdyEELUsszJvkwQEND9xtsk7uQniMSKem5xI50XNuA69kUleZVDvvsyz14gv-xq2f0-I6lnjsiCMtzV8h3fpu2dqIyhTfMXzYdsr0FHXp96F6vTmMwOSIEibbS8nuliQKSiTNukSRxv-PYcHvl9eXHe0Vw.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "254e760ae701aef9",
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
+      "summary": "Nvidia unveils security platform to stop AI agents from going rogue    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-09-28T22:14:00+00:00",
+      "published_epoch": 1790633640,
+      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     }
