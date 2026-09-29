@@ -1,6 +1,6 @@
 # ⚡ آخرین اخبار و رویدادهای لحظه‌ای (Latest Rolling News)
 
-**آخرین همگام‌سازی پایپ‌لاین:** `2026-09-29 21:12 IRST` | `2026-09-29 17:42 UTC`
+**آخرین همگام‌سازی پایپ‌لاین:** `2026-09-29 21:13 IRST` | `2026-09-29 17:43 UTC`
 
 پایگاه خبری چندرسانه‌ای تاب‌آور. متن سبک و تصاویر محلی فشرده برای دسترسی حداکثر سرعت در شرایط اختلال اینترنت.
 
@@ -28,10 +28,10 @@
   > Slovenia’s principled stand at the United Nations sends a clear message: the Islamic Republic’s atrocities must not be met with silence. Prince Reza Pahlavi thanked Slovenia for standing with the Iranian people and looked ahead to friendship and alliance bet    x.com
 - **`@realDonaldTrump`** [https://t.co/XUMPtOIQYq](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13S1R0b3hCR3dlVXo4UWV2SHR3SGxGZUVHOU9xeG16N0I2NFdiaHpmNmNOU01oVkw5eEJZUmR0bjRHMVk0aW9IcFVKWHB4Q3h0ZjFMOEdLRXMzTFZBekhTcUFSMFNkQms?oc=5) — `04:54 IRST` / `01:24 UTC`
   > https://t.co/XUMPtOIQYq    x.com
+- **`@tom_doerr`** [TaskView combines task management, custom workflows, and developer integrations into a self-hosted platform. It allows software teams to automate project operations and track dependencies while maintaining full control over their infrastructure. https://t.co/](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRRk9hYlpYVzdBNmpvbGstQWdQN2JpOXNrY2VsRVFBTUwxRlRjZmRYYTdvVmx1eDBGc2o4RWl1TGk5S21HWGZJVklnZnZxLWtiUEVYeElmLTRkalV6RGJR?oc=5) — `18:10 IRST` / `14:40 UTC`
+  > TaskView combines task management, custom workflows, and developer integrations into a self-hosted platform. It allows software teams to automate project operations and track dependencies while maintaining full control over their infrastructure. https://t.co/    x.com
 - **`@tom_doerr`** [Installs over 750 open-source intelligence and security tools across 50 categories using single-command installers for Kali, Debian, Ubuntu, and Termux. https://t.co/svB2CzyjB9](https://news.google.com/rss/articles/CBMiakFVX3lxTE94aVcyRkJkdzRQOUtZaF9Iem82b3FJUDEzNUxHa1R5ZGFWZDFZOWJNVW5jZEVidjdwUkswblZFb3BJOFBqMlAyX09iNS1oWG5rZVZEQkgwWEd4ZHczaWVsWDRkZWw1aHN5d0E?oc=5) — `13:24 IRST` / `09:54 UTC`
   > Installs over 750 open-source intelligence and security tools across 50 categories using single-command installers for Kali, Debian, Ubuntu, and Termux. https://t.co/svB2CzyjB9    x.com
-- **`@souzangar (پوریا سوزنگر (امنیت و شبکه))`** [BGP ipv6 link local unnumbered](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Kd1ZfZlk4ZFFfS0lJVUdXRUR5bVJZNzB2RHJoQ0JIY1lHODlBSGNmUFNWOHJ3eUtqcnFxVy1vSGE1VDlWMnFGdXNxSVBIMFJsNF91a3IxS1dZc1lxWnlR?oc=5) — `16:27 IRST` / `12:57 UTC`
-  > BGP ipv6 link local unnumbered    x.com
 
 ## کانال‌های منتخب تلگرام (Telegram Monitoring)
 
@@ -108,8 +108,6 @@ chrome://...
 کد هاش:
 
  in...
-
-  ![Media](../media/2026-09-29/32093dd395524c7f.jpg)
 - **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [🎀 بچه‌هااا یه آموزش خفن و کاربردی جدید دارم براتون! 🥹 💗](https://t.me/whitedns/1881) — `20:09 IRST` / `16:39 UTC`
   > 🎀 بچه‌هااا یه آموزش خفن و کاربردی جدید دارم براتون! 🥹 💗 
 
@@ -141,7 +139,7 @@ chrome://...
 
 ## اخبار و رسانه‌های فارسی (Persian News)
 
-- **`بی‌بی‌سی فارسی`** [قیمت دلار در بازار آزاد ایران از ۲۵۰ هزار تومان گذشت](https://www.bbc.co.uk/persian/live/cq0lrdlp2lgnt?at_medium=RSS&at_campaign=rss) — `21:12 IRST` / `17:42 UTC`
+- **`بی‌بی‌سی فارسی`** [قیمت دلار در بازار آزاد ایران از ۲۵۰ هزار تومان گذشت](https://www.bbc.co.uk/persian/live/cq0lrdlp2lgnt?at_medium=RSS&at_campaign=rss) — `21:13 IRST` / `17:43 UTC`
   > نرخ دلار در معاملات امروز بازار آزاد ایران با ثبت یک رکورد تازه از ۲۵۰ هزار تومان گذشت. در همین حال محمدباقر قالیباف به آمریکا و «سایر کشورها» هشدار داد «در منطقه‌ای که ما نفت نفروشیم، کسی نفت نخواهد فروخت و اگر امنیت ما تامین نشود، هیچ زیرساختی ایمن نخواهد بود.» دونالد ترامپ ...
 
   ![Media](../media/2026-09-29/c482bcb2e472640b.jpg)
@@ -219,53 +217,53 @@ chrome://...
 
 ## فناوری و امنیت سایبری (Tech & Open Source)
 
+- **`Hacker News`** [ChatGPT Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — `20:56 IRST` / `17:26 UTC`
+  > Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers 
+ Comments URL: https://news.ycombinator.com/item?id=49896975 
+ Points: 42 
+ # Comments: 21
 - **`Hacker News`** [Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html) — `20:43 IRST` / `17:13 UTC`
   > Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html 
  Comments URL: https://news.ycombinator.com/item?id=49896712 
- Points: 3 
- # Comments: 0
+ Points: 21 
+ # Comments: 2
 - **`Hacker News`** [Dots](https://openai.com/index/introducing-dots/) — `20:37 IRST` / `17:07 UTC`
   > Article URL: https://openai.com/index/introducing-dots/ 
  Comments URL: https://news.ycombinator.com/item?id=49896604 
- Points: 91 
- # Comments: 41
+ Points: 135 
+ # Comments: 70
+- **`Hacker News`** [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap/) — `20:37 IRST` / `17:07 UTC`
+  > Article URL: https://openai.com/index/devday-2026-recap/ 
+ Comments URL: https://news.ycombinator.com/item?id=49896600 
+ Points: 12 
+ # Comments: 1
 - **`Hacker News`** [GPT 6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/) — `20:36 IRST` / `17:06 UTC`
   > Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ 
  Comments URL: https://news.ycombinator.com/item?id=49896586 
- Points: 161 
- # Comments: 79
+ Points: 226 
+ # Comments: 151
 - **`Hacker News`** [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) — `20:00 IRST` / `16:30 UTC`
   > Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising 
  Comments URL: https://news.ycombinator.com/item?id=49896050 
- Points: 103 
- # Comments: 57
+ Points: 135 
+ # Comments: 90
 - **`Hacker News`** [Show HN: NSL – WSL for Linux](https://frostyard.github.io/nsl/) — `18:21 IRST` / `14:51 UTC`
   > One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX. NSL is my answer. It is a faithful reproduction of the developer experience, powered by a s...
 - **`Hacker News`** [macOS Golden Gate Is a Buggy Mess](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/) — `18:02 IRST` / `14:32 UTC`
   > Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/ 
  Comments URL: https://news.ycombinator.com/item?id=49894005 
- Points: 314 
- # Comments: 219
+ Points: 328 
+ # Comments: 233
 - **`Hacker News`** [Google ending ChromeOS support two years early](https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674) — `17:42 IRST` / `14:12 UTC`
   > Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674 
  Comments URL: https://news.ycombinator.com/item?id=49893653 
- Points: 107 
- # Comments: 80
+ Points: 110 
+ # Comments: 86
 - **`Hacker News`** [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) — `16:13 IRST` / `12:43 UTC`
   > Article URL: https://spectrum.ieee.org/delhi-electricity-loss 
  Comments URL: https://news.ycombinator.com/item?id=49892245 
- Points: 301 
- # Comments: 175
-- **`Hacker News`** [Without the Hot Air](https://www.withouthotair.com/) — `16:08 IRST` / `12:38 UTC`
-  > Article URL: https://www.withouthotair.com/ 
- Comments URL: https://news.ycombinator.com/item?id=49892175 
- Points: 95 
- # Comments: 47
-- **`Hacker News`** [1 in 8 cancer cases worldwide are caused by infections, study finds](https://www.cbc.ca/lite/story/9.7361622) — `16:03 IRST` / `12:33 UTC`
-  > Article URL: https://www.cbc.ca/lite/story/9.7361622 
- Comments URL: https://news.ycombinator.com/item?id=49892120 
- Points: 141 
- # Comments: 88
+ Points: 311 
+ # Comments: 185
 
 ---
 📂 [آرشیو ۳۰ دقیقه‌ای اخبار](../index.md) | 🌐 [مشاهده نسخه تحت وب سبک](../public/index.html)

@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-29T17:42:52.589799+00:00",
-  "generated_at_tehran": "2026-09-29T21:12:52.589799+03:30",
+  "generated_at_utc": "2026-09-29T17:43:57.801280+00:00",
+  "generated_at_tehran": "2026-09-29T21:13:57.801280+03:30",
   "article_count": 100,
   "articles": [
     {
@@ -12,8 +12,8 @@
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-09-29T17:42:53.981907+00:00",
-      "published_epoch": 1790703773,
+      "published_at": "2026-09-29T17:43:59.586073+00:00",
+      "published_epoch": 1790703839,
       "rtl": true,
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a951/live/2648fb80-bbe8-11f1-bd21-bdf910f2cec6.jpg"
@@ -49,6 +49,21 @@
       "published_at": "2026-09-29T17:32:29+00:00",
       "published_epoch": 1790703149,
       "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "46723a55b52ae2ad",
+      "title": "ChatGPT Pro 500",
+      "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers \n Comments URL: https://news.ycombinator.com/item?id=49896975 \n Points: 42 \n # Comments: 21",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-09-29T17:26:27+00:00",
+      "published_epoch": 1790702787,
+      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -122,7 +137,7 @@
       "hash": "9989b4a69cf98c4d",
       "title": "Tcl/Tk 9.1 Released",
       "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html \n Comments URL: https://news.ycombinator.com/item?id=49896712 \n Points: 3 \n # Comments: 0",
+      "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html \n Comments URL: https://news.ycombinator.com/item?id=49896712 \n Points: 21 \n # Comments: 2",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -154,13 +169,28 @@
       "hash": "f9bc2ffb70719411",
       "title": "Dots",
       "link": "https://openai.com/index/introducing-dots/",
-      "summary": "Article URL: https://openai.com/index/introducing-dots/ \n Comments URL: https://news.ycombinator.com/item?id=49896604 \n Points: 91 \n # Comments: 41",
+      "summary": "Article URL: https://openai.com/index/introducing-dots/ \n Comments URL: https://news.ycombinator.com/item?id=49896604 \n Points: 135 \n # Comments: 70",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
       "category": "tech",
       "published_at": "2026-09-29T17:07:57+00:00",
       "published_epoch": 1790701677,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "c3c777ce0e6321bc",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap/",
+      "summary": "Article URL: https://openai.com/index/devday-2026-recap/ \n Comments URL: https://news.ycombinator.com/item?id=49896600 \n Points: 12 \n # Comments: 1",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-09-29T17:07:45+00:00",
+      "published_epoch": 1790701665,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -203,7 +233,7 @@
       "hash": "27064b9d25522de2",
       "title": "GPT 6.1 Sol",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ \n Comments URL: https://news.ycombinator.com/item?id=49896586 \n Points: 161 \n # Comments: 79",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ \n Comments URL: https://news.ycombinator.com/item?id=49896586 \n Points: 226 \n # Comments: 151",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -329,7 +359,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/OYdOi2mjeg1So87dsKsRdgtuqatp9ZJ3i4VkP0VzVqEvemTjkvN-7684qGyYUojo5bejaQcKDsOGG9MrRX5_qoSLJsYSdv4aPpvSlgribF40qKyFgYol6EUJUR_OHJ1R0cVpU56WsJF-wdLmzZcTU6CczaE-Xp3ofx67qIOo5T8mKiYVqiblOg-Vm7R4R77bh-RW4EVTcrhkbF0d_1YYqvG0yfkPkI3uF1mE1-3XZcB-xK-npYxliYnUiRaX2ILgBL1HcIi1N_Bd8P-1tllkwp4Wsk9bspNfLVuFy0N9QY7gVTYLnzC-CUGATizoaYATvvXk3ALrXTd5l-loVsq0iA"
       ],
-      "local_media_path": "media/2026-09-29/32093dd395524c7f.jpg"
+      "local_media_path": null
     },
     {
       "hash": "2c95a5959a913bde",
@@ -418,7 +448,7 @@
       "hash": "eabee9e2ae6c4446",
       "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
       "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising \n Comments URL: https://news.ycombinator.com/item?id=49896050 \n Points: 103 \n # Comments: 57",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising \n Comments URL: https://news.ycombinator.com/item?id=49896050 \n Points: 135 \n # Comments: 90",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -828,7 +858,7 @@
       "hash": "6104cdbf2d554b02",
       "title": "macOS Golden Gate Is a Buggy Mess",
       "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
-      "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/ \n Comments URL: https://news.ycombinator.com/item?id=49894005 \n Points: 314 \n # Comments: 219",
+      "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/ \n Comments URL: https://news.ycombinator.com/item?id=49894005 \n Points: 328 \n # Comments: 233",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -873,7 +903,7 @@
       "hash": "2df3bd1480693525",
       "title": "Google ending ChromeOS support two years early",
       "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
-      "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674 \n Comments URL: https://news.ycombinator.com/item?id=49893653 \n Points: 107 \n # Comments: 80",
+      "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674 \n Comments URL: https://news.ycombinator.com/item?id=49893653 \n Points: 110 \n # Comments: 86",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -1161,7 +1191,7 @@
       "hash": "9f7ad2b3f4c32a7c",
       "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss \n Comments URL: https://news.ycombinator.com/item?id=49892245 \n Points: 301 \n # Comments: 175",
+      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss \n Comments URL: https://news.ycombinator.com/item?id=49892245 \n Points: 311 \n # Comments: 185",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -1187,36 +1217,6 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/62a62d92e2537753eaaed0ee6a5d1084f4249971-1274x1235.png?rect=136,393,1138,596&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "2ec4b9c1c515860c",
-      "title": "Without the Hot Air",
-      "link": "https://www.withouthotair.com/",
-      "summary": "Article URL: https://www.withouthotair.com/ \n Comments URL: https://news.ycombinator.com/item?id=49892175 \n Points: 95 \n # Comments: 47",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T12:38:18+00:00",
-      "published_epoch": 1790685498,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "496fa0845202eaee",
-      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-      "link": "https://www.cbc.ca/lite/story/9.7361622",
-      "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622 \n Comments URL: https://news.ycombinator.com/item?id=49892120 \n Points: 141 \n # Comments: 88",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-09-29T12:33:50+00:00",
-      "published_epoch": 1790685230,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
