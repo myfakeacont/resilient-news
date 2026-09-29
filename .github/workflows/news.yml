@@ -1,0 +1,65 @@
+name: Hourly News Aggregator
+
+on:
+  schedule:
+    # Run every hour at minute 0 UTC
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # Manual trigger support from GitHub UI or API
+
+concurrency:
+  group: news-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  aggregate:
+    name: Fetch Feeds & Update News Archive
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          # No pip cache needed - zero external dependencies!
+
+      - name: Run aggregator script
+        run: |
+          python3 aggregator.py
+
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check for changes across generated files
+          git add news/ index.md README.md public/ state.json
+          
+          if git diff --staged --quiet; then
+            echo "No new changes or articles in this run."
+          else
+            TIMESTAMP_UTC=$(date -u +"%Y-%m-%d %H:00 UTC")
+            git commit -m "chore(news): sync hourly bulletin - ${TIMESTAMP_UTC} [skip ci]"
+            git push
+          fi
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './public'
+        continue-on-error: true
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
