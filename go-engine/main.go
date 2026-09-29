@@ -637,12 +637,17 @@ func generateDigestMarkdown(nowUTC time.Time, timeStrTehran string, items []Arti
 	tgItems := filterItemsByType(items, "telegram")
 	rssItems := filterItemsByType(items, "rss")
 
+	mediaPrefix := "../"
+	if isInterval {
+		mediaPrefix = "../../"
+	}
+
 	sb.WriteString("## 🐦 گزیده آخرین توییت‌های مهم (Twitter / X)\n\n")
 	for _, it := range twItems[:min(len(twItems), 15)] {
 		sb.WriteString(fmt.Sprintf("### %s (`%s`) — *%s*\n", it.SourceNameFa, it.AuthorHandle, it.PublishedAt))
 		sb.WriteString(fmt.Sprintf("%s\n\n", it.FullBody))
 		if len(it.MediaFiles) > 0 {
-			sb.WriteString(fmt.Sprintf("![عکس](%s)\n\n", it.MediaFiles[0]))
+			sb.WriteString(fmt.Sprintf("![عکس](%s%s)\n\n", mediaPrefix, it.MediaFiles[0]))
 		}
 		sb.WriteString(fmt.Sprintf("🔗 [مشاهده در توییتر](%s)\n\n---\n\n", it.Link))
 	}
@@ -652,7 +657,7 @@ func generateDigestMarkdown(nowUTC time.Time, timeStrTehran string, items []Arti
 		sb.WriteString(fmt.Sprintf("### کانال %s (`%s`) — *%s*\n", it.SourceNameFa, it.AuthorHandle, it.PublishedAt))
 		sb.WriteString(fmt.Sprintf("%s\n\n", it.FullBody))
 		if len(it.MediaFiles) > 0 {
-			sb.WriteString(fmt.Sprintf("![عکس](%s)\n\n", it.MediaFiles[0]))
+			sb.WriteString(fmt.Sprintf("![عکس](%s%s)\n\n", mediaPrefix, it.MediaFiles[0]))
 		}
 		sb.WriteString(fmt.Sprintf("🔗 [پیوند به تلگرام](%s)\n\n---\n\n", it.Link))
 	}
