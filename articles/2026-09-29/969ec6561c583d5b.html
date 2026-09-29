@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fa" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <title>Show HN: NSL – WSL for Linux</title>
+  <style>
+    body { background: #000000; color: #e7e9ea; font-family: -apple-system, Tahoma, sans-serif; line-height: 1.8; max-width: 800px; margin: 0 auto; padding: 24px; text-align: left; }
+    h1 { color: #ffffff; font-size: 1.6rem; border-bottom: 1px solid #2f3336; padding-bottom: 12px; margin-bottom: 12px; }
+    .meta { color: #71767b; font-size: 0.9rem; margin-bottom: 24px; }
+    p { margin-bottom: 16px; font-size: 1.05rem; }
+    a { color: #1d9bf0; text-decoration: none; }
+    .back { display: inline-block; margin-bottom: 20px; padding: 6px 14px; background: #16181c; border-radius: 6px; border: 1px solid #2f3336; color: #1d9bf0; }
+  </style>
+</head>
+<body>
+  <a class="back" href="../../public/index.html">← بازگشت به پیشخوان اصلی</a>
+  <h1>Show HN: NSL – WSL for Linux</h1>
+  <div class="meta">منبع: <strong>هکر نیوز (تکنولوژی)</strong> | زمان: Tue, 29 Sep 2026 14:51:36 +0000</div>
+  <article>
+    <p>nsl gives a Linux host persistent Linux machines, as WSL does for Windows. Each machine is a whole distro with its own packages and services. It runs as a systemd-nspawn container in one small VM, starts when you use it, and works in your files.</p>
+    <p>nsl create debian --distro debian:13 # verify the signed images; the first machine is the default nsl # a login shell in the machine, in this directory nsl run make test # one command, with its exit status What a machine gives you ¶ Any distro, one command away</p>
+    <p>nsl opens a login shell in your default machine, in the directory you were in. nsl run runs one command and returns its exit status.</p>
+    <p>Your $HOME , /run/media/USER and /mnt appear at /mnt/host . Inside, you keep your username, UID and GID, and passwordless sudo .</p>
+    <p>A server listening in a machine is reachable at the same port on host 127.0.0.1 . Wayland applications open windows on your desktop.</p>
+    <p>Debian, Ubuntu, Fedora, CentOS Stream, Arch, openSUSE Tumbleweed and Leap. Rebuilt weekly, and verified against the signed Frostyard publishing workflow before use.</p>
+    <p>--isolated gives a machine a VM of its own, with no access to host files, desktop or host actions, for software you do not trust.</p>
+    <p>nsl runs as your user. It installs no host packages and changes no device permissions, groups or sudoers.</p>
+    <p>Check the host, install nsl and create your first machine.</p>
+    <p>One VM, many machines, and what a machine may touch on the host.</p>
+    <p>Every command, every setting in nsl.conf , and every published image.</p>
+    <p>nsl has no stable release yet. v0.4.0 is the first release of this design; v0.3.0 and earlier are a retired prototype. The tested host is Snow Linux 13 on x86-64 with systemd 261.2, QEMU 10.0.13, virtiofsd 1.13.2 and GNOME Wayland.</p>
+  </article>
+</body>
+</html>
