@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-29T17:42:10.621693+00:00",
-  "generated_at_tehran": "2026-09-29T21:12:10.621693+03:30",
+  "generated_at_utc": "2026-09-29T17:42:16.512923+00:00",
+  "generated_at_tehran": "2026-09-29T21:12:16.512923+03:30",
   "article_count": 100,
   "articles": [
     {
@@ -12,8 +12,8 @@
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-09-29T17:42:11.961436+00:00",
-      "published_epoch": 1790703731,
+      "published_at": "2026-09-29T17:42:17.937748+00:00",
+      "published_epoch": 1790703737,
       "rtl": true,
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a951/live/2648fb80-bbe8-11f1-bd21-bdf910f2cec6.jpg"
