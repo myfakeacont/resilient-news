@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-08 19:45 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-09 01:24 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,80 +13,72 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [عراقچی: احتمالا ظرف چند روز آینده به پیشنهاد آمریکا پاسخ می‌دهیم](https://www.bbc.co.uk/persian/live/cky93qlnzngxt?at_medium=RSS&at_campaign=rss) — `19:45 IRST` / `16:15 UTC`
-  > عباس عراقچی، وزیر امور خارجه ایران، می‌گوید که تهران همچنان در حال بررسی پاسخ آمریکا به پیشنهادی است که بر اساس آن تنگه هرمز می‌تواند ظرف هفت روز بازگشایی شود و ممکن است در چند روز آینده پاسخ خود را ارائه دهد. او همچنین گفته که روند دیپلماتیک همچنان ادامه دارد و از طریق میانجی...
-- **`بی‌بی‌سی فارسی`** [آنچه گذشت؛ عربستان: در حمله به دو فرودگاه در ریاض و ابها سه نفر کشته شدند](https://www.bbc.co.uk/persian/live/c59vzn0nmxvnt?at_medium=RSS&at_campaign=rss) — `19:45 IRST` / `16:15 UTC`
-  > عربستان می‌گوید در حملات حوثی‌ها به دو فرودگاه در ریاض و ابها سه نفر کشته و بیش از سی نفر زخمی شده‌اند. ائتلاف به رهبری عربستان سعودی هم اعلام کرد که «سکوی پرتاب موشک بالستیک» مورد استفاده در حمله به ریاض را منهدم کرده است. وزیر خارجه آمریکا گفت که ایران فرصت‌های متعدد برای تو...
-- **`@VahidOnline (وحید آنلاین)`** [ترامپ گفت: «من باید در مورد ایران اقدام می‌کردم، چون آنها به سلاح هسته‌ای دست پیدا می‌کردند و آن وقت می‌فهمیدید مشکل یعن...](https://t.me/VahidOnline/78662) — `19:42 IRST` / `16:12 UTC`
-  > ترامپ گفت: «من باید در مورد ایران اقدام می‌کردم، چون آنها به سلاح هسته‌ای دست پیدا می‌کردند و آن وقت می‌فهمیدید مشکل یعنی چه.»
+- **`بی‌بی‌سی فارسی`** [ترامپ: قبل از انتخابات میان‌دوره‌ای به ایران حمله نخواهیم کرد](https://www.bbc.co.uk/persian/live/cky93qlnzngxt?at_medium=RSS&at_campaign=rss) — `01:24 IRST` / `21:54 UTC`
+  > دونالد ترامپ، رئیس جمهوری آمریکا، گفت: ما در حال انجام گفتگوهای سازنده‌ای با جمهوری اسلامی ایران هستیم و به هیچوجه پیش از انتخابات میان‌دوره‌ای ایالات متحده، به ایران حمله نخواهیم کرد. او در پستی نوشت: «می‌خواهم برای همگان روشن کنم که با وجود وضعیت بسیار نامساعد ایران چه از نظ...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 لیونل مسی، فوق ستاره آرژانتینی فوتبال، دو روز پس از خداحافظی از تیم ملی آرژانتین، به تمرینات اینترمیامی بازگشت. او دیگ...](https://t.me/IranintlTV/361369) — `01:15 IRST` / `21:45 UTC`
+  > 🔻 لیونل مسی، فوق ستاره آرژانتینی فوتبال، دو روز پس از خداحافظی از تیم ملی آرژانتین، به تمرینات اینترمیامی بازگشت. او دیگر برای هیچ وقفه و تورنمنت ملی، تمرینات باشگاهی را ترک نخواهد کرد.
 
-رئیس‌جمهوری آمریکا در ادامه با اشاره به احتمال حمله موشکی ایران به شهرهای آمریکا گفت: «ببینیم اگر آنها روزی به لس‌آنجلس یا سن‌دیگو حمله می‌کردند، چه ...
+ 🔹 اینترمیامی با برنامه‌ای فشرده در ۱۰ روز آینده در ام‌ال‌اس، سه بازی مهم در پیش دارد.
 
-  ![Media](media/2026-10-08/39dabd3f58e5079b.jpg)
-- **`@VahidOnline (وحید آنلاین)`** [خبرگزاری رویترز پنج‌شنبه ۱۶ مهر گزارش داد شرکت هواپیمایی لوفت‌هانزای آلمان پروازهای خود به ریاض را تا ۲۴ مهر و ایر ایندی...](https://t.me/VahidOnline/78661) — `19:42 IRST` / `16:12 UTC`
-  > خبرگزاری رویترز پنج‌شنبه ۱۶ مهر گزارش داد شرکت هواپیمایی لوفت‌هانزای آلمان پروازهای خود به ریاض را تا ۲۴ مهر و ایر ایندیا پروازهای خود به مقصد و از مبدا پایتخت عربستان سعودی را تا ۱۸ مهر لغو کرده‌اند.
-این تصمیم همزمان با تشدید حملات حوثی‌های یمن مورد حمایت جمهوری اسلامی به فرو...
+ @...
 
-  ![Media](media/2026-10-08/2e0d2d88ec700391.jpg)
-- **`@VahidOnline (وحید آنلاین)`** [مارگارت همیلتون، دانشمند آمریکایی و از پیشگامان مهندسی نرم‌افزار که نقش مهمی در فرود نخستین فضانوردان آمریکایی بر سطح ما...](https://t.me/VahidOnline/78660) — `19:41 IRST` / `16:11 UTC`
-  > مارگارت همیلتون، دانشمند آمریکایی و از پیشگامان مهندسی نرم‌افزار که نقش مهمی در فرود نخستین فضانوردان آمریکایی بر سطح ماه داشت، در ۹۰ سالگی درگذشت. او رهبری گروهی از متخصصان را بر عهده داشت که نرم‌افزارهای مورد استفاده در ماموریت‌های فضایی آپولوی ناسا را طراحی و توسعه دادند.
+  ![Media](media/2026-10-08/40fdb40ad5c2d057.jpg)
+- **`AP News Wire`** [The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5) — `01:13 IRST` / `21:43 UTC`
+  > The Trump administration is suspending Microsoft from a green card program, alleging fraud    AP News
+- **`بی‌بی‌سی فارسی`** [نیکلاس مادورو، رهبر پیشین ونزوئلا، به توطئه برای ارتکاب شکنجه متهم شد](https://www.bbc.com/persian/articles/cw98z3r0rpjqo?at_medium=RSS&at_campaign=rss) — `01:09 IRST` / `21:39 UTC`
+  > دادستان‌های ایالات متحده، نیکلاس مادورو، رهبر پیشین ونزوئلا، و همسرش سیلیا فلورس را به توطئه برای ارتکاب شکنجه متهم کرده‌اند.
+اتهامات جدید علیه این زوج روز پنج‌شنبه علنی شد و به اتهامات پیشdk قاچاق مواد مخدر و اسلحه که آن‌ها همگی را رد کرده‌اند، افزوده شده است.
 
-...
-
-  ![Media](media/2026-10-08/523c57f270c7e2cd.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سومین هفته اعتراضات دانش‌آموزی در فرانسه در حالی ادامه دارد که فعالیت بیش از هزار و ۸۰۰ مدرسه در سراسر این کشور مختل شده...](https://t.me/IranintlTV/361330) — `19:38 IRST` / `16:08 UTC`
-  > سومین هفته اعتراضات دانش‌آموزی در فرانسه در حالی ادامه دارد که فعالیت بیش از هزار و ۸۰۰ مدرسه در سراسر این کشور مختل شده است.
-
-در حمایت از مطالبات دانش‌آموزان، معلمان، دانشجویان و اتحادیه‌های کارگری نیز به اعتراضات پیوسته‌اند.
-
-گفت‌وگو با ساجده شریفی، خبرنگار ایران‌اینترنشنال
-...
-
-  ![Media](media/2026-10-08/f728fcc57dba941a.jpg)
-- **`یورونیوز فارسی`** [مجله خبری| ۱۶ مهر ۱۴۰۵ (۸ اکتبر ۲۰۲۶) - شامگاهی](https://parsi.euronews.com/video/2026/10/08/mglh-khbri-mhr-aktbr-shamgahi) — `19:30 IRST` / `16:00 UTC`
-  > آخرین تحولات اروپا و جهان را دنبال کنید ۱۶ مهر ۱۴۰۵ (۸ اکتبر ۲۰۲۶). با یورونیوز در جریان آخرین اخبار و رویدادهای سیاسی، اقتصادی، فرهنگی و سرگرمی قرار بگیرید.
-- **`یورونیوز فارسی`** [پارلمان اروپا قطعنامه حقوق بشری علیه ایران، گرجستان و آذربایجان را تصویب کرد](https://parsi.euronews.com/2026/10/08/human-rights-violations-in-iran-georgia-and-azerbaijan) — `19:29 IRST` / `15:59 UTC`
-  > اعضای پارلمان اروپا با تصویب سه قطعنامه، نقض حقوق بشر در ایران، گرجستان و جمهوری آذربایجان را محکوم کردند. نمایندگان پارلمان اروپا از ایران خواستند مجازات اعدام در این کشور را لغو کند.
-- **`رادیو فردا`** [«شکنجه مخالفان» به مجموعه اتهامات رئیس‌جمهور سابق ونزوئلا و همسرش اضافه شد](https://www.radiofarda.com/a/venezuela-s-maduro-wife-flores-charged-in-us-over-alleged-torture/33873016.html) — `19:29 IRST` / `15:59 UTC`
-  > مادورو با چهار اتهام جنایی از جمله «توطئه تروریسم مرتبط با مواد مخدر» و «توطئه واردات کوکائین» روبه‌رو است و در صورت محکومیت ممکن است به حبس ابد محکوم شود.
-
-  ![Media](media/2026-10-08/4f4dc748420a51d6.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 یاسر آسانی، ستاره استقلال در دقیقه ۴۰ بازی با تراکتور، ‌مصدوم شد. او که در شروع نیمه دوم همراه با دیگر بازیکنان، وارد ...](https://t.me/IranintlTV/361324) — `19:27 IRST` / `15:57 UTC`
-  > 🔻 یاسر آسانی، ستاره استقلال در دقیقه ۴۰ بازی با تراکتور، ‌مصدوم شد. او که در شروع نیمه دوم همراه با دیگر بازیکنان، وارد زمین شد، اما به دلیل درد زیاد در پای راست، اشک‌ریزان مسابقه ترک کرد.
-
- 🔹 استقلال پس از خروج آسانی از بازی، نتوانست نمایش خوب نیمه اول را در نیمه دوم هم تکرار...
-
-  ![Media](media/2026-10-08/00aa7274e8c17372.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [هم‌زمان با افزایش تنش میان آمریکا و جمهوری اسلامی و احتمال ازسرگیری جنگ در منطقه، وزیر خارجه جمهوری اسلامی از ادامه مذاک...](https://t.me/IranintlTV/361323) — `19:25 IRST` / `15:55 UTC`
-  > هم‌زمان با افزایش تنش میان آمریکا و جمهوری اسلامی و احتمال ازسرگیری جنگ در منطقه، وزیر خارجه جمهوری اسلامی از ادامه مذاکرات میان تهران و واشینگتن خبر داد و گفت روند مذاکره و تبادل پیام با آمریکا ادامه دارد.
-
-گفت‌وگو با مریم رحمتی، خبرنگار ایران‌اینترنشنال
+  ![Media](media/2026-10-08/ce4911844d012b2a.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [علیرضا کیانی در بخشی از قسمت ۱۴ برنامه‌ «فریدون» به تجربه‌ی جنبش حقوق مدنی در آمریکا و نسبت آن به مبارزه با جمهوری اسلام...](https://t.me/IranintlTV/361367) — `01:07 IRST` / `21:37 UTC`
+  > علیرضا کیانی در بخشی از قسمت ۱۴ برنامه‌ «فریدون» به تجربه‌ی جنبش حقوق مدنی در آمریکا و نسبت آن به مبارزه با جمهوری اسلامی می‌پردازد.
  @iranintltv
 
-  ![Media](media/2026-10-08/aa0c48c0a66a19ad.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [پلیس مبارزه با تروریسم بریتانیا پنج‌شنبه ۱۶ مهر در بیانیه‌ای اعلام کرد در حال تحقیق درباره دو مرد اهل لتونی است که بامدا...](https://t.me/IranintlTV/361322) — `19:24 IRST` / `15:54 UTC`
-  > پلیس مبارزه با تروریسم بریتانیا پنج‌شنبه ۱۶ مهر در بیانیه‌ای اعلام کرد در حال تحقیق درباره دو مرد اهل لتونی است که بامداد پنج‌شنبه در نزدیکی یک پایگاه نیروی هوایی سلطنتی بریتانیا در کمبریج‌شر بازداشت شدند.
-این دو مرد ابتدا به ظن ورود غیرمجاز به یک مکان ممنوعه و وارد کردن خسارت...
+  ![Media](media/2026-10-08/579906642f2e4fcc.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سخنگوی نظامی حوثی‌ها هشدار این گروه به شرکت‌های هواپیمایی و فرودگاه‌های عربستان سعودی را تکرار کرد و به کارکنان تأسیسات ...](https://t.me/IranintlTV/361365) — `01:04 IRST` / `21:34 UTC`
+  > سخنگوی نظامی حوثی‌ها هشدار این گروه به شرکت‌های هواپیمایی و فرودگاه‌های عربستان سعودی را تکرار کرد و به کارکنان تأسیسات نفتی این کشور هشدار داد از حضور در مکان‌هایی که حوثی‌ها آن‌ها را هدف حمله اعلام کرده‌اند، خودداری کنند.
 
-  ![Media](media/2026-10-08/4c52b330f53827b0.jpg)
-- **`Hacker News`** [New gTLD Application for .lan](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary) — `19:21 IRST` / `15:51 UTC`
-  > Article URL: https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary 
- Comments URL: https://news.ycombinator.com/item?id=50007353 
- Points: 15 
- # Comments: 8
-- **`ایران اینترنشنال`** [شهروندان: دولت پول برای کالابرگ‌ها ریخت و دوباره آن را برداشت](https://www.iranintl.com/202610086720) — `19:20 IRST` / `15:50 UTC`
-  > پیام‌های رسیده به ایران‌اینترنشنال نشان می‌دهد اعتبار کالابرگ شماری از شهروندان که قرار بود افزایش پیدا کند، پس از واریز مبلغ، دوباره از حساب آنها کم شده است. برخی مخاطبان هم می‌گویند مبلغ کالابرگ آنها هیچ افزایشی نداشته است.
+هم‌زمان، خبرگزاری رویترز به نقل از شاهدان از برخاستن...
 
-  ![Media](media/2026-10-08/2a1501bd7d73f6fe.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [احمد وحیدی، فرمانده کل سپاه پاسداران، در پیامی به مناسبت «روز نیروی دریایی سپاه»، نوشت: «امنیت خلیج فارس و تنگه هرمز، ام...](https://t.me/IranintlTV/361321) — `19:15 IRST` / `15:45 UTC`
-  > احمد وحیدی، فرمانده کل سپاه پاسداران، در پیامی به مناسبت «روز نیروی دریایی سپاه»، نوشت: «امنیت خلیج فارس و تنگه هرمز، امنیت درون‌زا و منطقه‌ای است و هیچ قدرت فرامنطقه‌ای حق تهدید، حضور سلطه‌گرانه و دخالت در آن را ندارد. تنگه هرمز، شریان حیاتی انرژی جهان و خط قرمز راهبردی جمهور...
+  ![Media](media/2026-10-08/d09ddad95a6282e7.jpg)
+- **`AP News Wire`** [Isaias strengthens into Category 2 hurricane on collision course with the US Gulf Coast - AP News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5) — `00:58 IRST` / `21:28 UTC`
+  > Isaias strengthens into Category 2 hurricane on collision course with the US Gulf Coast    AP News
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [علیرضا کیانی در بخشی از قسمت ۱۴ برنامه‌ «فریدون» به لزوم کمک نیروهای خارجیِ همسو با منافع ملی ایرانیان در جریان مبارزه ب...](https://t.me/IranintlTV/361363) — `00:57 IRST` / `21:27 UTC`
+  > علیرضا کیانی در بخشی از قسمت ۱۴ برنامه‌ «فریدون» به لزوم کمک نیروهای خارجیِ همسو با منافع ملی ایرانیان در جریان مبارزه با جمهوری اسلامی می‌پردازد.
+ @iranintltv
 
-  ![Media](media/2026-10-08/d426b4839f5923b8.jpg)
+  ![Media](media/2026-10-08/1e8b4d73d4a0c266.jpg)
+- **`ایران اینترنشنال`** [چین به نفت عراق روی می‌آورد؛ آیا جمهوری اسلامی با روشی قدیمی محاصره آمریکا را دور می‌زند؟](https://www.iranintl.com/202610080785) — `00:49 IRST` / `21:19 UTC`
+  > پالایشگاه‌های مستقل چین برای جبران کاهش عرضه نفت ایران در پی محاصره آمریکا، به نفت خام عراق روی آورده‌اند. این تغییر، پرسشی را مطرح کرده است: آیا تهران بار دیگر نفت خود را با عنوان نفت عراقی به خریداران می‌رساند؟
+
+  ![Media](media/2026-10-08/34a6ee8eb0491417.jpg)
+- **`AP News Wire`** [The long-deployed USS Lincoln returns home to San Diego Bay - AP News](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXpmdmZOT25ZT1RrbXRKYnRQY1VxbGR5WkFIVzMtX2hSU19MSUc1cHpJWDlJU0tkLVZOa0hNMlhXNlJxMjFlLWJiTUtlMy1nNnpwdlV3U3FYcUtBaU1OZXNxeEJjVjZxUWltUXBtX0xKME9LNjlVRDFsYWZWT2xXQW91ZlFPbDdlRlZJQzNwSjRJdHJP?oc=5) — `00:37 IRST` / `21:07 UTC`
+  > The long-deployed USS Lincoln returns home to San Diego Bay    AP News
+- **`Hacker News`** [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) — `00:30 IRST` / `21:00 UTC`
+  > Article URL: https://github.com/thesnarkitecht/rembrandt 
+ Comments URL: https://news.ycombinator.com/item?id=50012199 
+ Points: 13 
+ # Comments: 10
+- **`Reuters Wire`** [US bonds rally after 30-year auction finds solid demand - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWpmVzQ1VWEzZnlPUWhiTld5WmYxSVZWTzlnem9razg4eFdjWVItTDJpTWx5X0FZTW1VdkdjV1RKVHdVMjJaTDBleXVqX2JKSFNFUmxlQXdaelR4cXJTdm9URy1ac2E0RVhMRzE3ZU1rNVJaakstdE9xTTNDTHkzZ3JQVEd0aHh3U2w2emtNbTVlelNqX0I2VEZ3NXZndWZKcnhoRmRSbGozdGhjNTRkVmV0U25NY1U?oc=5) — `00:20 IRST` / `20:50 UTC`
+  > US bonds rally after 30-year auction finds solid demand    Reuters
+- **`Hacker News`** [I think we might lose public key cryptography](https://twitter.com/matthew_d_green/status/2108278850555674975) — `00:18 IRST` / `20:48 UTC`
+  > Article URL: https://twitter.com/matthew_d_green/status/2108278850555674975 
+ Comments URL: https://news.ycombinator.com/item?id=50012043 
+ Points: 38 
+ # Comments: 15
+- **`Hacker News`** [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/) — `00:16 IRST` / `20:46 UTC`
+  > Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ 
+ Comments URL: https://news.ycombinator.com/item?id=50011999 
+ Points: 22 
+ # Comments: 0
+- **`Reuters Wire`** [Trump administration freezes green cards for Microsoft, IT firms, probes universities - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5) — `00:15 IRST` / `20:45 UTC`
+  > Trump administration freezes green cards for Microsoft, IT firms, probes universities    Reuters
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-08 - ساعت 21:30](news/2026-10-08/21-30.md)
 - 📅 [2026-10-08 - ساعت 16:00](news/2026-10-08/16-00.md)
 - 📅 [2026-10-08 - ساعت 08:30](news/2026-10-08/08-30.md)
 - 📅 [2026-10-08 - ساعت 01:30](news/2026-10-08/01-30.md)
