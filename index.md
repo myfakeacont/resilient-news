@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-09 19:29 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-10 00:17 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,76 +13,75 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [کشته شدن سه نفر در حمله حوثی‌ها به فرودگاه ریاض؛ بسیاری از پروازها به پایتخت عربستان لغو شد](https://www.bbc.co.uk/persian/live/cjkge3vzy3qzt?at_medium=RSS&at_campaign=rss) — `19:29 IRST` / `15:59 UTC`
+- **`بی‌بی‌سی فارسی`** [کشته شدن سه نفر در حمله حوثی‌ها به فرودگاه ریاض؛ بسیاری از پروازها به پایتخت عربستان لغو شد](https://www.bbc.co.uk/persian/live/cjkge3vzy3qzt?at_medium=RSS&at_campaign=rss) — `00:17 IRST` / `20:47 UTC`
   > با شدت گرفتن نبرد میان حوثی‌ها و عربستان سعودی و نیروهای تحت رهبری‌اش، حدود یک پنجم پروازها از و به فرودگاه ریاض، پایتخت عربستان سعودی لغو شد و بسیاری از شرکت‌های هوایی پروازهایشان را به مقصد ریاض متوقف کرده‌اند. مقامات عربستان «کشته شدن سه نفر و زخمی شدن تعدادی دیگر» در حملات...
-- **`بی‌بی‌سی فارسی`** [آنچه گذشت؛ ترامپ: قبل از انتخابات میان‌دوره‌ای به ایران حمله نخواهیم کرد](https://www.bbc.co.uk/persian/live/cky93qlnzngxt?at_medium=RSS&at_campaign=rss) — `19:29 IRST` / `15:59 UTC`
+- **`بی‌بی‌سی فارسی`** [آنچه گذشت؛ ترامپ: قبل از انتخابات میان‌دوره‌ای به ایران حمله نخواهیم کرد](https://www.bbc.co.uk/persian/live/cky93qlnzngxt?at_medium=RSS&at_campaign=rss) — `00:17 IRST` / `20:47 UTC`
   > دونالد ترامپ، رئیس جمهوری آمریکا، گفت: ما در حال انجام گفتگوهای سازنده‌ای با جمهوری اسلامی ایران هستیم و به هیچوجه پیش از انتخابات میان‌دوره‌ای ایالات متحده، به ایران حمله نخواهیم کرد. او در پستی نوشت: «می‌خواهم برای همگان روشن کنم که با وجود وضعیت بسیار نامساعد ایران چه از نظ...
-- **`AP News Wire`** [US stocks rise toward the finish of a record-breaking week - AP News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2lhZk1vOEFWM0xsY2hYWHEyLXZMQmFITTR1SkpzVWk0TW1xOEJWcW1COTdMNDUwU01iUHJkWDIwOFhVeGdhVU03QW1FZHpXWjQyRENjT1FlTXJLQVp5YUJUck14b0lDQ2M1QkdRa2t1bFAzZWUwY1QtUFp1OHJOX3l1TXVZMjg4YmhVblNTMnU?oc=5) — `19:24 IRST` / `15:54 UTC`
-  > US stocks rise toward the finish of a record-breaking week    AP News
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [یک مربی فوتبال در دیواندره به اتهام آزار جنسی کودکان بازداشت شده و پرونده او با ثبت پنج شکایت در دستگاه قضایی جمهوری اسل...](https://t.me/IranintlTV/361466) — `19:10 IRST` / `15:40 UTC`
-  > یک مربی فوتبال در دیواندره به اتهام آزار جنسی کودکان بازداشت شده و پرونده او با ثبت پنج شکایت در دستگاه قضایی جمهوری اسلامی در حال بررسی است.
+- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [هندیا ریدن به ایلان ماسک موکش آمبانی مالک اپراتور هندی Jio همونی که اشتراکای جمنای پرو به ایرانیا میده داره سنگ میندازه ...](https://t.me/Linuxor/5624) — `00:13 IRST` / `20:43 UTC`
+  > هندیا ریدن به ایلان ماسک موکش آمبانی مالک اپراتور هندی Jio همونی که اشتراکای جمنای پرو به ایرانیا میده داره سنگ میندازه جلوی پای ایلان ماسک که اینترنت هند رو تصرف نکنه.
 
-رییس کل دادگستری کردستان گفت این مربی پس از تفهیم اتهام‌های آزار جنسی و تهیه محتوای مستهجن، روانه زندان شده و پرونده‌اش به دادگاه کیفر...
+ایلان ماسک هم زده به کوچه مظلوم نمایی :
 
-  ![Media](media/2026-10-09/13c102e0b468e034.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [وزارت خارجه دولت قانونی یمن در پی حملات حوثی‌ها به فرودگاه بین‌المللی ملک خالد و یک هواپیمای خطوط هوایی عربستان سعودی، ا...](https://t.me/IranintlTV/361465) — `19:09 IRST` / `15:39 UTC`
-  > وزارت خارجه دولت قانونی یمن در پی حملات حوثی‌ها به فرودگاه بین‌المللی ملک خالد و یک هواپیمای خطوط هوایی عربستان سعودی، از شورای امنیت سازمان ملل خواست برای توقف این حملات و قطع مسیرهای ارسال سلاح از سوی حکومت ایران به حوثی‌ها، اقدام قاطع انجام دهد. 
+جناب نخست‌وزیر آمبانی،
 
-وزارت خارجه یمن جمعه ۱۷ مه...
+لطفاً عذرخواهی صمیمانه و فروتنانه‌ی من رو ...
 
-  ![Media](media/2026-10-09/d62a1f8e779252d9.jpg)
-- **`Reuters Wire`** [Trump to hold inquiry into Fed's Lisa Cook at White House - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTVtLWhNMGgxZlptWEduZTB6WUc3REtCMlEwV0VTeUotdUpVMDJqZHphZHJxeUtFSU41a19MWm9sTmZjWWVuS25YS20wWDh1MGFMYXNWMThMLWowaW1JbVFESzVDWVNhY0U0S2FUNE0wVGpxWFN6MDdWTVE3RVFWZ3Q3N1hHVFE1UHFnY3NGQWJXT2hOeG9PSE5Lb29XR3NMWXNTZkNTYmdHV1RBWGxmc2VB?oc=5) — `19:08 IRST` / `15:38 UTC`
-  > Trump to hold inquiry into Fed's Lisa Cook at White House    Reuters
-- **`Reuters Wire`** [EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5) — `19:07 IRST` / `15:37 UTC`
+  ![Media](media/2026-10-09/e94066a34c5d05fa.jpg)
+- **`بی‌بی‌سی فارسی`** [ونس درباره اعدام با جوخه آتش ابراز تردید کرد؛ «آن را تماشا نمی‌کنم»](https://www.bbc.com/persian/articles/c63r5wp957wvo?at_medium=RSS&at_campaign=rss) — `00:07 IRST` / `20:37 UTC`
+  > جی‌دی ونس، معاون رئیس‌جمهور آمریکا، درباره طرح پنتاگون برای پخش زنده اعدام با جوخه آتش عامل تیراندازی فورت هود ابراز تردید کرده است.
+
+  ![Media](media/2026-10-09/4734b4859ebb82da.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [یک شهروند از تهران با انتشار ویدیویی در رسانه‌های اجتماعی، می‌گوید برخی جایگاه‌داران، نازل‌های سوخت را می‌بندند و اجازه ...](https://t.me/IranintlTV/361506) — `00:04 IRST` / `20:34 UTC`
+  > یک شهروند از تهران با انتشار ویدیویی در رسانه‌های اجتماعی، می‌گوید برخی جایگاه‌داران، نازل‌های سوخت را می‌بندند و اجازه استفاده از کارت سوخت شخصی را به مردم نمی‌دهند: «فقط دو دستگاه را فعال می‌گذارند تا مردم مجبور به خرید بنزین آزاد شوند.»
+
+  ![Media](media/2026-10-09/6fb1c1237e733298.jpg)
+- **`Reuters Wire`** [Powerful quake hits Panama, damages homes; canal operations normal - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5) — `23:50 IRST` / `20:20 UTC`
+  > Powerful quake hits Panama, damages homes; canal operations normal    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ گفت اگر حکومت ایران به سلاح هسته‌ای دست می‌یافت، ممکن بود پس از حمله به اسرائیل و دیگر نقاط خاورمیانه، کشور...](https://t.me/IranintlTV/361505) — `23:44 IRST` / `20:14 UTC`
+  > دونالد ترامپ گفت اگر حکومت ایران به سلاح هسته‌ای دست می‌یافت، ممکن بود پس از حمله به اسرائیل و دیگر نقاط خاورمیانه، کشورهای اروپایی را نیز هدف قرار دهد.
+
+او افزود جمهوری اسلامی همچنین می‌توانست شهرهایی مانند لس‌آنجلس و سن‌دیگو در آمریکا را هدف حمله قرار دهد.
+ @iranintltv
+
+  ![Media](media/2026-10-09/9801b1c4a80b736c.jpg)
+- **`Reuters Wire`** [Trump says Russia to supply diesel to US and global market - Reuters](https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5) — `23:41 IRST` / `20:11 UTC`
+  > Trump says Russia to supply diesel to US and global market    Reuters
+- **`Hacker News`** [No Man Is an Island](https://borretti.me/article/no-man-is-an-island) — `23:34 IRST` / `20:04 UTC`
+  > Article URL: https://borretti.me/article/no-man-is-an-island 
+ Comments URL: https://news.ycombinator.com/item?id=50025935 
+ Points: 30 
+ # Comments: 7
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی منتشرشده نشان می‌دهد مادر جاویدنام آرش یزدانی در نهمین ماه کشته شدن فرزندش، ۹ سیب را درون ظرف می‌گذارد و می‌گوید:...](https://t.me/IranintlTV/361504) — `23:33 IRST` / `20:03 UTC`
+  > ویدیوی منتشرشده نشان می‌دهد مادر جاویدنام آرش یزدانی در نهمین ماه کشته شدن فرزندش، ۹ سیب را درون ظرف می‌گذارد و می‌گوید: «۹ ماه است که تو را ندارم و دلم برایت تنگ شده.»
+آرش یزدانی، ۲۷ ساله، ۱۸ دی‌ ۱۴۰۴ در محدوده هفت‌حوض تهران بر اثر شلیک مستقیم نیروهای حکومت کشته شد.
+
+  ![Media](media/2026-10-09/82f8a600dba6d127.jpg)
+- **`Reuters Wire`** [EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5) — `23:28 IRST` / `19:58 UTC`
   > EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی منتشرشده در رسانه‌های اجتماعی، مزار جاویدنام علیرضا رئیسی را در بیابان‌های شهرستان انارک در استان اصفهان نشان می‌...](https://t.me/IranintlTV/361464) — `19:04 IRST` / `15:34 UTC`
-  > ویدیوی منتشرشده در رسانه‌های اجتماعی، مزار جاویدنام علیرضا رئیسی را در بیابان‌های شهرستان انارک در استان اصفهان نشان می‌دهد.
-﻿این معترض ۲۱ ساله و از بازداشت‌شدگان دی‌ماه ۱۴۰۴، بامداد دوشنبه ۱۳ مهر ۱۴۰۵ به همراه علیرضا سپاهی در زندان دستگرد اصفهان اعدام شد.
+- **`Hacker News`** [open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI](https://codeberg.org/ethical-foss/open-slopware) — `23:20 IRST` / `19:50 UTC`
+  > Article URL: https://codeberg.org/ethical-foss/open-slopware 
+ Comments URL: https://news.ycombinator.com/item?id=50025767 
+ Points: 5 
+ # Comments: 0
+- **`Reuters Wire`** [Katie Zacharia picked as White House press secretary - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXZfSE5tdU1qaXV4LWl1Z2hYclJVU1dVSlFWQTZQV1J6RzQydkxoZjFqTTJxc3lLNTNoaHVPOTBzbHdBUFBkcHdEWGpldVJ1Vzk1NE9EUkJfMnFNOEQxVkZfUGZmVS00M01FMGFiOENBME4xbTlZWmRBVVNNbERDNkRFSjA4dDA4LUx1MTlpZnh1VU9lWUEweld4ZG96b0QzTF9uZGhyTkxjQQ?oc=5) — `23:13 IRST` / `19:43 UTC`
+  > Katie Zacharia picked as White House press secretary    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: حمله به جمهوری‌اسلامی, آمریکا را از تهدید اتمی نجات داد.](https://t.me/IranintlTV/361503) — `23:12 IRST` / `19:42 UTC`
+  > 🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: حمله به جمهوری‌اسلامی, آمریکا را از تهدید اتمی نجات داد.
+ @iranintlTV
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🗣 روایت شما از شرایط زندگی و بحران اقتصادی- جمعه ۱۷ مهر:](https://t.me/IranintlTV/361502) — `23:06 IRST` / `19:36 UTC`
+  > 🗣 روایت شما از شرایط زندگی و بحران اقتصادی- جمعه ۱۷ مهر: 
 
-  ![Media](media/2026-10-09/36c710c038c0595c.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 تیم فوتبال پرسپولیس در هفته هشتم لیگ برتر، صنعت نفت آبادان را با نتیجه سه بر یک شکست داد.](https://t.me/IranintlTV/361463) — `19:04 IRST` / `15:34 UTC`
-  > 🔻 تیم فوتبال پرسپولیس در هفته هشتم لیگ برتر، صنعت نفت آبادان را با نتیجه سه بر یک شکست داد.
+ 🔹 شرکت داروسازی ابوریحان در شرق تهران و مدیرانش،‌ حق و حقوق و معیشت کارگران و به‌خصوص پیمانکاران را خیلی ضایع کردند.
 
- 🔹 تیوی بیفوما در دقیقه ۵، علی علیپور در دقیقه ۵۳ از روی نقطه پنالتی و اوستون اورونوف در دقیقه ۸۵ برای پرسپولیس و محمدحسین باصری در دقیقه ۶۶ برای صنعت نفت گل زدند.
+ 🔹 یه گوشی موبایل سامسونگ مدل A54 تا سه ماه پیش ۵۰ میلیون بود الان شده ۱۲۰ میلیون. 
 
- 🔹 پرسپولیس با این ...
-
-  ![Media](media/2026-10-09/56bb70261b7ff9c2.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مصطفی میرسلیم، عضو مجمع تشخیص مصلحت نظام، به سایت خبر فوری گفت: «واردات خودرو به سود کشوری است که از آن‌جا خودرو به کشور...](https://t.me/IranintlTV/361461) — `19:00 IRST` / `15:30 UTC`
-  > مصطفی میرسلیم، عضو مجمع تشخیص مصلحت نظام، به سایت خبر فوری گفت: «واردات خودرو به سود کشوری است که از آن‌جا خودرو به کشور ما می‌آید. مرگ مردم در تصادفات رانندگی به علت رانندگی بد آن‌ها است و ارتباطی به کیفیت خودروهای داخلی ندارد.» 
-
-او افزود: «اینکه بگویند میزان مرگ و میر در تص...
-
-  ![Media](media/2026-10-09/414d8d82e7622446.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [هم‌زمان با تشدید فضای امنیتی در شهرهای ایران، پیام‌های مخاطبان ایران‌اینترنشنال حاکی از حضور نیروهای حکومتی در اماکن عمو...](https://t.me/IranintlTV/361460) — `19:00 IRST` / `15:30 UTC`
-  > هم‌زمان با تشدید فضای امنیتی در شهرهای ایران، پیام‌های مخاطبان ایران‌اینترنشنال حاکی از حضور نیروهای حکومتی در اماکن عمومی و مدارس است.
-
-مخاطبان می‌گویند نیروهای یگان ویژه در نقاط مختلف تهران مستقر شده‌اند. شماری از دانش‌آموزان نیز از تشدید حضور ماموران حکومتی در مدارس و دیگر ...
-
-  ![Media](media/2026-10-09/7257aecc50def867.jpg)
-- **`ایران اینترنشنال`** [مصطفی میرسلیم: مرگ مردم در تصادفات به دلیل رانندگی بد آن‌هاست، نه کیفیت خودروی داخلی](https://www.iranintl.com/202610095808) — `18:56 IRST` / `15:26 UTC`
-  > مصطفی میرسلیم، عضو مجمع تشخیص مصلحت نظام، به سایت خبر فوری گفت: «واردات خودرو به سود کشوری است که از آن جا خودرو به کشور ما می‌آید. مرگ مردم در تصادفات رانندگی به علت رانندگی بد آن‌ها است و ارتباطی به کیفیت خودروهای داخلی ندارد.»
-
-  ![Media](media/2026-10-09/74507e5a0f3f1072.jpg)
-- **`ایران اینترنشنال`** [پرسپولیس ۳-۱ صنعت نفت آبادان؛ پرسپولیس به یک‌قدمی صدر جدول رسید](https://www.iranintl.com/202610091155) — `18:54 IRST` / `15:24 UTC`
-  > تیم فوتبال پرسپولیس در هفته هشتم لیگ برتر، صنعت نفت آبادان را با نتیجه سه بر یک شکست داد. پرسپولیس با این برد، ۱۶ امتیازی شد و با یک بازی کمتر و تفاضل گل بهتر نسبت به استقلال، به رده دوم جدول رسید.
-
-  ![Media](media/2026-10-09/41f741d1abacd059.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [اسکات بسنت، وزیر خزانه‌داری آمریکا، در گفت‌وگو با شبکه نیوزمکس اعلام کرد امارات متحده عربی و عمان در اجرای کارزار «انزوا...](https://t.me/IranintlTV/361459) — `18:48 IRST` / `15:18 UTC`
-  > اسکات بسنت، وزیر خزانه‌داری آمریکا، در گفت‌وگو با شبکه نیوزمکس اعلام کرد امارات متحده عربی و عمان در اجرای کارزار «انزوای کامل» با واشینگتن همکاری می‌کنند و دولت آمریکا در حال رایزنی با پاکستان و ترکیه برای بستن مسیرهای زمینی ورود و خروج از ایران است. 
-
-او افزود دولت دونالد تر...
-
-  ![Media](media/2026-10-09/e4cad588fd22b6ab.jpg)
-- **`ایران اینترنشنال`** [اسکات بسنت: در حال رایزنی با پاکستان و ترکیه برای بستن مسیرهای زمینی ایران هستیم](https://www.iranintl.com/202610092004) — `18:45 IRST` / `15:15 UTC`
-  > اسکات بسنت، وزیر خزانه‌داری آمریکا، در گفت‌وگو با شبکه نیوزمکس اعلام کرد امارات متحده عربی و عمان در اجرای کارزار «انزوای کامل» با واشینگتن همکاری می‌کنند و دولت آمریکا در حال رایزنی با پاکستان و ترکیه برای بستن مسیرهای زمینی ورود و خروج از ایران است.
-
-  ![Media](media/2026-10-09/d357f275cc6ac5b2.jpg)
+ 🔹 از بیرجند: ...
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-09 - ساعت 20:30](news/2026-10-09/20-30.md)
 - 📅 [2026-10-09 - ساعت 15:30](news/2026-10-09/15-30.md)
 - 📅 [2026-10-09 - ساعت 08:30](news/2026-10-09/08-30.md)
 - 📅 [2026-10-09 - ساعت 01:30](news/2026-10-09/01-30.md)
