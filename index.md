@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-10 00:17 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-10 04:07 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,74 +13,76 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [کشته شدن سه نفر در حمله حوثی‌ها به فرودگاه ریاض؛ بسیاری از پروازها به پایتخت عربستان لغو شد](https://www.bbc.co.uk/persian/live/cjkge3vzy3qzt?at_medium=RSS&at_campaign=rss) — `00:17 IRST` / `20:47 UTC`
+- **`بی‌بی‌سی فارسی`** [کرملین: ترامپ از نقش روسیه در حل‌وفصل موضوع ایران استقبال کرد](https://www.bbc.co.uk/persian/live/cqy8lxkp54ygt?at_medium=RSS&at_campaign=rss) — `04:07 IRST` / `00:37 UTC`
+  > رویترز به نقل از کرملین گزارش داده است که دونالد ترامپ، رئیس‌جمهور آمریکا، در گفت‌وگوی تلفنی با ولادیمیر پوتین از مشارکت روسیه در تلاش‌ها برای حل‌وفصل موضوع ایران استقبال کرده است. همزمان رسانه‌های ایران به نقل از یوری اوشاکوف، دستیار رئیس‌جمهور روسیه، گزارش داده‌اند که پوتین ...
+
+  ![Media](media/2026-10-10/28c5c3aa7e5f3489.jpg)
+- **`بی‌بی‌سی فارسی`** [آنچه گذشت؛ کشته شدن سه نفر در حمله حوثی‌ها به فرودگاه ریاض](https://www.bbc.co.uk/persian/live/cjkge3vzy3qzt?at_medium=RSS&at_campaign=rss) — `04:07 IRST` / `00:37 UTC`
   > با شدت گرفتن نبرد میان حوثی‌ها و عربستان سعودی و نیروهای تحت رهبری‌اش، حدود یک پنجم پروازها از و به فرودگاه ریاض، پایتخت عربستان سعودی لغو شد و بسیاری از شرکت‌های هوایی پروازهایشان را به مقصد ریاض متوقف کرده‌اند. مقامات عربستان «کشته شدن سه نفر و زخمی شدن تعدادی دیگر» در حملات...
-- **`بی‌بی‌سی فارسی`** [آنچه گذشت؛ ترامپ: قبل از انتخابات میان‌دوره‌ای به ایران حمله نخواهیم کرد](https://www.bbc.co.uk/persian/live/cky93qlnzngxt?at_medium=RSS&at_campaign=rss) — `00:17 IRST` / `20:47 UTC`
-  > دونالد ترامپ، رئیس جمهوری آمریکا، گفت: ما در حال انجام گفتگوهای سازنده‌ای با جمهوری اسلامی ایران هستیم و به هیچوجه پیش از انتخابات میان‌دوره‌ای ایالات متحده، به ایران حمله نخواهیم کرد. او در پستی نوشت: «می‌خواهم برای همگان روشن کنم که با وجود وضعیت بسیار نامساعد ایران چه از نظ...
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [هندیا ریدن به ایلان ماسک موکش آمبانی مالک اپراتور هندی Jio همونی که اشتراکای جمنای پرو به ایرانیا میده داره سنگ میندازه ...](https://t.me/Linuxor/5624) — `00:13 IRST` / `20:43 UTC`
-  > هندیا ریدن به ایلان ماسک موکش آمبانی مالک اپراتور هندی Jio همونی که اشتراکای جمنای پرو به ایرانیا میده داره سنگ میندازه جلوی پای ایلان ماسک که اینترنت هند رو تصرف نکنه.
 
-ایلان ماسک هم زده به کوچه مظلوم نمایی :
+  ![Media](media/2026-10-10/ba4ca608500790ff.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [زلنسکی در مصاحبه تلفنی با اکسیوس تصمیم ترامپ را برای لغو یک‌جانبه تحریم‌های روسیه و اجازه دادن به این کشور برای صادرات گ...](https://t.me/IranintlTV/361529) — `04:07 IRST` / `00:37 UTC`
+  > زلنسکی در مصاحبه تلفنی با اکسیوس تصمیم ترامپ را برای لغو یک‌جانبه تحریم‌های روسیه و اجازه دادن به این کشور برای صادرات گازوییل، «ناعادلانه و غیرصادقانه» خواند. او گفت: «این اقدام شبیه هدیه تولد برای پوتین است. واقعا افتضاح به نظر می‌رسد.»
+زلنسکی تاکید کرد که آمریکا در هیچ مرحل...
 
-جناب نخست‌وزیر آمبانی،
+  ![Media](media/2026-10-10/929d8ce952307737.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ، رییس‌جمهوری آمریکا، از دیوان عالی ایالات متحده خواست پرونده شکایت او علیه هیلاری کلینتون، رقیب دموکراتش در...](https://t.me/IranintlTV/361528) — `03:52 IRST` / `00:22 UTC`
+  > دونالد ترامپ، رییس‌جمهوری آمریکا، از دیوان عالی ایالات متحده خواست پرونده شکایت او علیه هیلاری کلینتون، رقیب دموکراتش در انتخابات ریاست‌جمهوری سال ۲۰۱۶ را دوباره به جریان بیندازد.
+ترامپ کلینتون را متهم کرده است که به همراه جیمز کومی، رییس پیشین اف‌بی‌آی، و چند نفر دیگر برای دس...
 
-لطفاً عذرخواهی صمیمانه و فروتنانه‌ی من رو ...
+  ![Media](media/2026-10-10/8861e7f1209342b7.jpg)
+- **`ایران اینترنشنال`** [ترامپ از دیوان عالی خواست شکایتش از هیلاری کلینتون درباره انتخابات را باز به جریان بیندازد](https://www.iranintl.com/202610102193) — `03:39 IRST` / `00:09 UTC`
+  > دونالد ترامپ، رییس‌جمهوری آمریکا، از دیوان عالی ایالات متحده خواست پرونده شکایت او علیه هیلاری کلینتون، رقیب دموکراتش در انتخابات ریاست‌جمهوری سال ۲۰۱۶ را دوباره به جریان بیندازد.
 
-  ![Media](media/2026-10-09/e94066a34c5d05fa.jpg)
-- **`بی‌بی‌سی فارسی`** [ونس درباره اعدام با جوخه آتش ابراز تردید کرد؛ «آن را تماشا نمی‌کنم»](https://www.bbc.com/persian/articles/c63r5wp957wvo?at_medium=RSS&at_campaign=rss) — `00:07 IRST` / `20:37 UTC`
-  > جی‌دی ونس، معاون رئیس‌جمهور آمریکا، درباره طرح پنتاگون برای پخش زنده اعدام با جوخه آتش عامل تیراندازی فورت هود ابراز تردید کرده است.
+  ![Media](media/2026-10-10/ea2227776cd6ba7a.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 کریستیانو رونالدو در نخستین بازی خود پس از ترک پرحاشیه اردوی تیم ملی پرتغال، در پیروزی ۳ بر صفر النصر مقابل الدریه در ...](https://t.me/IranintlTV/361524) — `03:05 IRST` / `23:35 UTC`
+  > 🔻 کریستیانو رونالدو در نخستین بازی خود پس از ترک پرحاشیه اردوی تیم ملی پرتغال، در پیروزی ۳ بر صفر النصر مقابل الدریه در لیگ حرفه‌ای عربستان سعودی گلزنی کرد. این گل شماره ۹۸۰ فوق‌ستاره بود.
 
-  ![Media](media/2026-10-09/4734b4859ebb82da.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [یک شهروند از تهران با انتشار ویدیویی در رسانه‌های اجتماعی، می‌گوید برخی جایگاه‌داران، نازل‌های سوخت را می‌بندند و اجازه ...](https://t.me/IranintlTV/361506) — `00:04 IRST` / `20:34 UTC`
-  > یک شهروند از تهران با انتشار ویدیویی در رسانه‌های اجتماعی، می‌گوید برخی جایگاه‌داران، نازل‌های سوخت را می‌بندند و اجازه استفاده از کارت سوخت شخصی را به مردم نمی‌دهند: «فقط دو دستگاه را فعال می‌گذارند تا مردم مجبور به خرید بنزین آزاد شوند.»
+ 🔹 هواداران النصر نیز پیش از آغاز مسابقه با بنری بزرگ از این فوق‌ستاره که در روزهای اخی...
 
-  ![Media](media/2026-10-09/6fb1c1237e733298.jpg)
-- **`Reuters Wire`** [Powerful quake hits Panama, damages homes; canal operations normal - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5) — `23:50 IRST` / `20:20 UTC`
-  > Powerful quake hits Panama, damages homes; canal operations normal    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ گفت اگر حکومت ایران به سلاح هسته‌ای دست می‌یافت، ممکن بود پس از حمله به اسرائیل و دیگر نقاط خاورمیانه، کشور...](https://t.me/IranintlTV/361505) — `23:44 IRST` / `20:14 UTC`
-  > دونالد ترامپ گفت اگر حکومت ایران به سلاح هسته‌ای دست می‌یافت، ممکن بود پس از حمله به اسرائیل و دیگر نقاط خاورمیانه، کشورهای اروپایی را نیز هدف قرار دهد.
+  ![Media](media/2026-10-10/8b99fe76814f816e.jpg)
+- **`ایران اینترنشنال`** [بی‌توجه به حواشی تیم ملی پرتغال، رونالدو گل شماره ۹۸۰ را هم ثبت کرد](https://www.iranintl.com/202610096324) — `02:59 IRST` / `23:29 UTC`
+  > کریستیانو رونالدو در نخستین بازی خود پس از ترک پرحاشیه اردوی تیم ملی پرتغال، در پیروزی ۳ بر صفر النصر مقابل الدریه در لیگ حرفه‌ای عربستان سعودی گلزنی کرد. این گل شماره ۹۸۰ فوق‌ستاره بود.
 
-او افزود جمهوری اسلامی همچنین می‌توانست شهرهایی مانند لس‌آنجلس و سن‌دیگو در آمریکا را هدف حمله قرار دهد.
- @iranintltv
+  ![Media](media/2026-10-10/0f1f1906645dbf01.jpg)
+- **`بی‌بی‌سی فارسی`** [«هر روز مرگ در کمین است»؛ زندگی در غزه با ادامه حملات اسرائیل](https://www.bbc.com/persian/articles/cjy5639lw60qo?at_medium=RSS&at_campaign=rss) — `02:51 IRST` / `23:21 UTC`
+  > در غزه، آتش‌بس به معنای توقف بمباران گسترده اسرائیل بود که تا حد زیادی باعث آسودگی مردم شد و ورود کمک‌های بشردوستانه و تجهیزات پزشکی به این منطقه را افزایش داد.
+اما اسرائیل حتی در دوران آتش‌بس نیز تقریبا هر روز به حملات خود در غزه ادامه داده است. به گفته وزارت بهداشت غزه، تنها...
 
-  ![Media](media/2026-10-09/9801b1c4a80b736c.jpg)
-- **`Reuters Wire`** [Trump says Russia to supply diesel to US and global market - Reuters](https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5) — `23:41 IRST` / `20:11 UTC`
-  > Trump says Russia to supply diesel to US and global market    Reuters
-- **`Hacker News`** [No Man Is an Island](https://borretti.me/article/no-man-is-an-island) — `23:34 IRST` / `20:04 UTC`
-  > Article URL: https://borretti.me/article/no-man-is-an-island 
- Comments URL: https://news.ycombinator.com/item?id=50025935 
- Points: 30 
- # Comments: 7
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی منتشرشده نشان می‌دهد مادر جاویدنام آرش یزدانی در نهمین ماه کشته شدن فرزندش، ۹ سیب را درون ظرف می‌گذارد و می‌گوید:...](https://t.me/IranintlTV/361504) — `23:33 IRST` / `20:03 UTC`
-  > ویدیوی منتشرشده نشان می‌دهد مادر جاویدنام آرش یزدانی در نهمین ماه کشته شدن فرزندش، ۹ سیب را درون ظرف می‌گذارد و می‌گوید: «۹ ماه است که تو را ندارم و دلم برایت تنگ شده.»
-آرش یزدانی، ۲۷ ساله، ۱۸ دی‌ ۱۴۰۴ در محدوده هفت‌حوض تهران بر اثر شلیک مستقیم نیروهای حکومت کشته شد.
+  ![Media](media/2026-10-10/9b2a7d342aedc134.jpg)
+- **`Reuters Wire`** [Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5) — `02:48 IRST` / `23:18 UTC`
+  > Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China    Reuters
+- **`بی‌بی‌سی فارسی`** [آیا هوش مصنوعی واقعا می‌تواند بشر را از میان ببرد؟](https://www.bbc.com/persian/articles/c54g7ddglg97o?at_medium=RSS&at_campaign=rss) — `02:38 IRST` / `23:08 UTC`
+  > هشدارهای صریح پژوهشگران درباره خطر فزاینده خارج شدن این فناوری از کنترل، نگرانی‌ها درباره ایمنی هوش مصنوعی را تشدید کرده است.
 
-  ![Media](media/2026-10-09/82f8a600dba6d127.jpg)
-- **`Reuters Wire`** [EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5) — `23:28 IRST` / `19:58 UTC`
-  > EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize    Reuters
-- **`Hacker News`** [open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI](https://codeberg.org/ethical-foss/open-slopware) — `23:20 IRST` / `19:50 UTC`
-  > Article URL: https://codeberg.org/ethical-foss/open-slopware 
- Comments URL: https://news.ycombinator.com/item?id=50025767 
+  ![Media](media/2026-10-10/8cbd76166b143b9a.jpg)
+- **`Hacker News`** [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust) — `02:36 IRST` / `23:06 UTC`
+  > Article URL: https://www.primeintellect.ai/blog/prime-agent-rust 
+ Comments URL: https://news.ycombinator.com/item?id=50027694 
  Points: 5 
  # Comments: 0
-- **`Reuters Wire`** [Katie Zacharia picked as White House press secretary - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXZfSE5tdU1qaXV4LWl1Z2hYclJVU1dVSlFWQTZQV1J6RzQydkxoZjFqTTJxc3lLNTNoaHVPOTBzbHdBUFBkcHdEWGpldVJ1Vzk1NE9EUkJfMnFNOEQxVkZfUGZmVS00M01FMGFiOENBME4xbTlZWmRBVVNNbERDNkRFSjA4dDA4LUx1MTlpZnh1VU9lWUEweld4ZG96b0QzTF9uZGhyTkxjQQ?oc=5) — `23:13 IRST` / `19:43 UTC`
-  > Katie Zacharia picked as White House press secretary    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: حمله به جمهوری‌اسلامی, آمریکا را از تهدید اتمی نجات داد.](https://t.me/IranintlTV/361503) — `23:12 IRST` / `19:42 UTC`
-  > 🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: حمله به جمهوری‌اسلامی, آمریکا را از تهدید اتمی نجات داد.
- @iranintlTV
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🗣 روایت شما از شرایط زندگی و بحران اقتصادی- جمعه ۱۷ مهر:](https://t.me/IranintlTV/361502) — `23:06 IRST` / `19:36 UTC`
-  > 🗣 روایت شما از شرایط زندگی و بحران اقتصادی- جمعه ۱۷ مهر: 
+- **`Reuters Wire`** [Strong Panama quake shakes nation, but avoids major destruction - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5) — `02:30 IRST` / `23:00 UTC`
+  > Strong Panama quake shakes nation, but avoids major destruction    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ترامپ در تروث‌سوشال نوشت که کیتی زاکاریا، مشاور ارشد ارتباطات تروت سوشال را به سمت سخنگوی کاخ سفید منصوب کرده است.](https://t.me/IranintlTV/361523) — `02:28 IRST` / `22:58 UTC`
+  > ترامپ در تروث‌سوشال نوشت که کیتی زاکاریا، مشاور ارشد ارتباطات تروت سوشال را به سمت سخنگوی کاخ سفید منصوب کرده است.
+ترامپ گفت این وکیل و تحلیل‌گر در سمت خود در تروت سوشال «عملکرد فوق‌العاده‌ای» داشته است
+به گفته دونالد ترامپ، زاکاریا فارغ‌التحصیل برجسته دانشگاه پپرداین و دانشکد...
 
- 🔹 شرکت داروسازی ابوریحان در شرق تهران و مدیرانش،‌ حق و حقوق و معیشت کارگران و به‌خصوص پیمانکاران را خیلی ضایع کردند.
+  ![Media](media/2026-10-10/9eec6d84972463b7.jpg)
+- **`Reuters Wire`** [Republican opposition widens to livestreamed execution; Trump still weighing it - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaE12czZ4Y1pNSFk4OVRfaVlSc3dXbGxZXzJPZkk1aDJpaDR0THc5aF9TT0YyZS1WWkVnT2lmQjJGQ0JfZnZZY08yR1E1MXZna2NVaXVkV2RoV2sxNmM0RWZvemlVbVRmSFF5a3F4TERQQnZONzYzVUZJMjhxSTJUeXRJc21lQ2NTN2FHZ3pHeGFoVVZKX2tLX0M0WWNKU2NaUzY5Wi1CR2VsU2NDRjA1Yk1jMDU1T0ZYYkFlbnZFbFA?oc=5) — `02:26 IRST` / `22:56 UTC`
+  > Republican opposition widens to livestreamed execution; Trump still weighing it    Reuters
+- **`ایران اینترنشنال`** [ترامپ مشاور ارشد تروث‌سوشال را به عنوان سخنگوی کاخ سفید منصوب کرد](https://www.iranintl.com/202610091885) — `02:20 IRST` / `22:50 UTC`
+  > ترامپ در تروث‌سوشال نوشت که کیتی زاکاریا، مشاور ارشد ارتباطات تروت سوشال را به سمت سخنگوی کاخ سفید منصوب کرده است.
 
- 🔹 یه گوشی موبایل سامسونگ مدل A54 تا سه ماه پیش ۵۰ میلیون بود الان شده ۱۲۰ میلیون. 
+ترامپ گفت این وکیل و تحلیل‌گر در سمت خود در تروت سوشال «عملکرد فوق‌العاده‌ای» داشته است
 
- 🔹 از بیرجند: ...
+  ![Media](media/2026-10-10/fcb150337090156c.jpg)
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-10 - ساعت 00:30](news/2026-10-10/00-30.md)
 - 📅 [2026-10-09 - ساعت 20:30](news/2026-10-09/20-30.md)
 - 📅 [2026-10-09 - ساعت 15:30](news/2026-10-09/15-30.md)
 - 📅 [2026-10-09 - ساعت 08:30](news/2026-10-09/08-30.md)
