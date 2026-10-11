@@ -1,40 +1,385 @@
 {
-  "generated_at_utc": "2026-10-10T22:21:41.053439+00:00",
-  "generated_at_tehran": "2026-10-11T01:51:41.053439+03:30",
+  "generated_at_utc": "2026-10-11T01:43:50.231442+00:00",
+  "generated_at_tehran": "2026-10-11T05:13:50.231442+03:30",
   "article_count": 100,
   "articles": [
     {
-      "hash": "96fcaf867661361b",
-      "title": "حمله موشکی به فرودگاه ریاض و واکنش ترامپ: خیلی سریع عمل می‌کنیم",
-      "link": "https://www.bbc.co.uk/persian/live/cqy8lxkp54ygt?at_medium=RSS&at_campaign=rss",
-      "summary": "فرودگاه بین‌المللی ریاض در حمله موشکی حوثی‌های یمن هدف قرار گرفت و فعالیت آن متوقف شد. یک منبع پزشکی به خبرگزاری فرانسه گفت که دست‌کم دو نفر در این حمله کشته شده‌اند؛ یکی مهماندار مصری یک شرکت هواپیمایی سعودی و دیگری یک فلسطینی با مدارک سفر مصری. منابع بیمارستانی همچنین از زخمی شدن ده‌ها نفر خبر داده‌اند. دونالد ترامپ گفته که به‌زودی درباره پیوستن به حملات عربستان علیه حوثی‌ها تصمیم خواهد گرفت و ا...",
+      "hash": "a3938d6031ddf38e",
+      "title": "۱۲ کشته و ۳۰۹ زخمی در حمله به فرودگاه ریاض",
+      "link": "https://www.bbc.co.uk/persian/live/cxnv0q40ee61t?at_medium=RSS&at_campaign=rss",
+      "summary": "سازمان هواپیمایی کشوری عربستان سعودی می‌گوید که در حمله به فرودگاه بین‌المللی ملک خالد در ریاض، دست‌کم ۱۲ نفر کشته و ۳۰۹ نفر زخمی شده‌اند. این سومین حمله به فرودگاه ریاض در یک هفته است؛ حوثی‌های یمن مسئولیت دو حمله قبلی را پذیرفته بودند، اما هنوز مسئولیت حمله تازه را بر عهده نگرفته‌اند. در پی این حمله، پروازها از فرودگاه ریاض تغییر مسیر داده شده و دونالد ترامپ گفت که به‌زودی درباره احتمال پیوستن ب...",
       "source_id": "bbc_persian",
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-10-10T22:21:44.429012+00:00",
-      "published_epoch": 1791670904,
+      "published_at": "2026-10-11T01:43:53.326648+00:00",
+      "published_epoch": 1791683033,
       "rtl": true,
       "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ac/live/0bcee040-c4e8-11f1-900e-31f5a5ac5102.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6955/live/3e3900e0-c4f9-11f1-a64c-550be9e3c66b.jpg"
       ],
+      "local_media_path": "media/2026-10-11/0e14e789911f798f.jpg"
+    },
+    {
+      "hash": "6013520b4cde4316",
+      "title": "ترامپ: ایران کشوری دیوانه است؛ خیلی سریع به این ماجرا پایان می‌دهیم",
+      "link": "https://www.bbc.com/persian/articles/cqkgjy1lx824o?at_medium=RSS&at_campaign=rss",
+      "summary": "دونالد ترامپ، رئیس‌جمهور آمریکا، در یک گردهمایی انتخاباتی جمهوری‌خواهان در سیراکیوز ایالت نیویورک، بار دیگر با لحنی تند درباره ایران سخن گفت و این کشور را «دیوانه» و «بسیار شرور» توصیف کرد.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-11T01:30:46+00:00",
+      "published_epoch": 1791682246,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c8e/live/b519f850-c511-11f1-9a39-31b474234113.jpg"
+      ],
+      "local_media_path": "media/2026-10-11/fa1fdb7c57e379a5.jpg"
+    },
+    {
+      "hash": "72fd411c5b88ad71",
+      "title": "هاآرتص: حملات حوثی‌ها می‌تواند زمان ورود آمریکا به جنگ با جمهوری اسلامی را تعیین کند",
+      "link": "https://www.iranintl.com/202610114419",
+      "summary": "روزنامه هاآرتص در تحلیلی نوشت حملات حوثی‌ها به عربستان سعودی، راهبرد واشینگتن برای سپردن امنیت منطقه به کشورهای آن را به آزمون گذاشته است؛ مداخله آمریکا در حمایت از ریاض نیز می‌تواند این کشور را در زمانی که حوثی‌ها تعیین می‌کنند، به جنگ با حکومت ایران بکشاند.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-11T01:10:27+00:00",
+      "published_epoch": 1791681027,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/799b53b1570a6dfdd6ba63d85b15912bdaa8f115-900x600.jpg?rect=0,65,900,471&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-11/2e2d7f992a302be8.jpg"
+    },
+    {
+      "hash": "0cd95ce1b509877d",
+      "title": "ستاد فرماندهی مرکزی آمریکا، سنتکام، شنبه اعلام کرد یک کشتی باری تجاری را در دریای عمان که با نادیده گرفتن هشدارها تلاش ک...",
+      "link": "https://t.me/IranintlTV/361662",
+      "summary": "ستاد فرماندهی مرکزی آمریکا، سنتکام، شنبه اعلام کرد یک کشتی باری تجاری را در دریای عمان که با نادیده گرفتن هشدارها تلاش کرده بود از محاصره دریایی ایران عبور کند، از کار انداخته است.\nطبق اعلام سنتکام، یک جنگنده ارتش آمریکا با استفاده از مهمات نقطه‌زن، بخش انتهایی کشتی اوشن مولیکا با پرچم پاناما را که با نام آریکا سان نیز شناخته می‌شود، هدف قرار داد و سامانه پیشران این کشتی را بدون آسیب رساندن به خدمه، به‌طور کامل از کار انداخت.\nسنتکام اعلام کرد این کشتی باری پس از ترک یکی از بنادر ایران، تلاش کرده بود از آب‌های منطقه عبور کند.\n\n https://iranintl.com/202610113002",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-11T01:08:49+00:00",
+      "published_epoch": 1791680929,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/DfaOtcTjYrxboQcVr2r5FmxMUNaeISXp0kHLpC3qa5iJfUujq-8cP81fatY_rilAZprpEYESJlyAZB4JDbEZW2HtxUd-I-EnhT9-OQvIAYT_nZ_sPCIhNRv1FUzMPoVj5BtozuzdRn6q572DnV_qw4s0IAlofVw-svJu-jSjCR2LLjuqcXS3YpHPFzUuBAHlFDkXZa853_8aLsUQdE8HK68jICKGCSUJBSKMhL0hUA7334fIb7L36IzL8DFbMrnmXag3Wf15DAJHNXT1qgHUVwXZ21A2-MgQXhGqFhHHlNHR50QV8gIjgLs4mEV1Y8TRB3I_WpzC5Be5UOxggtxd3A.jpg"
+      ],
+      "local_media_path": "media/2026-10-11/8eacf54ae51c8fad.jpg"
+    },
+    {
+      "hash": "75e13732aea37636",
+      "title": "مارکو روبیو، وزیر خارجه آمریکا، شنبه ۱۸ مهر اعلام کرد یک شهروند آمریکایی در حملات اخیر به عربستان سعودی کشته شده است و و...",
+      "link": "https://t.me/IranintlTV/361661",
+      "summary": "مارکو روبیو، وزیر خارجه آمریکا، شنبه ۱۸ مهر اعلام کرد یک شهروند آمریکایی در حملات اخیر به عربستان سعودی کشته شده است و واشینگتن این حملات را به‌شدت محکوم می‌کند.\n\nروبیو در پیامی در شبکه اجتماعی ایکس نوشت: «این حملات نفرت‌انگیز نشان‌دهنده بی‌اعتنایی آشکار به جان غیرنظامیان بی‌گناه است. این حملات باید همین حالا متوقف شوند.»\n\nبه گزارش رویترز، وزیر خارجه آمریکا در این پیام تاکید کرد که ایالات متحده حملات اخیر به عربستان سعودی را به‌شدت محکوم می‌کند.\n\nروبیو در پیام خود جزییات بیشتری درباره هویت شهروند آمریکایی کشته‌شده یا محل دقیق کشته شدن او ارائه نکرد.\n https://iranintl.com/202610110431",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-11T00:59:13+00:00",
+      "published_epoch": 1791680353,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/uPogm_7y7QkN1f8gVjDMUuyPwIR93CEN5XquP7kSd9PHRhDGF1w7qYJ9OejI1m_mPox0xBNw5hWXWRcFiAtyp7Qoajq9hLHOxwbXOIPBgidNj2CVQrmXWtkUmX7hLfptIjlhTgJG9VPp1wZc4Vng7mopAphpk2lqQ15V0rtagL7tyffUOt74BMMwOIgG1tbq7E2fH0C_TBwEzcNjFVeKIpISVA3zcmpJz1bWl_McYeK8DZwqjUFhsEX5eYtqYvbzyKS6CetlUNSlcTypqgoDJ_S-P8na_kLIxJ_zGth4j4Hj-ZNUgTUSt4qwZ7bc1ViuoCt2w76mu3a3ivaoujcqFg.jpg"
+      ],
+      "local_media_path": "media/2026-10-11/b719b810aa95dfe9.jpg"
+    },
+    {
+      "hash": "4bbf8676458ec947",
+      "title": "سازمان عملیات تجارت دریایی بریتانیا یکشنبه اعلام کرد گزارشی دریافت کرده است مبنی بر اینکه یک نفتکش در حال خروج از تنگه ه...",
+      "link": "https://t.me/IranintlTV/361660",
+      "summary": "سازمان عملیات تجارت دریایی بریتانیا یکشنبه اعلام کرد گزارشی دریافت کرده است مبنی بر اینکه یک نفتکش در حال خروج از تنگه هرمز، از سمت چپ با پرتابه‌ای ناشناس هدف قرار گرفته و در پی آن آتش‌سوزی در کشتی رخ داده است.\nاین سازمان اعلام کرد که بر اساس گزارش‌های دریافتی، خدمه نفتکش در سلامت هستند و در زمان انتشار گزارش، میزان خسارت واردشده به کشتی و پیامدهای زیست‌محیطی این حادثه مشخص نبود.\n\n https://iranintl.com/202610106846",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-11T00:54:14+00:00",
+      "published_epoch": 1791680054,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/kQNvSvPXmmbF0uUiEzq35nm63Vv6SB8aLeeWfxFyfwQClWUBR1k7txugxj1imCdTbgpC5S8eI9MCTXgp3TjFti89-lYjBPfIL9BE_uFmXs9UaxC0MqFP9zATcyGf_7d1ccgy-SOit7BGuGOsZI707TiC19hVlZXhuHec3GRxBxdEG-koMYZLNm1GNDuExwZC2KEiRP2_mr53B6MWxh3NHp6WZDezymLp3BkqjJLHwmxE1moX2ltddzMA650JbBwWIbH9pc3dn-Is2EtHAPiacF_1JDRnXq3B-WxRdqgtxJcD1G7-ms60hS8fyONqpEntirCoDthLJ9JEqcJ0pUO9Kg.jpg"
+      ],
+      "local_media_path": "media/2026-10-11/899d3661578002e6.jpg"
+    },
+    {
+      "hash": "87a5f57d2f90d624",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "link": "https://wallhop.io/",
+      "summary": "Article URL: https://wallhop.io/ \n Comments URL: https://news.ycombinator.com/item?id=50038634 \n Points: 54 \n # Comments: 31",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-11T00:46:48+00:00",
+      "published_epoch": 1791679608,
+      "rtl": false,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "e653a1231e34e4ef",
-      "title": "آنچه گذشت؛ کشته شدن سه نفر در حمله حوثی‌ها به فرودگاه ریاض",
-      "link": "https://www.bbc.co.uk/persian/live/cjkge3vzy3qzt?at_medium=RSS&at_campaign=rss",
-      "summary": "با شدت گرفتن نبرد میان حوثی‌ها و عربستان سعودی و نیروهای تحت رهبری‌اش، حدود یک پنجم پروازها از و به فرودگاه ریاض، پایتخت عربستان سعودی لغو شد و بسیاری از شرکت‌های هوایی پروازهایشان را به مقصد ریاض متوقف کرده‌اند. مقامات عربستان «کشته شدن سه نفر و زخمی شدن تعدادی دیگر» در حملات حوثی‌ها به فرودگاه بین‌المللی ریاض را تایید کرده و گفته‌اند که یکی از آنها خلبان یک هواپیما بوده است. در همین حال درگیری‌ه...",
+      "hash": "658354530218c055",
+      "title": "روسیه از ایرانِ متمایل به غرب بیشتر از بمب اتمی ایران می‌ترسد",
+      "link": "https://www.iranintl.com/202610112988",
+      "summary": "مارک کتز، پژوهشگر ارشد مسائل روسیه، به ایران‌اینترنشنال گفت مسکو ترجیح می‌دهد با ایرانِ دارای سلاح هسته‌ای کنار بیاید تا با تغییر حکومت در تهران. به باور او، آنچه روسیه واقعا از آن می‌ترسد، روی کار آمدن حکومتی متمایل به غرب در ایران است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-11T00:22:35+00:00",
+      "published_epoch": 1791678155,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/953849074ea1490201405e371543578e2c55586a-768x512.jpg?rect=0,55,768,402&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-11/8226f6c999315fa2.jpg"
+    },
+    {
+      "hash": "461086677eaa9560",
+      "title": "افزایش شمار نظامیان آمریکایی جان‌باخته در جنگ با ایران؛ ترامپ: برای همیشه مانع دستیابی تهران به سلاح اتمی شدیم",
+      "link": "https://parsi.euronews.com/2026/10/11/us-casualties-rise-iran-war-trump-claims-nuclear-stop-oct-2026",
+      "summary": "پنتاگون با افزودن دو نفر به شمار نظامیان آمریکایی جان‌باخته در جریان جنگ با ایران، شمار آن‌ها را به ۲۱ نفر رساند. ترامپ روز شنبه طی سخنرانی در تنسی گفت که خون نظامیان آمریکایی کشته‌شده در این جنگ هدر نرفته و او معتقد است که آمریکا برای همیشه از دستیابی ایران به سلاح هسته‌ای جلوگیری کرده است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-11T00:20:17+00:00",
+      "published_epoch": 1791678017,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "7d167fb3e76932aa",
+      "title": "ائتلاف نظامی به رهبری عربستان سعودی در بیانیه‌ای اعلام کرد حمله شنبه ۱۸ مهر به فرودگاه بین‌المللی ملک خالد در ریاض از سو...",
+      "link": "https://t.me/IranintlTV/361659",
+      "summary": "ائتلاف نظامی به رهبری عربستان سعودی در بیانیه‌ای اعلام کرد حمله شنبه ۱۸ مهر به فرودگاه بین‌المللی ملک خالد در ریاض از سوی حوثی‌های یمن انجام شده است. این ائتلاف حمله به فرودگاه ریاض را «جنایت جنگی» توصیف کرد و تاکید کرد که در واکنش به این حمله، «قاطعانه» پاسخ خواهد داد.\nائتلاف به رهبری عربستان سعودی جزییات بیشتری درباره نوع پاسخ احتمالی خود اعلام نکرد.\n\n https://iranintl.com/202610104056",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-11T00:03:07+00:00",
+      "published_epoch": 1791676987,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/P9RHpUBTteh8FYpOgHvB3jNGlgHo3ORGiq02sTZGAFo4jq7WnBdvO5yqmrFa-gCt-NfVuV7iOfyVyDjwtZubNR9DywPuXuo5qXg7L3qOGaYA0YabSbXJ4_1XSyUnY0Lx4dmuTnFuP0Z1-4Ebn2awedoZnDhVOAPJtFshun6xF-kbQP2wOFH-1RJTV6MgkKEg3y9i6W9O_VF_JaXUtByxY283hRCOF1V53vKqYRXnXRKDNIo-YeeCbPtOZwF1MxtYRF91-icfL_TvBZPDldeaDWzcz99rP6CZo_D_a50RNr3iHeHZoaUrSCUZwh-OzN3MrbWyh-Z7E9oH9jjxbYSeDQ.jpg"
+      ],
+      "local_media_path": "media/2026-10-11/9c82ee0ac0e2e9e9.jpg"
+    },
+    {
+      "hash": "5ed1db11b486f343",
+      "title": "خیلی جالبه یک ماه از ادعای اثبات یکی از هفت مسئله بزرگ تاریخ ریاضیات توسط OpenAI داره می‌گذره هنوز حتی یه ریاضی دان نیوم...",
+      "link": "https://t.me/Linuxor/5628",
+      "summary": "خیلی جالبه یک ماه از ادعای اثبات یکی از هفت مسئله بزرگ تاریخ ریاضیات توسط OpenAI داره می‌گذره هنوز حتی یه ریاضی دان نیومده بگه اقا این درست بوده یا نبوده.\n\nنکنه خود ریاضی دان ها هم شل کردن و بخاطر هوش مصنوعی تنبل شدن؟ ممد توی خونه لم داده منتظر ابرهوشه چون اگه انسان ها تنبل بشن و نتونن پا به پای هوش مصنوعی خودشونو تقویت کنن هوش مصنوعی هرچقدر هم بتونه مسائل کلفت رو حل کنه کیه که تاییدش کنه یا ازش استفاده کنه؟\n\n @Linuxor",
+      "source_id": "tg_Linuxor",
+      "source_name": "@Linuxor",
+      "source_name_fa": "@Linuxor (لینوکسور (جامعه گنو/لینوکس))",
+      "category": "telegram",
+      "published_at": "2026-10-10T23:40:12+00:00",
+      "published_epoch": 1791675612,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "1a4bc62e1dfaaec9",
+      "title": "سازمان هواپیمایی کشوری عربستان سعودی در بیانیه‌ای گفت حمله روز شنبه ۱۸ مهر به فرودگاه بین‌المللی ملک خالد در ریاض، ۱۲ کش...",
+      "link": "https://t.me/VahidOnline/78688",
+      "summary": "سازمان هواپیمایی کشوری عربستان سعودی در بیانیه‌ای گفت حمله روز شنبه ۱۸ مهر به فرودگاه بین‌المللی ملک خالد در ریاض، ۱۲ کشته و ۳۰۹ زخمی بر جای گذاشته است.\n\nبر اساس این بیانیه که بامداد یکشنبه ۱۹ مهر صادر شد، چهار نفر از کشته‌شدگان شهروند عربستان سعودی و هشت نفر دیگر اتباع خارجی، شامل دو بنگلادشی، یک آمریکایی، یک مصری، یک اردنی، یک سوری، یک فلسطینی و یک سودانی هستند.\n\nاین سازمان همچنین اعلام کرد که شرایط سلامتی شماری از زخمی‌ها وخیم است.\n\nبه گفته سازمان هواپیمایی کشوری عربستان سعودی، تمامی مجروحان در چندین بیمارستان تحت مراقبت‌های پزشکی لازم قرار دارند.\n\nدر این بیانیه همچنین آمده است که حمله به فرودگاه بین‌المللی ملک خالد خسارات مالی و مادی نیز به همراه داشته و ارزیابی میزان این خسارات همچنان ادامه دارد.\n\nحمله روز شنبه سومین حمله این هفته شورشیان حوثی مورد حمایت جمهوری اسلامی در یمن به فرودگاه بین‌المللی ریاض بود. شورشیان حوثی مسئولیت حمله را بر عهده گرفتند. حوثی‌ها همسو با تلاش‌های جمهوری اسلامی برای ناامن کردن تنگه هرمز، سعی کرده‌اند به کشتی‌ها در تنگه باب‌المندب که دریای سرخ را به خلیج عدن و اقیانوس هند متصل می‌کند و یک تنگه حیاتی به‌شمار می‌رود حمله کنند.\n\nطبق گزارش‌ها روز شنبه، مسیر تمامی پروازها از ریاض تغییر داده شد و فعالیت‌های فرودگاه به‌طور موقت متوقف شد.\n@ VahidHeadline \n\n 📡 @VahidOnline",
+      "source_id": "tg_VahidOnline",
+      "source_name": "@VahidOnline",
+      "source_name_fa": "@VahidOnline (وحید آنلاین)",
+      "category": "telegram",
+      "published_at": "2026-10-10T23:39:57+00:00",
+      "published_epoch": 1791675597,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn1.telesco.pe/file/OG5R0TZoSryAgnZc6Q6lz1RooGQrRXmmjHkcSJUHl7dipCN-w5KzTUKSrq92_a1Rl98iY45aztS4WdEwAymEJKDoWc8Lu5gNNgRTq2Fi6tyj_LXxn604vE9TbXAesDXoIa1FlLU8UpHiXP_aajnc3lOqD70gFxK_zORjwN4FDS0v_w5WPQ-U7q-kiX36X70CB-rBMYp8rCRcoN4mND7IJuYuonrenxz3nZCF3e4fuPIJCeokyvhw4QD_msLtvmquQe8DsAavgqxgs8-OEZDdNu1F0cCpI_Lf8beGaidog6AtERki49OwkKHvr-VqBP1CE76BEPmmYZURAoaN2zkDaw.jpg"
+      ],
+      "local_media_path": "media/2026-10-11/8f02988c0bc5bc8c.jpg"
+    },
+    {
+      "hash": "48a17ee4f607d280",
+      "title": "توفند «ایسایاس» در آمریکا چهار کشته بر جا گذاشت؛ صدها هزار نفر بدون برق",
+      "link": "https://www.bbc.com/persian/articles/cq78px8mv2zgo?at_medium=RSS&at_campaign=rss",
+      "summary": "در پی توفند «ایسایاس» که با بادهای شدید و بارندگی سنگین بخش‌هایی از جنوب آمریکا را درنوردید، دست‌کم چهار نفر کشته و صدها هزار نفر با قطع برق روبه‌رو شده‌اند.",
       "source_id": "bbc_persian",
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-10-10T22:21:44.429397+00:00",
-      "published_epoch": 1791670904,
+      "published_at": "2026-10-10T23:35:19+00:00",
+      "published_epoch": 1791675319,
       "rtl": true,
       "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c792/live/d2163d40-c3f6-11f1-bc2e-018d645d8d21.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a326/live/18eb5b40-c502-11f1-bc2e-018d645d8d21.jpg"
       ],
+      "local_media_path": "media/2026-10-11/c565539295dce129.jpg"
+    },
+    {
+      "hash": "02c39f182b1e53e7",
+      "title": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت واشینگتن از دستیابی جمهوری اسلامی به سلاح هسته‌ای جلوگیری کرده و افزود تهران احتما...",
+      "link": "https://t.me/IranintlTV/361658",
+      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت واشینگتن از دستیابی جمهوری اسلامی به سلاح هسته‌ای جلوگیری کرده و افزود تهران احتمالا تا پیش از انتخابات تلاش بیشتری برای آسیب زدن به آمریکا خواهد کرد.\nترامپ گفت جمهوری اسلامی دیگر نیروی دریایی، نیروی هوایی، پدافند هوایی و رادار موثر ندارد و توان تولید نظامی آن از بین رفته است. او افزود میلیون‌ها بشکه نفت از تنگه هرمز عبور می‌کند و آمریکا در حال بررسی تغییر نام آن به «تنگه ترامپ» است.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-10T23:30:53+00:00",
+      "published_epoch": 1791675053,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/gSl7uta4wsoGuSbAQy73JUdNXMJesuJwnN-5Ngyqgr03Ic6CFE7lw4GhAv-8gS5xvg2Yl3szA2YKc9d_ZdohnxAt66mpYPqDOQJ6vpWWp2JuYIX70ZVZz3QKKewG05EXdd_RITZP2HT79XhtvZDtg22PK3MkoQlQ23hw0lpIwoiqbqBOGiyo6_OKWGaeP3UeAXlopRlscAbNDT4yRiL4b1-g3oC-izrbpLa-ESAoBnzjwOci5m5UZyLClAH9K0ssPi3-VYVZcVfX0t24nCPMce19TsKsEAc42Jq5UEUUgeMB3nEBJ284x9XO-rdViDLE7gvJPpNdNCKB03_0Ct4maA"
+      ],
+      "local_media_path": "media/2026-10-11/61d57f2fa9a8613b.jpg"
+    },
+    {
+      "hash": "395ad5fdc22bf33e",
+      "title": "گروهی که با یک نظام مالی چند صد ساله، صدها میلیون یورو برای مجرمان پول‌شویی می‌کرد",
+      "link": "https://www.bbc.com/persian/articles/c6n8md511lvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "تحقیقات مشترک چند رسانه اروپایی نشان می‌دهد یک گروه چت در واتس‌اپ برای پول‌شویی صدها میلیون یورو پول نقد در سراسر جهان به کار گرفته شده و بدون برجا گذاشتن ردپایی مکتوب، منابع مالی جرایم سازمان‌یافته و گروه‌های افراط‌گرا را تامین کرده است.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-10T23:13:23+00:00",
+      "published_epoch": 1791674003,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf95/live/94bfc1d0-c23b-11f1-be2f-0fbd447d6e43.png"
+      ],
+      "local_media_path": "media/2026-10-11/67188e2e0feb2a63.jpg"
+    },
+    {
+      "hash": "79b65633b7d542c7",
+      "title": "Justice Department probes TV networks over Trump pool coverage - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTFvTk9IcGl4dTJsZ2ZfTkdNSUNURFcxclFramhLaTUzOEw0cU05NTZPOHFWZ2N0RkdSZ1dUT3FLRTFNS0RFSXdLQWJCYzdtcUFxQTVtWDVGTmdLWXZlWXBFSHl2X3hIM1JrRDAxWllPa04zZkhUX2J6Ujd3QzFEVWdXaUlHRDBidC1zNXFEYjdNbEZ4SldnMU9rbmZxdVVHUHUtcDlIQnEycHlmOV9oOV80RFh1WlJMV3diVWdEVGc1TjNJV3c3RmtoeUR4VUVWT2c?oc=5",
+      "summary": "Justice Department probes TV networks over Trump pool coverage    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-10T23:10:00+00:00",
+      "published_epoch": 1791673800,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "a295943480a28460",
+      "title": "راست و چپ آمریکای لاتین، انتخابات برزیل را شاخصی برای آینده سیاسی منطقه می‌دانند",
+      "link": "https://www.bbc.com/persian/articles/cqj34emgmnlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "رهبران و دولت‌های راست‌گرای آمریکای لاتین از عملکرد قدرتمند فلاویو بولسونارو در انتخابات ریاست‌جمهوری برزیل در ۴ اکتبر ۲۰۲۶ استقبال کردند. برخی مفسران این نتیجه را عاملی برای تقویت موج راست‌گرایی و نزدیکی بیشتر کشورهای منطقه به آمریکا دانستند.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-10T23:04:01+00:00",
+      "published_epoch": 1791673441,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8bb1/live/b240b260-c3d9-11f1-95ba-dba767ffba7e.png"
+      ],
+      "local_media_path": "media/2026-10-11/48d86a1cf14a2968.jpg"
+    },
+    {
+      "hash": "2e24d7008824faa4",
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ \n Comments URL: https://news.ycombinator.com/item?id=50037949 \n Points: 109 \n # Comments: 21",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-10T22:50:10+00:00",
+      "published_epoch": 1791672610,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "b9f6f650d8f96a2b",
+      "title": "امیرحسین میراسماعیلی، روزنامه‌نگار، گفت شدت گرفتن حملات حوثی‌ها به عربستان سعودی می‌تواند محاسبات دونالد ترامپ درباره زم...",
+      "link": "https://t.me/IranintlTV/361657",
+      "summary": "امیرحسین میراسماعیلی، روزنامه‌نگار، گفت شدت گرفتن حملات حوثی‌ها به عربستان سعودی می‌تواند محاسبات دونالد ترامپ درباره زمان و شیوه واکنش به جمهوری اسلامی و نیروهای نیابتی آن را تغییر دهد.\n\nاو افزود جمهوری اسلامی با استفاده از گروه‌های نیابتی می‌کوشد هزینه هرگونه حمله احتمالی را برای آمریکا، اسرائیل و کشورهای منطقه افزایش دهد، اما این راهبرد می‌تواند نتیجه معکوس داشته باشد. به گفته میراسماعیلی، حمایت کشورهای منطقه از ریاض، از قطر و ترکیه تا امارات و مصر، نشانه انزوای بیشتر جمهوری اسلامی و فرصتی تازه برای آمریکا و اسرائیل است.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-10T22:36:11+00:00",
+      "published_epoch": 1791671771,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/JVut3Xzmmw5fOKJ3iRPEXr7ZnnjiUMOmJLT7VJWplKTW7vnJ1NEFEyEyCQMcY8I4Np2Ja9lSr_wJ7eBZ2xDEhmDPjf2VZVqBThVHGIpd52BhuRuhwxdN71-HCNZSIVaCX9mTQEWeMCwnqQwv0X51BB3qEb_osDRlpY0xhTnADhVsmkpWfBGTTHnzXoZDdMJpTpJ1eqK5IvTp0UM3-ZJ6So6qShJz0-A5F-HZ5sZU8jFsPblV-t8_gtJYwFevPKG7i4L9nPGi7k-JYNkOyRQQ8yKWLm-twMBkFnBc-UI0CeojqonZRziOOaS5qw5wBPWn1pm3fqgP5xH1tJ4bDT_xkQ"
+      ],
+      "local_media_path": "media/2026-10-11/3fe319647cf959a0.jpg"
+    },
+    {
+      "hash": "d164913f773ff02c",
+      "title": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت حملات حوثی‌ها به عربستان سعودی، از جمله هدف قرار گرفتن یک فرودگاه غیرنظا...",
+      "link": "https://t.me/IranintlTV/361656",
+      "summary": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت حملات حوثی‌ها به عربستان سعودی، از جمله هدف قرار گرفتن یک فرودگاه غیرنظامی، می‌تواند ریاض را به واکنشی جدی‌تر یا تلاش برای تشکیل ائتلافی تازه سوق دهد.\n\nاو افزود دونالد ترامپ با وجود رد حمله به جمهوری اسلامی پیش از انتخابات میان‌دوره‌ای، تاکید کرده در صورت اقدام تهران، آمریکا سریع و سنگین پاسخ خواهد داد. به گفته توانا، واشینگتن فعلا فشار نظامی خود را بر جمهوری اسلامی متمرکز کرده و هنوز روشن نیست در برابر حوثی‌ها وارد حضور نظامی مستقیم خواهد شد یا نه.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-10T22:35:05+00:00",
+      "published_epoch": 1791671705,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/HqlJSAkmzQLvPBDBJ9GUSGq3qFq2zCdcrbV9nOpg963VolWmyKCVexQsKPD8K2PdbX22h1cIZTt0BGKIaBoAQXK2WwEAdo6iMg9fFGo3v0sQ8S7qqTvndcsCocdANwFhtKugJAYjjuRDnlKp2hNVX92cWuTFjdYXFafoPwSVPrJtRv3TJsEIkh4LEJKLAnvxPe21eUVvFGXO06uVXVsnaVJC7SCWU3Hzujg-v06k5oOgWihyaNxGcSXoBIA9R_p7xmtTR8FYQzjA-BqEWoDSa6ohHiTfE3h9HngIsTabOsIUhdZ8dUtQGQcgEWIeYzZ-c7OwbU5erHiHieyW-JC9Pw"
+      ],
+      "local_media_path": "media/2026-10-11/14e6f4776cc36985.jpg"
+    },
+    {
+      "hash": "574c5ad58df9eb5a",
+      "title": "خانواده‌ها زیر چکمه سرکوب؛ بخش چهارم گزارش آمران کشتار",
+      "link": "https://www.iranintl.com/202610106891",
+      "summary": "گلوله فقط یک‌بار شلیک می‌شود، اما مجازات خانواده‌های داغدار، سال‌ها ادامه می‌یابد. برای خانواده‌های قربانیان خیزش «زن، زندگی، آزادی»، کابوس، فقط مرگ عزیزانشان نبود، بلکه در پی آن مجازاتی بی‌رحمانه از سوی نیروهای امنیتی جمهوری اسلامی آغاز شد.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-10T22:29:42+00:00",
+      "published_epoch": 1791671382,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/29379a9522ec22c6d638a96f63111c97888894cd-1920x1080.png?rect=0,38,1920,1005&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-11/86cf8f13f48f7e81.jpg"
+    },
+    {
+      "hash": "7bb4a26c6b7c30d9",
+      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «معتقدم جمهوری اسلامی دارد ایران و ایرانی‌ها را به سوی جنگ پنجم می‌برد. ...",
+      "link": "https://t.me/IranintlTV/361655",
+      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «معتقدم جمهوری اسلامی دارد ایران و ایرانی‌ها را به سوی جنگ پنجم می‌برد. جنگ اول جنگ ایران و عراق بود. جنگ دوم جنگ ۱۲ روزه، جنگ سوم جنگ چهل روزه، جنگ چهارم جنگ دو هفته‌ای آمریکا و جمهوری اسلامی در خلیج فارس و حالا جمهوری اسلامی دارد ایران و ایرانی‌ها را به سمت جنگ پنجم می‌برد و این باعث آسیب به زیرساخت‌های کشور و مردم خواهد شد. جمهوری اسلامی این جنگ‌طلبی را ادامه خواهد داد و از آن دست نمی‌کشد.»\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-10T22:29:15+00:00",
+      "published_epoch": 1791671355,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/eBxRtfbk5Mdl9WqfHGJRSL6gve29pr-GbvQCGZvPvaxFfyLpEYrDnWoJ1Cz1zi4FUWM1uL929XtYuRpmC8PSOM3RG_6u0wfEw4EJ0c_-IDpdC9naJxnZUtElgOvjvyJaohN3A2NjY1XBqHLzhzlLoaNEDXeQ7xXdJzyimM3syChFRRxnY7hu1Pp6-Kih7RCQNsQMwaxDRwW6umObTK6gYa4qdNk8_XWbG-D9GLjDqksdkTpkNyS2XTWA-aVyYMEA9e68EnBawT0xgdlfBm6CTQbC8_TUl6c_Z8RKLXyrme0pOWdZ1xK1Xjv0uYuoEFKnKn4QOyVX0Edfgwa1iE5Yxg"
+      ],
+      "local_media_path": "media/2026-10-11/b0ee4fc12daa8f49.jpg"
+    },
+    {
+      "hash": "9c8b76d7a3b26fde",
+      "title": "🎧 نسخه صوتی سیاست با مراد ویسی: شبیه‌سازی حمله به جمهوری اسلامی در آسمان عراق",
+      "link": "https://t.me/IranintlTV/361654",
+      "summary": "🎧 نسخه صوتی سیاست با مراد ویسی: شبیه‌سازی حمله به جمهوری اسلامی در آسمان عراق\n @iranintlTV",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-10T22:28:01+00:00",
+      "published_epoch": 1791671281,
+      "rtl": true,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -52,7 +397,7 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/a2Ff16ZUfpiAAUbZOxjEjFc8PLbAJIPG4lQ9UAum5nmR2C_VZx6k7gnT_IL8pNy9rwUPeMn2H3c7vNsqZF-GnIxW8ZabKHhjlaknVZ0KhmnZO_3e1TnOIxEoAdMsZhN99LrBrwl1f3zGNBX_-PH2UWAk7pREiNP6xPiEnHDYuzf_oQirJ0L80Wkfa_wSpVeRExYjwjgCVJht1Wqh5wL0GfK0jfh2chq5asHExR_adukAwhEusqU3V3sYlbX8sEZKxbtSxw4vtI7rJeXosaePVe-UiJz24mDvYXqPuSFd_bkfqa0jDzbMHmhbpFe9hzPzuz-hSNimYlVUwv5WVFUPfg.jpg"
       ],
-      "local_media_path": "media/2026-10-10/86c9783adae368d0.jpg"
+      "local_media_path": null
     },
     {
       "hash": "7554b220e9d03d87",
@@ -69,24 +414,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/n3BZifcTCrpNCAfghhFzH1z8DTFkY7DyL7BifQ7YqK1uQrOdSakIX2yFRgbELI9xQDs82ITgJGnhYqLL_mp-s6fX_L5fIb8QEBdla_9lo_pQlzTi3l9EseD7B8hpIhcB1wTQ179s9O7Q_J1Gr7XSCL8IzTpX3s_FsV0m1ZUElm6JOhjkYhe15yp8CqSG4WPK0QMbgvyYtM21KSqpg5vQ4wwh3RtZ7MabxFM6J1u0oKsD70drdf7w9c2tdzevvJefnZvkAYMg9q4TairItWHhKkp6Dzw-kDR2yIGBQmGirhokJyN265iPTehoSI_dzcoBNZ1A8VniDAW1hv2-suHL_g"
       ],
-      "local_media_path": "media/2026-10-10/0e90cd2f5b556879.jpg"
-    },
-    {
-      "hash": "4dd4d6cb5c664d9e",
-      "title": "سازمان هواپیمایی کشوری عربستان سعودی اعلام کرد در حمله به فرودگاه ریاض دست‌کم ۱۲ نفر کشته و ۳۰۹ نفر مجروح شدند. این سومی...",
-      "link": "https://t.me/IranintlTV/361652",
-      "summary": "سازمان هواپیمایی کشوری عربستان سعودی اعلام کرد در حمله به فرودگاه ریاض دست‌کم ۱۲ نفر کشته و ۳۰۹ نفر مجروح شدند. این سومین حمله در هفته جاری به فرودگاه ملک خالد در پایتخت عربستان سعودی است.\nاین حمله بدون هشدار قبلی رخ داد و سامانه هشدار تهدید عربستان سعودی هیچ هشداری صادر نکرد. \nدر پی این حمله، فعالیت فرودگاه به‌طور موقت متوقف و مسیر همه پروازها تغییر داده شد. دولت‌های غربی نیز از شهروندان خود خواستند از فرودگاه و مناطق اطراف آن دور بمانند.\nاز سوی دیگر، ائتلاف نظامی به رهبری عربستان سعودی که با حوثی‌ها در یمن می‌جنگد، شنبه در بیانیه‌ای اعلام کرد یک پرتابه در نزدیکی فرودگاه بین‌المللی ملک فهد در دمام در منطقه شرقی عربستان سعودی فرود آمده است.\n\n https://iranintl.com/202610103426",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T22:15:41+00:00",
-      "published_epoch": 1791670541,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/uwbp9_AksDDHyBS0zwsOe36LurcCcX7LMZPKXpK3FGo1QKvMAMGX6vhCWInwG0yqGd-I51KNxugIzSdtYYw7WL9d2plaVsLu_LJ610n-jwu3PBZD1iRaVulef5R1A-YTXmYlq54WEopfmzX7xlj-c1qfZW_MJKAsl6yqIqN_WV8UA05oEfU9LhP6k5nLYFsOK8qJxff46y1KgpNI7Tbs_31-l2jnU4AMC9G7Py5EOm_iJWgJZXnmO01YpYp2rccbxO6cblHNC6WIEr3yMyySyWkCrktKPcGRXI4i6pqf1elDDsvnG5kh4Z6aW_jdjT1xTjId6CZgacsgyFG_PxVFMw.jpg"
-      ],
-      "local_media_path": "media/2026-10-10/1de7b13ac8f104bb.jpg"
+      "local_media_path": null
     },
     {
       "hash": "c5fb147c7b6a66a0",
@@ -103,11 +431,11 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/OGXF50__xpHXYr4NgnbiKnPphiApzdCufWEKS9Fp7-KQ7GR6VWhWd8J8OtV2gmTXDBj1whXdG18m9ZKsNBEOVgNu_YxLE9dACba7uTLq0JVrPnQmq2SnGuKWy6RDGmokOXWnF0lApZSX_NR9QOORmKyJZOvkU8Y3MobYXWuifQAeQy6Bd6Coh3qL_VjJbyxN0TN8T7dHJqpj1V9Jgsh7bfI1rh1XkQ_o5act4dSt5SH3Awcg25v5ZzqLZQ5y0Jouq-AlN4lDM1gvDB0pqrSWFKzDveQxETDy6lrKLKnDYYYhhCp8ZkvcTytJlAFfroULPmtW1hlL9nXrH14cNtb36g.jpg"
       ],
-      "local_media_path": "media/2026-10-10/a87700f4c749baa3.jpg"
+      "local_media_path": null
     },
     {
       "hash": "42a5cab68c36d940",
-      "title": "حملات به عربستان سعودی محکومیت منطقه‌ای برانگیخت؛ بحرین خواستار اقدام شورای امنیت شد",
+      "title": "حمله به فرودگاه ریاض ۱۲ کشته بر جا گذاشت؛ یک آمریکایی در میان قربانیان است",
       "link": "https://www.iranintl.com/202610104850",
       "summary": "سازمان هواپیمایی عربستان سعودی اعلام کرد حمله شنبه به فرودگاه ملک خالد ریاض دست‌کم ۱۲ کشته و ۳۰۹ زخمی بر جا گذاشته است. آمریکا و چند کشور منطقه این حمله را محکوم کردند و بحرین خواستار اقدام شورای امنیت شد.",
       "source_id": "iran_intl",
@@ -120,109 +448,13 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/12a66c3019785e846e7ceb72e6a9d51cbe22d281-2351x1322.jpg?rect=0,46,2351,1230&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-10/6709d14f052d3b1b.jpg"
-    },
-    {
-      "hash": "c55611eb40f65ef2",
-      "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-      "summary": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-10T21:50:00+00:00",
-      "published_epoch": 1791669000,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "b03a55203e09835f",
-      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «طبق گزارش وب‌ سایت اماراتی ارم‌نیوز، هواپیماهای جنگی آمریکا و اسرائیل ب...",
-      "link": "https://t.me/IranintlTV/361651",
-      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «طبق گزارش وب‌ سایت اماراتی ارم‌نیوز، هواپیماهای جنگی آمریکا و اسرائیل بر فراز آسمان‌ عراق در حال تمرین حمله به جمهوری اسلامی هستند. این گزارش می‌گوید هواپیمای اف-۳۵ اسرائیلی با کمک هواپیماهای سوخت‌رسان کی‌سی-۴۶ آمریکا در آسمان عراق سوخت‌گیری کردند و احتمالا برای حمله به تاسیسات مهم نظامی و هسته‌ای تمرین کرده‌اند.»\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T21:47:40+00:00",
-      "published_epoch": 1791668860,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/HY6v-wKdEdKf5l2ElSXxDpxbDoIQsTDY7ggB6WpDiaJtAM0y3Hdsr21DX-1yo2syNVAZu2ssyeBDFkRLvVXX66Jw-I_dj_L94sljFvhNCYu_8V-qy6OESQtmJLdhQUT9lOKrzRZKqn35iSZRcYMij2PHjXTr34HhE22ZJrPWLdySugAMw13iVX711jKDW62ugz_7vC9V31mZAlLPl4kRtahDrlHDRFSon7w7SFQC5SwC6WSVStI19F86h8y7iWcvAqUrKkIlms6FIMzEAmLQL8-2G5nfjC9I3SJCVIYRkf8L15ENPWVmBkffkS1LbfBZ9iqZrgV8_yAKOJLktRGMNw"
-      ],
-      "local_media_path": "media/2026-10-10/003bb32fb9819edd.jpg"
-    },
-    {
-      "hash": "e6197fc4bb44adea",
-      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «طبق گزارش وب‌ سایت اماراتی ارم‌نیوز، هواپیماهای جنگی آمریکا و اسرائیل ب...",
-      "link": "https://t.me/IranintlTV/361650",
-      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «طبق گزارش وب‌ سایت اماراتی ارم‌نیوز، هواپیماهای جنگی آمریکا و اسرائیل بر فراز آسمان‌ عراق در حال تمرین حمله به جمهوری اسلامی هستند. این گزارش می‌گوید هواپیمای اف-۳۵ اسرائیلی با کمک هواپیماهای سوخت‌رسان کی‌سی-۴۶ آمریکا در آسمان عراق سوخت‌گیری کردند و احتمالا برای حمله به تاسیسات مهم نظامی و هسته‌ای تمرین کرده‌اند.»\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T21:46:50+00:00",
-      "published_epoch": 1791668810,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/B_9Fw21yDUPgR-JSx77yoEp8c_U90VJ7pST3gNR_Jnv6zljUJd9TYfuEB3IQDNP2V2XynWTsiSsJcLPzASQIEJe01dh6fgqyDqqN-uUAVEW2d_qrQ1DVOhxutfuvPmBQd56PSyuh4t7Ht55pyrnMsqWpRa_6ebZ2N_bSkAzFbxsgHBVDSpZclcU6Y5kQTpXBYOqDSYl4Kz1zH769IlozWSCPkb6t8pEoxHCKE4ewqogiPmxAdNl5ZzAZtpYUJIjFeDwlxs1rLbWhR_JDB_Dvn6k52tFt9z3JQ4ILW7YDvavhJ1GZvP0TpnETuxf4SOW9_Qlm-pvguZyZ74ij_9CpqA"
-      ],
-      "local_media_path": "media/2026-10-10/ed7863ae5fe5f733.jpg"
-    },
-    {
-      "hash": "c3460abce16aba64",
-      "title": "ائتلاف نظامی به رهبری عربستان سعودی که با حوثی‌ها در یمن می‌جنگد، شنبه در بیانیه‌ای اعلام کرد یک پرتابه در نزدیکی فرودگا...",
-      "link": "https://t.me/IranintlTV/361649",
-      "summary": "ائتلاف نظامی به رهبری عربستان سعودی که با حوثی‌ها در یمن می‌جنگد، شنبه در بیانیه‌ای اعلام کرد یک پرتابه در نزدیکی فرودگاه بین‌المللی ملک فهد در دمام فرود آمده است.\nاین فرودگاه که در منطقه شرقی عربستان سعودی قرار دارد، پس از موجی از حملات به ریاض، به یکی از گزینه‌های مهم جایگزین فرودگاه پایتخت عربستان سعودی تبدیل شده است.\n\n https://iranintl.com/202610104504",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T21:30:16+00:00",
-      "published_epoch": 1791667816,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/QktmZg50PZlfholVl5aAuFvnI7sNLgrdCuhcalbK1Wz4fj-Ya4ovixTkLELTF1IdU0jwLzV-XB5YYV25ROTzKMk9lo-ujRCoBYsxWBWdjrGvzhaVaO80_tGalj70Ce5DJro4cnUKM_LUFAFw_MupDTBbZxY_ls6e7n2V8ct5PvrRxWagXBDdMryCpWWRoXwkSxrkdTs84zOFqa9_B_62RnurV8FjtkR3Hg-_M2CACMpysKEA9U_ZbHDwdGTtmmjZb7FIsEgvYz1ZwcBvdLt29DgOQwZSkG_OxJcViZBbZfHPOOVJAwQq7o37wLNIxXfAwiNNHWqg6x1telYXTqC3mA.jpg"
-      ],
-      "local_media_path": "media/2026-10-10/84ed5d63cca73946.jpg"
-    },
-    {
-      "hash": "59717e38a48d6b0b",
-      "title": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-      "summary": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-10T21:26:51+00:00",
-      "published_epoch": 1791667611,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "ecce17ff2cf6c376",
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/ \n Comments URL: https://news.ycombinator.com/item?id=50037299 \n Points: 14 \n # Comments: 4",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-10T21:19:42+00:00",
-      "published_epoch": 1791667182,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
       "hash": "c05becede3220fbe",
-      "title": "حمله به فرودگاه ریاض؛ ترامپ: شاید به حملات عربستان علیه حوثی‌ها بپیوندیم",
+      "title": "کشته‌شدن دست‌کم ۱۲ نفر در حمله به فرودگاه ریاض؛ ترامپ: شاید به حملات عربستان علیه حوثی‌ها بپیوندیم",
       "link": "https://parsi.euronews.com/2026/10/10/trump-weighs-us-strikes-houthis-riyadh-airport-attack-oct-2026",
-      "summary": "نیویورک‌تایمز به نقل از سه مقام آگاه گزارش داد که دست‌کم ۱۲ نفر در حمله روز شنبه به فرودگاه ریاض کشته شدند. در پی این حمله، دونالد ترامپ گفت که آمریکا ممکن است به حملات عربستان سعودی علیه حوثی‌ها بپیوندد و افزود که به‌زودی در این‌باره تصمیم خواهد گرفت.",
+      "summary": "دفاع مدنی سعودی روز شنبه از کشته‌شدن دست‌کم ۱۲ نفر و زخمی‌شدن ۳۰۹ نفر در حمله روز شنبه به فرودگاه «ملک خالد» عربستان سعودی خبر داد. در پی این حمله، دونالد ترامپ گفت که آمریکا ممکن است به حملات عربستان سعودی علیه حوثی‌ها بپیوندد و افزود که به‌زودی در این‌باره تصمیم خواهد گرفت.",
       "source_id": "euronews_persian",
       "source_name": "Euronews Persian",
       "source_name_fa": "یورونیوز فارسی",
@@ -232,40 +464,6 @@
       "rtl": true,
       "raw_media_urls": [],
       "local_media_path": null
-    },
-    {
-      "hash": "71a3ccb287557368",
-      "title": "ترامپ در یک سخنرانی در کلارکسویل، ایالت تنسی، هشدار داد جمهوری اسلامی با هدف آسیب زدن به آمریکا احتمالا پیش از انتخابات ...",
-      "link": "https://t.me/IranintlTV/361648",
-      "summary": "ترامپ در یک سخنرانی در کلارکسویل، ایالت تنسی، هشدار داد جمهوری اسلامی با هدف آسیب زدن به آمریکا احتمالا پیش از انتخابات میان‌دوره‌ای آمریکا اقدامات بیشتری انجام خواهند داد، اما آمریکا کار با حکومت ایران را سریع تمام خواهد کرد.\nاو با تاکید بر این که در حال حاضر آمریکا بشکه‌های نفت بیشتری را از تنگه هرمز خارج می‌کند، گفت: «داریم به این فکر می‌کنیم که نام آن را به تنگه ترامپ تغییر دهیم. ما این کار را در ارتباط با خلیج مکزیک انجام دادیم.»\n\n https://iranintl.com/202610100027",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T21:08:22+00:00",
-      "published_epoch": 1791666502,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/rlSRSiKFrWKjJaTppT0i0sxruIQcbaVH5p7O3q0KloMlwsFeZ5-moNuSpIo4gLzxrtDl8HcHTckV2neNnpRzn3aiWYLJVDhDjjp3bp6Q2aTjrO6lPhDMe3ikXpqDIWEcF6NQELILWiYerP7ioKomEnBjCgwdqMgL1cB8TmEEyWWFz2z7gIuseE8MtQsELllDuXCWycRjTw7CUv1A6y9CNn_IylBIotiO2jhBTX8LfC4kLTDwA91TUIFKmTiK3gdMyaYgefCDNXeP75dt0OfID0nh5MId40fiEnE8maOFWNCQFo16LjCVPjL4zgV_One43zJ_dyHHWGY6jpLHrBS20g.jpg"
-      ],
-      "local_media_path": "media/2026-10-10/f676c3621708baca.jpg"
-    },
-    {
-      "hash": "e5bd39b77a418044",
-      "title": "🔻 تیم فوتبال رئال مادرید در هفته هشتم لالیگا ویارئال را با نتیجه یک بر صفر شکست داد. تک گل بازی را دیومانده در دقیقه ۶۳ ...",
-      "link": "https://t.me/IranintlTV/361647",
-      "summary": "🔻 تیم فوتبال رئال مادرید در هفته هشتم لالیگا ویارئال را با نتیجه یک بر صفر شکست داد. تک گل بازی را دیومانده در دقیقه ۶۳ به ثمر رساند، این نخستین گل دیومانده برای رئال مادرید بود.\n\n 🔹 با این پیروزی، رئال ۱۸ امتیازی شد و با ۶ امتیاز اختلاف نسبت به بارسلونا در رده سوم جدول قرار گرفت.\n\n 🔹 این پیروزی سخت تیم مورینیو درحالی بدست آمد که وینیسیوس در دقیقه ۷۱ گلی به ثمر رساند، اما به دلیل خطای عجیب او، رد شد.\n\n 🔹 پس از این گل، مورینیو برای شادی گل، تمام زمین را دوید تا به بازیکنان ملحق شود، اما وی‌ای‌آر صحنه‌ای را بررسی کرد که در آن وینیسیوس موی یکی از بازیکنان را کشید و در نهایت هم با کارت قرمز مستقیم اخراج شد؛ اخراجی که ممکن است او را از ال‌کلاسیکو محروم کند.\n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T21:05:23+00:00",
-      "published_epoch": 1791666323,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/IgdTo28_0tkW6BS9r03imZOfHEF07HUZLZxz4QGYdPDZ-Wj9XXZjga6mB4T1x7w7XSkZmnNbPmN29o8CDZK1r8d3XpZlofmDp-iN6UL4tnUNuY9d9TBSTuaJktDbbeTSrx4HEs8bRicUQvBVY8ROu9S13PQySBX77cEABb40xtRFg6n-3iBiHJyk_K5NJXoJgfDkpwUKtCWrrKybsjjJnn-Kc7Q_E9Lrq8sT2qrGPMU5SPvuqo9wIHeJQ9Zz6OeW0LIs2qlIEzIhN9YfZKXktirJQJ-vuM8tuIc5D4VGlKL-qjPxTHrw_fgYd8_qJZ6LqA7GYGOJZr8uGhH9ZgG53Q.jpg"
-      ],
-      "local_media_path": "media/2026-10-10/1b8a073089cda7b9.jpg"
     },
     {
       "hash": "7660c2f155daa990",
@@ -282,72 +480,6 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/88ea8788f7e6df98fe15fbb47e4248252926a64c-3198x2206.jpg?rect=0,266,3198,1674&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-10/589bf74319978564.jpg"
-    },
-    {
-      "hash": "e076956e5edd7a60",
-      "title": "ترامپ در یک سخنرانی در کلارکسویل، ایالت تنسی، با تاکید بر اینکه «خیلی سریع» کار با جمهوری اسلامی را تمام خواهد کرد، گفت:...",
-      "link": "https://t.me/IranintlTV/361646",
-      "summary": "ترامپ در یک سخنرانی در کلارکسویل، ایالت تنسی، با تاکید بر اینکه «خیلی سریع» کار با جمهوری اسلامی را تمام خواهد کرد، گفت: «آنها نمی‌دانند من چقدر با آنها خوب رفتار کرده‌ام. با وجود اینکه نیروی دریایی‌شان کاملا نابود شده و ۱۵۹ کشتی آنها در کف دریا هستند. ما قدرتمندترین ارتش جهان را داریم.»\nاو گفت: «آنها یک کشور دیوانه هستند. خودتان این را می‌دانید. من همیشه این را به آنها می‌گویم که شماها واقعا دیوانه‌اید.»\nترامپ گفت: «آنها دیگر نیروی دریایی ندارند. نیروی هوایی ندارند. تجهیزات ضدهوایی ندارند. توان تولیدی آنها به‌شدت نابود شده است. رادارها هم از بین رفته‌اند. آنها به رادار نیاز داشتند.»\nترامپ در میان تشویق و خنده حضار، در حالی که رفتار مقام‌های جمهوری اسلامی را به تمسخر تقلید می‌کرد، گفت: «آنها وقتی سخنرانی می‌کنند و می‌گویند ما می‌کشیم، همه را می‌کشیم، ۲۰ نفر از پشت سرشان جواب می‌دهند که ستایش مخصوص الله است. البته، دیگر این‌طور حرف نمی‌زنند.»\n\n https://iranintl.com/202610100643",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T20:59:16+00:00",
-      "published_epoch": 1791665956,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/qkGsYZ8xFeSs9xuB1w0aPeHyaCgETpLAY6xx64H4wlWXBH5orRv3OstMit6vBlzrNj_2SSXt6lgDCBwSLd0HFwHHZoGFHvRBR-wE4hvOcAQFz5Qu0QOdbJl2f1G8m2tOqNTxj_ZYcMeSnAN3Oc4R9eSQiPw7X-rh1Ni4JHT-9XrquLebg5cSnWpK-OwrOgtvNoTAbZAjYLolgNKh8qe_AHLHU8gn8ooyJ_0nzd_rKEatBLItojhkCXxwCt_RLfaLKZ1P8detPt0tydfmwgvQgBvHX7twLoN1YJVVCsJMBV0ekDOLiVJlszDDq0g30pOX6WhdNFoXY7m41VjrU5xQ2w.jpg"
-      ],
-      "local_media_path": "media/2026-10-10/502d414cf0bf2116.jpg"
-    },
-    {
-      "hash": "24c93c1adc8fdb0c",
-      "title": "ترامپ در یک سخنرانی در کلارکسویل، ایالت تنسی، با تاکید بر اینکه «خیلی سریع» کار با جمهوری اسلامی را تمام خواهد کرد، گفت:...",
-      "link": "https://t.me/IranintlTV/361645",
-      "summary": "ترامپ در یک سخنرانی در کلارکسویل، ایالت تنسی، با تاکید بر اینکه «خیلی سریع» کار با جمهوری اسلامی را تمام خواهد کرد، گفت: «آنها نمی‌دانند من چقدر با آنها خوب رفتار کرده‌ام. با وجود اینکه نیروی دریایی‌شان کاملا نابود شده و ۱۵۹ کشتی آنها در کف دریا هستند. ما قدرتمندترین ارتش جهان را داریم.»\nاو گفت: «آنها یک کشور دیوانه هستند. خودتان این را می‌دانید. من همیشه این را به آنها می‌گویم که شماها واقعا دیوانه‌اید.»\nترامپ گفت: «آنها دیگر نیروی دریایی ندارند. نیروی هوایی ندارند. تجهیزات ضدهوایی ندارند. توان تولیدی آنها به‌شدت نابود شده است. رادارها هم از بین رفته‌اند. آنها به رادار نیاز داشتند.»\nترامپ در میان تشویق و خنده حضار، به تمسخر مقام‌های جمهوری اسلامی پرداخت و در حالی که تقلید آنها را درمی‌آورد، گفت: «آنها وقتی سخنرانی می‌کنند و می‌گویند ما می‌کشیم، همه را می‌کشیم، ۲۰ نفر از پشت سرشان جواب می‌دهند که ستایش مخصوص الله است. البته، دیگر این‌طور حرف نمی‌زنند.»\n\n https://iranintl.com/202610100643",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T20:59:11+00:00",
-      "published_epoch": 1791665951,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/GLWQaUFGjnY9-raAmkGFF7I91xWudZkFlpmB2Jpa-leXAr8aEd8RuClpGu3QGilgfHDCHOmmwRsTQJMOaG-NpkwwFmw-rGw4E-0YWZzy4bFUGuIwrsAkJZxKRsRqiOMQRNuwQKkwYV8IVSpxReSzlhpqq-IZRURN2jOy8H30BNHEXOstp5ouuqapgh3t14G8DT79zPfX6ZrViXaOkx7scCghyG_fjyWLxs8xCQxOMml7Gzh608APbMbgOqNxzmI85MLsOGBBxpdGeG3QUXzrmOv1etyr6ySA4vh0_4gADrcRFSEk9EVk3iiWVQe2rC5sFjs2-Rg8D8I-gc9o-OPyXA.jpg"
-      ],
-      "local_media_path": "media/2026-10-10/a77c2efdaf9acf2b.jpg"
-    },
-    {
-      "hash": "136752d89a4a401e",
-      "title": "🔻 حجت کریمی، مدیرعامل تراکتور درباره سفر دشوار تیم به عمان برای بازی با الشمال قطر در لیگ نخبگان آسیا گفت: «بالاخره پس ا...",
-      "link": "https://t.me/IranintlTV/361644",
-      "summary": "🔻 حجت کریمی، مدیرعامل تراکتور درباره سفر دشوار تیم به عمان برای بازی با الشمال قطر در لیگ نخبگان آسیا گفت: «بالاخره پس از نزدیک به ۱۶ ساعت به مقصد رسیدیم. این حجم از جابه‌جایی، انتظارهای طولانی و خستگی مسیر، فشار قابل‌توجهی به بازیکنان و اعضای کادر فنی وارد کرد.»\n\n 🔹 او گفت: «حتی تغذیه مناسبی نیز طی سفر نتوانستیم فراهم کنیم و عملاً فرصت استراحت و آماده‌سازی مناسب را از تیم گرفت. وقتی بازیکنان پس از چنین سفر طولانی و خسته‌کننده‌ای به مقصد می‌رسند، نمی‌توان انتظار داشت که بلافاصله تمرین باکیفیت و مؤثری داشته باشند.»\n\n 🔹 کریمی گفت: «بخش مهمی از زمان ما صرف رسیدن به مقصد شده است و تمرین پیش از مسابقه نیز عمدتاً به ریکاوری اختصاص خواهد داشت و فرصت کافی برای تمرینات تاکتیکی و آماده‌سازی فنی در اختیار نداریم. این اتفاق در سطح رقابت‌های لیگ نخبگان آسیا، قطعاً مسئله‌ای نیست که بتوان به‌سادگی از کنار آن گذشت.»\n\n 🔹 او گفت: «تراکتور از امتیاز میزبانی محروم شده و اکنون برای حضور در مسابقه نیز باید مسیری دشوار را پشت سر بگذارد؛ آیا می‌توان انتظار داشت همه تیم‌ها با فرصت و امکانات یکسان وارد زمین شوند؟»\n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-10T20:45:56+00:00",
-      "published_epoch": 1791665156,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/KgWMZLlniKBqgst__VokyADR0a_8-eqPxyhSThpGncSsSqOxsI4Nsh4C1FjP-3bMEuP-dAPu2YqwR-USn6HLlila_V9bRFQJeSAv1T3BQrI55OJ6kC4Me_aszfatiw_cL6QJEhFZonpu_frouVpZTlciZUpCEE0yoiNTdLvoaFx-RAHiRbm6gW-UpXzsxn8RXa4Rrzw-X-CBx0UrMpfHpczk3VPBujj1cdsBQdPMSb_tOoRDx1RucVa4Y2E0rtU1c_IzyT_yKRvDjcqWu04zOw3Ox6-k0GAg78X9GhKSvx4b830rZSDjwf1kIvGYqSJRSW8aSDEcPvrkqILeqRNZiQ.jpg"
-      ],
-      "local_media_path": "media/2026-10-10/e23599aca8cd840d.jpg"
-    },
-    {
-      "hash": "229def46328ba51c",
-      "title": "Rayo-Athletic match abandoned after fans protest against club owner - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmU5dHFQdXBtUndDdjc3ZzYxOXJQSVRMMEZRQ0VrU3c0bWlHenFPdzAtNFZ4UjlTWENxX2Y5SXZhdGFWVTQwTFE0MDl2Mm5xa09WMDlEN0ltOVJVa1RfVFRMcTE0cTMtdWRxcDNwT0hRSFExVUNYVHVpRW5Sa3lKWW5QOTg3TVBuZTNLcWVwNDlJN3dPUXAya2pGdHVWaXF2dnRSdE1VQnNsVzhIa2NGZnhVTnVjZw?oc=5",
-      "summary": "Rayo-Athletic match abandoned after fans protest against club owner    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-10T20:44:14+00:00",
-      "published_epoch": 1791665054,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -365,49 +497,19 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/7033b3b4c5c349dc8ed631984a07e1467b5e085e-1430x1400.png?rect=0,116,1430,748&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-10/79178e1bdca9b17c.jpg"
+      "local_media_path": null
     },
     {
       "hash": "a22c1fe67daae230",
       "title": "A city-building game in which the city would prefer you didn't",
       "link": "https://housing.over.pizza/",
-      "summary": "Article URL: https://housing.over.pizza/ \n Comments URL: https://news.ycombinator.com/item?id=50036864 \n Points: 45 \n # Comments: 9",
+      "summary": "Article URL: https://housing.over.pizza/ \n Comments URL: https://news.ycombinator.com/item?id=50036864 \n Points: 166 \n # Comments: 67",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
       "category": "tech",
       "published_at": "2026-10-10T20:31:50+00:00",
       "published_epoch": 1791664310,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "216bfa384fda62ec",
-      "title": "Nine dead in Erie, Pennsylvania, mass shooting - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9nRTZNVTRBQkNLeVNTSHA4Ul9ZX1lid0dwTXU3MTlUSlRWOFVONF9JU19tcklUSGNMZlpaWHVReTBkVC14SWltejE3OHVQNVhNYXoyS1lNUE81MURFV21pTnJQZUdNR254NUVYRlNUUlF1MHBQdHpMM2lSeUxyVUR1d000aEc5bGhjaVlDZw?oc=5",
-      "summary": "Nine dead in Erie, Pennsylvania, mass shooting    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-10T20:02:12+00:00",
-      "published_epoch": 1791662532,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "975b1c19d75bf057",
-      "title": "50MB operating system can resurrect your old PC",
-      "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
-      "summary": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/ \n Comments URL: https://news.ycombinator.com/item?id=50036571 \n Points: 21 \n # Comments: 6",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-10T19:59:24+00:00",
-      "published_epoch": 1791662364,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -442,7 +544,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/0be7e2760f3562b601bf92392c563cf99cddcdbe-3835x2557.jpg?rect=458,0,2261,1183&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-10/a7561fabd041693c.jpg"
+      "local_media_path": null
     },
     {
       "hash": "ddb2d2cf94c4cc66",
@@ -456,21 +558,6 @@
       "published_at": "2026-10-10T19:25:00+00:00",
       "published_epoch": 1791660300,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "399a2944d7fa65a5",
-      "title": "Takeshi's Castle",
-      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle \n Comments URL: https://news.ycombinator.com/item?id=50036119 \n Points: 68 \n # Comments: 24",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-10T19:12:55+00:00",
-      "published_epoch": 1791659575,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -489,7 +576,7 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/J8Qwtt3gxNWeZJExHZ8vDKKmdN4Eu0gHpmcHgcPiPT5uaztUEQSIN6jOgfVqc601dTAzPWANon1tJX-Nh2ksPlECvgtcGlExycRMfX0s3i2rE00tsvpNgQnuBIkJsP4FdKeAkB6LbuDrwyOCAtw34-BRCiIwf4zXNM5g0Dhyp_70GCrmCoEXyw8KKTuGKzg0BUtFdB0nFhMDgSDcn1aCEqLViphd04VB2-hL0iKHySzBf-hHqPyuh4KtOt1cPrdjRQwQf5Y2c1TZbmPON4uMjEz6IHfHKQbdwQ4qxFzX8eZwS3HiSjc3-uf5siFzp2nMijR1a9Ui0koc8j0T-BnQ9Q.jpg"
       ],
-      "local_media_path": "media/2026-10-10/5d561e528071a9dd.jpg"
+      "local_media_path": null
     },
     {
       "hash": "a7fea2cd27868dfc",
@@ -506,7 +593,7 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/d-rpi_ASmuTkd1m1G5sOCDjgR-Ypk0x46tuGlRTkIYDsKQjS1KunLyo0e5ylLTVvmlTsvTux7r9Xk7FTXrKlJtrhMKRBdtUpK_qRrNJtoMgZlFPEYK6X1jtAfLCx_IzQvWNyvp2YijAspsgkz6mGjPnoVCj64fJcxTYasCPxlVpWglAr4VWq19Zn9sKxzQy4eOYFq92LDeB0e-bsKmWbwu4MQ_OszkJsHQYb2jKdSGXv8xE4BQ4L9Equ1f4QzVeObJF4foA54MpIQnP-UYAbnD5kOmGgkQK9c_VEDV5xxSch24wGnu5V0jTpQJ8UBHjwf7_OXWlVaqxW7wsPAvQOVw"
       ],
-      "local_media_path": "media/2026-10-10/fc6162b86cbd5a34.jpg"
+      "local_media_path": null
     },
     {
       "hash": "84afdd16132cce12",
@@ -524,25 +611,10 @@
       "local_media_path": null
     },
     {
-      "hash": "65bc7ed813cc3de3",
-      "title": "Ronaldo provisionally suspended after national team walkout, media reports say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5",
-      "summary": "Ronaldo provisionally suspended after national team walkout, media reports say    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-10T18:49:39+00:00",
-      "published_epoch": 1791658179,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "876262df9e620a4d",
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a \n Comments URL: https://news.ycombinator.com/item?id=50035886 \n Points: 87 \n # Comments: 53",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a \n Comments URL: https://news.ycombinator.com/item?id=50035886 \n Points: 120 \n # Comments: 83",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -568,7 +640,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/n0d7K3NjVzAdxga1eh_D9mKbwl23kV8-lwSo1zX8QWd-TNHD6wzS-eKz0f56d5pmVXPIh03M1wqP8AaTPwg66Txqov3sZuh638sSMMa4wXuRHVvsXRuFg_29K_KquaWiZolCS96TTjRfW1-41pyoF-zw3vSduOmMD45RlmZvrsZQcHp4ctghh_1DVh6ZWVLZ1gnxt8ySKncE2efdlkrz47osqmjCqjNr9784dWl5GEZ_F59t-7sD1PlSuBnKRjvsbjz7U5aJf0nWbzs3Rfc7uNyt6P2VgP5elPewGiIuV8u9pUCgLWIi5U461rQU-ZYBPDkNJmiU1ZP3WyDoOUuNww.jpg"
       ],
-      "local_media_path": "media/2026-10-10/93f840bb8eae174e.jpg"
+      "local_media_path": null
     },
     {
       "hash": "25b7459756ceb842",
@@ -585,7 +657,7 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/QodMFm3qJy7pu2s8C7JwnVdtB6Iew_jX0ms_0t2bgNuGw9nJOQNyQaBL7eWl9ZPqFsZ9HNppXOa-AfKhd0lAb-nNtcBvp5u_45e_JpNJvQA4Y4CRor9CSrVMtyPXpKjtlSevk6jDMDc7FmffpmRrO5JTkNlcEqfC7L65Z_V-ucMq-Qxr-Z0aUSTt6mX0ERjEYYtUnW5sNNcx6nDlMtZE71K0a8MxsONWHfcbLt_WeF5PMJNCeXI-gOlQL3I6JRuaRhPGsWBV4x9E4cAHjONRQjYHtzp6rUMMmFJXSiNxaBPo9Tet5QiifTZhOkqiFF-q09mJB3BywsvsX_RhCd4FyQ.jpg"
       ],
-      "local_media_path": "media/2026-10-10/45776cb602a649f8.jpg"
+      "local_media_path": null
     },
     {
       "hash": "871043aef409baab",
@@ -662,8 +734,8 @@
       "source_name": "Reuters Wire",
       "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-10-10T18:18:39+00:00",
-      "published_epoch": 1791656319,
+      "published_at": "2026-10-10T18:18:00+00:00",
+      "published_epoch": 1791656280,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -689,7 +761,7 @@
       "hash": "ef26935e6f3fa87d",
       "title": "Why DuckDB 2.0 is faster",
       "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ \n Comments URL: https://news.ycombinator.com/item?id=50035530 \n Points: 93 \n # Comments: 28",
+      "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ \n Comments URL: https://news.ycombinator.com/item?id=50035530 \n Points: 141 \n # Comments: 49",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -733,37 +805,18 @@
       "local_media_path": null
     },
     {
-      "hash": "964239a6337a50a7",
-      "title": "اینتر ۳-۰ پارما؛ نراتزوری فعلا به صدر جدول برگشت",
-      "link": "https://www.iranintl.com/202610101748",
-      "summary": "تیم فوتبال اینتر در هفته ششم سری‌آ ایتالیا با پیروزی سه بر صفر مقابل پارما، موقتا به تنهایی در صدر جدول قرار گرفت. سوچیچ (۱۳)، چالهان‌اوغلو از روی نقطه پنالتی (۱۹) و تورام (۳۱) برای اینتر گل زدند. این پنجمین گل تورام در شش بازی بود.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-10T17:55:01+00:00",
-      "published_epoch": 1791654901,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/07ac8dd70770fd6f780d6e1f96df8619b5aae265-6458x4403.jpg?rect=0,512,6458,3380&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "64c7ed0005f5c493",
-      "title": "حمله به فرودگاه ریاض؛ ترامپ از بررسی پیوستن آمریکا به جنگ عربستان علیه حوثی‌ها خبر داد",
-      "link": "https://www.iranintl.com/202610100051",
-      "summary": "در حمله شنبه ۱۸ مهر به فرودگاه بین‌المللی ملک خالد در ریاض، چند نفر زخمی شدند و فعالیت این فرودگاه به حالت تعلیق درآمد. دونالد ترامپ، رییس‌جمهوری آمریکا، نیز در واکنش به این حمله گفت واشینگتن احتمال پیوستن به عملیات نظامی عربستان علیه حوثی‌های یمن را بررسی خواهد کرد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-10T17:46:17+00:00",
-      "published_epoch": 1791654377,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/9e51f378a230e2f8083484028466c6481c3f63a6-447x800.jpg?rect=0,283,447,234&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
+      "hash": "216bfa384fda62ec",
+      "title": "Erie, Pennsylvania shooter killed 8 people, then himself, police say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9nRTZNVTRBQkNLeVNTSHA4Ul9ZX1lid0dwTXU3MTlUSlRWOFVONF9JU19tcklUSGNMZlpaWHVReTBkVC14SWltejE3OHVQNVhNYXoyS1lNUE81MURFV21pTnJQZUdNR254NUVYRlNUUlF1MHBQdHpMM2lSeUxyVUR1d000aEc5bGhjaVlDZw?oc=5",
+      "summary": "Erie, Pennsylvania shooter killed 8 people, then himself, police say    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-10T17:48:00+00:00",
+      "published_epoch": 1791654480,
+      "rtl": false,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -794,23 +847,6 @@
       "published_epoch": 1791652068,
       "rtl": true,
       "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "e786561ecd8b3b95",
-      "title": "فدراسیون فوتبال پرتغال کریستیانو رونالدو را به طور موقت تعلیق کرد",
-      "link": "https://www.iranintl.com/202610101801",
-      "summary": "روزنامه آبولا گزارش داد کمیته انضباطی فدراسیون فوتبال پرتغال به دلیل ترک اردوی تیم ملی برای کریستیانو رونالدو پرونده تشکیل داده و او را به طور موقت تعلیق کرده است. رسیدگی به این پرونده «فوری» اعلام شده و مجازات نهایی هنوز تعیین نشده است.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-10T17:00:37+00:00",
-      "published_epoch": 1791651637,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/41c40120b8aa3a6fb7b11497d3e3d469a7c56821-6000x4379.jpg?rect=0,620,6000,3140&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
       "local_media_path": null
     },
     {
@@ -897,21 +933,6 @@
       "local_media_path": null
     },
     {
-      "hash": "54ee040a092d1f83",
-      "title": "Pope Leo condemns death penalty as Trump mulls livestreamed execution - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUJFWFpWRFI1UEd3NDVNdjZkSkV3akwwd2lDb3IyaFdSenBkWllzSkxhYUdJUF9FS1NKQWZhcExmU1Z3ZkNWNlc3aVVlc2pTNFQyTnhfa0pZVVZIMzdDLWZ1R1lDUjcyUkVFRVJ0bmRvNkRaeGRDZzVQbHZGNmxBNnpPMndkZ250ZHNQYlJXUnh4WG4yWE9HU1cyZmdackJkXzJfTUw3VW1QT1ZpcHNvZg?oc=5",
-      "summary": "Pope Leo condemns death penalty as Trump mulls livestreamed execution    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-10T16:17:38+00:00",
-      "published_epoch": 1791649058,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "cccccd638fb802dd",
       "title": "رونالدو پس از قهر با سرمربی پرتغال محروم شد؛ کاپیتان در خطر مجازات شش‌ماهه",
       "link": "https://parsi.euronews.com/2026/10/10/cristiano-ronaldo-portugal-suspension-training-camp",
@@ -994,28 +1015,13 @@
       "hash": "def313029f92ae32",
       "title": "Knuth reward check",
       "link": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ \n Comments URL: https://news.ycombinator.com/item?id=50034081 \n Points: 116 \n # Comments: 45",
+      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ \n Comments URL: https://news.ycombinator.com/item?id=50034081 \n Points: 147 \n # Comments: 51",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
       "category": "tech",
       "published_at": "2026-10-10T15:47:01+00:00",
       "published_epoch": 1791647221,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "91e168b7919b29bc",
-      "title": "How Protein Took over the World",
-      "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-      "summary": "https://archive.is/CbkfI \n\n Comments URL: https://news.ycombinator.com/item?id=50034008 \n Points: 46 \n # Comments: 112",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-10T15:40:06+00:00",
-      "published_epoch": 1791646806,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -1092,7 +1098,7 @@
       "hash": "71b327cfe08bde2b",
       "title": "Bitwarden Dual License Model",
       "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 \n Comments URL: https://news.ycombinator.com/item?id=50033407 \n Points: 318 \n # Comments: 235",
+      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 \n Comments URL: https://news.ycombinator.com/item?id=50033407 \n Points: 346 \n # Comments: 249",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -1122,7 +1128,7 @@
       "hash": "6da9bf09a5ce9431",
       "title": "Unikernels were hard. key word: were",
       "link": "https://ghuntley.com/unikernels/",
-      "summary": "Article URL: https://ghuntley.com/unikernels/ \n Comments URL: https://news.ycombinator.com/item?id=50033357 \n Points: 57 \n # Comments: 23",
+      "summary": "Article URL: https://ghuntley.com/unikernels/ \n Comments URL: https://news.ycombinator.com/item?id=50033357 \n Points: 99 \n # Comments: 43",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -1164,17 +1170,17 @@
       "local_media_path": null
     },
     {
-      "hash": "70961475e9936f30",
-      "title": "فرودگاه ریاض بار دیگر هدف حمله قرار گرفت؛ پروازها متوقف و فرودگاه تخلیه شد",
-      "link": "https://parsi.euronews.com/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again",
-      "summary": "به گفته دو مقام منطقه‌ای، فرودگاه بین‌المللی ملک خالد در ریاض، پایتخت عربستان سعودی، روز شنبه ۱۰ اکتبر بار دیگر هدف حمله قرار گرفت. این حمله تنها دو روز پس از آن رخ می‌دهد که سه شهروند سعودی، از جمله یک خلبان، در حمله به همین فرودگاه کشته شدند.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-10-10T14:13:55+00:00",
-      "published_epoch": 1791641635,
-      "rtl": true,
+      "hash": "59717e38a48d6b0b",
+      "title": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+      "summary": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-10T14:13:00+00:00",
+      "published_epoch": 1791641580,
+      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -1209,6 +1215,36 @@
       "local_media_path": null
     },
     {
+      "hash": "65bc7ed813cc3de3",
+      "title": "Ronaldo provisionally suspended after national team walkout, media reports say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5",
+      "summary": "Ronaldo provisionally suspended after national team walkout, media reports say    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-10T13:35:00+00:00",
+      "published_epoch": 1791639300,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "9a3bc925502ebf37",
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ \n Comments URL: https://news.ycombinator.com/item?id=50032758 \n Points: 218 \n # Comments: 512",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-10T13:29:03+00:00",
+      "published_epoch": 1791638943,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
       "hash": "f8771e8ff6dfa17e",
       "title": "یکی از بچه های کانال که نابینا هستش و با ابزار های جانبی داره از تلگرام استفاده می‌کنه یه فروشگاه آنلاین داره که هم اکان...",
       "link": "https://t.me/Linuxor/5626",
@@ -1220,6 +1256,21 @@
       "published_at": "2026-10-10T13:26:19+00:00",
       "published_epoch": 1791638779,
       "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "504c59d99738f68d",
+      "title": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGNZcXF1MzIzdnVYLWpLT2dwWmYwYVF2dDJDME1Cdl9HSVpfcVF0RE1XVnNEMVZuUmxBdnZFQlRqZlpraG5oaFdfbVhMSXc2OE5ZQ01ZR2JINm5FUTJCRmdOVF8zVHVUU3lRd25WWVRrRmxveGVOeUNnaG1XVDM4ZW51V0lONEtUV1NrLTFIMTZVSjFzMVpDZFVlLTh1UG9WWlhsdnJpRWVVOU1ZR0s3RVlUNlctZw?oc=5",
+      "summary": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-10T13:15:45+00:00",
+      "published_epoch": 1791638145,
+      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -1252,6 +1303,21 @@
       "published_at": "2026-10-10T11:42:00+00:00",
       "published_epoch": 1791632520,
       "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "1ff600df22b8cf2d",
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "summary": "Article URL: https://www.opengroup.org//openbrand/register/ \n Comments URL: https://news.ycombinator.com/item?id=50031653 \n Points: 253 \n # Comments: 219",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-10T10:57:31+00:00",
+      "published_epoch": 1791629851,
+      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -1384,21 +1450,6 @@
       "local_media_path": null
     },
     {
-      "hash": "bb5080d22511ada2",
-      "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice - AP News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
-      "summary": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-10T06:45:00+00:00",
-      "published_epoch": 1791614700,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "d8cecf4865336479",
       "title": "عملیات در تنگه باب‌المندب؛ ائتلاف سعودی از انهدام بیش از ۱۰۰ هدف حوثی‌ها خبر داد",
       "link": "https://www.radiofarda.com/a/saudi-led-coalition-says-destroyed-more-than-100-houthi-targets/33874039.html",
@@ -1416,7 +1467,7 @@
       "local_media_path": null
     },
     {
-      "hash": "b5199ac5b4f406cf",
+      "hash": "e568c56273098ee9",
       "title": "چرا ایران نگران گسترش روابط اسرائیل و امارات است؟",
       "link": "https://www.bbc.com/persian/articles/c58jzyj7nnnpo?at_medium=RSS&at_campaign=rss",
       "summary": "سفر اخیر بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به ابوظبی برخی از عمیق‌ترین سوءظن‌های تهران نسبت به امارات متحده عربی را تقویت کرده است. مقام‌های ایرانی و رسانه‌های تندرو این دیدار را تازه‌ترین نشانه گسترش همکاری‌های امنیتی میان اسرائیل و امارات علیه جمهوری اسلامی ایران توصیف کرده‌اند.",
@@ -1430,7 +1481,7 @@
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/87f1/live/9ab3b4a0-c3c8-11f1-8fc5-335d62f6730b.jpg"
       ],
-      "local_media_path": null
+      "local_media_path": "media/2026-10-11/f3d4d3d8b01397bb.jpg"
     },
     {
       "hash": "5e18c75e23dc6b25",
@@ -1484,23 +1535,6 @@
       "local_media_path": null
     },
     {
-      "hash": "0583038b20d5af7a",
-      "title": "آیا روسیه به ناتو حمله می‌کند؟",
-      "link": "https://www.bbc.com/persian/articles/cqvgreem5g67o?at_medium=RSS&at_campaign=rss",
-      "summary": "با وجود تاکید مکرر کرملین بر اینکه روسیه برنامه‌ای برای حمله به کشورهای عضو ناتو ندارد، هشدارهای اخیر نهادهای اطلاعاتی و مقام‌های اروپایی درباره احتمال اقدام نظامی محدود مسکو در منطقه بالتیک، بار دیگر بحث احتمال رویارویی مستقیم روسیه و ناتو را در کانون توجه قرار داده است.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-10-10T04:10:06+00:00",
-      "published_epoch": 1791605406,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6da/live/549e67e0-c3f4-11f1-97a9-2d4b5e26e282.png"
-      ],
-      "local_media_path": null
-    },
-    {
       "hash": "ecb6451b5a769745",
       "title": "این دو عدد تصویر هم برای دوستان هستش که ایرانسل دارن که باید طبق آموزش گزینه های موجود رو انتخاب کنند",
       "link": "https://t.me/whitedns/1939",
@@ -1513,7 +1547,7 @@
       "published_epoch": 1791596223,
       "rtl": true,
       "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/LJEi_-1_CSX2PahUmEVf7AUrK9JSOmwRqEAEnPJpAc-5Xl-Sejm45stFu0xoGOPPJqglxnBVHLFjLs8oTONx1rZqj2SvJW3gMOOtCJh2BUfbXZffKFmLTpRO0_7CxcGtq5OeZBOJe6PMOXE369k3ZbcS35Y4E0rdqVXHRjxpZcajfRQiJrCuttqh_fB9_O0fXc2U8-ZwyuNnaf3m0f4Aavakv9k1JKrwtWPgP_WKD0D2PjMSqnf-s4FYabonGabEsObN_klUHD8_T5Pagyzn5bx1CBoALYh6a7StCjROMmA_t8fmffLRXUpIlMd4aIQLzRdwfranvunGqp-j7vpflA.jpg"
+        "https://cdn1.telesco.pe/file/HiIg61_Yl6CUGPhI2t2DFxbsVS6EPTtqNG7wyiFH-gajy7DCxYjZE3-kSf-GXg5B-bUu3on1BFTQb_Qr209GGO4GZMRjpXtgCv7wOiCgtwduR70irFb7xXQ5no4T1orETpEZ1dJ8uCNxT8YSLNtoAiIKI8qQkcOBhCQUVMzhNfMYPTu2fnkY0QVCK6qDwnlWdhlaQokOmMcHn-A6gYHGhmFqo_iP_kPxw9X-T2FVkb29f9tekbrps-MCoN-URBZt8UNIIKAAbynMcoS1kvEpSnFgDdM_WNTWSizi31yujCkEdsTMrP-gI-PQnQO0h46IKjpdkvkYRezsNdaMFco34w.jpg"
       ],
       "local_media_path": null
     },
@@ -1530,7 +1564,7 @@
       "published_epoch": 1791596171,
       "rtl": true,
       "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/mXtChcL6CrQMJM0Lf6MQNw-j7TP-HGDTuEEZV7rsCNQf5vZrAbfqRZ_PHXh7_GLJ176nD51A-ffcvvNxjX8gR3lFd-t3tpKYNH_-y3ZLkaPfR-Uoc_eI4_NeKTj3hp7x096t96gafa1ITyIZQKd4n-Mo8o5l6YEPrVaMg3L0umipixZEMrfY6Pj5OAHln9YMetllEf5l63XCF5xzGGP-fSL7AXmvbYSqkTpOlYbZ6cgOdP-YptTKOGM3ZJI1Vs97NGtHfD6pyBkPBci-BWEUiJQjF3c8IJMPhVqAT1CdghninbZyfCQ7w9btWMEtPz0gzHr8IaP4sXeIgKYhDfk8Pw.jpg"
+        "https://cdn1.telesco.pe/file/N7iJTFE6Rfq8DHhxPEztn1O76qLEmQ65DSfpLCKyF_9uVW1NgotHHTFrJSpQRi5hTelk7UMDW7eKJAWAB9HeT6XRyMoGTsKD0X8gimt19d7Cd6RLPXtzZ90wsB-5diHtJtVNrA5n6CHZGgtmIJ8jnkB5DPQjUeTks8gk1UM98EhKX-9XoUkS7aeu0l8ccHsVrXUOLTYnVyUNzUMl6S85PIRSQMliMkMQ97-W5sVLk1si9caUt9avrDPgpR51OG-g8h1Q3v4tda1vIbxK3QCOL747MpDo3ewkzUwp-a-VSzio5XrXkvs2zGCNvVjgkY1J8eRdPR1-iXpchFVFGp3Uzw.jpg"
       ],
       "local_media_path": null
     },
@@ -1565,49 +1599,19 @@
       "local_media_path": null
     },
     {
-      "hash": "43113c7133b440b6",
-      "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWNGMlZNRlFBTHRZXzVzeUVnMnpVaDMwWU5VN2VKY1o4TXdGbmNXUk5lOTkxWVBNaUZHYTlzV044OXI4Vl95dDVral9GRVNhZ0pPS2tXYXpPSm5CZzhEV2dDM3pMMEFscWFwY3NjVFNFcmh4bmI2ck1oRGJlYWtlTVowOGZjMjZFUDI5MVFWV0VKUQ?oc=5",
-      "summary": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-09T23:47:00+00:00",
-      "published_epoch": 1791589620,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "484bb5f74245ef94",
-      "title": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter’s execution - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjd2dDNCOXVqMGF0eldBNDJqR0hwdGVxb2NBcm5XbGgxV2Flc3NfUGgtMGk4VDFJSXV1eDBvSXd1cjgwZmhldXVJTHNPMnhDUzRGclN2WUpoM19ZUGhhZ09FcmpzcmpUT1h6RWx4ZDZfTDl2bnkzeFdFRk9QX3dEM21UZ1ZxU1Vfd3hVQnB6M09iR1U0V1FiUQ?oc=5",
-      "summary": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter’s execution    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-09T22:55:00+00:00",
-      "published_epoch": 1791586500,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "b98181a9786ec58a",
-      "title": "ترامپ از توافق با پوتین برای عرضه گازوئیل روسیه خبر داد؛ زلنسکی: هدیه به پوتین است",
-      "link": "https://www.bbc.com/persian/articles/cqgm0yj37y8mo?at_medium=RSS&at_campaign=rss",
-      "summary": "دونالد ترامپ، رئیس‌جمهور آمریکا، می‌گوید با ولادیمیر پوتین، رئیس‌جمهور روسیه، به توافقی رسیده است که براساس آن مسکو گازوئیل بیشتری را «فوری» وارد بازار جهانی خواهد کرد. این تصمیم با واکنش تند ولادیمیر زلنسکی، رئیس جمهور اوکراین روبه‌رو شده است؛ او می‌گوید که این توافق «هدیه به پوتین» و عاملی برای طولانی‌تر شدن جنگ است.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-10-09T21:31:50+00:00",
-      "published_epoch": 1791581510,
+      "hash": "20e13bd46decedc1",
+      "title": "هندیا ریدن به ایلان ماسک موکش آمبانی مالک اپراتور هندی Jio همونی که اشتراکای جمنای پرو به ایرانیا میده داره سنگ میندازه ...",
+      "link": "https://t.me/Linuxor/5624",
+      "summary": "هندیا ریدن به ایلان ماسک موکش آمبانی مالک اپراتور هندی Jio همونی که اشتراکای جمنای پرو به ایرانیا میده داره سنگ میندازه جلوی پای ایلان ماسک که اینترنت هند رو تصرف نکنه.\n\nایلان ماسک هم زده به کوچه مظلوم نمایی :\n\nجناب نخست‌وزیر آمبانی،\n\nلطفاً عذرخواهی صمیمانه و فروتنانه‌ی من رو بپذیرین که متوجه نشده بودم شما رئیس واقعی هند هستین. (اشاره به قدرت بیش از حد آمبانی میکنه)\n\nطبیعتاً شما ترجیح می‌دین به بهره‌کشی انحصاری خودتون از مردم بزرگ هند ادامه بدین، اما با این وجود، آیا حاضر می‌شین اجازه بدین استارلینک هم وارد رقابت بشه؟\n\nدر هند، درست مثل همه‌ی کشورهای دیگه، مناطق زیادی وجود دارن که به اینترنت دسترسی ندارن. این موضوع باعث می‌شه بچه‌ها از فرصت تحصیل محروم بشن و کسب‌وکارهای کوچیک هم نتونن محصولاتشون رو به بازار جهانی عرضه کنن. استارلینک می‌تونه زندگی این افراد رو به سمت بهتر شدن تغییر بده.\n\n @Linuxor",
+      "source_id": "tg_Linuxor",
+      "source_name": "@Linuxor",
+      "source_name_fa": "@Linuxor (لینوکسور (جامعه گنو/لینوکس))",
+      "category": "telegram",
+      "published_at": "2026-10-09T20:43:55+00:00",
+      "published_epoch": 1791578635,
       "rtl": true,
       "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2a0/live/93538910-c427-11f1-9a39-31b474234113.jpg"
+        "https://cdn4.telesco.pe/file/DvIHJ6toqJMkmyMJZBJD52hoR08rsb2HXzNKh9W1MG1GTDUC-vMSr-Z8hYuLwiwzsvgjvmMICpD9XuTW23S2XJSfG2WAn_79KLiRf3AmYx5zcn3LDScr0S7isDejmL67NjxfwS6ryVg-XgfKPDCpeiQVNd0pWRN-ICaMsWCq0zMMmCKki2b7W96erXzZXS_Ng6-RCwE5ZKJUQFAEdjTOCwU0StOBkOLtrgnPbLc5pMZPY1YwRHfmpOToDsu6oF4yMLgFSQ_8GzLMjKpIQk7ENvTJW8sOqDwo4GUUhenn8rbC3RG-s-rXi5pxgo0abxTrYIIm3BTCUnYo_oJ3yLPWhA.jpg"
       ],
       "local_media_path": null
     }
