@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-13 19:16 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-14 00:36 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,63 +13,68 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [وال‌استریت ژورنال: ایران به کشورهای منطقه درباره حملات زمینی هشدار داده است](https://www.bbc.co.uk/persian/live/cm5yngg404n4t?at_medium=RSS&at_campaign=rss) — `19:16 IRST` / `15:46 UTC`
-  > وال‌استریت‌ژورنال به نقل از منابعی مطلع گزارش داده است که ایران در حال تقویت توان دفاعی خود، بسیج حامیانش و تهدید به واکنشی گسترده‌تر و شدیدتر علیه آمریکا و متحدانش در خلیج فارس است. رئیس‌جمهور آمریکا در پیامی که در شبکه اجتماعی خود منتشر کرده کمک چین و روسیه به ایران را رد کر...
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [شهروندان با ارسال پیام‌های صوتی به ایران‌اینترنشنال درباره مشکلات طرح کالابرگ می‌‌گویند: «در فروشگاه مبلغ واریزشده کالاب...](https://t.me/IranintlTV/362102) — `19:01 IRST` / `15:31 UTC`
-  > شهروندان با ارسال پیام‌های صوتی به ایران‌اینترنشنال درباره مشکلات طرح کالابرگ می‌‌گویند: «در فروشگاه مبلغ واریزشده کالابرگ را استعلام گرفتیم دیدیم یک میلیون تومان کمتر زده‌اند.» یکی دیگر از شهروندان می‌گوید: «از من می‌خواهند خوداظهاری کنم. چه بگویم؟ که بدبختم؟ این‌ها مردم را م...
+- **`بی‌بی‌سی فارسی`** [ایران با احضار سفیر بریتانیا تهدید کرد که ممکن است در روابط با لندن تجدید نظر «جدی» کند](https://www.bbc.co.uk/persian/live/cm5yngg404n4t?at_medium=RSS&at_campaign=rss) — `00:36 IRST` / `21:06 UTC`
+  > ایران سفیر بریتانیا در تهران را احضار و تهدید کرد که ممکن است در روابط با لندن تجدید نظر «جدی» کند. این احضار در اعتراض به اتهام‌های بریتانیا درباره حادثه امنیتی پایگاه هوایی فرفورد است. جنگ حوثی‌ها با عربستان با شدت در جریان است و دونالد ترامپ با انتقاد از حملات حوثی‌ها گفت م...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [صداوسیمای جمهوری اسلامی پس از پخش برنامه‌ای درباره نام دریای خزر، دست‌کم در دو نوبت از برنامه‌های هواشناسی خود، از جمله ...](https://t.me/IranintlTV/362148) — `00:32 IRST` / `21:02 UTC`
+  > صداوسیمای جمهوری اسلامی پس از پخش برنامه‌ای درباره نام دریای خزر، دست‌کم در دو نوبت از برنامه‌های هواشناسی خود، از جمله سه‌شنبه ۲۱ مهر، نام «کاسپین» را به‌جای «خزر» روی نقشه نمایش داد. هنوز مشخص نیست دستورالعمل رسمی برای این تغییر صادر شده است یا نه.
+شبکه افق اواخر مرداد در بر...
+- **`Hacker News`** [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — `00:31 IRST` / `21:01 UTC`
+  > Article URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0 
+ Comments URL: https://news.ycombinator.com/item?id=50078686 
+ Points: 0 
+ # Comments: 0
+- **`ایران اینترنشنال`** [پیروزی پرگل بارسلونا برابر گالاتاسرای در شب شکست من‌یوناتد مقابل اتلتیکومادرید](https://www.iranintl.com/202610137919) — `00:28 IRST` / `20:58 UTC`
+  > تیم فوتبال بارسلونا در هفته دوم لیگ قهرمانان اروپا با نتیجه ۴-۱ گالاتاسرای را شکست داد. گالاتاسرای در نیمه اول با گل باتراکوف پیش افتاد اما در نیمه دوم شاگردان فلیک کامبک زدند و چهار بار دروازه گالا را باز کردند. کانسلو، لوپز، گوردون و آدیمی گل‌های بارسلونا را به ثمر رساندند.
 
-  ![Media](media/2026-10-13/fcfccffc4fd8c4b7.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد شهروندی در نجف‌آباد اصفهان در منطقه دانشگاه آزاد بادکنک‌های سفیدی را با شعا...](https://t.me/IranintlTV/362103) — `19:01 IRST` / `15:31 UTC`
-  > ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد شهروندی در نجف‌آباد اصفهان در منطقه دانشگاه آزاد بادکنک‌های سفیدی را با شعار نوشته شده «پایان شب سیه سپید است» به آسمان پرواز داده است.
+  ![Media](media/2026-10-13/59cca8604ccb93ca.jpg)
+- **`Reuters Wire`** [Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B0dlZXT01OUXZmR2FEMXhoVWx5RnpzUk92dzNtR0dWSWZFZGkyTzlpQmc1VmNxc0N6VTBtTndzZUd0NzVYMGxIQUU3VEFaTUZnUnhVMmlpSWhjM1YxLWxKQWMxTFN2M0g1cTVKV20wWUc3LVMtZ0MzRXY1c1AxSTgzUjlQV21kb19uSmZndHdYVDVlQzZ2X2VjN210SWN0cWRZeDVkY1BaV21H?oc=5) — `00:28 IRST` / `20:58 UTC`
+  > Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [خبرگزاری هرانا گزارش داد مختار آل‌بوشوکه، زندانی سیاسی محبوس در زندان اراک، همچنان در سلول انفرادی نگهداری می‌شود و بی‌خ...](https://t.me/IranintlTV/362147) — `00:16 IRST` / `20:46 UTC`
+  > خبرگزاری هرانا گزارش داد مختار آل‌بوشوکه، زندانی سیاسی محبوس در زندان اراک، همچنان در سلول انفرادی نگهداری می‌شود و بی‌خبری از وضعیت او نگرانی خانواده و نزدیکانش را افزایش داده است.
 
-  ![Media](media/2026-10-13/090eb6f6e2f2d73f.jpg)
-- **`Reuters Wire`** [Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxOel94VDNzeEx1LXhzdm9vX0xSSUhyQUswNTAwUWhsVklGcEtQRm1KYlpUWXhKOUo5cE1tdTJXQV85eVZic05iV3gyVXNIZTJwV2xCRmo0QkFtMDFXMWNWR3lhaS05dHN2UVNtREJodXZLMllfOTBYdUpHelFKS1JQbUVxUFU4NzhTTUswVVlvX21QcXByY0F4akJ1ZGNtSDZ0aExrZHBYVlR4aGlCYTJz?oc=5) — `18:56 IRST` / `15:26 UTC`
-  > Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says    Reuters
-- **`یورونیوز فارسی`** [پنج اعدام در شش روز؛ عفو بین‌الملل خواستار فشار هماهنگ بر تهران و ارجاع ایران به دیوان کیفری بین‌المللی شد](https://parsi.euronews.com/2026/10/13/five-executions-six-days-amnesty-urges-coordinated-pressure-tehran-icc-referral) — `18:55 IRST` / `15:25 UTC`
-  > این پنج نفر علی همتی سیستانی، علیرضا رئیسی، علیرضا سپاهی، مجید نیک‌اندیش و سیاوش جمشیدی خیرآبادی بودند که اعدام آن‌ها در فاصله ۳۰ سپتامبر تا ۵ اکتبر (هشتم تا ۱۳ مهر) اجرا شد.
-- **`ایران اینترنشنال`** [تشدید درگیری‌ها میان ریاض و حوثی‌ها؛ شرکت نفت یمن هدف قرار گرفت](https://www.iranintl.com/202610139481) — `18:52 IRST` / `15:22 UTC`
-  > هم‌زمان با شدت گرفتن درگیری‌ها میان عربستان سعودی و حوثی‌های یمن، شبکه تلویزیونی المسیره، وابسته به این گروه نیابتی جمهوری اسلامی، از حمله به شرکت نفت یمن در صنعا خبر داد.
+به نوشته هرانا، آل‌بوشوکه با بیماری‌های مختلف از جمله مشکلات کلیوی و فتق روبه‌روست و به عمل جر...
 
-  ![Media](media/2026-10-13/0e6f96a38628bf97.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [عفو بین‌الملل اعلام کرد جمهوری اسلامی از هشتم تا سیزدهم مهر پنج نفر را در ارتباط با اعتراضات دی‌ماه ۱۴۰۴، پس از محاکمه‌ه...](https://t.me/IranintlTV/362101) — `18:50 IRST` / `15:20 UTC`
-  > عفو بین‌الملل اعلام کرد جمهوری اسلامی از هشتم تا سیزدهم مهر پنج نفر را در ارتباط با اعتراضات دی‌ماه ۱۴۰۴، پس از محاکمه‌های ناعادلانه و همراه با شکنجه اعدام کرده است.
+  ![Media](media/2026-10-13/f22ad8231e2e606f.jpg)
+- **`AP News Wire`** [Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5) — `00:15 IRST` / `20:45 UTC`
+  > Six Flags closes 9 North American roller coasters after families watch man fall to his death    AP News
+- **`ایران اینترنشنال`** [هرانا: مختار آل‌بوشوکه همچنان در سلول انفرادی زندان اراک نگهداری می‌شود](https://www.iranintl.com/202610130743) — `00:12 IRST` / `20:42 UTC`
+  > هرانا گزارش داد مختار آل‌بوشوکه، زندانی سیاسی محبوس در زندان اراک، همچنان در سلول انفرادی و در شرایط غیربهداشتی نگهداری می‌شود. او با مشکلات کلیوی و فتق روبه‌روست و در اعتراض به عملی نشدن وعده انتقال به زندان شیبان اهواز، اعتصاب غذا کرده است.
 
-این سازمان اسامی آنان را علی همتی سیستانی، علیرضا رئیسی، علیرضا سپاهی، مجید نیک‌اندیش و سیاوش جمشیدی خیرآبادی ...
+  ![Media](media/2026-10-13/058970ee93f4e00b.jpg)
+- **`Reuters Wire`** [https://www.reuters.com/world/europe/pope-leo-enter-hospital-tuesday-surgery-lung-nodule-2026-10-13 - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVI1SUJUZTUxMzJJdDlYc2FLVlh1dmZzTnh3andRUW9wZzR6Uk5neHVWcFgwNV9mUENqdENsQS1oVXdUSEltMktJWGZqRXNwcnpwQVdrTXl1NVp3ZFlVczBuN3Z5MDEtYmRfdFdTTkYteGNFNEdncW84RXkybFJfbWhPY0VtNUZmZFk0cjZiemhxUTJrNTNoVmpMbUZoMV9IdDNONG9hcVA5UQ?oc=5) — `00:07 IRST` / `20:37 UTC`
+  > https://www.reuters.com/world/europe/pope-leo-enter-hospital-tuesday-surgery-lung-nodule-2026-10-13    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر مهدی رنجبری در مراسم زادروز این جاویدنام که بر مزار او برگزار کرد ...](https://t.me/IranintlTV/362146) — `00:02 IRST` / `20:32 UTC`
+  > ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر مهدی رنجبری در مراسم زادروز این جاویدنام که بر مزار او برگزار کرد با ستایش شجاعت فرزند خود گفت که پسرش برای آرمان خود و ملت به خیابان رفته بود.
 
-  ![Media](media/2026-10-13/e70276fc676cf95e.jpg)
-- **`بی‌بی‌سی فارسی`** [رئيس ام‌ای‌۵: علاقه ایران به اهدافی در بریتانیا فراتر از پایگاه هوایی فرفورد بوده است](https://www.bbc.com/persian/articles/cmx280y0p250o?at_medium=RSS&at_campaign=rss) — `18:47 IRST` / `15:17 UTC`
-  > رئیس ام‌آی۵، سازمان اطلاعات داخلی بریتانیا، گفته است که «علاقه ایران به اهدافی در بریتانیا، فراتر از پایگاه نیروی هوایی سلطنتی در فرفورد بوده» و خبر داده که این سازمان در یک سال گذشته بیش از ۵۰ نفر را در ارتباط با فعالیت‌های مرتبط با ایران بازداشت کرده است.
+مهدی رنجبری ۱۸ دی با اصابت سه گلوله کلاشنیکف به ناحیه شکم مجروح شد. او پس از ۱...
 
-  ![Media](media/2026-10-13/b903934b4222c681.jpg)
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [این مدل چینی که چندی پیش معرفی کردم و محتوای PDF رو استخراج می‌کرد رو ببینید توی آپدریت جدیدش به سرعت 263 توکن بر ثانیه ...](https://t.me/Linuxor/5662) — `18:44 IRST` / `15:14 UTC`
-  > این مدل چینی که چندی پیش معرفی کردم و محتوای PDF رو استخراج می‌کرد رو ببینید توی آپدریت جدیدش به سرعت 263 توکن بر ثانیه رسیده و واقعا کیفیتش خوبه.
+  ![Media](media/2026-10-13/aaa1c5e252ed5fa5.jpg)
+- **`Reuters Wire`** [DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0pfLVk1Vmg4NEU1WEl2c3VGc3ROUXE4RWJiYzVncjRGLThLeGRucGoybDZxMXczVTJBMWUtX3haNjJqOEs5SS0yV19QVFZqNU14VWdKbGcydHNfVXN0bWpScnN1ZzVJZ05fRTM3WW5mUHRIQmZCbEhRT1FtSXpsTWlMdE5nMHN3bXItRFJTeHFXNHNUMFVIWW9wbXdlaEF2akt4bE9vcmx4ZkdqOEdIQ2VlcGlTazFIcXV2cDVWR0ZYQk80SFow?oc=5) — `00:01 IRST` / `20:31 UTC`
+  > DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [محمدامین آقامیری، دبیر شورای عالی فضای مجازی ایران، گفت جمهوری اسلامی چند سامانه برای قطع پایانه‌های ماهواره‌ای استارلین...](https://t.me/IranintlTV/362145) — `23:58 IRST` / `20:28 UTC`
+  > محمدامین آقامیری، دبیر شورای عالی فضای مجازی ایران، گفت جمهوری اسلامی چند سامانه برای قطع پایانه‌های ماهواره‌ای استارلینک در اختیار دارد.
 
-برای ترجمه یا استفاده از اطلاعات کتاب ها خیلی خوبه البته تست روی M5 Pro با 24 گیگابایت حافظه انجام شده و روی سیستمتون اگر ضعیف تر...
+او گفت استارلینک در جنگ‌ها برای فرماندهی و کنترل، هدایت پهپادها، جاسوسی و انتقال اطلاعات استفاده می‌شود و از این رو می‌تواند هدف نظامی باش...
 
-  ![Media](media/2026-10-13/6a4ce62f392ce485.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی داروها در ایران می‌گوید: «مسئولان جمهوری اسلامی اصلا برایش...](https://t.me/IranintlTV/362100) — `18:33 IRST` / `15:03 UTC`
-  > یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی داروها در ایران می‌گوید: «مسئولان جمهوری اسلامی اصلا برایشان مهم نیست که مردم هزینه داروهایشان را ندارند.»
+  ![Media](media/2026-10-13/b41b3bb0a8bf4f89.jpg)
+- **`بی‌بی‌سی فارسی`** [در یمن جنگی با پیامدهای جهانی در جریان است](https://www.bbc.com/persian/articles/crz98542ly75o?at_medium=RSS&at_campaign=rss) — `23:54 IRST` / `20:24 UTC`
+  > از خطوط مقدم نبرد در استان لحج تا بیمارستان‌های مملو از مجروح در عدن، جنگ یمن بار دیگر وارد مرحله‌ای تعیین‌کننده شده است. حوثی‌ها که هم‌زمان کشتیرانی جهانی و عربستان سعودی را تحت فشار قرار داده‌اند، اکنون در مرکز رویارویی گسترده‌تری قرار دارند که از تهران تا ریاض امتداد یافته ...
 
-  ![Media](media/2026-10-13/0f7053f1b5238697.jpg)
-- **`یورونیوز فارسی`** [پزشکیان ابلاغ کرد؛ آسیب دیدگان جنگ‌های ۱۲ روزه و ۴۰ روزه «سهمیه‌دار» می‌شوند](https://parsi.euronews.com/2026/10/13/pezeshkian-notifies-quota-for-victims-12-day-40-day-wars-1623) — `18:30 IRST` / `15:00 UTC`
-  > مسعود پزشکیان، رئیس‌جمهوری اسلامی و رئیس شورای عالی انقلاب فرهنگی مصوبه اختصاص سهمیه به داوطلبان کنکور آسیب‌دیده از جنگ‌های ۱۲ روزه و ۴۰ روزه را برای اجرا ابلاغ کرد.
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [پسرم شرکت و خط تولید داره؛ خط تولید پسرش :](https://t.me/Linuxor/5661) — `18:29 IRST` / `14:59 UTC`
-  > پسرم شرکت و خط تولید داره؛ خط تولید پسرش :
+  ![Media](media/2026-10-13/f47262f3aafcf5ad.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به افزایش شمار کشورهای امضاکننده بیانیه درباره نقش جمهور...](https://t.me/IranintlTV/362144) — `23:53 IRST` / `20:23 UTC`
+  > شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به افزایش شمار کشورهای امضاکننده بیانیه درباره نقش جمهوری اسلامی در حادثه پایگاه فرفورد به ۳۴ کشور گفت شکل‌گیری این همراهی، هرچند فعلا بیشتر روی کاغذ است، می‌تواند مقدمه یک ائتلاف گسترده‌تر علیه جمهوری اسلامی باشد...
 
- @Linuxor
+  ![Media](media/2026-10-13/d491dd577db3095e.jpg)
+- **`ایران اینترنشنال`** [لیگ نخبگان آسیا؛ دبل سردار آزمون الاتحاد را زمین‌گیر کرد، الهلال السد را شکست داد](https://www.iranintl.com/202610138191) — `23:49 IRST` / `20:19 UTC`
+  > در هفته دوم لیگ نخبگان آسیا، شباب‌الاهلی امارات با درخشش سردار آزمون، الاتحاد عربستان سعودی را ۲ بر یک شکست داد. آزمون هر دو گل تیمش را به ثمر رساند و رضا غندی‌پور که از دقیقه ۱۶ وارد زمین شده بود، پاس گل دوم او را داد. سعید عزت‌اللهی نیز ۹۰ دقیقه برای شباب‌الاهلی بازی کرد.
 
-  ![Media](media/2026-10-13/64c42a0cd3446306.jpg)
-- **`یورونیوز فارسی`** [زنان با بیماری‌های خودایمنی دیرتر از مردان تشخیص می‌گیرند و بیشتر اشتباه تشخیص می‌شوند](https://parsi.euronews.com/2026/10/13/women-with-autoimmune-diseases-experience-longer-waiting-times-and-more-frequent-misdiagno) — `18:26 IRST` / `14:56 UTC`
-  > یک پژوهش نشان می‌دهد زنان بسیار بیشتر از مردان با تاخیرهای طولانی در تشخیص مواجه می‌شوند و علائم خودایمنی جسمی آنها به‌اشتباه به مشکلات روانی مثل اضطراب یا افسردگی نسبت داده می‌شود.
-- **`Reuters Wire`** [Investigators hunt French supermarket fridge hackers, no claim of responsibility - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3JqLV9RU0d1X0RtU05YMURYUGhhVlBQSWY5WENLX20zTVlsczlMejdNbGVrWHd2amxyeVdMVERzS3Z1blYtQUV2LVJ0d1FGY0cyUGlPZnRYNkVNXzdMVEYxaHJNQ0k1OU4wZTZVY2ZVQWg1aUtHWFh2TmY1bjlTRUpDcS1jTGRRMjB6V1ZCRWc0NzdKeFRHVVpRWjI3VzhLeXk5OEhvN3dkUHAwTlAwamIwa1FVZ1N1TWtmX1VYUGJMQVoxMkpjYg?oc=5) — `18:25 IRST` / `14:55 UTC`
-  > Investigators hunt French supermarket fridge hackers, no claim of responsibility    Reuters
-- **`Reuters Wire`** [Allies failed to warn Ukraine of impending missile attack, Zelenskiy says - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5) — `18:25 IRST` / `14:55 UTC`
-  > Allies failed to warn Ukraine of impending missile attack, Zelenskiy says    Reuters
+  ![Media](media/2026-10-13/686f10c95cea3795.jpg)
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-13 - ساعت 21:00](news/2026-10-13/21-00.md)
 - 📅 [2026-10-13 - ساعت 15:30](news/2026-10-13/15-30.md)
 - 📅 [2026-10-13 - ساعت 07:30](news/2026-10-13/07-30.md)
 - 📅 [2026-10-13 - ساعت 00:00](news/2026-10-13/00-00.md)
