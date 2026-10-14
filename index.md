@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-14 00:36 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-14 04:30 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,67 +13,66 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [ایران با احضار سفیر بریتانیا تهدید کرد که ممکن است در روابط با لندن تجدید نظر «جدی» کند](https://www.bbc.co.uk/persian/live/cm5yngg404n4t?at_medium=RSS&at_campaign=rss) — `00:36 IRST` / `21:06 UTC`
-  > ایران سفیر بریتانیا در تهران را احضار و تهدید کرد که ممکن است در روابط با لندن تجدید نظر «جدی» کند. این احضار در اعتراض به اتهام‌های بریتانیا درباره حادثه امنیتی پایگاه هوایی فرفورد است. جنگ حوثی‌ها با عربستان با شدت در جریان است و دونالد ترامپ با انتقاد از حملات حوثی‌ها گفت م...
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [صداوسیمای جمهوری اسلامی پس از پخش برنامه‌ای درباره نام دریای خزر، دست‌کم در دو نوبت از برنامه‌های هواشناسی خود، از جمله ...](https://t.me/IranintlTV/362148) — `00:32 IRST` / `21:02 UTC`
-  > صداوسیمای جمهوری اسلامی پس از پخش برنامه‌ای درباره نام دریای خزر، دست‌کم در دو نوبت از برنامه‌های هواشناسی خود، از جمله سه‌شنبه ۲۱ مهر، نام «کاسپین» را به‌جای «خزر» روی نقشه نمایش داد. هنوز مشخص نیست دستورالعمل رسمی برای این تغییر صادر شده است یا نه.
-شبکه افق اواخر مرداد در بر...
-- **`Hacker News`** [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) — `00:31 IRST` / `21:01 UTC`
-  > Article URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0 
- Comments URL: https://news.ycombinator.com/item?id=50078686 
- Points: 0 
- # Comments: 0
-- **`ایران اینترنشنال`** [پیروزی پرگل بارسلونا برابر گالاتاسرای در شب شکست من‌یوناتد مقابل اتلتیکومادرید](https://www.iranintl.com/202610137919) — `00:28 IRST` / `20:58 UTC`
-  > تیم فوتبال بارسلونا در هفته دوم لیگ قهرمانان اروپا با نتیجه ۴-۱ گالاتاسرای را شکست داد. گالاتاسرای در نیمه اول با گل باتراکوف پیش افتاد اما در نیمه دوم شاگردان فلیک کامبک زدند و چهار بار دروازه گالا را باز کردند. کانسلو، لوپز، گوردون و آدیمی گل‌های بارسلونا را به ثمر رساندند.
+- **`بی‌بی‌سی فارسی`** [افزایش فشار حملات حوثی‌های یمن به عربستان](https://www.bbc.co.uk/persian/live/cxj0lzpnz009t?at_medium=RSS&at_campaign=rss) — `04:31 IRST` / `01:01 UTC`
+  > عربستان حمله حوثی‌ها به مقر شرکت عظیم نفتی آرامکو در ظهران را تایید کرد اما گفت اتش‌سوزی محدودی در یک ساختمان اداری بدون خسارت جانی مهار شده است. ائتلاف به رهبری عربستان همچنین گفت حمله به ریاض را رهگیری کرده است درحالی‌که گزارش‌ها حاکی از انفجار در پایتخت عربستان است. در همین...
 
-  ![Media](media/2026-10-13/59cca8604ccb93ca.jpg)
-- **`Reuters Wire`** [Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B0dlZXT01OUXZmR2FEMXhoVWx5RnpzUk92dzNtR0dWSWZFZGkyTzlpQmc1VmNxc0N6VTBtTndzZUd0NzVYMGxIQUU3VEFaTUZnUnhVMmlpSWhjM1YxLWxKQWMxTFN2M0g1cTVKV20wWUc3LVMtZ0MzRXY1c1AxSTgzUjlQV21kb19uSmZndHdYVDVlQzZ2X2VjN210SWN0cWRZeDVkY1BaV21H?oc=5) — `00:28 IRST` / `20:58 UTC`
-  > Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [خبرگزاری هرانا گزارش داد مختار آل‌بوشوکه، زندانی سیاسی محبوس در زندان اراک، همچنان در سلول انفرادی نگهداری می‌شود و بی‌خ...](https://t.me/IranintlTV/362147) — `00:16 IRST` / `20:46 UTC`
-  > خبرگزاری هرانا گزارش داد مختار آل‌بوشوکه، زندانی سیاسی محبوس در زندان اراک، همچنان در سلول انفرادی نگهداری می‌شود و بی‌خبری از وضعیت او نگرانی خانواده و نزدیکانش را افزایش داده است.
+  ![Media](media/2026-10-14/4ffe33d93d6cc339.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [وزارت خزانه‌داری آمریکا اعلام کرد «بانک آو آمریکا»، دومین بانک بزرگ این کشور، با دفتر کنترل دارایی‌های خارجی این وزارتخا...](https://t.me/IranintlTV/362166) — `03:59 IRST` / `00:29 UTC`
+  > وزارت خزانه‌داری آمریکا اعلام کرد «بانک آو آمریکا»، دومین بانک بزرگ این کشور، با دفتر کنترل دارایی‌های خارجی این وزارتخانه برای پرداخت ۱۱.۶ میلیون دلار جریمه به توافق رسیده است.
 
-به نوشته هرانا، آل‌بوشوکه با بیماری‌های مختلف از جمله مشکلات کلیوی و فتق روبه‌روست و به عمل جر...
+به گفته وزارت خزانه‌داری آمریکا، این جریمه به دلیل «موارد احتمالی نقض چند برنامه تحریمی، از جمله ت...
 
-  ![Media](media/2026-10-13/f22ad8231e2e606f.jpg)
-- **`AP News Wire`** [Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5) — `00:15 IRST` / `20:45 UTC`
+  ![Media](media/2026-10-14/8a3de2e5af143658.jpg)
+- **`ایران اینترنشنال`** [عضو سابق شورای عالی کار: سبد معیشت خانوار کارگری به ۹۱ میلیون و ۳۰۰ هزار تومان رسید](https://www.iranintl.com/202610143885) — `03:54 IRST` / `00:24 UTC`
+  > فرامرز توفیقی، عضو سابق شورای عالی کار و فعال کارگری، در گفت‌وگو با خبرآنلاین به افزایش هزینه‌های زندگی و کاهش قدرت خرید کارگران، به‌ویژه پس از جنگ ایران، اشاره کرد و گفت سبد معیشت خانوار کارگری به «۹۱ میلیون و ۳۰۰ هزار تومان» رسیده است.
+
+  ![Media](media/2026-10-14/41439c4c2c69afa3.jpg)
+- **`Reuters Wire`** [Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5) — `03:36 IRST` / `00:06 UTC`
+  > Iran shifting tactics to step up attacks on shipping before US vote, officials say    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مصر اعلام کرده آماده هر نوع کمک به عربستان سعودی است، هرچند تحلیلگران درباره اینکه مشارکت مستقیم مصر بتواند حوثی‌ها را ا...](https://t.me/IranintlTV/362165) — `03:32 IRST` / `00:02 UTC`
+  > مصر اعلام کرده آماده هر نوع کمک به عربستان سعودی است، هرچند تحلیلگران درباره اینکه مشارکت مستقیم مصر بتواند حوثی‌ها را از ادامه حملات بازدارد، تردید دارند. هم‌زمان، ورود احتمالی آمریکا به درگیری‌ها همچنان در هاله‌ای از ابهام است، هرچند واشینگتن از ائتلاف به رهبری عربستان در زم...
+
+  ![Media](media/2026-10-14/8aa69f09c7d752d4.jpg)
+- **`یورونیوز فارسی`** [بازگشت به جنگ یا صبر؟ اکسیوس: ترامپ و نتانیاهو درباره ازسرگیری حملات به ایران پیش از انتخابات گفتگو کردند](https://parsi.euronews.com/2026/10/14/trump-netanyahu-discuss-iran-strikes-before-elections-oct-2026) — `03:29 IRST` / `23:59 UTC`
+  > به گزارش اکسیوس به نقل از دو مقام آمریکایی، یک مقام اسرائیلی و یک منبع آگاه، بنیامین نتانیاهو و دونالد ترامپ هفته گذشته درباره احتمال آغاز عملیات گسترده علیه ایران پیش از انتخابات اسرائیل و آمریکا گفتگو کردند. به گفته یک مقام آمریکایی، به نظر می‌رسید که نتانیاهو مشتاق آغاز حمل...
+- **`Reuters Wire`** [Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnhNU3BlQXNqZ3N2M0lHWDUxZ0pTWE9xdF9jSUV3QU9tVkZLSGk0eU9ibDBnRkR2QVRCd0YyN1NyMUJmajJhcHNzbjNScW9nVDdqaHpCQ2pUSzRBaUJpRjQzREhISEdTLWhQSXY5eWxKX3VNX2U2SnJGV0FYb1NDczRrSTdISWtvSEc5Z0J5SURxdTlqdGZZZ1RQdXBLUV9YTF9ta1RFcVlRLWd6MzMxaGJpbnlOdjhJTjU0WExvV2ZKOXQ1M1lYNw?oc=5) — `03:24 IRST` / `23:54 UTC`
+  > Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به گزارش وال‌استریت ژورنال گفت جمهوری اسلامی در حال آماده شدن برای جن...](https://t.me/IranintlTV/362164) — `03:00 IRST` / `23:30 UTC`
+  > مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به گزارش وال‌استریت ژورنال گفت جمهوری اسلامی در حال آماده شدن برای جنگ، از جمله سناریوی درگیری زمینی، است و احتمال حمله به کشورهایی مانند کویت و عربستان سعودی نیز در محاسبات نظامی تهران مطرح شده است.
+
+او افزود مقام‌های نظامی ج...
+
+  ![Media](media/2026-10-14/98d23e1c4a0773e1.jpg)
+- **`Reuters Wire`** [FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5) — `02:59 IRST` / `23:29 UTC`
+  > FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says    Reuters
+- **`ایران اینترنشنال`** [چرا بریتانیا همچنان به سیاست مماشات در برابر جمهوری اسلامی ادامه می‌دهد؟](https://www.iranintl.com/202610132776) — `02:54 IRST` / `23:24 UTC`
+  > شورای سردبیری روزنامه وال‌استریت ژورنال با اشاره به افزایش تهدیدهای تروریستی جمهوری اسلامی در خاک بریتانیا، با متهم کردن دولت این کشور به ترس و تردید، این پرسش را مطرح کرده است که چرا این کشور همچنان به سیاست مماشات خود در قبال تهران ادامه می‌دهد.
+
+  ![Media](media/2026-10-14/48f4bf9d2aad2c95.jpg)
+- **`Hacker News`** [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) — `02:43 IRST` / `23:13 UTC`
+  > Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [جینا رومرو، گزارشگر ویژه سازمان ملل در امور آزادی تجمعات مسالمت‌آمیز و تشکل، از همبستگی جهانی با اعتصاب غذای ۲۴ ساعته خو...](https://t.me/IranintlTV/362163) — `02:36 IRST` / `23:06 UTC`
+  > جینا رومرو، گزارشگر ویژه سازمان ملل در امور آزادی تجمعات مسالمت‌آمیز و تشکل، از همبستگی جهانی با اعتصاب غذای ۲۴ ساعته خود که در حمایت از کارزار «سه‌شنبه‌های نه به اعدام» انجام شد، سپاسگزاری کرد.
+
+او در شبکه اجتماعی ایکس با اشاره به دریافت هزاران پیام حمایت‌آمیز نوشت: «این همبس...
+
+  ![Media](media/2026-10-14/171a96ed32706484.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به آزمایش موفق اتصال مستقیم تلفن‌های همراه به ماهواره در ایتالیا گفت ...](https://t.me/IranintlTV/362162) — `02:33 IRST` / `23:03 UTC`
+  > مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به آزمایش موفق اتصال مستقیم تلفن‌های همراه به ماهواره در ایتالیا گفت در ماه‌های آینده ممکن است جهشی مهم در فناوری ارتباطات رخ دهد و گوشی‌های همراه بدون تجهیزات اضافی مستقیما به شبکه‌هایی مانند استارلینک متصل شوند.
+
+او افزود گس...
+
+  ![Media](media/2026-10-14/9f03d5d580ba4c11.jpg)
+- **`AP News Wire`** [Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5) — `02:31 IRST` / `23:01 UTC`
   > Six Flags closes 9 North American roller coasters after families watch man fall to his death    AP News
-- **`ایران اینترنشنال`** [هرانا: مختار آل‌بوشوکه همچنان در سلول انفرادی زندان اراک نگهداری می‌شود](https://www.iranintl.com/202610130743) — `00:12 IRST` / `20:42 UTC`
-  > هرانا گزارش داد مختار آل‌بوشوکه، زندانی سیاسی محبوس در زندان اراک، همچنان در سلول انفرادی و در شرایط غیربهداشتی نگهداری می‌شود. او با مشکلات کلیوی و فتق روبه‌روست و در اعتراض به عملی نشدن وعده انتقال به زندان شیبان اهواز، اعتصاب غذا کرده است.
-
-  ![Media](media/2026-10-13/058970ee93f4e00b.jpg)
-- **`Reuters Wire`** [https://www.reuters.com/world/europe/pope-leo-enter-hospital-tuesday-surgery-lung-nodule-2026-10-13 - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVI1SUJUZTUxMzJJdDlYc2FLVlh1dmZzTnh3andRUW9wZzR6Uk5neHVWcFgwNV9mUENqdENsQS1oVXdUSEltMktJWGZqRXNwcnpwQVdrTXl1NVp3ZFlVczBuN3Z5MDEtYmRfdFdTTkYteGNFNEdncW84RXkybFJfbWhPY0VtNUZmZFk0cjZiemhxUTJrNTNoVmpMbUZoMV9IdDNONG9hcVA5UQ?oc=5) — `00:07 IRST` / `20:37 UTC`
-  > https://www.reuters.com/world/europe/pope-leo-enter-hospital-tuesday-surgery-lung-nodule-2026-10-13    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر مهدی رنجبری در مراسم زادروز این جاویدنام که بر مزار او برگزار کرد ...](https://t.me/IranintlTV/362146) — `00:02 IRST` / `20:32 UTC`
-  > ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر مهدی رنجبری در مراسم زادروز این جاویدنام که بر مزار او برگزار کرد با ستایش شجاعت فرزند خود گفت که پسرش برای آرمان خود و ملت به خیابان رفته بود.
-
-مهدی رنجبری ۱۸ دی با اصابت سه گلوله کلاشنیکف به ناحیه شکم مجروح شد. او پس از ۱...
-
-  ![Media](media/2026-10-13/aaa1c5e252ed5fa5.jpg)
-- **`Reuters Wire`** [DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0pfLVk1Vmg4NEU1WEl2c3VGc3ROUXE4RWJiYzVncjRGLThLeGRucGoybDZxMXczVTJBMWUtX3haNjJqOEs5SS0yV19QVFZqNU14VWdKbGcydHNfVXN0bWpScnN1ZzVJZ05fRTM3WW5mUHRIQmZCbEhRT1FtSXpsTWlMdE5nMHN3bXItRFJTeHFXNHNUMFVIWW9wbXdlaEF2akt4bE9vcmx4ZkdqOEdIQ2VlcGlTazFIcXV2cDVWR0ZYQk80SFow?oc=5) — `00:01 IRST` / `20:31 UTC`
-  > DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [محمدامین آقامیری، دبیر شورای عالی فضای مجازی ایران، گفت جمهوری اسلامی چند سامانه برای قطع پایانه‌های ماهواره‌ای استارلین...](https://t.me/IranintlTV/362145) — `23:58 IRST` / `20:28 UTC`
-  > محمدامین آقامیری، دبیر شورای عالی فضای مجازی ایران، گفت جمهوری اسلامی چند سامانه برای قطع پایانه‌های ماهواره‌ای استارلینک در اختیار دارد.
-
-او گفت استارلینک در جنگ‌ها برای فرماندهی و کنترل، هدایت پهپادها، جاسوسی و انتقال اطلاعات استفاده می‌شود و از این رو می‌تواند هدف نظامی باش...
-
-  ![Media](media/2026-10-13/b41b3bb0a8bf4f89.jpg)
-- **`بی‌بی‌سی فارسی`** [در یمن جنگی با پیامدهای جهانی در جریان است](https://www.bbc.com/persian/articles/crz98542ly75o?at_medium=RSS&at_campaign=rss) — `23:54 IRST` / `20:24 UTC`
-  > از خطوط مقدم نبرد در استان لحج تا بیمارستان‌های مملو از مجروح در عدن، جنگ یمن بار دیگر وارد مرحله‌ای تعیین‌کننده شده است. حوثی‌ها که هم‌زمان کشتیرانی جهانی و عربستان سعودی را تحت فشار قرار داده‌اند، اکنون در مرکز رویارویی گسترده‌تری قرار دارند که از تهران تا ریاض امتداد یافته ...
-
-  ![Media](media/2026-10-13/f47262f3aafcf5ad.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به افزایش شمار کشورهای امضاکننده بیانیه درباره نقش جمهور...](https://t.me/IranintlTV/362144) — `23:53 IRST` / `20:23 UTC`
-  > شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به افزایش شمار کشورهای امضاکننده بیانیه درباره نقش جمهوری اسلامی در حادثه پایگاه فرفورد به ۳۴ کشور گفت شکل‌گیری این همراهی، هرچند فعلا بیشتر روی کاغذ است، می‌تواند مقدمه یک ائتلاف گسترده‌تر علیه جمهوری اسلامی باشد...
-
-  ![Media](media/2026-10-13/d491dd577db3095e.jpg)
-- **`ایران اینترنشنال`** [لیگ نخبگان آسیا؛ دبل سردار آزمون الاتحاد را زمین‌گیر کرد، الهلال السد را شکست داد](https://www.iranintl.com/202610138191) — `23:49 IRST` / `20:19 UTC`
-  > در هفته دوم لیگ نخبگان آسیا، شباب‌الاهلی امارات با درخشش سردار آزمون، الاتحاد عربستان سعودی را ۲ بر یک شکست داد. آزمون هر دو گل تیمش را به ثمر رساند و رضا غندی‌پور که از دقیقه ۱۶ وارد زمین شده بود، پاس گل دوم او را داد. سعید عزت‌اللهی نیز ۹۰ دقیقه برای شباب‌الاهلی بازی کرد.
-
-  ![Media](media/2026-10-13/686f10c95cea3795.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به گسترش فعالیت‌های برون‌مرزی سپاه پاسداران گفت تجربه نشان داده تحری...](https://t.me/IranintlTV/362161) — `02:23 IRST` / `22:53 UTC`
+  > جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به گسترش فعالیت‌های برون‌مرزی سپاه پاسداران گفت تجربه نشان داده تحریم به‌تنهایی مانع عملیات برون‌مرزی جمهوری اسلامی نشده است، اما تحریم‌های هدفمند علیه مقام‌ها و افراد وابسته می‌تواند بخشی از توان عملیاتی و امنیتی جمهوری اسلا...
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-14 - ساعت 01:00](news/2026-10-14/01-00.md)
 - 📅 [2026-10-13 - ساعت 21:00](news/2026-10-13/21-00.md)
 - 📅 [2026-10-13 - ساعت 15:30](news/2026-10-13/15-30.md)
 - 📅 [2026-10-13 - ساعت 07:30](news/2026-10-13/07-30.md)
