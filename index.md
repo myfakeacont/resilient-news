@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-14 04:30 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-14 10:49 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,65 +13,71 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [افزایش فشار حملات حوثی‌های یمن به عربستان](https://www.bbc.co.uk/persian/live/cxj0lzpnz009t?at_medium=RSS&at_campaign=rss) — `04:31 IRST` / `01:01 UTC`
-  > عربستان حمله حوثی‌ها به مقر شرکت عظیم نفتی آرامکو در ظهران را تایید کرد اما گفت اتش‌سوزی محدودی در یک ساختمان اداری بدون خسارت جانی مهار شده است. ائتلاف به رهبری عربستان همچنین گفت حمله به ریاض را رهگیری کرده است درحالی‌که گزارش‌ها حاکی از انفجار در پایتخت عربستان است. در همین...
+- **`بی‌بی‌سی فارسی`** [قوه‌قضائیه ایران از اعدام یک نفر از معترضان دی‌ماه خبر داد](https://www.bbc.co.uk/persian/live/cxj0lzpnz009t?at_medium=RSS&at_campaign=rss) — `10:49 IRST` / `07:19 UTC`
+  > میزان، رسانه رسمی قوه قضائیه جمهوری اسلامی، در خبری اعلام کرد که علی‌سینا مصطفوی، «کوهنورد و موزیسین اهل کرمان» صبح امروز اعدام شده است. حساب دفتر شاهزاده رضا پهلوی در شبکه اجتماعی ایکس نوشته بود که او «کوهنورد و فاتح قله‌های متعدد از جمله اورست است» و «در پی اعترافات اجباری ت...
+- **`بی‌بی‌سی فارسی`** [از تهران تا ریاض و واشنگتن؛ جنگی که سیاست و انتخابات را به هم گره زده است](https://www.bbc.com/persian/articles/cmz7x9d5e8r0o?at_medium=RSS&at_campaign=rss) — `10:37 IRST` / `07:07 UTC`
+  > در حالی که کارزار انتخابات میان‌دوره‌ای آمریکا به هفته‌های پایانی خود رسیده و جنگ میان حوثی‌های یمن و عربستان نگرانی‌ها درباره اختلال بیشتر در بازار انرژی را افزایش داده است، رسانه‌های آمریکایی از پیوند خوردن بحث حمله دوباره به ایران با محاسبات انتخاباتی در آمریکا و اسرائیل نو...
 
-  ![Media](media/2026-10-14/4ffe33d93d6cc339.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [وزارت خزانه‌داری آمریکا اعلام کرد «بانک آو آمریکا»، دومین بانک بزرگ این کشور، با دفتر کنترل دارایی‌های خارجی این وزارتخا...](https://t.me/IranintlTV/362166) — `03:59 IRST` / `00:29 UTC`
-  > وزارت خزانه‌داری آمریکا اعلام کرد «بانک آو آمریکا»، دومین بانک بزرگ این کشور، با دفتر کنترل دارایی‌های خارجی این وزارتخانه برای پرداخت ۱۱.۶ میلیون دلار جریمه به توافق رسیده است.
+  ![Media](media/2026-10-14/8b8f499cdfa5fe1d.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🗣 روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۲۲ مهر:](https://t.me/IranintlTV/362185) — `10:27 IRST` / `06:57 UTC`
+  > 🗣 روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۲۲ مهر: 
 
-به گفته وزارت خزانه‌داری آمریکا، این جریمه به دلیل «موارد احتمالی نقض چند برنامه تحریمی، از جمله ت...
+ 🔹 کفش بچه من پاره بود وصله کردم بند نو انداختم واکس زدم. می‌گه نمی‌پوشم، مدرسه نمی‌رم. من یک بازنشسته‌ام. ندارم. از کجا بیارم بخرم؟ شب و روز نداریم، خواب نداریم.
 
-  ![Media](media/2026-10-14/8a3de2e5af143658.jpg)
-- **`ایران اینترنشنال`** [عضو سابق شورای عالی کار: سبد معیشت خانوار کارگری به ۹۱ میلیون و ۳۰۰ هزار تومان رسید](https://www.iranintl.com/202610143885) — `03:54 IRST` / `00:24 UTC`
-  > فرامرز توفیقی، عضو سابق شورای عالی کار و فعال کارگری، در گفت‌وگو با خبرآنلاین به افزایش هزینه‌های زندگی و کاهش قدرت خرید کارگران، به‌ویژه پس از جنگ ایران، اشاره کرد و گفت سبد معیشت خانوار کارگری به «۹۱ میلیون و ۳۰۰ هزار تومان» رسیده است.
+ 🔹 از مشکین دشت کرج: وضع مالی مردم انقدر بده و انق...
+- **`رادیو فردا`** [تداوم حملات به عربستان؛ در حمله موشکی به مقر آرامکو، سه طبقه یک برج اداری آسیب دید](https://www.radiofarda.com/a/saudi-aramco-dhahran-missile-attack-houthis-yemen-war/33876310.html) — `10:19 IRST` / `06:49 UTC`
+  > وزارت انرژی عربستان سعودی تأیید کرد که یکی از ساختمان‌های اداری شرکت دولتی نفت آرامکو در شهر ظهران، در شرق این کشور، هدف حمله قرار گرفت و دچار آتش‌سوزی شد.
 
-  ![Media](media/2026-10-14/41439c4c2c69afa3.jpg)
-- **`Reuters Wire`** [Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5) — `03:36 IRST` / `00:06 UTC`
-  > Iran shifting tactics to step up attacks on shipping before US vote, officials say    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مصر اعلام کرده آماده هر نوع کمک به عربستان سعودی است، هرچند تحلیلگران درباره اینکه مشارکت مستقیم مصر بتواند حوثی‌ها را ا...](https://t.me/IranintlTV/362165) — `03:32 IRST` / `00:02 UTC`
-  > مصر اعلام کرده آماده هر نوع کمک به عربستان سعودی است، هرچند تحلیلگران درباره اینکه مشارکت مستقیم مصر بتواند حوثی‌ها را از ادامه حملات بازدارد، تردید دارند. هم‌زمان، ورود احتمالی آمریکا به درگیری‌ها همچنان در هاله‌ای از ابهام است، هرچند واشینگتن از ائتلاف به رهبری عربستان در زم...
+  ![Media](media/2026-10-14/dd4fa3d923dc4426.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 در مسابقات کشتی فرنگی زیر ۲۳ سال قهرمانی ۲۰۲۶ جهان در شهر لاس‌وگاس آمریکا، ابوالفضل مهمدی با کسب مدال طلا بر سکوی نخست...](https://t.me/IranintlTV/362184) — `10:17 IRST` / `06:47 UTC`
+  > 🔻 در مسابقات کشتی فرنگی زیر ۲۳ سال قهرمانی ۲۰۲۶ جهان در شهر لاس‌وگاس آمریکا، ابوالفضل مهمدی با کسب مدال طلا بر سکوی نخست جهان ایستاد و محمد کمالی نیز صاحب گردن‌آویز برنز شد.
 
-  ![Media](media/2026-10-14/8aa69f09c7d752d4.jpg)
-- **`یورونیوز فارسی`** [بازگشت به جنگ یا صبر؟ اکسیوس: ترامپ و نتانیاهو درباره ازسرگیری حملات به ایران پیش از انتخابات گفتگو کردند](https://parsi.euronews.com/2026/10/14/trump-netanyahu-discuss-iran-strikes-before-elections-oct-2026) — `03:29 IRST` / `23:59 UTC`
-  > به گزارش اکسیوس به نقل از دو مقام آمریکایی، یک مقام اسرائیلی و یک منبع آگاه، بنیامین نتانیاهو و دونالد ترامپ هفته گذشته درباره احتمال آغاز عملیات گسترده علیه ایران پیش از انتخابات اسرائیل و آمریکا گفتگو کردند. به گفته یک مقام آمریکایی، به نظر می‌رسید که نتانیاهو مشتاق آغاز حمل...
-- **`Reuters Wire`** [Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnhNU3BlQXNqZ3N2M0lHWDUxZ0pTWE9xdF9jSUV3QU9tVkZLSGk0eU9ibDBnRkR2QVRCd0YyN1NyMUJmajJhcHNzbjNScW9nVDdqaHpCQ2pUSzRBaUJpRjQzREhISEdTLWhQSXY5eWxKX3VNX2U2SnJGV0FYb1NDczRrSTdISWtvSEc5Z0J5SURxdTlqdGZZZ1RQdXBLUV9YTF9ta1RFcVlRLWd6MzMxaGJpbnlOdjhJTjU0WExvV2ZKOXQ1M1lYNw?oc=5) — `03:24 IRST` / `23:54 UTC`
-  > Trump administration to expand a Delek Texas refinery using Defense ​Production ⁠Act    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به گزارش وال‌استریت ژورنال گفت جمهوری اسلامی در حال آماده شدن برای جن...](https://t.me/IranintlTV/362164) — `03:00 IRST` / `23:30 UTC`
-  > مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به گزارش وال‌استریت ژورنال گفت جمهوری اسلامی در حال آماده شدن برای جنگ، از جمله سناریوی درگیری زمینی، است و احتمال حمله به کشورهایی مانند کویت و عربستان سعودی نیز در محاسبات نظامی تهران مطرح شده است.
+ 🔹 در دیدارهای فینال و رده‌بندی پنج وزن نخست که بامداد چهارشنبه برگزار شد، ابوالفضل مهمدی در وزن ۸۲ کی...
 
-او افزود مقام‌های نظامی ج...
+  ![Media](media/2026-10-14/1fa356231b44e616.jpg)
+- **`@Rostamchannel (کانال رستم (دور زدن فیلترینگ))`** [📅 برنامه‌های رستم مدیا | چهارشنبه ۲۲ مهر:](https://t.me/Rostamchannel/8508) — `10:16 IRST` / `06:46 UTC`
+  > 📅 برنامه‌های رستم مدیا | چهارشنبه ۲۲ مهر:
 
-  ![Media](media/2026-10-14/98d23e1c4a0773e1.jpg)
-- **`Reuters Wire`** [FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5) — `02:59 IRST` / `23:29 UTC`
-  > FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says    Reuters
-- **`ایران اینترنشنال`** [چرا بریتانیا همچنان به سیاست مماشات در برابر جمهوری اسلامی ادامه می‌دهد؟](https://www.iranintl.com/202610132776) — `02:54 IRST` / `23:24 UTC`
-  > شورای سردبیری روزنامه وال‌استریت ژورنال با اشاره به افزایش تهدیدهای تروریستی جمهوری اسلامی در خاک بریتانیا، با متهم کردن دولت این کشور به ترس و تردید، این پرسش را مطرح کرده است که چرا این کشور همچنان به سیاست مماشات خود در قبال تهران ادامه می‌دهد.
+کتاب دیوار ژان پل سارتر
+تصاویر دیده‌نشده از کشتار میدان تیان‌آن‌من چین
+داستان تغییر ایدئولوژی مجاهدین خلق
+چرا نیاز داریم که حوصله‌مان سر برود
+درون دستگاه امنیتی مخفی ایران، مستند دویچه وله
+زندگینامه نویسندگان مشهور
+مسکن‌ها چگونه عمل م...
 
-  ![Media](media/2026-10-14/48f4bf9d2aad2c95.jpg)
-- **`Hacker News`** [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) — `02:43 IRST` / `23:13 UTC`
-  > Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash...
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [جینا رومرو، گزارشگر ویژه سازمان ملل در امور آزادی تجمعات مسالمت‌آمیز و تشکل، از همبستگی جهانی با اعتصاب غذای ۲۴ ساعته خو...](https://t.me/IranintlTV/362163) — `02:36 IRST` / `23:06 UTC`
-  > جینا رومرو، گزارشگر ویژه سازمان ملل در امور آزادی تجمعات مسالمت‌آمیز و تشکل، از همبستگی جهانی با اعتصاب غذای ۲۴ ساعته خود که در حمایت از کارزار «سه‌شنبه‌های نه به اعدام» انجام شد، سپاسگزاری کرد.
+  ![Media](media/2026-10-14/e38d529b9cc199b8.jpg)
+- **`ایران اینترنشنال`** [کشتی فرنگی زیر ۲۳ سال قهرمانی جهان؛ مهمدی طلا گرفت، کمالی به برنز رسید](https://www.iranintl.com/202610149694) — `10:09 IRST` / `06:39 UTC`
+  > در مسابقات کشتی فرنگی زیر ۲۳ سال قهرمانی ۲۰۲۶ جهان در شهر لاس‌وگاس آمریکا، ابوالفضل مهمدی با کسب مدال طلا بر سکوی نخست جهان ایستاد و محمد کمالی نیز صاحب گردن‌آویز برنز شد.
 
-او در شبکه اجتماعی ایکس با اشاره به دریافت هزاران پیام حمایت‌آمیز نوشت: «این همبس...
+  ![Media](media/2026-10-14/6b745c5cdd09e1e8.jpg)
+- **`یورونیوز فارسی`** [پیشنهاد سهم ۲۵ میلیون دلاری فدراسیون‌ها؛ آیا صندوق توسعه فیفا ناجیِ اینفانتینو خواهد شد؟](https://parsi.euronews.com/2026/10/14/fifa-proposes-63bn-development-funding) — `10:08 IRST` / `06:38 UTC`
+  > فدراسیون بین‌المللی فوتبال، فیفا قصد دارد یک صندوق چهارساله توسعه فوتبال به ارزش ۶٫۳۵ میلیارد دلار (۵٫۵ میلیارد یورو) را به جریان بیندازد؛ برنامه‌ای که تخصیص ۲۵ میلیون دلار (۲۱٫۵ میلیون یورو) کمک مالی مستقیم به هر یک از فدراسیون‌های ملی عضو را شامل می‌شود.
+- **`Reuters Wire`** [SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5) — `10:04 IRST` / `06:34 UTC`
+  > SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says    Reuters
+- **`ایران اینترنشنال`** [جمهوری اسلامی برای تشدید حملات به کشتی‌ها پیش از انتخابات آمریکا تاکتیک عوض می‌کند](https://www.iranintl.com/202610140420) — `10:00 IRST` / `06:30 UTC`
+  > دو مقام ارشد ایرانی به خبرگزاری رویترز گفتند تهران با تغییر تاکتیک‌های حمله به کشتی‌ها در تنگه هرمز و گسترش دامنه عملیات، می‌کوشد قیمت نفت را بالا نگه دارد و بر انتخابات میان‌دوره‌ای آمریکا در ۱۲ آبان تاثیر بگذارد.
 
-  ![Media](media/2026-10-14/171a96ed32706484.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به آزمایش موفق اتصال مستقیم تلفن‌های همراه به ماهواره در ایتالیا گفت ...](https://t.me/IranintlTV/362162) — `02:33 IRST` / `23:03 UTC`
-  > مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به آزمایش موفق اتصال مستقیم تلفن‌های همراه به ماهواره در ایتالیا گفت در ماه‌های آینده ممکن است جهشی مهم در فناوری ارتباطات رخ دهد و گوشی‌های همراه بدون تجهیزات اضافی مستقیما به شبکه‌هایی مانند استارلینک متصل شوند.
-
-او افزود گس...
-
-  ![Media](media/2026-10-14/9f03d5d580ba4c11.jpg)
-- **`AP News Wire`** [Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5) — `02:31 IRST` / `23:01 UTC`
-  > Six Flags closes 9 North American roller coasters after families watch man fall to his death    AP News
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به گسترش فعالیت‌های برون‌مرزی سپاه پاسداران گفت تجربه نشان داده تحری...](https://t.me/IranintlTV/362161) — `02:23 IRST` / `22:53 UTC`
-  > جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به گسترش فعالیت‌های برون‌مرزی سپاه پاسداران گفت تجربه نشان داده تحریم به‌تنهایی مانع عملیات برون‌مرزی جمهوری اسلامی نشده است، اما تحریم‌های هدفمند علیه مقام‌ها و افراد وابسته می‌تواند بخشی از توان عملیاتی و امنیتی جمهوری اسلا...
+  ![Media](media/2026-10-14/e3f1012bbfbb924a.jpg)
+- **`یورونیوز فارسی`** [افزایش قیمت نفت پس از گزارش حملات به کشتی‌ها در تنگه هرمز](https://parsi.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-the-strait-of-hormuz) — `09:59 IRST` / `06:29 UTC`
+  > بهای نفت با تشدید نگرانی‌ها درباره عرضه پس از حملات جدید در خاورمیانه افزایش یافت. قیمت گاز اروپا نزدیک اوج چهار ساله ماند و سهام آسیایی ناهمگون بود و قراردادهای آتی سهام اروپا اندکی کاهش یافت.
+- **`Hacker News`** [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260) — `09:48 IRST` / `06:18 UTC`
+  > Article URL: https://github.com/android/ndk/issues/2260 
+ Comments URL: https://news.ycombinator.com/item?id=50083130 
+ Points: 50 
+ # Comments: 2
+- **`یورونیوز فارسی`** [مالیات، مسکن و شهریه: تدابیر بودجه ۲۰۲۷ و تاثیر بر هزینه خانواده‌های پرتغال](https://parsi.euronews.com/2026/10/14/taxes-housing-and-tuition-fees-the-2027-budget-measures-that-will-affect-the-family-budget) — `09:42 IRST` / `06:12 UTC`
+  > در بودجه دولت سال ۲۰۲۷ چندین اقدام در زمینه مالیات، دستمزد، مستمری، مسکن و شهریه پیشبینی شده که مستقیما بر درآمد خانواده‌ها اثر می‌گذارد.
+- **`یورونیوز فارسی`** [اروپا امروز: وزیر خارجه اسپانیا در یورونیوز، حملات پهپادی دریای سیاه، بازتنظیم روابط اروپا و چین](https://parsi.euronews.com/2026/10/14/europe-today-spanish-fm-on-euronews-black-sea-drone-attacks-eu-china-reset) — `09:33 IRST` / `06:03 UTC`
+  > اسپانیا زیر فشار است؛ جنگ اوکراین، بحران مسکن، انتخابات زودهنگام و تنش با مراکش بر سر سئوتا. وزیر خارجه البارس در گفت‌وگوی اختصاصی توضیح می‌دهد مادرید چگونه کنار می آید؛ همچنین حملات پهپادی در دریای سیاه، بازتنظیم روابط اتحادیه اروپا و چین و طرح بودجه ایرلند.
+- **`یورونیوز فارسی`** [اکسپدیا مقاصد برتر سفر ۲۰۲۷ را معرفی کرد؛ فقط دو مقصد در اروپا](https://parsi.euronews.com/2026/10/14/expedia-unveils-its-2027-destinations-of-the-year-and-only-two-are-in-europe) — `09:31 IRST` / `06:01 UTC`
+  > در این فهرست تنها ۱۰ شهر و منطقه برگزیده شدند و ساوث لیک تاهو در کالیفرنیا بالاتر از هیوگو در ژاپن و پونتا دل استه در اروگوئه در صدر قرار گرفت.
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-14 - ساعت 07:00](news/2026-10-14/07-00.md)
 - 📅 [2026-10-14 - ساعت 01:00](news/2026-10-14/01-00.md)
 - 📅 [2026-10-13 - ساعت 21:00](news/2026-10-13/21-00.md)
 - 📅 [2026-10-13 - ساعت 15:30](news/2026-10-13/15-30.md)
@@ -131,7 +137,6 @@
 - 📅 [2026-09-30 - ساعت 15:30](news/2026-09-30/15-30.md)
 - 📅 [2026-09-30 - ساعت 08:00](news/2026-09-30/08-00.md)
 - 📅 [2026-09-30 - ساعت 01:30](news/2026-09-30/01-30.md)
-- 📅 [2026-09-29 - ساعت 22:00](news/2026-09-29/22-00.md)
 
 ---
 توسعه‌یافته برای استقرار سبک و مداوم بر روی اوبونتو ARM64.
