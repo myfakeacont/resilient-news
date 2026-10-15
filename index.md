@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-15 21:37 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-16 01:31 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,76 +13,66 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [مقام سعودی: ایران حوثی‌ها را به حملات اخیر علیه عربستان تشویق کرده است](https://www.bbc.co.uk/persian/live/cmwyq66ve970t?at_medium=RSS&at_campaign=rss) — `21:37 IRST` / `18:07 UTC`
-  > یکی از مقام‌های وزارت خارجه عربستان سعودی، ایران را به تشویق حوثی‌های یمن برای انجام حملات اخیر علیه این کشور متهم کرد و گفت که تهران همچنان به تجهیز و آموزش این گروه ادامه می‌دهد. رائد کریملی گفت که عربستان با وجود ادامه تماس‌ها با ایران، نشانه‌ای از آمادگی تهران برای دادن ام...
-- **`Hacker News`** [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) — `21:17 IRST` / `17:47 UTC`
-  > https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... 
+- **`بی‌بی‌سی فارسی`** [اصابت موشک‌های بالستیک حوثی‌ها به کاخ ریاست جمهوری عدن](https://www.bbc.co.uk/persian/live/cmwyq66ve970t?at_medium=RSS&at_campaign=rss) — `01:31 IRST` / `22:01 UTC`
+  > بر اساس گزارش‌ها، در پی حمله موشکی حوثی‌ها به کاخ ریاست‌جمهوری عدن در جنوب یمن دو نفر از نیروهای امنیتی کشته شدند. معمر الاریانی، وزیر اطلاع‌رسانی دولت تحت حمایت عربستان‌سعودی در یمن، به بی‌بی‌سی گفت که نخست‌وزیر و سایر وزرا که در جریان اصابت پنج موشک بالستیک در این کاخ بودند ...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی](https://t.me/IranintlTV/362458) — `01:28 IRST` / `21:58 UTC`
+  > 🎧 نسخه صوتی برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+ @iranintlTV
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [رویترز به نقل از یک مقام وزارت خارجه آمریکا گزارش داد مارکو روبیو، وزیر خارجه ایالات متحده، با جوزف عون، رییس‌جمهوری لبن...](https://t.me/IranintlTV/362457) — `01:27 IRST` / `21:57 UTC`
+  > رویترز به نقل از یک مقام وزارت خارجه آمریکا گزارش داد مارکو روبیو، وزیر خارجه ایالات متحده، با جوزف عون، رییس‌جمهوری لبنان، درباره ضبط صدها کیلوگرم مواد منفجره متعلق به حزب‌الله گفت‌وگو کرد.
 
- Comments URL: https://news.ycombinator.com/item?id=50107379 
- Points: 16 
- # Comments: 9
-- **`Reuters Wire`** [Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5) — `21:16 IRST` / `17:46 UTC`
-  > Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️روزنامه خبرورزشی در گزارشی درباره جنجال تازه علیرضا بیرانوند در تراکتور که با انتقادات او از مدیران این باشگاه ش...](https://t.me/IranintlTV/362433) — `21:12 IRST` / `17:42 UTC`
-  > 🔻️ ️️️️️روزنامه خبرورزشی در گزارشی درباره جنجال تازه علیرضا بیرانوند در تراکتور که با انتقادات او از مدیران این باشگاه شروع شد، نوشت: «اطلاعاتی به کریمی و نکونام رسیده بود که بیرانوند به نوعی از قلعه‌نویی و اطرافیانش خط گرفته تا علیه مدیران تراکتور موضع‌گیری کند.»
+این مقام در این باره گفت، روبیو در این تماس از میشل عون خواست، دولت لبنان افرادی را ک...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی فریدون: چرا جمهوری اسلامی به تاریخ ایران توهین می‌کند؟](https://t.me/IranintlTV/362456) — `01:24 IRST` / `21:54 UTC`
+  > 🎧 نسخه صوتی فریدون: چرا جمهوری اسلامی به تاریخ ایران توهین می‌کند؟
+ @iranintlTV
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [رییس اقلیم کردستان عراق در نشستی در اربیل گفت عملکرد احزاب کرد ایرانی در جریان تنش‌های منطقه‌ای «غیرمسئولانه» بوده و اقل...](https://t.me/IranintlTV/362455) — `01:12 IRST` / `21:42 UTC`
+  > رییس اقلیم کردستان عراق در نشستی در اربیل گفت عملکرد احزاب کرد ایرانی در جریان تنش‌های منطقه‌ای «غیرمسئولانه» بوده و اقلیم را با خطرات بزرگی روبه‌رو کرده است.
 
- 🔹️ ️️️️️به...
+از ستایش رهبر جمهوری اسلامی تا انتقاد از گروه‌های کرد مستقر در اقلیم کردستان، به نظر می‌رسد اقلیم به‌شکلی فزاینده در ...
 
-  ![Media](media/2026-10-15/20b7ad3bae6de98c.jpg)
-- **`ایران اینترنشنال`** [هری کین برای تمدید قرارداد با بایرن مونیخ تا سال ۲۰۲۹ به توافق رسید](https://www.iranintl.com/202610154084) — `21:06 IRST` / `17:36 UTC`
-  > اسکای اسپورتس گزارش داد هری کین برای تمدید قراردادش با بایرن مونیخ تا تابستان ۲۰۲۹ به توافق اولیه رسیده است و باشگاه آلمانی در حال نهایی کردن مدارک قرارداد است. کین از زمان پیوستن به بایرن در سال ۲۰۲۳، در ۱۵۶ بازی ۱۵۴ گل زده است.
+  ![Media](media/2026-10-15/12563e685644e30e.jpg)
+- **`یورونیوز فارسی`** [آلبانی: سومین روز پیاپی اعتراض‌های خشونت‌آمیز در تیرانا](https://parsi.euronews.com/video/2026/10/15/albania-violent-protests-shake-tirana-for-the-third-consecutive-day) — `01:06 IRST` / `21:36 UTC`
+  > آتش‌سوزی‌ها در مرکز تیرانا ادامه دارد؛ معترضان سنگ پرتاب می‌کنند و پلیس با گاز اشک‌آور و آب‌پاش پاسخ می‌دهد. تظاهرات دانشجویان برای مطالبه استعفای نخست‌وزیر ادی راما وارد سومین روز شده است.
+- **`Reuters Wire`** [Volvo Cars expands automated driving partnership with Nvidia - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWtIdFNOaHNvOGk3ZDB4eHM3LWhYaWhNX3hDdE16S3RIMW1PanNrX0RDdWthRDV1ZGxaUVlQQXRuN2RsZ3Z2WkMzUWx5amJSdDdiOEFqaEo1Z3JsV0s0UkttS3I3dTJWYUtzR3hlRjl2WmM2enZkNGM3bGwtYzVyVWdGNFZOUzFuYW5MSFpiOUlxQmNKTlBfTVdZRUlaUU1nVC1rRVBUY2RoSUh4NV90WDF6Zjc5MlpneTZVWFB5RmFNZkFG?oc=5) — `00:57 IRST` / `21:27 UTC`
+  > Volvo Cars expands automated driving partnership with Nvidia    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [در سومین روز از تظاهرات اعتراضی در پایتخت آلبانی، نخست وزیر این کشور درخواست معترضان برای کناره‌گیری از قدرت را رد کرد. ...](https://t.me/IranintlTV/362454) — `00:54 IRST` / `21:24 UTC`
+  > در سومین روز از تظاهرات اعتراضی در پایتخت آلبانی، نخست وزیر این کشور درخواست معترضان برای کناره‌گیری از قدرت را رد کرد. تظاهرات تیرانا که در ابتدا با اعتراض دانشجویان به هزینه‌های سنگین تحصیلی و فساد مالی شروع شده بود، پس از حمله به ساختمان وزارت آموزش و پرورش و برخی مراکز دول...
 
-  ![Media](media/2026-10-15/e4ed101735956bc5.jpg)
-- **`Hacker News`** [Anthropic Update on Independent Evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators) — `21:00 IRST` / `17:30 UTC`
-  > Article URL: https://www.anthropic.com/news/an-update-on-independent-evaluators 
- Comments URL: https://news.ycombinator.com/item?id=50107114 
- Points: 9 
- # Comments: 1
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [کیوان ساکت، آهنگساز و نوازنده سرشناس تار و سه‌تار، پنج‌شنبه ۲۳ مهرماه با انتشار ویدیویی از اجرای قطعه «افسوس» با ساز تار...](https://t.me/IranintlTV/362432) — `20:59 IRST` / `17:29 UTC`
-  > کیوان ساکت، آهنگساز و نوازنده سرشناس تار و سه‌تار، پنج‌شنبه ۲۳ مهرماه با انتشار ویدیویی از اجرای قطعه «افسوس» با ساز تار در استوری اینستاگرام خود، یاد علی‌سینا مصطفوی، معترض اعدام‌شده و از شاگردانش را گرامی داشت.
+  ![Media](media/2026-10-15/db610bb017e2db8b.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مه‌دود غلیظ و نارنجی‌ ناشی از آتش‌سوزی جنگل‌ها، چهارشنبه ۲۲ مهر آسمان استان کالیمانتان مرکزی اندونزی را پوشاند. به گزارش...](https://t.me/IranintlTV/362453) — `00:51 IRST` / `21:21 UTC`
+  > مه‌دود غلیظ و نارنجی‌ ناشی از آتش‌سوزی جنگل‌ها، چهارشنبه ۲۲ مهر آسمان استان کالیمانتان مرکزی اندونزی را پوشاند. به گزارش وزارت محیط زیست این کشور، شاخص آلودگی هوا در این روز از هزار و ۲۰۰ گذشت؛ بیش از چهار برابر آستانه ۳۰۰ که در محدوده «خطرناک» قرار دارد.
 
-علی‌سینا مصطفوی، کوهنورد، هیمالیانورد و نوازنده ۳۸ ساله تار اهل...
+اندونزی شدیدترین فصل...
 
-  ![Media](media/2026-10-15/e30fbed7a601efc1.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مخاطبان ایران‌اینترنشنال در پیام‌های خود از تشدید مشکلات معیشتی زنان سرپرست خانوار در ایران خبر داده‌اند. به گفته آنها، ...](https://t.me/IranintlTV/362431) — `20:52 IRST` / `17:22 UTC`
-  > مخاطبان ایران‌اینترنشنال در پیام‌های خود از تشدید مشکلات معیشتی زنان سرپرست خانوار در ایران خبر داده‌اند. به گفته آنها، افزایش هزینه‌های زندگی، بیکاری و تعدیل نیرو، تامین نیازهای روزمره را برای شماری از این زنان دشوارتر کرده است.
+  ![Media](media/2026-10-15/ce9bb00380e29158.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️تیم فوتبال یوونتوس در هفته دوم لیگ اروپا با گل دقیقه ۹۲ راندال کولو موانی، سلتاویگو را در ۲ بر ۱ شکست داد.](https://t.me/IranintlTV/362452) — `00:48 IRST` / `21:18 UTC`
+  > 🔻️ ️️️️️تیم فوتبال یوونتوس در هفته دوم لیگ اروپا با گل دقیقه ۹۲ راندال کولو موانی، سلتاویگو را در ۲ بر ۱ شکست داد.
 
-هم‌زمان، محدودیت در دسترسی به حمایت‌های دولتی،...
+ 🔹️ ️️️️️تیم اسپالتی ابتدا در دقیقه ۱۸ با گل هوگو آلوارس عقب افتاد، اما نیک ولتماده در دقیقه ۵۸ بازی را مساوی کرد و کولو موانی در دقیقه ۲+۹۰ گل پیروزی یووه را زد...
 
-  ![Media](media/2026-10-15/6562f28fd62d82de.jpg)
-- **`ایران اینترنشنال`** [تلاش ناکام عربستان سعودی برای مذاکره با حوثی‌ها؛ ریاض انگشت اتهام را به سوی تهران گرفت](https://www.iranintl.com/202610151475) — `20:51 IRST` / `17:21 UTC`
-  > یک مقام وزارت امور خارجه عربستان سعودی اعلام کرد ریاض در هفته‌های گذشته، هم‌زمان با تشدید درگیری‌ها با حوثی‌های یمن، از این گروه برای مذاکره در عمان دعوت کرد، اما حوثی‌ها این پیشنهاد را نپذیرفتند. او همچنین تهران را به تشویق حوثی‌ها برای تشدید حملات خود به عربستان متهم کرد.
+  ![Media](media/2026-10-15/7b40e54e0446137d.jpg)
+- **`Reuters Wire`** [EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5) — `00:45 IRST` / `21:15 UTC`
+  > EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say    Reuters
+- **`Reuters Wire`** [Congo Ebola outbreak spreads to new province bordering Central African Republic - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkNiUlNXdnRrOERCOFFKUF9WYzd5d2F5UVdLeHpUWWhyMHVkZmJXb3dydnVYNW1Ja0NUWG5TclBNc09GLVVuLVFZcDFLbGF4S2xjN2ZGVHJjUF80NkxtV1VCSTctS1Bmal94OVh3ZktsZ1VkWkRDLTJiQkFneDVGRjh1UlJ5M01ubmRyUVI0M3IySlJ4VV9GUkdmYUFIZnpySTVubUhzMmZXVkltT2dQM3M0Y2VCb0FtejFrVzdB?oc=5) — `00:42 IRST` / `21:12 UTC`
+  > Congo Ebola outbreak spreads to new province bordering Central African Republic    Reuters
+- **`ایران اینترنشنال`** [سلتاویگو ۱-۲ یوونتوس؛ کامبک بیانکونری برای صدرنشینی در لیگ اروپا](https://www.iranintl.com/202610151635) — `00:36 IRST` / `21:06 UTC`
+  > تیم فوتبال یوونتوس در هفته دوم لیگ اروپا با گل دقیقه ۹۲ راندال کولو موانی، سلتاویگو را در ۲ بر ۱ شکست داد. تیم لوچانو اسپالتی ابتدا در دقیقه ۱۸ با گل هوگو آلوارس عقب افتاد، اما نیک ولتماده در دقیقه ۵۸ بازی را مساوی کرد و کولو موانی در دقیقه ۲+۹۰ گل پیروزی یووه را زد.
 
-  ![Media](media/2026-10-15/f69e7e0783b3d71d.jpg)
-- **`ایران اینترنشنال`** [لبنان مجوز فعالیت بانک صادرات ایران را لغو کرد](https://www.iranintl.com/202610153917) — `20:45 IRST` / `17:15 UTC`
-  > کریم سعید، رییس بانک مرکزی لبنان اعلام کرد که مجوز فعالیت بانک صادرات ایران در این کشور لغو شده است. او گفت این اقدام در ادامه تصمیم‌های بانک‌های مرکزی دیگر کشورهای منطقه، از جمله امارات متحده عربی و ترکیه، برای تشدید محدودیت‌ها علیه نظام مالی ایران صورت گرفته است.
+  ![Media](media/2026-10-15/c790b8e603e3dea2.jpg)
+- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [به نظر من این دکمه فالو کردن یا سابسکرایب کردن برای بعضی شبکه های اجتماعی بیخودیه باید حذفش کنن یه سیستمی باشه مثلا وقتی...](https://t.me/Linuxor/5703) — `00:33 IRST` / `21:03 UTC`
+  > به نظر من این دکمه فالو کردن یا سابسکرایب کردن برای بعضی شبکه های اجتماعی بیخودیه باید حذفش کنن یه سیستمی باشه مثلا وقتی دو سه تا ویدیو کامل از طرف دیدی خودکار به فالور های طرف اضافه بشی و اگه یه مدت پست های طرف رو ایگنور کردی و کامل ندیدیش طرف خودکار آنفالو بشه.
 
-  ![Media](media/2026-10-15/f11ae594ca4c5c44.jpg)
-- **`ایران اینترنشنال`** [خبرورزشی: نکونام و کریمی گمان می‌کردند بیرانوند با مشورت قلعه‌نویی به مدیران تراکتور تاخته](https://www.iranintl.com/202610154697) — `20:37 IRST` / `17:07 UTC`
-  > روزنامه خبرورزشی در گزارشی درباره جنجال تازه علیرضا بیرانوند در تراکتور که با انتقادات او از مدیران این باشگاه شروع شد، نوشت: «اطلاعاتی به کریمی و نکونام رسیده بود که بیرانوند به نوعی از قلعه‌نویی و اطرافیانش خط گرفته تا علیه مدیران تراکتور موضع‌گیری کند.»
+چون اصلا فال...
+- **`ایران اینترنشنال`** [شعارهای توهین‌آمیز هواداران رئال سوسیداد علیه وینیسیوس در دیداری که حضور نداشت](https://www.iranintl.com/202610156515) — `00:27 IRST` / `20:57 UTC`
+  > لالیگا مجموعه‌ای از شعارهای توهین‌آمیز هواداران در دو بازی مختلف در لالیگا علیه وینیسیوس جونیور و رئال مادرید در مسابقات آخر هفته را رسما محکوم کرد. نکته عجیب اینکه هواداران رئال سوسیداد در مسابقه‌ای علیه مهاجم برزیلی شعار دادند که او اصلا در آن حضور نداشت.
 
-  ![Media](media/2026-10-15/1f31606221c1dca7.jpg)
-- **`Hacker News`** [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/) — `20:35 IRST` / `17:05 UTC`
-  > Article URL: https://sunshowers.io/posts/anthropic-mononoke-2/ 
- Comments URL: https://news.ycombinator.com/item?id=50106738 
- Points: 54 
- # Comments: 6
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🗣 روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - پنجشنبه ۲۳ مهر](https://t.me/IranintlTV/362430) — `20:32 IRST` / `17:02 UTC`
-  > 🗣 روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - پنجشنبه ۲۳ مهر 
-
- 🔹 پرسنل فروشگاه رفاه هستم و فرزندم سرطان دارد، اما نه حقوق می‌دهند و نه بیمه واریز می‌کنند. حتی توان پرداخت ویزیت فرزندم را ندارم، چه برسد به هزینه دارو و تغذیه‌اش. آیا جان فرزند بیمار کارگر برای ...
-- **`Hacker News`** [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware) — `20:31 IRST` / `17:01 UTC`
-  > Article URL: https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware 
- Comments URL: https://news.ycombinator.com/item?id=50106676 
- Points: 49 
- # Comments: 2
-- **`Reuters Wire`** [How Aramco learned to keep pumping oil under fire - Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEo4RHMzbGVMLUpQcnFqT28tSlU2Q0FBUlZtc2MzaUZSLXpsd3o3X1VGQXplLWJUaUJuQ1BCbFdVbzZwZUk0OURuZ0dmcWVkaWNaclNBcHBlRGR1bWViNWROR21UV2pSRTdqNDZfUVFDdHR2TG9lUDd5eDlNRzVtWHRVNFI5d3I4MUtQdG04SVA1OURzQzI5WXk3N3ItUEE?oc=5) — `20:27 IRST` / `16:57 UTC`
-  > How Aramco learned to keep pumping oil under fire    Reuters
+  ![Media](media/2026-10-15/9089c833e8f3e700.jpg)
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-15 - ساعت 22:00](news/2026-10-15/22-00.md)
 - 📅 [2026-10-15 - ساعت 18:00](news/2026-10-15/18-00.md)
 - 📅 [2026-10-15 - ساعت 13:00](news/2026-10-15/13-00.md)
 - 📅 [2026-10-15 - ساعت 07:00](news/2026-10-15/07-00.md)
@@ -142,7 +132,6 @@
 - 📅 [2026-10-02 - ساعت 13:30](news/2026-10-02/13-30.md)
 - 📅 [2026-10-02 - ساعت 06:30](news/2026-10-02/06-30.md)
 - 📅 [2026-10-02 - ساعت 00:30](news/2026-10-02/00-30.md)
-- 📅 [2026-10-01 - ساعت 20:30](news/2026-10-01/20-30.md)
 
 ---
 توسعه‌یافته برای استقرار سبک و مداوم بر روی اوبونتو ARM64.
