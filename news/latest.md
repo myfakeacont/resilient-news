@@ -1,6 +1,6 @@
 # ⚡ آخرین اخبار و رویدادهای لحظه‌ای (Latest Rolling News)
 
-**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-17 00:16 IRST` | `2026-10-16 20:46 UTC`
+**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-17 02:52 IRST` | `2026-10-16 23:22 UTC`
 
 پایگاه خبری چندرسانه‌ای تاب‌آور. متن سبک و تصاویر محلی فشرده برای دسترسی حداکثر سرعت در شرایط اختلال اینترنت.
 
@@ -24,69 +24,87 @@
   > چه شب مزخرفی. غمینم!    X
 - **`@tom_doerr`** [Backs up PostgreSQL, MySQL, MariaDB, and MongoDB to S3, Google Drive, or FTP, and verifies every restore. https://t.co/AzFHR5Djt6 - X](https://news.google.com/rss/articles/CBMiakFVX3lxTE52Wi1yTUdSSldRLUwzTTBzZzFJUzE2R3g3ZTctZFZPOGZnWXdfYjNIV2pqVXcyeVNwa1dEYVlGQkNZX0V6eEFLZGFoTWdKbzNSUHNRTlg2QVMtV0VGMGRjaTQzRW9LaXdKcGc?oc=5) — `15:40 IRST` / `12:10 UTC`
   > Backs up PostgreSQL, MySQL, MariaDB, and MongoDB to S3, Google Drive, or FTP, and verifies every restore. https://t.co/AzFHR5Djt6    X
+- **`@tom_doerr`** [Powers AI agents with 132 MCP tools for real-time global intelligence across 30+ domains. https://t.co/aR0bPHo1kG - X](https://news.google.com/rss/articles/CBMiakFVX3lxTE0zMHp3eHl0VUVlOE5rd2t6V2tfNm1Gc1YzQU1oLUowTWpjV18wQnRKR1ZZZWo2c1lqd0NNdVZ5Y24xUVlidUdEZUpJOVVwNVBUN1JvQWNtRXN5RmRVdFdGT1FPdEdCcjVlUlE?oc=5) — `14:50 IRST` / `11:20 UTC`
+  > Powers AI agents with 132 MCP tools for real-time global intelligence across 30+ domains. https://t.co/aR0bPHo1kG    X
 - **`@tom_doerr`** [openGym is a self hosted gym and body weight tracker that allows you to plan routines, log guided workouts, and monitor body weight across devices behind your own passkey login using Docker Compose. https://t.co/UcNtIdyYoO - X](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wWlJGbFp3c3FyTS1YeDBFMHREUDFWZ2ZJWS1PQm5IRXZIY3QyY0ZrNHl3NzVNbXp1WGpRSDNQeHU5ZHlVd0F3Yl9hQmYycEdQbzRJTXFSN2RkVFlNLWM0?oc=5) — `10:30 IRST` / `07:00 UTC`
   > openGym is a self hosted gym and body weight tracker that allows you to plan routines, log guided workouts, and monitor body weight across devices behind your own passkey login using Docker Compose. https://t.co/UcNtIdyYoO    X
 - **`@tom_doerr`** [Self-hosted web UI for yt-dlp to download and convert videos and audio from over 1000 supported sites including YouTube, TikTok, and Twitter. https://t.co/l7AyHIMoNt - X](https://news.google.com/rss/articles/CBMiakFVX3lxTE1uRDIwaGZ3YTJCdHZPQkNwS1ZnaWhNOGlkNUphRnlscjVKV25sSHphYW1OSDgyVzVPRnA2MG5NV1VFX1VWbGJKeDNHcFBPVklKRWl5OV81SVRwQXlCZ1JOMjhTUmhXSnctWHc?oc=5) — `14:40 IRST` / `11:10 UTC`
   > Self-hosted web UI for yt-dlp to download and convert videos and audio from over 1000 supported sites including YouTube, TikTok, and Twitter. https://t.co/l7AyHIMoNt    X
 - **`@MatinSenPai (متین سنپای (فناوری و دور زدن))`** [گوگل، کل دو ماه گذشته: - X](https://news.google.com/rss/articles/CBMibEFVX3lxTFBTV29pR1Jkam12SW5kN2dPWWFzNEpZdloxREswWWY1dmxpZzJ3SXo3OVJpVGUxUmRsMTR2VDktaWRldEFRNEE4U1FYUkVEeG9sZDJNb1FiUlhTMnNib2VrOURROE9DeklvMTVMWQ?oc=5) — `10:30 IRST` / `07:00 UTC`
   > گوگل، کل دو ماه گذشته:    X
-- **`@souzangar (پوریا سوزنگر (امنیت و شبکه))`** [BGP ipv6 link local unnumbered - X](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Kd1ZfZlk4ZFFfS0lJVUdXRUR5bVJZNzB2RHJoQ0JIY1lHODlBSGNmUFNWOHJ3eUtqcnFxVy1vSGE1VDlWMnFGdXNxSVBIMFJsNF91a3IxS1dZc1lxWnlR?oc=5) — `10:30 IRST` / `07:00 UTC`
-  > BGP ipv6 link local unnumbered    X
 
 ## کانال‌های منتخب تلگرام (Telegram Monitoring)
 
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️خاویر تباس، پس از آن‌که رئال مادرید روز جمعه خواستار استعفای او شد، مستقیما به این باشگاه پاسخ داد. رییس لالیگا ...](https://t.me/IranintlTV/362591) — `23:54 IRST` / `20:24 UTC`
-  > 🔻️ ️️️️️خاویر تباس، پس از آن‌که رئال مادرید روز جمعه خواستار استعفای او شد، مستقیما به این باشگاه پاسخ داد. رییس لالیگا در واکنش به این درخواست گفت: «دیگر حساب دفعاتی را که طی ۱۳ سال مدیران رئال مادرید خواستار استعفای من شده یا تلاش کرده‌اند مرا از سمتم برکنار کنند، از دست داد...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [شرکت «تانکرترکرز» جمعه ۲۴ مهر گزارش داد میانگین صادرات نفت خام عربستان سعودی در ۱۵ روز نخست اکتبر، با وجود حملات به کشتی...](https://t.me/IranintlTV/362614) — `02:30 IRST` / `23:00 UTC`
+  > شرکت «تانکرترکرز» جمعه ۲۴ مهر گزارش داد میانگین صادرات نفت خام عربستان سعودی در ۱۵ روز نخست اکتبر، با وجود حملات به کشتی‌های تجاری و تهدیدهای امنیتی در تنگه هرمز، به روزانه هشت میلیون و ۱۶۵ هزار بشکه رسید.
 
-  ![Media](../media/2026-10-16/2c57cf473aee68af.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی چرتکه: تنها مشکل اقتصاد ایران گرانی نیست](https://t.me/IranintlTV/362590) — `23:41 IRST` / `20:11 UTC`
-  > 🎧 نسخه صوتی چرتکه: تنها مشکل اقتصاد ایران گرانی نیست
- @iranintlTV
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مهدی نخل احمدی، روزنامه‌نگار و فعال سیاسی، گفت تاکید امامان جمعه بر ادامه جنگ با آمریکا، بازتاب دیدگاه طیفی از حاکمیت اس...](https://t.me/IranintlTV/362589) — `23:33 IRST` / `20:03 UTC`
-  > مهدی نخل احمدی، روزنامه‌نگار و فعال سیاسی، گفت تاکید امامان جمعه بر ادامه جنگ با آمریکا، بازتاب دیدگاه طیفی از حاکمیت است که نگران تغییر توازن قدرت در صورت دستیابی به توافق است. به گفته او، این جریان با وجود فشارهای اقتصادی و معیشتی بر مردم، همچنان بر مقاومت تاکید می‌کند و می‌...
+این رقم در مقایسه با صادرات روزانه پنج میلیون و ۶۲۰ هزار بشکه در سپتام...
 
-  ![Media](../media/2026-10-16/ccb1af6468af03be.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت انتخابات پیش رو در آمریکا و اسرائیل به ترمزی موقت برای تشدید درگیری‌ها ت...](https://t.me/IranintlTV/362588) — `23:25 IRST` / `19:55 UTC`
-  > جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت انتخابات پیش رو در آمریکا و اسرائیل به ترمزی موقت برای تشدید درگیری‌ها تبدیل شده و هر سه طرف تلاش می‌کنند از آغاز جنگی گسترده پیش از انتخابات جلوگیری کنند. با این حال، به گفته او، شرایط شکننده است و یک اقدام پیش‌بینی‌نشده می‌توان...
+  ![Media](../media/2026-10-16/3d370843d838b294.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [هم‌زمان با افزایش گمانه‌زنی‌ها درباره حمله احتمالی جمهوری اسلامی و نیروهای نیابتی‌اش به اسرائیل در آستانه انتخابات این ک...](https://t.me/IranintlTV/362613) — `02:15 IRST` / `22:45 UTC`
+  > هم‌زمان با افزایش گمانه‌زنی‌ها درباره حمله احتمالی جمهوری اسلامی و نیروهای نیابتی‌اش به اسرائیل در آستانه انتخابات این کشور، بنیامین نتانیاهو هشدار داد هرگونه حمله تهران به این کشور اشتباهی بزرگ خواهد بود.
 
-  ![Media](../media/2026-10-16/4e9d2b7f4411350e.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران](https://t.me/IranintlTV/362587) — `23:13 IRST` / `19:43 UTC`
-  > 🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
- @iranintlTV
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی حرف آخر با پوریا زراعتی -شروع عملیات: جلسه‌ی محرمانه‌ی فرماندهان](https://t.me/IranintlTV/362586) — `22:29 IRST` / `18:59 UTC`
-  > 🎧 نسخه صوتی حرف آخر با پوریا زراعتی -شروع عملیات: جلسه‌ی محرمانه‌ی فرماندهان
- @iranintlTV
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 روز جمعه، در جریان دربی کرمان میان خاتون بم و گل‌گهر سیرجان در هفته چهارم لیگ برتر فوتبال زنان ایران، برای نخستین بار ...](https://t.me/IranintlTV/362585) — `22:26 IRST` / `18:56 UTC`
-  > 🔻 روز جمعه، در جریان دربی کرمان میان خاتون بم و گل‌گهر سیرجان در هفته چهارم لیگ برتر فوتبال زنان ایران، برای نخستین بار در فوتبال زنان ایران از سیستم کمک‌داور ویدیویی (VAR) استفاده شد. 
+نتانیاهو گفت کشورش می‌تواند به‌تنهایی یا همراه با آمریکا به جمهوری اسل...
 
- 🔹 با دخالت وی‌ای‌آر، یک ضربه کرنر به سود خاتون بم نیز لغو شد. مهناز ذکایی و آتنا لشنی اعض...
+  ![Media](../media/2026-10-16/e327a020a51dcf2d.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [روزنامه وال‌استریت ژورنال در گزارشی درباره توقیف محموله مواد منفجره حزب‌الله لبنان، جزئیات تازه‌ای از ترکیب این محموله و...](https://t.me/IranintlTV/362612) — `02:03 IRST` / `22:33 UTC`
+  > روزنامه وال‌استریت ژورنال در گزارشی درباره توقیف محموله مواد منفجره حزب‌الله لبنان، جزئیات تازه‌ای از ترکیب این محموله و اختلاف این گروه با دولت لبنان بر سر خلع سلاح منتشر کرد.
 
-  ![Media](../media/2026-10-16/ef2c95c288f30042.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سعید خطیب‌زاده، معاون وزیر امور خارجه جمهوری اسلامی، گفت تهران آماده است در صورت تمایل آمریکا به دستیابی به توافقی متواز...](https://t.me/IranintlTV/362584) — `22:26 IRST` / `18:56 UTC`
-  > سعید خطیب‌زاده، معاون وزیر امور خارجه جمهوری اسلامی، گفت تهران آماده است در صورت تمایل آمریکا به دستیابی به توافقی متوازن بر پایه احترام متقابل، با واشینگتن وارد تعامل شود.
+این محموله که هفته گذشته هنگام انتقال از منطقه بقاع به بیروت توقیف شد، شامل مواد منفجره سی‌۴ و تی‌ا...
 
-خطیب‌زاده جمعه ۲۴ مهر در گفت‌وگو با شبکه المیادین، وابسته به حزب‌الله لبنان، گفت: «اگر آمریکا آماده باش...
+  ![Media](../media/2026-10-16/02d9ef0adf0b5204.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️کنفدراسیون فوتبال آسیا فهرست نامزدهای جوایز سالانه ۲۰۲۶ در بانکوک را اعلام کرد که بر اساس آن، علیرضا بیرانوند، ح...](https://t.me/IranintlTV/362611) — `01:58 IRST` / `22:28 UTC`
+  > 🔻️ ️️️️️کنفدراسیون فوتبال آسیا فهرست نامزدهای جوایز سالانه ۲۰۲۶ در بانکوک را اعلام کرد که بر اساس آن، علیرضا بیرانوند، حسین طیبی، سعید احمدعباسی و مرضیه جعفری در بخش‌های مختلف برای دریافت جوایز رقابت خواهند کرد.
 
-  ![Media](../media/2026-10-16/60a6b1f0c91027f0.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [یک کشتی کانتینربر با پرچم سنگاپور پس از اصابت پرتابه سپاه پاسداران و وقوع آتش‌سوزی در تنگه هرمز غرق شد.](https://t.me/IranintlTV/362583) — `22:21 IRST` / `18:51 UTC`
-  > یک کشتی کانتینربر با پرچم سنگاپور پس از اصابت پرتابه سپاه پاسداران و وقوع آتش‌سوزی در تنگه هرمز غرق شد.
+ 🔹️ ️️️️️گفتگوی مزدک میرزایی با محمد تقوی در برنامه هت‌تریک
 
-هم‌زمان، ویدیوهای منتشرشده در شبکه‌های اجتماعی نشان می‌دهد جعبه‌های تلفن همراه آیفون، عطر و کفش روی آب شناورند و افرادی با قایق مشغول جمع‌آوری این کالاها هستند.
+ 🔹️...
 
-گفت‌وگو با...
+  ![Media](../media/2026-10-16/96ca1269d10e2e7d.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [در حالی که خاورمیانه در انتظار تصمیم سرنوشت‌ساز رییس‌جمهوری آمریکا درباره حمله احتمالی به جمهوری اسلامی است، دونالد ترام...](https://t.me/IranintlTV/362610) — `01:49 IRST` / `22:19 UTC`
+  > در حالی که خاورمیانه در انتظار تصمیم سرنوشت‌ساز رییس‌جمهوری آمریکا درباره حمله احتمالی به جمهوری اسلامی است، دونالد ترامپ بار دیگر از احتمال حمله به تاسیسات هسته‌ای ایران، به‌ویژه مجموعه زیرزمینی کوه کلنگ‌گزلا در نزدیکی نطنز، با استفاده از بمب‌های سنگین موسوم به «مادر بمب‌ها» ...
 
-  ![Media](../media/2026-10-16/e133b282be02df97.jpg)
+  ![Media](../media/2026-10-16/8a822dc168250a40.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [در حالی که خاورمیانه در انتظار تصمیم سرنوشت‌ساز رییس‌جمهوری آمریکا درباره حمله احتمالی به جمهوری اسلامی است، دونالد ترام...](https://t.me/IranintlTV/362609) — `01:49 IRST` / `22:19 UTC`
+  > در حالی که خاورمیانه در انتظار تصمیم سرنوشت‌ساز رییس‌جمهوری آمریکا درباره حمله احتمالی به جمهوری اسلامی است، دونالد ترامپ بار دیگر از احتمال حمله به تاسیسات هسته‌ای ایران، به‌ویژه مجموعه زیرزمینی کوه کلنگ‌گزلا در نزدیکی نطنز، با استفاده از بمب‌های سنگین موسوم به «مادر بمب‌ها» ...
+
+  ![Media](../media/2026-10-16/ef04a7f6a9cf025b.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [وزارت خارجه بریتانیا جمعه ۲۴ مهر با به‌روزرسانی توصیه‌های مسافرتی خود، از شهروندان این کشور خواست از تمام سفرهای غیرضرور...](https://t.me/IranintlTV/362608) — `01:43 IRST` / `22:13 UTC`
+  > وزارت خارجه بریتانیا جمعه ۲۴ مهر با به‌روزرسانی توصیه‌های مسافرتی خود، از شهروندان این کشور خواست از تمام سفرهای غیرضروری به عربستان سعودی خودداری کنند.
+
+بر اساس اطلاعیه منتشرشده در وب‌سایت رسمی دولت بریتانیا، این هشدار اکنون سراسر عربستان سعودی، به‌جز مناطق مشمول هشدار شدیدتر...
+
+  ![Media](../media/2026-10-16/e19b9d7243f7650c.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت گزارش برد کوپر، فرمانده سنتکام، نشان می‌دهد حضور نظامی آمریکا در منطقه ت...](https://t.me/IranintlTV/362607) — `01:42 IRST` / `22:12 UTC`
+  > کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت گزارش برد کوپر، فرمانده سنتکام، نشان می‌دهد حضور نظامی آمریکا در منطقه تنها با هدف اجرای عملیات نظامی نیست، بلکه برای اعمال فشار اقتصادی، محدود کردن صادرات نفت و مسدود کردن منابع مالی جمهوری اسلامی نیز به کار گرفته می‌شود.
+
+او اف...
+
+  ![Media](../media/2026-10-16/8278ee6a96add4b0.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [برد کوپر، فرمانده سنتکام، اعلام کرد اقدامات آمریکا تاکنون از صادرات دست‌کم ۲۵ میلیارد دلار نفت خام ایران جلوگیری کرده و ...](https://t.me/IranintlTV/362606) — `01:41 IRST` / `22:11 UTC`
+  > برد کوپر، فرمانده سنتکام، اعلام کرد اقدامات آمریکا تاکنون از صادرات دست‌کم ۲۵ میلیارد دلار نفت خام ایران جلوگیری کرده و نزدیک به ۳۵۰ میلیون دلار دارایی رمزارزی مرتبط با جمهوری اسلامی نیز مسدود شده است.
+
+او افزود فشارهای اقتصادی بر توان جمهوری اسلامی برای پرداخت حقوق نیروهای ام...
+
+  ![Media](../media/2026-10-16/9b4ddbdba3236fd4.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [برد کوپر، فرمانده سنتکام، اعلام کرد اقدامات آمریکا تاکنون از صادرات دست‌کم ۲۵ میلیارد دلار نفت خام ایران جلوگیری کرده و ...](https://t.me/IranintlTV/362605) — `01:40 IRST` / `22:10 UTC`
+  > برد کوپر، فرمانده سنتکام، اعلام کرد اقدامات آمریکا تاکنون از صادرات دست‌کم ۲۵ میلیارد دلار نفت خام ایران جلوگیری کرده و نزدیک به ۳۵۰ میلیون دلار دارایی رمزارزی مرتبط با جمهوری اسلامی نیز مسدود شده است.
+
+او افزود فشارهای اقتصادی بر توان جمهوری اسلامی برای پرداخت حقوق نیروهای ام...
+
+  ![Media](../media/2026-10-16/111999f19d76d195.jpg)
+- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [اگر روی 9Router ارور](https://t.me/MatinSenPaii/5594) — `00:25 IRST` / `20:55 UTC`
+  > اگر روی 9Router ارور 
+ HTTP 403: [403]: {"type":"error","error":{"type":"FreeTierError","message":"Error from provider (Console): OpenCode's free tier can only be used from within OpenCode"}} 
+می‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست.
+
+برای آپدیت کسایی که با npm نص...
+
+  ![Media](../media/2026-10-16/9923b2d49238227a.jpg)
 - **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [فکر میکردیم آینده چی میشه و چی شد!](https://t.me/Linuxor/5709) — `22:14 IRST` / `18:44 UTC`
   > فکر میکردیم آینده چی میشه و چی شد!
 
  @Linuxor
-
-  ![Media](../media/2026-10-16/a1ad6e7e0841f200.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [۲۴ با فرداد فرحزاد](https://t.me/IranintlTV/362582) — `22:13 IRST` / `18:43 UTC`
-  > ۲۴ با فرداد فرحزاد
- @iranintltv
-
-  ![Media](../media/2026-10-16/9b7baf00df5fb0a6.jpg)
 - **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [👆](https://t.me/whitedns/2015) — `22:06 IRST` / `18:36 UTC`
   > 👆 
 دوستان این ویدیو را حتما با دقت ببنید تا آمادگی لازم را داشته باشید 
@@ -104,52 +122,56 @@
  امیدوارم به کارتون بیاد 💗 🫶🏻 
 
 ·:¨༺ @BlueKn...
-
-  ![Media](../media/2026-10-16/4f4f16c6666bf0e0.jpg)
 - **`@VahidOnline (وحید آنلاین)`** [خبرنگار اسکای‌نیوز با اشاره به دشواری انتخابات میان‌دوره‌ای پیش روی ترامپ، کاهش محبوبیت او، افزایش قیمت گازوئیل در آمریک...](https://t.me/VahidOnline/78739) — `22:03 IRST` / `18:33 UTC`
   > خبرنگار اسکای‌نیوز با اشاره به دشواری انتخابات میان‌دوره‌ای پیش روی ترامپ، کاهش محبوبیت او، افزایش قیمت گازوئیل در آمریکا و پیش نرفتن جنگ خاورمیانه مطابق خواسته رئیس‌جمهوری آمریکا، از زلنسکی پرسید: آیا فکر می‌کنید ترامپ از شما به‌عنوان سپر بلا برای مشکلات خودش استفاده می‌کند؟
 ...
 
-  ![Media](../media/2026-10-16/db8496a2cdcd03af.jpg)
-- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [مدل GLM 5.3 Flash توی OpenCode رایگان شد پلتفرم اوپن‌کد دسترسی کامل و رایگان به مدل پرسرعت GLM 5.3 Flash رو در اختیار کا...](https://t.me/MatinSenPaii/5592) — `21:11 IRST` / `17:41 UTC`
-  > مدل GLM 5.3 Flash توی OpenCode رایگان شد پلتفرم اوپن‌کد دسترسی کامل و رایگان به مدل پرسرعت GLM 5.3 Flash رو در اختیار کاربران خودش قرار داده. اگر براتون سؤاله که این مدل چقدر خفنه، این ویدئو رو ببینید: https://www.youtube.com/watch?v=FIhoccZtpZQ 🔗 منبع …
-
-  ![Media](../media/2026-10-16/971974d37e2cc04f.jpg)
-
 ## اخبار و رسانه‌های فارسی (Persian News)
 
-- **`بی‌بی‌سی فارسی`** [وزیر خارجه آلمان: اروپا در تیررس ایران قرار دارد؛ فعالیت‌های خصمانه تهران را تحمل نمی‌کنیم](https://www.bbc.co.uk/persian/live/ck78p7pdg8j0t?at_medium=RSS&at_campaign=rss) — `00:16 IRST` / `20:46 UTC`
+- **`بی‌بی‌سی فارسی`** [ترامپ: محدود کردن دسترسی اوکراین به شبکه استارشیلد کار من نبود](https://www.bbc.co.uk/persian/live/cqj9kvz0klg3t?at_medium=RSS&at_campaign=rss) — `02:52 IRST` / `23:22 UTC`
+  > دونالد ترامپ، رئیس جمهور آمریکا، محدود کردن دسترسی اوکراین به شبکه اینترنتی استارشیلد، را تکذیب کرد. او گفت: «این کار من نبود و فکر نمی‌کنم کار ایلان [مالک استارلینک] باشد.»
+
+پیش از این خبرگزاری رویترز به نقل از دو مقام آمریکایی و یک مقام غربی، گزارش کرده بود که دستور محدود کر...
+
+  ![Media](../media/2026-10-16/b27e3f96f605c47a.jpg)
+- **`بی‌بی‌سی فارسی`** [آنچه گذشت: وزیر خارجه آلمان: اروپا در تیررس ایران قرار دارد؛ فعالیت‌های خصمانه تهران را تحمل نمی‌کنیم](https://www.bbc.co.uk/persian/live/ck78p7pdg8j0t?at_medium=RSS&at_campaign=rss) — `02:52 IRST` / `23:22 UTC`
   > یوهان واده‌فول، وزیر خارجه آلمان، هشدار داد که اروپا «در تیررس ایران» قرار دارد و فعالیت‌های خصمانه تهران علیه یهودیان و جامعه آلمان تحمل نخواهد شد. او در نشست خبری مشترک با وزیر خارجه پرتغال، به تلاش برای حمله به پایگاه هوایی فرفورد در بریتانیا و حکم دادگاه هامبورگ علیه دو مر...
+
+  ![Media](../media/2026-10-16/59509fcdc66d89cb.jpg)
+- **`بی‌بی‌سی فارسی`** [چند فلسطینی و یک خبرنگار آمریکایی در حمله شهرک‌نشینان اسرائیلی در فصل برداشت زیتون زخمی شدند](https://www.bbc.com/persian/articles/c63r599gqqyvo?at_medium=RSS&at_campaign=rss) — `01:37 IRST` / `22:07 UTC`
+  > ده‌ها شهرک‌نشین اسرائیلی که صورت‌های خود را پوشانده بودند، به گروهی از فلسطینی‌هایی که در روستای ابوفلاح، در شمال رام‌الله و در کرانه باختری اشغالی مشغول برداشت محصول زیتون بودند، حمله کردند.
+
+  ![Media](../media/2026-10-16/3afb536c5fa449fd.jpg)
+- **`ایران اینترنشنال`** [انتخابات میان‌دوره‌ای چگونه موازنه قدرت در آمریکا را تغییر می‌دهد](https://www.iranintl.com/202610125188) — `01:22 IRST` / `21:52 UTC`
+  > انتخابات میان‌دوره‌ای آمریکا که ۱۲ آبان برگزار می‌شود، از آن جهت در آرایش سیاسی ایالات متحده اهمیت دارد که با تعیین ترکیب کنگره و بسیار از سِمت‌های انتخابی ایالتی و محلی، بر توان رییس‌جمهوری برای پیشبرد برنامه‌هایش اثر می‌گذارد.
+- **`ایران اینترنشنال`** [انتخابات میان‌دوره‌ای آمریکا و پیامدهای آن برای ایران و ایرانیان](https://www.iranintl.com/202610166482) — `01:04 IRST` / `21:34 UTC`
+  > انتخابات میان‌دوره‌ای آمریکا در ۱۲ آبان ۱۴۰۵، برابر با سوم نوامبر ۲۰۲۶، رییس‌جمهوری را تغییر نمی‌دهد، اما ترکیب تازه کنگره می‌تواند اجرای سیاست‌های او در قبال ایران را آسان‌تر یا دشوارتر کند؛ از تحریم و مذاکره تا اقدام نظامی و مهاجرت.
+
+  ![Media](../media/2026-10-16/e6e5c68ec7d64f57.jpg)
+- **`ایران اینترنشنال`** [اتحادیه اروپا سرکوب و اعدام‌در ایران را محکوم و بر آزادی کشتیرانی در تنگه هرمز تاکید کرد](https://www.iranintl.com/202610160441) — `01:00 IRST` / `21:30 UTC`
+  > سران کشورهای عضو اتحادیه اروپا در بخشی از بیانیه پایانی نشست خود، ادامه خشونت و سرکوب شدید مردم ایران از سوی جمهوری اسلامی، از جمله اعدام‌های گسترده، را به‌شدت محکوم کردند و خواستار احترام به حقوق و آزادی‌های بنیادین ایرانیان، از جمله حق انتخاب آینده خود، شدند.
+
+  ![Media](../media/2026-10-16/e0a2a8f5716d962c.jpg)
+- **`ایران اینترنشنال`** [زلنسکی توافق گازوئیلی ترامپ با روسیه را محکوم کرد و موضع مسکو را «نمایشی مضحک» خواند](https://www.iranintl.com/202610160311) — `00:42 IRST` / `21:12 UTC`
+  > ولودیمیر زلنسکی، رییس‌جمهوری اوکراین، جمعه ۲۴ مهر توافق دونالد ترامپ، رییس‌جمهوری آمریکا، با روسیه بر سر گازوئیل را محکوم کرد، موضع مسکو را «نمایشی مضحک» از مذاکرات صلح خواند و از احتمال نقش‌آفرینی بیشتر متحدان اروپایی در مذاکرات استقبال کرد.
+
+  ![Media](../media/2026-10-16/124aefcc5dcdb610.jpg)
 - **`بی‌بی‌سی فارسی`** [استراتژی تازه پوتین؛ غیرقابل‌ سکونت کردن شهرهای اوکراین](https://www.bbc.com/persian/articles/cxzd6yr82p2go?at_medium=RSS&at_campaign=rss) — `23:54 IRST` / `20:24 UTC`
   > روسیه در هفته‌های اخیر حملات موشکی و پهپادی به پایتخت اوکراین و دیگر شهرهای بزرگ این کشور را تشدید کرده و اهداف غیرنظامی، از جمله مدارس، بیمارستان‌ها، هتل‌ها، مراکز داده، قطارها و پل‌ها را هدف قرار داده است.
-
-  ![Media](../media/2026-10-16/f2c5bcc903ee2df3.jpg)
 - **`ایران اینترنشنال`** [فرمانده سنتکام: جلوی صادرات ۲۵ میلیارد دلار نفت ایران را گرفته‌ایم](https://www.iranintl.com/202610169482) — `23:09 IRST` / `19:39 UTC`
   > برد کوپر، فرمانده سنتکام، اعلام کرد آمریکا مانع صادرات دست‌کم ۲۵ میلیارد دلار نفت ایران شده و به مسدود کردن حدود ۳۵۰ میلیون دلار رمزارز جمهوری اسلامی کمک کرده است. او همچنین از برخی گزارش‌ها درباره توقف پرداخت حقوق شبه‌نظامیان وابسته به تهران خبر داد.
-
-  ![Media](../media/2026-10-16/c906df2a060835c2.jpg)
 - **`ایران اینترنشنال`** [رییس لالیگا در پاسخ به درخواست رئال مادرید برای استعفا: ۱۳سال است می‌خواهند مرا کنار بزنند](https://www.iranintl.com/202610164785) — `22:54 IRST` / `19:24 UTC`
   > خاویر تباس، پس از آن‌که رئال مادرید روز جمعه خواستار استعفای او شد، مستقیما به این باشگاه پاسخ داد. رییس لالیگا در واکنش به این درخواست گفت: «دیگر حساب دفعاتی را که طی ۱۳ سال مدیران رئال مادرید خواستار استعفای من شده یا تلاش کرده‌اند مرا از سمتم برکنار کنند، از دست داده‌ام.»
-
-  ![Media](../media/2026-10-16/51cd6dcc233600f0.jpg)
 - **`رادیو فردا`** [ایران نقش داشتن در حملات حوثی‌های یمن به عربستان سعودی را رد کرد](https://www.radiofarda.com/a/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks/33878105.html) — `22:27 IRST` / `18:57 UTC`
   > وزارت امور خارجه جمهوری اسلامی روز جمعه ۲۴ مهر اتهام عربستان سعودی مبنی بر دست داشتن تهران در حملات اخیر حوثی‌ها به این کشور را رد کرد و پیشنهاد داد میان دو طرف میانجی‌گری کند.
-
-  ![Media](../media/2026-10-16/11dd4b672a9708e3.jpg)
 - **`ایران اینترنشنال`** [مقام لبنانی: ماموران اطلاعاتی سوریه و ترکیه فرمانده متحد اسد را از لبنان ربودند](https://www.iranintl.com/202610162815) — `22:21 IRST` / `18:51 UTC`
   > خبرگزاری فرانسه به نقل از یک مقام امنیتی لبنان گزارش داد ماموران اطلاعاتی سوریه و ترکیه در عملیاتی علی کیالی، فرمانده شبه‌نظامی متحد بشار اسد، را از لبنان «ربوده» و به سوریه برده‌اند.
-
-  ![Media](../media/2026-10-16/ad3a355157280b37.jpg)
 - **`دویچه‌وله فارسی`** [مرتس: ممنوعیت ساخت‌ خودروهای احتراقی بعد از ۲۰۳۵ ملغی می‌شود](https://www.dw.com/fa-ir/مرتس-ممنوعیت-ساخت‌-خودروهای-احتراقی-بعد-از-۲۰۳۵-ملغی-می‌شود/a-79684338?maca=per-rss-per-all-1491-xml-mrss) — `22:02 IRST` / `18:32 UTC`
   > مرتس و مکرون در کاهش اهداف انتشار کربن خودروهای جدید از سال ۲۰۳۵ تجدیدنظر کردند؛ تصمیمی که امکان ادامه فروش خودروهای بنزینی و دیزلی را حفظ می‌کند، اما با انتقاد سبزها و سازمان‌های محیط‌زیستی روبه‌رو شده است.
 - **`ایران اینترنشنال`** [پوتین از ایجاد منطقه امنیتی در خاک اوکراین خبر داد و مذاکره بر سر آن را رد کرد](https://www.iranintl.com/202610165512) — `21:45 IRST` / `18:15 UTC`
   > ولادیمیر پوتین، رییس‌جمهوری روسیه، از ایجاد یک «منطقه امنیتی» در خاک اوکراین در امتداد مرز دو کشور خبر داد و اعلام کرد این منطقه در گفت‌وگوهای آینده قابل مذاکره نخواهد بود.
-
-  ![Media](../media/2026-10-16/be76f3e2ed7c7425.jpg)
 - **`ایران اینترنشنال`** [امیر قلعه‌نویی: در تیم ملی هم جوانگرایی کردم هم تغییر نسل دادم، اما هنوز پاداش نگرفته‌ام](https://www.iranintl.com/202610164960) — `21:34 IRST` / `18:04 UTC`
   > امیر قلعه‌نویی، سرمربی تیم ملی روز جمعه در گفتگویی با خبرنگاران درباره جوانگرایی در تیم ملی گفت: «در تیم ملی جوانگرایی کرده‌ایم و تغییر نسل داده‌ایم، اما برخی نمی‌خواهند این موضوع را ببینند. آریا یوسفی، حردانی، رزاقی‌نیا و محمودی بازیکنانی بودند که ما وارد تیم ملی کرده‌ایم.»
-
-  ![Media](../media/2026-10-16/ae25c7aa21a2810b.jpg)
 - **`دویچه‌وله فارسی`** [از ترور میکونوس تا دادگاه هامبورگ؛ تداوم نگرانی‌ها از ترورهای حکومتی جمهوری اسلامی ایران](https://www.dw.com/fa-ir/از-ترور-میکونوس-تا-دادگاه-هامبورگ؛-تداوم-نگرانی‌ها-از-ترورهای-حکومتی-جمهوری-اسلامی-ایران/a-79683667?maca=per-rss-per-all-1491-xml-mrss) — `21:00 IRST` / `17:30 UTC`
   > دادگاهی در هامبورگ دو مرد را به اتهام جاسوسی برای ایران و تدارک حمله به اهداف یهودی و حامی اسرائیل محکوم کرد. این پرونده بار دیگر نگرانی‌ها در مورد ترورهای حکومتی منتسب به جمهوری اسلامی در خارج از کشور را تشدید کرده است
 - **`یورونیوز فارسی`** [رئيس لالیگا: اقدامات رئال مادرید شبیه تبلیغات نازی‌ها است](https://parsi.euronews.com/2026/10/16/madrid-demands-la-liga-president-resigns-after-comparing-attacks-on-referees-with-nazi-pro) — `20:49 IRST` / `17:19 UTC`
@@ -160,96 +182,88 @@
   > کوین وارش، رییس بانک مرکزی آمریکا (فدرال رزرو)، اعلام کرد اقتصاد جهانی در برابر شوک‌های شدید اقتصادی بیش از آنچه انتظار می‌رفت، تاب‌آوری نشان داده است.
 - **`یورونیوز فارسی`** [غزه در آستانه فصل سرد؛ جنگزدگان فلسطینی زمستانی دیگر را بدون سرپناه امن چگونه سپری خواهند کرد؟](https://parsi.euronews.com/2026/10/16/gaza-winter-approaches-how-will-displaced-palestinians-survive-without-shelter) — `19:58 IRST` / `16:28 UTC`
   > بیش از ۴۴ هزار نفر هنوز در ساختمان‌های در آستانه تخریب زندگی می‌کنند و چون سرپناه جایگزین نیست نمی‌توانند ترک کنند. یورونیوز از المغرقه گزارش می‌دهد که قیمت چادر برزنتی دو برابر شده و اسرائیل ورود چوب و کیت‌های سرپناه به غزه را بسته است.
-- **`بی‌بی‌سی فارسی`** [درباره تلاش برای «سوقصد» به جان عباس آخوندی در حاشیه نشست اصلاح‌طلبان در تهران چه می‌دانیم؟](https://www.bbc.com/persian/articles/cmn8w6g17zvno?at_medium=RSS&at_campaign=rss) — `19:56 IRST` / `16:26 UTC`
-  > بنیاد باران بازداشت یک فرد مسلح را در حاشیه مراسم سه‌شنبه گذشته در کتابخانه ملی ایران در شمال تهران تایید کرد. این بنیاد اعلام کرد که «بنا به اطلاعات اولیه»، فرد بازداشت‌شده قصد حمله به عباس آخوندی، وزیر پیشین و از چهره‌های اصلاح‌طلب ایران، را داشته است. به گفته بنیاد باران، ا...
-- **`ایران اینترنشنال`** [طی کمتر از ۷ ماه، ۳۴ مورد برخورد امنیتی و قضایی با بهائیان یزد ثبت شد](https://www.iranintl.com/202610160536) — `19:53 IRST` / `16:23 UTC`
-  > در کمتر از هفت ماه، ۳۴ مورد برخورد امنیتی و قضایی با شهروندان بهائی در یزد به ثبت رسید. این موارد شامل ۱۱ مورد تفتیش اماکن، ۱۸ مورد احضار برای بازجویی، صدور حکم حبس برای سه تن و انتقال یک نفر به زندان برای اجرای محکومیت بود.
-- **`یورونیوز فارسی`** [مجله خبری| ۲۴ مهر ۱۴۰۵ (۱۶ اکتبر ۲۰۲۶) - شامگاهی](https://parsi.euronews.com/video/2026/10/16/mglh-khbri-mhr-aktbr-shamgahi) — `19:30 IRST` / `16:00 UTC`
-  > آخرین تحولات اروپا و جهان را دنبال کنید ۲۴ مهر ۱۴۰۵ (۱۶ اکتبر ۲۰۲۶). با یورونیوز در جریان آخرین اخبار و رویدادهای سیاسی، اقتصادی، فرهنگی و سرگرمی قرار بگیرید.
-- **`بی‌بی‌سی فارسی`** [هم‌زمان با کاهش صادرات نفت، گزارش‌های حمله به کشتی‌ها در نزدیکی تنگه هرمز رکورد زد](https://www.bbc.com/persian/articles/c6r7y9nl8g30o?at_medium=RSS&at_campaign=rss) — `19:30 IRST` / `16:00 UTC`
-  > تحلیل بی‌بی‌سی وریفای از داده‌های یک نهاد دریایی بریتانیا نشان می‌دهد که ۱۲ شناور در طول یک هفته هدف حمله قرار گرفته‌اند.
-- **`ایران اینترنشنال`** [وزیر خارجه آلمان: اقدامات خصمانه جمهوری اسلامی در اروپا را تحمل نمی‌کنیم](https://www.iranintl.com/202610165501) — `19:30 IRST` / `16:00 UTC`
-  > یوهان واده‌فول، وزیر امور خارجه آلمان، درباره حملات ترکیبی جمهوری اسلامی در اروپا هشدار داد و تاکید کرد برلین اقدامات خصمانه حکومت ایران را تحمل نخواهد کرد.
-- **`یورونیوز فارسی`** [جوان نروژی مامور به قتل برای شبکه تبهکاری مرتبط با ایران به ۲۰ سال زندان محکوم شد](https://parsi.euronews.com/2026/10/16/norwegian-teen-jailed-20-years-iran-linked-murder-plot) — `19:07 IRST` / `15:37 UTC`
-  > یک جوان نروژی که برای اجرای یک قتل سفارشی به بریتانیا سفر کرده بود، روز جمعه به ۲۰ سال زندان محکوم شد.
 
 ## خبرگزاری‌های بین‌المللی (Global Wire)
 
-- **`Reuters Wire`** [White House press secretary Zacharia fired in less than a week after facing criticism - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEYwN214QVdKVU9iMHZiY2YxWTBnSndMc0tycE5xSDItUXJJQ0Nja01Ld2trdjdtaldWVXh5QnhKT3JjWkdzNDNIRWN1a0hHZ2h3SUdjNDVGRXlkc243dE5vRUo0QTBmRzZtUG9Hc2Nnc2NFaW5RalJEbjRPaE1MMTQtRHVXVVNmWUJYZTYzX0ZIdkJTSGJEQms4NWc5YWlNQVZjYmhfVlVCeHQ2?oc=5) — `23:40 IRST` / `20:10 UTC`
+- **`AP News Wire`** [Multiple Southern California homes are ablaze in a fast-moving wildfire fueled by hot, windy weather - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5) — `01:16 IRST` / `21:46 UTC`
+  > Multiple Southern California homes are ablaze in a fast-moving wildfire fueled by hot, windy weather    AP News
+- **`Reuters Wire`** [White House press secretary Zacharia fired in less than a week after facing criticism - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEYwN214QVdKVU9iMHZiY2YxWTBnSndMc0tycE5xSDItUXJJQ0Nja01Ld2trdjdtaldWVXh5QnhKT3JjWkdzNDNIRWN1a0hHZ2h3SUdjNDVGRXlkc243dE5vRUo0QTBmRzZtUG9Hc2Nnc2NFaW5RalJEbjRPaE1MMTQtRHVXVVNmWUJYZTYzX0ZIdkJTSGJEQms4NWc5YWlNQVZjYmhfVlVCeHQ2?oc=5) — `00:59 IRST` / `21:29 UTC`
   > White House press secretary Zacharia fired in less than a week after facing criticism    Reuters
+- **`Reuters Wire`** [SoftBank weighs $18 billion acquisition of Allied Universal, source says - Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXdNdHpBa2pKc200dGJ6aDlPYUNpNTlla3ZxM2ZWQzdXNDBxclZxc3pSRlZNelgwSnIzSzdmRVFhdzRVNVhJckNMTjhFOTNsdWlkMWxJSkJRa3huaXd6d3R6cktEODVnUE5aMGMwWEw0ZzRwTTJnX1ZoQ2F5UVhpMUZNNzNLNGNDT2RhdGZnMHZtTHZjcm9PNFk4bldiTjZ4TnJ6SF9zV0owWERWXzgyYmpYLVpFOE9ITG1kanhfOWdfME40Tmh0eTF5cjNfa3AxdFJV?oc=5) — `00:52 IRST` / `21:22 UTC`
+  > SoftBank weighs $18 billion acquisition of Allied Universal, source says    Reuters
+- **`Reuters Wire`** [Judge dismisses indictment of actor Timothy Busfield on child sexual assault - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUThReGpCZ0pENGxxMU5MZHp1TUJHV1ZsQzhqOWMzcFJ0RjZ4a001UjZ5RXFLVmJlSFVjOGhXcWI1cXA0bWVFWDNyVFBQT1YyT1ZLSzBQVHlCbmQzczBZYjlQaUlDSWIwU09DNXFidUwtWGN5M3h3dWFGWU5DeTFoWkhZQTdvWFNBWHdTaV9iRzVib1pYeVloOW83RW92aFVEZXI5aDV6ejJ6UzcwMjkzOG8zRC04SFgyTi1BOUw5NA?oc=5) — `00:41 IRST` / `21:11 UTC`
+  > Judge dismisses indictment of actor Timothy Busfield on child sexual assault    Reuters
+- **`AP News Wire`** [US markets are weighed down by an extended sell-off in the tech sector - AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFFYejUyLUpIbnJydUstZS1rSXRsdFhVN1hNTHF0VDIyc0FUZzFObERkVURrWFhyOVJrNmlSVExieWlKYlR2U1ByRTBxVVhGbjJrZzYxOEJzZVNJTVd2d3BCaXlaV29oNTJCVVkxRXJIbDUtR2poTXBMblhETkNlV1c1R3Vrck9RaHg0dXRCd0NUTmFDcFNkbUlVNA?oc=5) — `00:07 IRST` / `20:37 UTC`
+  > US markets are weighed down by an extended sell-off in the tech sector    AP News
+- **`Reuters Wire`** [Ukraine's Zelenskiy blasts US-Russian diesel deal, welcomes bigger European role in peace process - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2hXSnYwZU9ldlRnMk4yckJBZGdyYUJDZWJBa1ZRNFM5bWVmUkRYVmNfWVdtMFlGOG5TX3YwREZYWi1jeGRmLVpTanpzYWltYlR4UVpqblpnUUZuUEdYODVMS3VORFJHaXNIcC1PMVVKVERPTS1GeS1Ra0Y4dVNNb2otSWliai0zcXBaLWRmR3hfc2FMNFZZMTN4Q3F4YzN4NmM1RFg1cGtOdDQ0REFRN1B2RV95Wnp3R0NYUA?oc=5) — `23:30 IRST` / `20:00 UTC`
+  > Ukraine's Zelenskiy blasts US-Russian diesel deal, welcomes bigger European role in peace process    Reuters
 - **`Reuters Wire`** [FAA set to approve Boeing 737 MAX 10 as soon as next week, sources say - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXdnbkZmNkxjeThiVE51Uy1GVU9XTVNnWVJaR1lYZmRkcmpxMTQyZzgzM0ZVVVdDN0lONjlZSXRpRDcyb21aZlMteWFfVnhDdGlYdDZMVFlsRzh5ckRqWW1vUWxZU01HbEU0OThSemlKYmt3dV91Z3ZWelZ6cFpjbVRGb1NrOTNWM3RGdjFwTDFMdVJpcHNkYWZCaldrcmRITG5iM2VfVQ?oc=5) — `23:18 IRST` / `19:48 UTC`
   > FAA set to approve Boeing 737 MAX 10 as soon as next week, sources say    Reuters
+- **`Reuters Wire`** [US appeals court blocks class actions over Tesla's self-driving claims - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxNSi1jRE51Z3VxRjhwUXZnVmc5UncxU1h1VEJLMWtJV3JCRk44WEE1MWNvY0I3RGFONU51OHhWczRnb2R2UVA1WU9ZQi1sWDVCLXBCbXlXM1hsejJUazVNWDJsUWs1RXVuY3NucVpMQmhDazd1Y1dzREo2QUhRZ0RkTVhlT2g1RGZiWjBqbXg1U3YtOExkLXNfcVVhWTBOQ2M0am9wdTlrQmdVUHJkMDlaWEItSmZOaUR2eWZlQlUwSXlVbGpORkhN?oc=5) — `22:51 IRST` / `19:21 UTC`
+  > US appeals court blocks class actions over Tesla's self-driving claims    Reuters
+- **`Reuters Wire`** [FAA bars unauthorized drones along US-Mexico border, citing security concerns - Reuters](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5) — `22:42 IRST` / `19:12 UTC`
+  > FAA bars unauthorized drones along US-Mexico border, citing security concerns    Reuters
+- **`Reuters Wire`** [US annual budget gap hits nearly $2 trillion, largest in 5 years - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWlhaU90MklTU2wtZDJ1OC1wcVZIeDF5Y3FGRGsyam90X1VCNF9NcGRSUFNwTG1PQ21fZXZndjN3WXM4UG9LSW82OW1xLVQ0Rng3ODZLcjdwRWZtYVEzTm5oYjdlZUZhMXVmVUhubUhuWVJrMzVndXdUN29sQ2h1SHRKMnF0UkdXQ2dkWXppOU50bDV2WXhLM0tHZjk3MGtiTm4xQWNkc2FpU0dXOUE?oc=5) — `22:23 IRST` / `18:53 UTC`
+  > US annual budget gap hits nearly $2 trillion, largest in 5 years    Reuters
 - **`Reuters Wire`** [Trump says neither he nor Musk responsible for Ukraine loss of Starlink access - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ZNUmdIdkZCY09EdEY2WWhKWGhCQmlWOGhFQ3FxRDExUVNORW94dUZkNmR5V1lycjlOejZVYWIxbExDSGoxYkJldWRfU1ZYejZfa3NvQ2lZSlBCcGRMTkwtLWgtaThXUE9jTUJmUFVmdlAxR3NjeC1UWFlVYW95Uk9pbExFeW5lV2w3RzllME5YTE9JcjFBUmFtMVdUQUJuTndIcWdNcElUcUdxSWV4SUF2V3BUQQ?oc=5) — `21:25 IRST` / `17:55 UTC`
   > Trump says neither he nor Musk responsible for Ukraine loss of Starlink access    Reuters
 - **`Reuters Wire`** [Why CoreWeave is in the crosshairs of the AI scare - Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDBmSEI4THQ5MFFtQXA5a1YweUdtQ2RIYXJXU0t0SFpiQ2kzbENpUWpVbW9hRU5KY1FiMkZPdDVOcmY3OW5WTVRqTFo1SnZKQmxweEFXeVhkY0ZySUdjQWVoV2p3TEVlbXVSSVBZTnNVbXdNc2Q1bmpzSVFrYXFtTmVhUloyaDRqeHp0NllQZWxDTHFENXhv?oc=5) — `21:21 IRST` / `17:51 UTC`
   > Why CoreWeave is in the crosshairs of the AI scare    Reuters
-- **`Reuters Wire`** [Putin agrees to cooperate with Pope Leo's plea for aid for Ukrainian town - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxNa3JNbWNyLUNJd0hreG5VVkZYenNyVlpsTEQ4alQtS19BNEFESTFVaGczM29mM0t3Y19lc1dvaDVZd2llMHJFb1VGakxmS255QzZ5NEtSNE9GV1FxRkFtQWlaMVlpTGVOTEdBclN1MmFMZ3pHM0tfSE42N1hJWGcwT3BlVG5rUFI2ZzJ4VktzSHgycHVUdDNQWjFxbnk?oc=5) — `21:07 IRST` / `17:37 UTC`
-  > Putin agrees to cooperate with Pope Leo's plea for aid for Ukrainian town    Reuters
-- **`Reuters Wire`** [Putin says Russia is building non-negotiable 'security zone' in Ukraine along border - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVphQXp1WHJBUlFhekxrSzFTVGJfSGlqWFFmSktKcEVzV0REMU1faWt6UGVSWkVXNFNqQm9maVUzemNRVVVteUhhNklocGVZN2loVW5HTzY0ZFhYWW9vVW0xbUlabEE0YTZzaU9OSEtwOXR2d3k4MU1RZm1acXRaYVJSZnNTaTZsQTVYWTdqRE1aVW1UOFIwWVlSWmJidExOUHFLdTBlS2E3OUxMUHNQVS1neEw2akRBZzAyNVZR?oc=5) — `20:59 IRST` / `17:29 UTC`
-  > Putin says Russia is building non-negotiable 'security zone' in Ukraine along border    Reuters
-- **`AP News Wire`** [White House press secretary Katie Zacharia is leaving the job after a rocky start - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkktYkRQVnVXZmFmWVBvdE5LXzJzWnhRN0h4d093YWZJc2F5akw4N0VjTy1pWVV6RjZ2dC00OHZNNFBLd1BENWJ3OGNaLWNDbVhwcVNCYWR0ZlFpWm1IWlhkMzhJWWJnQlFQdXdISEZOc0VteWdrb1NMLW96Q3dYMWNzUmFKdFQ2b1BKdGQ3QUFpYUJ4WG1kR1BSMDA?oc=5) — `20:59 IRST` / `17:29 UTC`
-  > White House press secretary Katie Zacharia is leaving the job after a rocky start    AP News
-- **`Reuters Wire`** [CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlBOc3YwWlJVZ3JMc2tSUmd4aGdLVERla2dYZ2Y0OUpfUW5uVkJCTlRBSGFZN3RXdS1GQ3lHdktFdjFSRm5qYUNhUVhFWmkySzJxT3dFcHpwMXR4UXg1YXdUOWVWZVZQMDV2MWxHdW1mQ3dJcm5uU3FKcVFDTGktZEstcXY0LUZnUFFjcVdxVllrQjVPS1RGLWkwV2FZOWVIRV9LYmNFZVVmTjVFM3FVcW5ZR1NJUzZsYkE?oc=5) — `20:18 IRST` / `16:48 UTC`
-  > CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show    Reuters
-- **`Reuters Wire`** [Kenya reports third Ebola case, a close relative of first two patients - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEljblJyN3hKYThaRFo1dWlIRWVIemRsdFFmMlBNcmZhNmZJOFFRRzVSbWh3MlRBSjFWcm9tM19GNnhVcHVsOE9CdHFSWEFJb1dGenNQVV9hYnp5a01RcVM2VldxWm1FY0Qzamw3bTZRdDdEZkFUQ2dzeGN5REJScmtBaF96dnlyaWZmdFNoMnoxU0xhLVFKTVdzaDNwdEdXdWZDM0JKUTQyclVXeDBSMTVnZkdOTV9BQ0lPVkZEUERwQkVNczhDSjlRaTYtUTA?oc=5) — `20:14 IRST` / `16:44 UTC`
-  > Kenya reports third Ebola case, a close relative of first two patients    Reuters
-- **`Reuters Wire`** [Putin envoy says Russia and US are discussing joint deals including on data centres - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5) — `20:04 IRST` / `16:34 UTC`
-  > Putin envoy says Russia and US are discussing joint deals including on data centres    Reuters
-- **`Reuters Wire`** [Putin told Pope Leo he backs Vatican idea to help civilians in Oleshky, Kremlin says - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWw3OHRiR0FxMThuSWFjbTRPNktPV2xJck5xRXZwandfT0d0M1Q5ZVF1aDloMFlhMm1qRDdwRlJGY1RheXJhWnZjSmw0VkpvMVpjTUFkOGlRcnppRUZjV2FEZGl0RHNFdmF5S21HblFLQk1ZdV9UMWRpTjhZV3pFcml3dGFOazFZYWo4MGs4ejZTOTl2dmZmV21DbzNfQ29qZDU1MF9KeGFBeFJ5ZUY3TW9uNFRLLTdLaDluLUZMOEVmamF3REdkYg?oc=5) — `19:31 IRST` / `16:01 UTC`
-  > Putin told Pope Leo he backs Vatican idea to help civilians in Oleshky, Kremlin says    Reuters
-- **`AP News Wire`** [Istanbul’s worst floods in 80 years leave 4 dead - AP News](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMkd3LUFxNzZ4WWxvMXE1UnJHbXB3YmJpZ2RpczhqeHVhdDFyejlqcjNFWHowWWtkeDdwcUJtSnY3SnRVWEtuMHE5Rmt2T3UzNm11LVJtMW5meWExY1RMNUM2QjRSdUJFc0dtdkxKU3dKaS0yallIN1NIRnU0SW9wLXVReVBITmtST0VWQlUyNEhIVkNSN1BncWZ4WFM5c1pxQTVxZzRMRVZWTVpJY19HRmdB?oc=5) — `17:33 IRST` / `14:03 UTC`
-  > Istanbul’s worst floods in 80 years leave 4 dead    AP News
 
 ## فناوری و امنیت سایبری (Tech & Open Source)
 
-- **`Hacker News`** [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein) — `23:17 IRST` / `19:47 UTC`
+- **`Hacker News`** [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency) — `00:31 IRST` / `21:01 UTC`
+  > Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency 
+ Comments URL: https://news.ycombinator.com/item?id=50124642 
+ Points: 22 
+ # Comments: 6
+- **`Hacker News`** [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314) — `00:03 IRST` / `20:33 UTC`
+  > Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 
+ Comments URL: https://news.ycombinator.com/item?id=50124251 
+ Points: 143 
+ # Comments: 90
+- **`Hacker News`** [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein) — `23:17 IRST` / `19:47 UTC`
   > Article URL: https://bfl.ai/blog/flux-3-image-klein 
  Comments URL: https://news.ycombinator.com/item?id=50123580 
- Points: 12 
- # Comments: 1
-- **`Hacker News`** [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health) — `23:03 IRST` / `19:33 UTC`
-  > Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health 
- Comments URL: https://news.ycombinator.com/item?id=50123356 
- Points: 21 
- # Comments: 18
+ Points: 83 
+ # Comments: 15
 - **`Hacker News`** [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) — `22:34 IRST` / `19:04 UTC`
   > Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ 
  Comments URL: https://news.ycombinator.com/item?id=50122951 
- Points: 70 
- # Comments: 64
+ Points: 183 
+ # Comments: 174
 - **`Hacker News`** [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) — `22:31 IRST` / `19:01 UTC`
   > Article URL: https://alexwang.ai/posts/associative-memory/ 
  Comments URL: https://news.ycombinator.com/item?id=50122878 
- Points: 14 
- # Comments: 0
+ Points: 82 
+ # Comments: 20
 - **`Hacker News`** [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) — `22:25 IRST` / `18:55 UTC`
   > https://words.filippo.io/seeds-solved/ 
 
  Comments URL: https://news.ycombinator.com/item?id=50122800 
- Points: 327 
- # Comments: 125
-- **`Hacker News`** [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) — `22:24 IRST` / `18:54 UTC`
-  > Hi HN, I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs. All of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet wh...
+ Points: 549 
+ # Comments: 233
 - **`Hacker News`** [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging) — `22:22 IRST` / `18:52 UTC`
   > Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging 
  Comments URL: https://news.ycombinator.com/item?id=50122736 
- Points: 20 
- # Comments: 1
+ Points: 49 
+ # Comments: 4
 - **`Hacker News`** [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) — `22:02 IRST` / `18:32 UTC`
   > Article URL: https://github.com/cobanov/PS5LM 
  Comments URL: https://news.ycombinator.com/item?id=50122431 
- Points: 76 
- # Comments: 22
+ Points: 144 
+ # Comments: 41
 - **`Hacker News`** [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d) — `21:41 IRST` / `18:11 UTC`
-  > Article URL: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d 
+  > https://finance.yahoo.com/technology/ai/articles/anthropic-s... 
+
  Comments URL: https://news.ycombinator.com/item?id=50122112 
- Points: 113 
- # Comments: 32
+ Points: 181 
+ # Comments: 51
 - **`Hacker News`** [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear) — `21:36 IRST` / `18:06 UTC`
   > Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear 
  Comments URL: https://news.ycombinator.com/item?id=50122034 
- Points: 96 
- # Comments: 73
+ Points: 134 
+ # Comments: 122
 
 ---
 📂 [آرشیو ۳۰ دقیقه‌ای اخبار](../index.md) | 🌐 [مشاهده نسخه تحت وب سبک](../public/index.html)
