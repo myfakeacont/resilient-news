@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-16 20:44 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-17 00:16 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,82 +13,65 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [وزیر خارجه آلمان: اروپا در تیررس ایران قرار دارد؛ فعالیت‌های خصمانه تهران را تحمل نمی‌کنیم](https://www.bbc.co.uk/persian/live/ck78p7pdg8j0t?at_medium=RSS&at_campaign=rss) — `20:44 IRST` / `17:14 UTC`
+- **`بی‌بی‌سی فارسی`** [وزیر خارجه آلمان: اروپا در تیررس ایران قرار دارد؛ فعالیت‌های خصمانه تهران را تحمل نمی‌کنیم](https://www.bbc.co.uk/persian/live/ck78p7pdg8j0t?at_medium=RSS&at_campaign=rss) — `00:16 IRST` / `20:46 UTC`
   > یوهان واده‌فول، وزیر خارجه آلمان، هشدار داد که اروپا «در تیررس ایران» قرار دارد و فعالیت‌های خصمانه تهران علیه یهودیان و جامعه آلمان تحمل نخواهد شد. او در نشست خبری مشترک با وزیر خارجه پرتغال، به تلاش برای حمله به پایگاه هوایی فرفورد در بریتانیا و حکم دادگاه هامبورگ علیه دو مر...
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 خواهر جاویدنام احمدی خسروانی، بسکتبالیست ۲۱ ساله که دی ۱۴۰۴ به دست جمهوری اسلامی کشته شد، با انتشار ویدیویی در فضای مج...](https://t.me/IranintlTV/362571) — `20:39 IRST` / `17:09 UTC`
-  > 🔻 خواهر جاویدنام احمدی خسروانی، بسکتبالیست ۲۱ ساله که دی ۱۴۰۴ به دست جمهوری اسلامی کشته شد، با انتشار ویدیویی در فضای مجازی از دلتنگی برای برادر و خانواده‌اش نوشت: «جان خواهر، من به امید تو مهاجرت کردم، به امید تو اومدم غربت، کجا می‌دونستم یه روز زندگی‌مون این‌جوری خاکستر می‌ش...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️خاویر تباس، پس از آن‌که رئال مادرید روز جمعه خواستار استعفای او شد، مستقیما به این باشگاه پاسخ داد. رییس لالیگا ...](https://t.me/IranintlTV/362591) — `23:54 IRST` / `20:24 UTC`
+  > 🔻️ ️️️️️خاویر تباس، پس از آن‌که رئال مادرید روز جمعه خواستار استعفای او شد، مستقیما به این باشگاه پاسخ داد. رییس لالیگا در واکنش به این درخواست گفت: «دیگر حساب دفعاتی را که طی ۱۳ سال مدیران رئال مادرید خواستار استعفای من شده یا تلاش کرده‌اند مرا از سمتم برکنار کنند، از دست داد...
 
-  ![Media](media/2026-10-16/4ff8e52d4a2bd9f6.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی اخبار شبانگاهی | جمعه ۲۴ مهر](https://t.me/IranintlTV/362570) — `20:37 IRST` / `17:07 UTC`
-  > 🎧 نسخه صوتی اخبار شبانگاهی | جمعه ۲۴ مهر
+  ![Media](media/2026-10-16/2c57cf473aee68af.jpg)
+- **`بی‌بی‌سی فارسی`** [استراتژی تازه پوتین؛ غیرقابل‌ سکونت کردن شهرهای اوکراین](https://www.bbc.com/persian/articles/cxzd6yr82p2go?at_medium=RSS&at_campaign=rss) — `23:54 IRST` / `20:24 UTC`
+  > روسیه در هفته‌های اخیر حملات موشکی و پهپادی به پایتخت اوکراین و دیگر شهرهای بزرگ این کشور را تشدید کرده و اهداف غیرنظامی، از جمله مدارس، بیمارستان‌ها، هتل‌ها، مراکز داده، قطارها و پل‌ها را هدف قرار داده است.
+
+  ![Media](media/2026-10-16/f2c5bcc903ee2df3.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی چرتکه: تنها مشکل اقتصاد ایران گرانی نیست](https://t.me/IranintlTV/362590) — `23:41 IRST` / `20:11 UTC`
+  > 🎧 نسخه صوتی چرتکه: تنها مشکل اقتصاد ایران گرانی نیست
  @iranintlTV
-- **`ایران اینترنشنال`** [رییس بانک مرکزی آمریکا: تاب‌آوری اقتصاد جهانی در برابر شوک‌های شدید فراتر از انتظار بود](https://www.iranintl.com/202610162066) — `20:34 IRST` / `17:04 UTC`
-  > کوین وارش، رییس بانک مرکزی آمریکا (فدرال رزرو)، اعلام کرد اقتصاد جهانی در برابر شوک‌های شدید اقتصادی بیش از آنچه انتظار می‌رفت، تاب‌آوری نشان داده است.
+- **`Reuters Wire`** [White House press secretary Zacharia fired in less than a week after facing criticism - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEYwN214QVdKVU9iMHZiY2YxWTBnSndMc0tycE5xSDItUXJJQ0Nja01Ld2trdjdtaldWVXh5QnhKT3JjWkdzNDNIRWN1a0hHZ2h3SUdjNDVGRXlkc243dE5vRUo0QTBmRzZtUG9Hc2Nnc2NFaW5RalJEbjRPaE1MMTQtRHVXVVNmWUJYZTYzX0ZIdkJTSGJEQms4NWc5YWlNQVZjYmhfVlVCeHQ2?oc=5) — `23:40 IRST` / `20:10 UTC`
+  > White House press secretary Zacharia fired in less than a week after facing criticism    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مهدی نخل احمدی، روزنامه‌نگار و فعال سیاسی، گفت تاکید امامان جمعه بر ادامه جنگ با آمریکا، بازتاب دیدگاه طیفی از حاکمیت اس...](https://t.me/IranintlTV/362589) — `23:33 IRST` / `20:03 UTC`
+  > مهدی نخل احمدی، روزنامه‌نگار و فعال سیاسی، گفت تاکید امامان جمعه بر ادامه جنگ با آمریکا، بازتاب دیدگاه طیفی از حاکمیت است که نگران تغییر توازن قدرت در صورت دستیابی به توافق است. به گفته او، این جریان با وجود فشارهای اقتصادی و معیشتی بر مردم، همچنان بر مقاومت تاکید می‌کند و می‌...
 
-  ![Media](media/2026-10-16/a8c9f6493f6f2b51.jpg)
-- **`Hacker News`** [/dev/null: social network for developers](https://dev-null.sh) — `20:27 IRST` / `16:57 UTC`
-  > Article URL: https://dev-null.sh 
- Comments URL: https://news.ycombinator.com/item?id=50121004 
- Points: 14 
- # Comments: 4
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [فروش خودروهای برقی در کانادا ۵۵ درصد افزایش یافته و سهم مدل‌های تمام‌برقی به هفت درصد بازار رسیده است. با این حال، کارشن...](https://t.me/IranintlTV/362569) — `20:23 IRST` / `16:53 UTC`
-  > فروش خودروهای برقی در کانادا ۵۵ درصد افزایش یافته و سهم مدل‌های تمام‌برقی به هفت درصد بازار رسیده است. با این حال، کارشناسان می‌گویند این رشد برای دستیابی به هدف سهم ۷۵ درصدی تا سال ۲۰۳۵ کافی نیست.
+  ![Media](media/2026-10-16/ccb1af6468af03be.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت انتخابات پیش رو در آمریکا و اسرائیل به ترمزی موقت برای تشدید درگیری‌ها ت...](https://t.me/IranintlTV/362588) — `23:25 IRST` / `19:55 UTC`
+  > جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت انتخابات پیش رو در آمریکا و اسرائیل به ترمزی موقت برای تشدید درگیری‌ها تبدیل شده و هر سه طرف تلاش می‌کنند از آغاز جنگی گسترده پیش از انتخابات جلوگیری کنند. با این حال، به گفته او، شرایط شکننده است و یک اقدام پیش‌بینی‌نشده می‌توان...
 
-جزئیات بیشتر در گفت‌وگو با مهسا مرتضوی، خبرنگار ایران‌اینترنشنال
- @iranintltv
+  ![Media](media/2026-10-16/4e9d2b7f4411350e.jpg)
+- **`Reuters Wire`** [FAA set to approve Boeing 737 MAX 10 as soon as next week, sources say - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXdnbkZmNkxjeThiVE51Uy1GVU9XTVNnWVJaR1lYZmRkcmpxMTQyZzgzM0ZVVVdDN0lONjlZSXRpRDcyb21aZlMteWFfVnhDdGlYdDZMVFlsRzh5ckRqWW1vUWxZU01HbEU0OThSemlKYmt3dV91Z3ZWelZ6cFpjbVRGb1NrOTNWM3RGdjFwTDFMdVJpcHNkYWZCaldrcmRITG5iM2VfVQ?oc=5) — `23:18 IRST` / `19:48 UTC`
+  > FAA set to approve Boeing 737 MAX 10 as soon as next week, sources say    Reuters
+- **`Hacker News`** [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein) — `23:17 IRST` / `19:47 UTC`
+  > Article URL: https://bfl.ai/blog/flux-3-image-klein 
+ Comments URL: https://news.ycombinator.com/item?id=50123580 
+ Points: 12 
+ # Comments: 1
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران](https://t.me/IranintlTV/362587) — `23:13 IRST` / `19:43 UTC`
+  > 🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+ @iranintlTV
+- **`ایران اینترنشنال`** [فرمانده سنتکام: جلوی صادرات ۲۵ میلیارد دلار نفت ایران را گرفته‌ایم](https://www.iranintl.com/202610169482) — `23:09 IRST` / `19:39 UTC`
+  > برد کوپر، فرمانده سنتکام، اعلام کرد آمریکا مانع صادرات دست‌کم ۲۵ میلیارد دلار نفت ایران شده و به مسدود کردن حدود ۳۵۰ میلیون دلار رمزارز جمهوری اسلامی کمک کرده است. او همچنین از برخی گزارش‌ها درباره توقف پرداخت حقوق شبه‌نظامیان وابسته به تهران خبر داد.
 
-  ![Media](media/2026-10-16/310cf6888cf0bb7a.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سازمان بین‌المللی دریانوردی اعلام کرد تا چهارشنبه ۲۲ مهر، ۱۱۳ حادثه دریایی در تنگه هرمز و دیگر مناطق خاورمیانه ثبت و تای...](https://t.me/IranintlTV/362568) — `20:09 IRST` / `16:39 UTC`
-  > سازمان بین‌المللی دریانوردی اعلام کرد تا چهارشنبه ۲۲ مهر، ۱۱۳ حادثه دریایی در تنگه هرمز و دیگر مناطق خاورمیانه ثبت و تایید شده است. این سازمان همچنین اعلام کرد عملیات پاکسازی مین‌های دریایی در تنگه هرمز هنوز انجام نشده است.
+  ![Media](media/2026-10-16/c906df2a060835c2.jpg)
+- **`Hacker News`** [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health) — `23:03 IRST` / `19:33 UTC`
+  > Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health 
+ Comments URL: https://news.ycombinator.com/item?id=50123356 
+ Points: 21 
+ # Comments: 18
+- **`@USABehFarsi (وزارت خارجه آمریکا به فارسی)`** [اول آمریکا. همیشه. - X](https://news.google.com/rss/articles/CBMibEFVX3lxTE1BTkdHZVlKYkNyUGo3em1ScHpxSlpNVHdqb2NmWHVEanZSY3BvVzl3WDJRNHVVcG5pNE5qek5QcW9lOEtnQTBPWXVLdHZWUDBWRXhNbmxWbUlKaDVQNkVoSGpSZk5FYWxYVGp4cQ?oc=5) — `23:00 IRST` / `19:30 UTC`
+  > اول آمریکا. همیشه.    X
+- **`ایران اینترنشنال`** [رییس لالیگا در پاسخ به درخواست رئال مادرید برای استعفا: ۱۳سال است می‌خواهند مرا کنار بزنند](https://www.iranintl.com/202610164785) — `22:54 IRST` / `19:24 UTC`
+  > خاویر تباس، پس از آن‌که رئال مادرید روز جمعه خواستار استعفای او شد، مستقیما به این باشگاه پاسخ داد. رییس لالیگا در واکنش به این درخواست گفت: «دیگر حساب دفعاتی را که طی ۱۳ سال مدیران رئال مادرید خواستار استعفای من شده یا تلاش کرده‌اند مرا از سمتم برکنار کنند، از دست داده‌ام.»
 
-بر اساس اطلاعات منتشرشده در وب‌سایت رسمی سازمان بین‌...
-
-  ![Media](media/2026-10-16/c2d4596fda05fd78.jpg)
-- **`Hacker News`** [Desire to Move Permanently to U.S. at New Low](https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx) — `20:08 IRST` / `16:38 UTC`
-  > Article URL: https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx 
- Comments URL: https://news.ycombinator.com/item?id=50120664 
- Points: 36 
- # Comments: 11
-- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [مدل GLM 5.3 Flash توی OpenCode رایگان شد](https://t.me/MatinSenPaii/5591) — `20:02 IRST` / `16:32 UTC`
-  > مدل GLM 5.3 Flash توی OpenCode رایگان شد 
-
-پلتفرم اوپن‌کد دسترسی کامل و رایگان به مدل پرسرعت GLM 5.3 Flash رو در اختیار کاربران خودش قرار داده. اگر براتون سؤاله که این مدل چقدر خفنه، این ویدئو رو ببینید: https://www.youtube.com/watch?v=FIhoccZtpZQ 
-
- 🔗 منبع 
-
- ✉️ t.me/MatinSen...
-
-  ![Media](media/2026-10-16/d886e7b2eb90f058.jpg)
-- **`یورونیوز فارسی`** [غزه در آستانه فصل سرد؛ جنگزدگان فلسطینی زمستانی دیگر را بدون سرپناه امن چگونه سپری خواهند کرد؟](https://parsi.euronews.com/2026/10/16/gaza-winter-approaches-how-will-displaced-palestinians-survive-without-shelter) — `19:58 IRST` / `16:28 UTC`
-  > بیش از ۴۴ هزار نفر هنوز در ساختمان‌های در آستانه تخریب زندگی می‌کنند و چون سرپناه جایگزین نیست نمی‌توانند ترک کنند. یورونیوز از المغرقه گزارش می‌دهد که قیمت چادر برزنتی دو برابر شده و اسرائیل ورود چوب و کیت‌های سرپناه به غزه را بسته است.
-- **`بی‌بی‌سی فارسی`** [درباره تلاش برای «سوقصد» به جان عباس آخوندی در حاشیه نشست اصلاح‌طلبان در تهران چه می‌دانیم؟](https://www.bbc.com/persian/articles/cmn8w6g17zvno?at_medium=RSS&at_campaign=rss) — `19:56 IRST` / `16:26 UTC`
-  > بنیاد باران بازداشت یک فرد مسلح را در حاشیه مراسم سه‌شنبه گذشته در کتابخانه ملی ایران در شمال تهران تایید کرد. این بنیاد اعلام کرد که «بنا به اطلاعات اولیه»، فرد بازداشت‌شده قصد حمله به عباس آخوندی، وزیر پیشین و از چهره‌های اصلاح‌طلب ایران، را داشته است. به گفته بنیاد باران، ا...
-
-  ![Media](media/2026-10-16/b1389c98a236935b.jpg)
-- **`Reuters Wire`** [Putin says Russia is building non-negotiable 'security zone' in Ukraine along border - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVphQXp1WHJBUlFhekxrSzFTVGJfSGlqWFFmSktKcEVzV0REMU1faWt6UGVSWkVXNFNqQm9maVUzemNRVVVteUhhNklocGVZN2loVW5HTzY0ZFhYWW9vVW0xbUlabEE0YTZzaU9OSEtwOXR2d3k4MU1RZm1acXRaYVJSZnNTaTZsQTVYWTdqRE1aVW1UOFIwWVlSWmJidExOUHFLdTBlS2E3OUxMUHNQVS1neEw2akRBZzAyNVZR?oc=5) — `19:53 IRST` / `16:23 UTC`
-  > Putin says Russia is building non-negotiable 'security zone' in Ukraine along border    Reuters
-- **`ایران اینترنشنال`** [طی کمتر از ۷ ماه، ۳۴ مورد برخورد امنیتی و قضایی با بهائیان یزد ثبت شد](https://www.iranintl.com/202610160536) — `19:53 IRST` / `16:23 UTC`
-  > در کمتر از هفت ماه، ۳۴ مورد برخورد امنیتی و قضایی با شهروندان بهائی در یزد به ثبت رسید. این موارد شامل ۱۱ مورد تفتیش اماکن، ۱۸ مورد احضار برای بازجویی، صدور حکم حبس برای سه تن و انتقال یک نفر به زندان برای اجرای محکومیت بود.
-
-  ![Media](media/2026-10-16/2cfae85c7209a8dd.jpg)
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [تیبو یکی از افراد کلیدی OpenAI :](https://t.me/Linuxor/5708) — `19:43 IRST` / `16:13 UTC`
-  > تیبو یکی از افراد کلیدی OpenAI :
-
-"یا دیگه هیچ ایده‌ای به ذهنمون نمی‌رسه، یا داریم پخت و پز می‌کنیم! زمان مشخص می‌کنه کدومشه"
-
- @Linuxor
-
-  ![Media](media/2026-10-16/1fcd9679b2c3e3e2.jpg)
-- **`Hacker News`** [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) — `19:42 IRST` / `16:12 UTC`
-  > Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ 
- Comments URL: https://news.ycombinator.com/item?id=50120224 
- Points: 27 
- # Comments: 6
+  ![Media](media/2026-10-16/51cd6dcc233600f0.jpg)
+- **`Hacker News`** [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) — `22:34 IRST` / `19:04 UTC`
+  > Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ 
+ Comments URL: https://news.ycombinator.com/item?id=50122951 
+ Points: 70 
+ # Comments: 64
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-16 - ساعت 20:30](news/2026-10-16/20-30.md)
 - 📅 [2026-10-16 - ساعت 17:00](news/2026-10-16/17-00.md)
 - 📅 [2026-10-16 - ساعت 12:00](news/2026-10-16/12-00.md)
 - 📅 [2026-10-16 - ساعت 06:30](news/2026-10-16/06-30.md)
@@ -148,7 +131,6 @@
 - 📅 [2026-10-03 - ساعت 15:00](news/2026-10-03/15-00.md)
 - 📅 [2026-10-03 - ساعت 10:00](news/2026-10-03/10-00.md)
 - 📅 [2026-10-03 - ساعت 04:30](news/2026-10-03/04-30.md)
-- 📅 [2026-10-02 - ساعت 23:30](news/2026-10-02/23-30.md)
 
 ---
 توسعه‌یافته برای استقرار سبک و مداوم بر روی اوبونتو ARM64.
