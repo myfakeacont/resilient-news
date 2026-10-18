@@ -1,6 +1,6 @@
 # ⚡ آخرین اخبار و رویدادهای لحظه‌ای (Latest Rolling News)
 
-**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-18 01:34 IRST` | `2026-10-17 22:04 UTC`
+**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-18 04:15 IRST` | `2026-10-18 00:45 UTC`
 
 پایگاه خبری چندرسانه‌ای تاب‌آور. متن سبک و تصاویر محلی فشرده برای دسترسی حداکثر سرعت در شرایط اختلال اینترنت.
 
@@ -35,106 +35,102 @@
 
 ## کانال‌های منتخب تلگرام (Telegram Monitoring)
 
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «بنیامین نتانیاهو امروز بار دیگر بر تعهد خود به سرنگونی جمهوری اسلامی تا...](https://t.me/IranintlTV/362740) — `01:29 IRST` / `21:59 UTC`
-  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «بنیامین نتانیاهو امروز بار دیگر بر تعهد خود به سرنگونی جمهوری اسلامی تاکید کرد و گفت می‌داند چگونه باید این هدف را محقق کند. نتانیاهو سرنگونی جمهوری اسلامی را "ماموریتی ناتمام" توصیف کرد که باید به پایان برسد. او تاکید کرد تا زم...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [روزنامه الشرق الاوسط به نقل از منابع عراقی گزارش داد گروه‌های مسلح این کشور به دلیل تحریم‌های آمریکا علیه فرماندهانشان ب...](https://t.me/IranintlTV/362753) — `03:24 IRST` / `23:54 UTC`
+  > روزنامه الشرق الاوسط به نقل از منابع عراقی گزارش داد گروه‌های مسلح این کشور به دلیل تحریم‌های آمریکا علیه فرماندهانشان با مشکلات مالی روبه‌رو شده‌اند، اما پرداخت حقوق نیروهای ثبت‌شده در سازمان حشد شعبی همچنان ادامه دارد.
 
-  ![Media](../media/2026-10-17/4c0835ba49aba498.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [شنبه ۱۷ اکتبر صدها هزار نفر در فرانسه در اعتراض به گرانی و افت خدمات عمومی به خیابان آمدند و راهپیمایی‌ها در برخی شهرها ...](https://t.me/IranintlTV/362739) — `00:38 IRST` / `21:08 UTC`
-  > شنبه ۱۷ اکتبر صدها هزار نفر در فرانسه در اعتراض به گرانی و افت خدمات عمومی به خیابان آمدند و راهپیمایی‌ها در برخی شهرها با درگیری میان پلیس و معترضان همراه شد. در پاریس و لیل معترضان با شکستن شیشه‌ها وارد فروشگاه‌ها شدند و پوشاک، مواد غذایی و کالاهای دیگر را غارت کردند. در لیل...
+برد کوپر، فرمانده فرماندهی مرکزی آمریکا (سنتکام)، شنبه ...
 
-  ![Media](../media/2026-10-17/baa4ef65223c492c.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️گاستون ادول، خبرنگار آرژانتینی، گزارش داد امیلیانو مارتینز، دروازه‌بان چلسی و آرژانتین هوشیار است و آزمایش‌های س...](https://t.me/IranintlTV/362738) — `00:13 IRST` / `20:43 UTC`
-  > 🔻️ ️️️️️گاستون ادول، خبرنگار آرژانتینی، گزارش داد امیلیانو مارتینز، دروازه‌بان چلسی و آرژانتین هوشیار است و آزمایش‌های سر، گردن و کمر او نتیجه خوبی داشته، اما دیبو از ناحیه استخوان فک آسیب دیده و تحت عمل جراحی قرار خواهد گرفت. مارتینز همچنان در بیمارستان بستری است.
+  ![Media](../media/2026-10-18/eaeff0811eea6b3d.jpg)
+- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [توی اندروید 16 یه قابلیتی به اسم Sensors Off اضافه شده که هم دوبینتون و هم میکروفونتون رو سخت افزاری قطع میکنه دیگه برنا...](https://t.me/Linuxor/5724) — `03:18 IRST` / `23:48 UTC`
+  > توی اندروید 16 یه قابلیتی به اسم Sensors Off اضافه شده که هم دوبینتون و هم میکروفونتون رو سخت افزاری قطع میکنه دیگه برنامه ها نمیتونن توی بکگراند جاسوسی کنن (هرچند دیگه توی دوران اندروید 4 نیستیم که این کار به راحتی باشه ولی دیگه محکم تر میشه گوشیتون) نکته…
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [رویترز گزارش داد شهرهای مختلف فرانسه شنبه ۲۴ مهر شاهد تظاهرات گسترده علیه افزایش هزینه‌های زندگی و افت کیفیت خدمات عمومی...](https://t.me/IranintlTV/362752) — `03:14 IRST` / `23:44 UTC`
+  > رویترز گزارش داد شهرهای مختلف فرانسه شنبه ۲۴ مهر شاهد تظاهرات گسترده علیه افزایش هزینه‌های زندگی و افت کیفیت خدمات عمومی بودند که در برخی مناطق به خشونت، آتش‌سوزی و غارت کشیده شد.
 
- 🔹️ ️️️️️ب...
+به گفته لوران نونز، وزیر کشور فرانسه، حدود ۵۵۰ هزار نفر در سراسر کشور در اعتراضات شرکت کردند و ح...
 
-  ![Media](../media/2026-10-17/2c065f1bc3d7e002.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ بار دیگر تاکید کرد واشینگتن اجازه بازسازی توان موشکی جمهوری اسلامی را نخواهد داد. هم‌زمان، وزیر جنگ آمریکا ...](https://t.me/IranintlTV/362737) — `00:00 IRST` / `20:30 UTC`
-  > دونالد ترامپ بار دیگر تاکید کرد واشینگتن اجازه بازسازی توان موشکی جمهوری اسلامی را نخواهد داد. هم‌زمان، وزیر جنگ آمریکا از آمادگی ارتش این کشور برای هرگونه درگیری خبر داده و بنیامین نتانیاهو بر تعهد خود به سرنگونی جمهوری اسلامی تاکید کرده است.
+  ![Media](../media/2026-10-18/14ec6e7e8c43439d.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [روزنامه نروژی «داگنس نارینگس‌لیو» گزارش داد سربازان نروژی در رزمایش «عملیات پایتخت» متوجه شدند خودروهای اجاره‌ای ساخت چی...](https://t.me/IranintlTV/362751) — `03:04 IRST` / `23:34 UTC`
+  > روزنامه نروژی «داگنس نارینگس‌لیو» گزارش داد سربازان نروژی در رزمایش «عملیات پایتخت» متوجه شدند خودروهای اجاره‌ای ساخت چین از آنها فیلم‌برداری و تصاویر را ذخیره کرده‌اند.
 
-در حالی که گزینه‌های نظامی، از ج...
+این رزمایش ۱۴ تا ۱۸ سپتامبر در اسلو برگزار شد. یکی از نظامیان گفت ویدیوها نشان می‌داد چه کسانی وارد خودرو ...
 
-  ![Media](../media/2026-10-17/85383175828071ee.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [امیرحسین میراسماعیلی، روزنامه‌نگار، گفت توافق احتمالی عربستان سعودی و امارات برای مقابله با حوثی‌ها می‌تواند به شکل‌گیری...](https://t.me/IranintlTV/362736) — `23:31 IRST` / `20:01 UTC`
-  > امیرحسین میراسماعیلی، روزنامه‌نگار، گفت توافق احتمالی عربستان سعودی و امارات برای مقابله با حوثی‌ها می‌تواند به شکل‌گیری ائتلاف نظامی موثرتری در یمن منجر شود. به گفته او، اختلافات گذشته ریاض و ابوظبی به سود حوثی‌ها و جمهوری اسلامی بوده و تقویت نیروهای زمینی می‌تواند نقشی مهم د...
+  ![Media](../media/2026-10-18/9d98e8687451b4c2.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [میثم مهرانی، تحلیل‌گر سیاسی، گفت تمرکز واشینگتن بر پرونده هسته‌ای جمهوری اسلامی، بدون پرداختن به برنامه موشکی، نیروهای ن...](https://t.me/IranintlTV/362750) — `02:40 IRST` / `23:10 UTC`
+  > میثم مهرانی، تحلیل‌گر سیاسی، گفت تمرکز واشینگتن بر پرونده هسته‌ای جمهوری اسلامی، بدون پرداختن به برنامه موشکی، نیروهای نیابتی و نفوذ منطقه‌ای تهران، نمی‌تواند اختلافات دو طرف را به‌طور پایدار حل کند. او هشدار داد توافق مرحله‌ای ممکن است به جمهوری اسلامی فرصت دهد با کسب امتیاز ...
 
-  ![Media](../media/2026-10-17/bdfae862f988db71.jpg)
+  ![Media](../media/2026-10-18/488faec28595f155.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت بنیامین نتانیاهو با تاکید بر تعهد خود به سرنگونی جمهوری اسلامی، تلاش می‌...](https://t.me/IranintlTV/362749) — `02:21 IRST` / `22:51 UTC`
+  > کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت بنیامین نتانیاهو با تاکید بر تعهد خود به سرنگونی جمهوری اسلامی، تلاش می‌کند مقابله با تهران را به یکی از محورهای اصلی رقابت‌های انتخاباتی تبدیل کند و خود را در این زمینه از رقبایش متمایز نشان دهد.
+ @iranintltv
+
+  ![Media](../media/2026-10-18/687a9affbff97d34.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [روزنامه گاردین شنبه ۲۵ مهر به نقل از منابعی در یمن گزارش داد امارات و عربستان سعودی برای ازسرگیری همکاری نظامی علیه حوثی...](https://t.me/IranintlTV/362748) — `02:14 IRST` / `22:44 UTC`
+  > روزنامه گاردین شنبه ۲۵ مهر به نقل از منابعی در یمن گزارش داد امارات و عربستان سعودی برای ازسرگیری همکاری نظامی علیه حوثی‌های مورد حمایت جمهوری اسلامی توافق کرده‌اند.
+
+بر اساس این توافق، امارات پرداخت کمک‌های مالی به بخشی از نیروهای دولتی یمن، به‌ویژه «تیپ‌های عمالقه» در جنوب، ...
+
+  ![Media](../media/2026-10-18/8b8b1cc0e2b99da6.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی سیاست با مراد ویسی: نتانیاهو: راه سرنگونی جمهوری اسلامی را بلدم](https://t.me/IranintlTV/362747) — `02:07 IRST` / `22:37 UTC`
+  > 🎧 نسخه صوتی سیاست با مراد ویسی: نتانیاهو: راه سرنگونی جمهوری اسلامی را بلدم
+ @iranintlTV
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «چند روز پیش اعلام کردند که یارانه ۱۱ میلیون نفر واریز شده و ۴۰۰ هزار توم...](https://t.me/IranintlTV/362746) — `02:05 IRST` / `22:35 UTC`
+  > مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «چند روز پیش اعلام کردند که یارانه ۱۱ میلیون نفر واریز شده و ۴۰۰ هزار تومان هم به آن افزوده شده است. ابتدا گفته بودند این مبلغ را به ۴۴ میلیون نفر پرداخت می‌کنند، سپس این رقم به ۲۸ میلیون نفر کاهش پیدا کرد و در نهایت به حدود ۱۰ می...
+
+  ![Media](../media/2026-10-18/23f7e37f169f3ca2.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «چند روز پیش اعلام کردند که یارانه ۱۱ میلیون نفر واریز شده و ۴۰۰ هزار توم...](https://t.me/IranintlTV/362745) — `02:04 IRST` / `22:34 UTC`
+  > مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «چند روز پیش اعلام کردند که یارانه ۱۱ میلیون نفر واریز شده و ۴۰۰ هزار تومان هم به آن افزوده شده است. ابتدا گفته بودند این مبلغ را به ۴۴ میلیون نفر پرداخت می‌کنند، سپس این رقم به ۲۸ میلیون نفر کاهش پیدا کرد و در نهایت به حدود ۱۰ می...
+
+  ![Media](../media/2026-10-18/6233d6d3e6eecfc0.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «مقامات جمهوری اسلامی در اظهاراتی جدید می‌گویند اسرائیل ابراهیم رییسی را...](https://t.me/IranintlTV/362744) — `01:44 IRST` / `22:14 UTC`
+  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «مقامات جمهوری اسلامی در اظهاراتی جدید می‌گویند اسرائیل ابراهیم رییسی را کشته است. در واقع کسی که در ایران مقامات ارشد را تعیین می‌کند و یا تغییر می‌دهد تا حد زیادی اسرائیل است. همان‌طور که این اسرائیل است که اسم خیابان‌های تهران...
+
+  ![Media](../media/2026-10-18/83443c0348543499.jpg)
 - **`@VahidOnline (وحید آنلاین)`** [بنیامین نتانیاهو، نخست‌وزیر اسراییل، جمهوری اسلامی را به سرطان تشبیه کرد و گفت اگر حکومت ایران از بین نرود، دوباره بازخو...](https://t.me/VahidOnline/78747) — `23:30 IRST` / `20:00 UTC`
   > بنیامین نتانیاهو، نخست‌وزیر اسراییل، جمهوری اسلامی را به سرطان تشبیه کرد و گفت اگر حکومت ایران از بین نرود، دوباره بازخواهد گشت. او همچنین از احتمال اقدام نظامی دوباره علیه حکومت ایران سخن گفت و جمهوری اسلامی را به تلاش برای تاثیرگذاری بر انتخابات اسراییل متهم کرد.
 نتانیاهو، ر...
-
-  ![Media](../media/2026-10-17/61dad07de1409635.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سارا بازوبندی، کارشناس اقتصادی، گفت آمریکا و جمهوری اسلامی در شرایط کنونی تمایل بیشتری به توافق دارند، اما اختلافات میان...](https://t.me/IranintlTV/362735) — `23:28 IRST` / `19:58 UTC`
-  > سارا بازوبندی، کارشناس اقتصادی، گفت آمریکا و جمهوری اسلامی در شرایط کنونی تمایل بیشتری به توافق دارند، اما اختلافات میان دو طرف همچنان گسترده است. به گفته او، تضمین امنیت تنگه هرمز و پایان دادن به برنامه هسته‌ای جمهوری اسلامی از مهم‌ترین اهداف واشینگتن است و دولت ترامپ می‌خواه...
-
-  ![Media](../media/2026-10-17/d37d6fb3f2fcbdeb.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [نورنیوز، رسانه نزدیک به شورای عالی امنیت ملی، از افزایش چشمگیر پرواز جنگنده‌های اف-۳۵ و اف-۱۵ و سوخت‌رسان‌های آمریکایی د...](https://t.me/IranintlTV/362734) — `22:55 IRST` / `19:25 UTC`
-  > نورنیوز، رسانه نزدیک به شورای عالی امنیت ملی، از افزایش چشمگیر پرواز جنگنده‌های اف-۳۵ و اف-۱۵ و سوخت‌رسان‌های آمریکایی در آسمان منطقه خبر داد.همزمان در اسرائیل، در پی شلیک ۳۰ موشک سپاه در یک رزمایش، ارتش این کشور سطح آماده‌باش را برای حمله افزایش داده.
-
-گزارشی از مجتبا پورمحسن...
-
-  ![Media](../media/2026-10-17/76280d660cdf5419.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی چشم‌انداز: طرح‌های نظامی هولناک آمریکا برای تسلیم کردن حکومت ایران](https://t.me/IranintlTV/362733) — `22:47 IRST` / `19:17 UTC`
-  > 🎧 نسخه صوتی چشم‌انداز: طرح‌های نظامی هولناک آمریکا برای تسلیم کردن حکومت ایران
- @iranintlTV
 - **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [شرکت آنتروپیک می‌گه حدود 90 درصد از کدهای Claude Code رو خود Claude می‌نویسه؛ اما چطور کیفیت این حجم از کد رو کنترل می‌ک...](https://t.me/Linuxor/5723) — `22:44 IRST` / `19:14 UTC`
   > شرکت آنتروپیک می‌گه حدود 90 درصد از کدهای Claude Code رو خود Claude می‌نویسه؛ اما چطور کیفیت این حجم از کد رو کنترل می‌کنن؟
 
 این شرکت در مقاله‌ای جدید توضیح داده که چطور با تغییر فرایند Code Review، از ژوئن تا سپتامبر تعداد PRهای ادغام‌شده رو بیش از 2 برابر کرده و هم‌زمان سهم ...
-
-  ![Media](../media/2026-10-17/09e6e19a071a503e.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [طرح‌های نظامی هولناک آمریکا برای تسلیم کردن حکومت ایران](https://t.me/IranintlTV/362732) — `22:41 IRST` / `19:11 UTC`
-  > طرح‌های نظامی هولناک آمریکا برای تسلیم کردن حکومت ایران
-
-چشم‌انداز با مهدی مهدوی‌آزاد
-
-نسخه کامل این برنامه در یوتیوب:
-
- https://youtu.be/SIkFYmFWNoE 
- @iranintltv
-
-  ![Media](../media/2026-10-17/be26c724ef1767bb.jpg)
 - **`@VahidOnline (وحید آنلاین)`** [پیت هگست، وزیر جنگ آمریکا، روز شنبه ۲۵ مهر ماه گفت ایران باید بین کنار گذاشتن جاه‌طلبی‌های هسته‌ای و رسیدن به توافق، یا ...](https://t.me/VahidOnline/78746) — `22:40 IRST` / `19:10 UTC`
   > پیت هگست، وزیر جنگ آمریکا، روز شنبه ۲۵ مهر ماه گفت ایران باید بین کنار گذاشتن جاه‌طلبی‌های هسته‌ای و رسیدن به توافق، یا مواجهه با اقدام نظامی ویرانگر آمریکا انتخاب کند.
 
 هگست این اظهارات را در سخنرانی برای دانشجویان دورهٔ آموزش افسران ذخیره و نیروهای تازه‌وارد ارتش در دانشگاه ...
-
-  ![Media](../media/2026-10-17/cfafc94e9467bcfc.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت جمهوری اسلامی افزایش قیمت نفت و فشار بر بازار جهانی انرژی را برگ برنده خود می‌...](https://t.me/IranintlTV/362731) — `22:31 IRST` / `19:01 UTC`
-  > مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت جمهوری اسلامی افزایش قیمت نفت و فشار بر بازار جهانی انرژی را برگ برنده خود می‌داند، اما مشخص نیست این راهبرد بتواند دونالد ترامپ را به عقب‌نشینی و دادن امتیاز وادار کند یا برعکس، احتمال حملات نظامی گسترده‌تر را افزایش دهد.
-
-او با انتقا...
 - **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [یکی مشکلاتی که همه نقشه های مسیریاب دارن اینه که شما نمی‌تونید چند تا مسیر رو همزمان با هم مقایسه کنید.](https://t.me/Linuxor/5722) — `22:29 IRST` / `18:59 UTC`
   > یکی مشکلاتی که همه نقشه های مسیریاب دارن اینه که شما نمی‌تونید چند تا مسیر رو همزمان با هم مقایسه کنید.
 
 مثلاً دنبال خونه‌اید و چند تا گزینه دارید. می‌خواید ببینید از هر کدوم تا محل کار خودتون و همسرتون و مدرسهٔ بچه چقدر راهه. باید ده بار مسیریابی کنید و عددها رو یه جا یادداشت...
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [یکی از پروژه‌های جالب تو حوزه Generative UI، پروژه‌ی OpenUI از Thesys هستش. ایده‌ش اینه که خروجی هوش مصنوعی محدود به متن...](https://t.me/Linuxor/5721) — `22:14 IRST` / `18:44 UTC`
-  > یکی از پروژه‌های جالب تو حوزه Generative UI، پروژه‌ی OpenUI از Thesys هستش. ایده‌ش اینه که خروجی هوش مصنوعی محدود به متن نباشه و بتونه بر اساس درخواست کاربر، UIهایی مثل فرم، جدول، نمودار و داشبورد تولید کنه. یعنی به‌جای اینکه فقط درباره‌ی یه چیز توضیح بده، امکان نمایش اون در ق...
 
 ## اخبار و رسانه‌های فارسی (Persian News)
 
-- **`بی‌بی‌سی فارسی`** [عراقچی: ایران از روند سیاسی برای پایان درگیری عربستان و حوثی‌ها حمایت می‌کند](https://www.bbc.co.uk/persian/live/cqj9kvz0klg3t?at_medium=RSS&at_campaign=rss) — `01:34 IRST` / `22:04 UTC`
+- **`بی‌بی‌سی فارسی`** [سخنگوی سنتکام: بخش عمده حملات ایران در تنگه هرمز ناموفق بوده است](https://www.bbc.co.uk/persian/live/cqvgr35kjg1nt?at_medium=RSS&at_campaign=rss) — `04:15 IRST` / `00:45 UTC`
+  > ارتش آمریکا می‌گوید «بخش عمده‌ای» از حملات ایران به کشتی‌ها در تنگه هرمز «ناموفق» بوده است. تیم هاوکینز، سخنگوی فرماندهی مرکزی ارتش آمریکا (سنتکام) به فاکس نیوز گفت که «۹۷ درصد کشتی‌هایی که تلاش کرده‌اند از تنگه هرمز عبور کنند، بدون آن که هدف پرتابه‌های ایرانی قرار بگیرند، با ...
+
+  ![Media](../media/2026-10-18/0587812ca97302e5.jpg)
+- **`بی‌بی‌سی فارسی`** [آنچه گذشت: عراقچی: ایران از روند سیاسی برای پایان درگیری عربستان و حوثی‌ها حمایت می‌کند](https://www.bbc.co.uk/persian/live/cqj9kvz0klg3t?at_medium=RSS&at_campaign=rss) — `04:15 IRST` / `00:45 UTC`
   > وزیر امور خارجه ایران می‌گوید که تهران از یک «روند سیاسی فراگیر و جامع» برای حل درگیری میان عربستان سعودی و حوثی‌های یمن پشتیبانی می‌کند. عباس عراقچی در اجلاس سازمان همکاری اسلامی در بغداد تاکید کرد که این مساله راه حل نظامی ندارد. در هفته‌های اخیر درگیری حوثی‌های تحت حمایت ای...
+
+  ![Media](../media/2026-10-18/36fe95bb574530b5.jpg)
+- **`بی‌بی‌سی فارسی`** [اعتراضات در فرانسه به درگیری‌های خشونت‌آمیز، غارت و آتش‌زدن اماکن انجامید و بیش از هزار نفر بازداشت شدند](https://www.bbc.com/persian/articles/c6d937wj9vyyo?at_medium=RSS&at_campaign=rss) — `03:51 IRST` / `00:21 UTC`
+  > اعتراضات در فرانسه نسبت به کاهش خدمات عمومی و افزایش هزینه‌های زندگی به درگیری‌های خشونت‌آمیزی در شهرهای مختلف منجر شده است. در جریان اعتراضات روز شنبه که با حضور حدود ۵۵۰ هزار نفر برگزار شد، دست‌کم ۱۲۰۰ نفر بازداشت شدند.
+- **`بی‌بی‌سی فارسی`** [حمله شهرک‌نشینان اسرائیلی به دیپلمات‌های اروپایی در کرانه باختری](https://www.bbc.com/persian/articles/ckly0ny54517o?at_medium=RSS&at_campaign=rss) — `01:50 IRST` / `22:20 UTC`
+  > هیئتی از دیپلمات‌های اروپایی مورد حمله شهرک‌نشینان نقابدار اسرائیلی در کرانه باختری اشغالی قرار گرفتند.
+
+  ![Media](../media/2026-10-18/bc3ba7856856db17.jpg)
+- **`ایران اینترنشنال`** [گسترش اعتراضات در اروپا؛ فرانسه به صحنه شدیدترین شورش‌های سال‌های اخیر تبدیل شد](https://www.iranintl.com/202610177559) — `01:40 IRST` / `22:10 UTC`
+  > شهرهای مختلف فرانسه شنبه ۲۴ مهر صحنه تظاهرات علیه افزایش هزینه‌های زندگی و افت کیفیت خدمات عمومی بود که در برخی مناطق از کنترل خارج و به خشونت کشیده شد، خشونت‌هایی که از شدیدترین ناآرامی‌های چند دهه اخیر این کشور به شمار می‌روند.
+
+  ![Media](../media/2026-10-18/587793f29de846b0.jpg)
 - **`ایران اینترنشنال`** [خودروهای اجاره‌ای چینی به‌طور مخفیانه از یک رزمایش نظامی نروژ فیلم‌برداری کردند](https://www.iranintl.com/202610175325) — `00:35 IRST` / `21:05 UTC`
   > روزنامه نروژی «داگنس نارینگس‌لیو» (DN) شنبه ۲۴ مهر گزارش داد که در جریان یک رزمایش نیروهای دفاع سرزمینی نروژ، سربازان متوجه شدند خودروهای اجاره‌ای متعلق به یک شرکت چینی از آنها فیلم‌برداری و ویدیوها را ذخیره کرده‌اند.
-
-  ![Media](../media/2026-10-17/c00af9c210f8ed8a.jpg)
 - **`بی‌بی‌سی فارسی`** [انتخابات میان‌دوره‌ای آمریکا چیست و چرا اهمیت دارد؟](https://www.bbc.com/persian/articles/cqzjx4w9plg9o?at_medium=RSS&at_campaign=rss) — `00:25 IRST` / `20:55 UTC`
   > انتخابات سوم نوامبر که می‌تواند کنترل کنگره و مسیر ادامه ریاست‌جمهوری دونالد ترامپ را تحت تاثیر قرار دهد، یکی از مهم‌ترین رویدادهای سیاسی پیش روی آمریکا است.
-
-  ![Media](../media/2026-10-17/62b350042e07cd1e.jpg)
 - **`ایران اینترنشنال`** [ایران در اشغالِ مناسبات اشغالگرانه](https://www.iranintl.com/202610172615) — `23:51 IRST` / `20:21 UTC`
   > «می‌جنگیم، می‌میریم، ایران را پس می‌گیریم». این شعار در جریان انقلاب ملی ایران از دی‌ماه ۹۶ تا به کنون که در سال ۱۴۰۵ به سر می‌بریم بسیار شنیده می‌شود. اما از پس این عبارت، پرسشی بنیادین برجسته می‌شود: ایران را از چه کسی باید پس گرفت؟
-
-  ![Media](../media/2026-10-17/506766959285f2dc.jpg)
 - **`ایران اینترنشنال`** [امیلیانو مارتینز، دروازه‌بان چلسی و آرژانتین به دلیل آسیب استخوان فک جراحی خواهد شد](https://www.iranintl.com/202610176676) — `23:28 IRST` / `19:58 UTC`
   > گاستون ادول، خبرنگار آرژانتینی، گزارش داد امیلیانو مارتینز، دروازه‌بان چلسی و آرژانتین هوشیار است و آزمایش‌های سر، گردن و کمر او نتیجه خوبی داشته، اما دیبو از ناحیه استخوان فک آسیب دیده و تحت عمل جراحی قرار خواهد گرفت. مارتینز همچنان در بیمارستان بستری است.
-
-  ![Media](../media/2026-10-17/26d7301c341e953c.jpg)
 - **`ایران اینترنشنال`** [ساختار فرماندهی سرکوب؛ بخش پنجم گزارش آمران کشتار](https://www.iranintl.com/202610178293) — `22:50 IRST` / `19:20 UTC`
   > عصر روزهای پایان تابستان ۱۴۰۱. سرکوب خونین خیزش زن، زندگی، آزادی ادامه داشت. اما مردم سر باز ایستادن نداشتند. پنج روز پس از درگذشت ژینا مهسا امینی دستوری از بالاترین سطح فرماندهی نظامی جمهوری اسلامی صادر شد، از سامانه‌ ارتباطی پلیس گذشت و به کلانتری‌های محلی رسید.
-
-  ![Media](../media/2026-10-17/d87e5c539a78e1a5.jpg)
 - **`دویچه‌وله فارسی`** [افزایش خشونت در اعتراضات شهرهای فرانسه؛ از پاریس تا لیون و مارسی](https://www.dw.com/fa-ir/افزایش-خشونت-در-اعتراضات-شهرهای-فرانسه؛-از-پاریس-تا-لیون-و-مارسی/a-79689708?maca=per-rss-per-all-1491-xml-mrss) — `22:37 IRST` / `19:07 UTC`
   > فرانسه بار دیگر شاهد اعتراضات گسترده به افزایش هزینه‌های زندگی بود. همزمان با احیای جنبش "جلیقه‌زردها"، درگیری معترضان با پلیس در پاریس و چند شهر دیگر به آتش‌سوزی، غارت و صدها بازداشت انجامید.
 - **`ایران اینترنشنال`** [بایرن مونیخ ۶-۱ لایپزیگ؛ تحقیر به شیوه کمپانی، با هت‌تریک لوییس دیاز](https://www.iranintl.com/202610173873) — `22:19 IRST` / `18:49 UTC`
@@ -147,11 +143,6 @@
   > نظرسنجی شبکه کان‌نیوز نشان می‌دهد نه ائتلاف بنیامین نتانیاهو و نه احزاب مخالف او، هیچ‌کدام به اکثریت ۶۱ کرسی لازم برای تشکیل دولت برخوردار از حمایت اکثریت پارلمان، دست نمی‌یابند. در این میان، حزب «یاشار» به رهبری گادی آیزنکوت، به بزرگ‌ترین حزب در این نظرسنجی تبدیل شده است.
 - **`ایران اینترنشنال`** [بولونیا ۱-۳ اینتر؛ کامبک نراتزوری برای حفظ صدرنشینی در سری آ](https://www.iranintl.com/202610171638) — `21:27 IRST` / `17:57 UTC`
   > تیم فوتبال اینتر در هفته هفتم سری آ با نتیجه ۳ بر ۱ بولونیا را در ورزشگاه دال‌آرا شکست داد. بولونیا با گل پوبگا پیش افتاد، اما اینتر با گل‌های تورام، کارلوس آگوستو و بونی نتیجه را برگرداند و در غیاب لائوتارو مارتینز به پیروزی رسید.
-- **`بی‌بی‌سی فارسی`** [درگیری معترضان در پاریس و سایر شهرهای فرانسه با پلیس؛ صدها نفر بازداشت شدند](https://www.bbc.com/persian/articles/c6d937wj9vyyo?at_medium=RSS&at_campaign=rss) — `21:10 IRST` / `17:40 UTC`
-  > اعتراضات در فرانسه نسبت به کاهش خدمات عمومی و افزایش هزینه‌های زندگی به درگیری‌های خشونت‌آمیزی در شهرهای مختلف منجر شده است.
-معترضان نقاب‌دار با نیروهای پلیس درگیر شده‌اند و درگیری‌ها در پاریس، پایتخت و دیگر شهرها شدت گرفته است.
-- **`ایران اینترنشنال`** [صنعت نفت آبادان ۲-۱ آلومینیوم اراک؛ آبادانی‌‌ها با تغییر سرمربی به نخستین برد فصل رسیدند](https://www.iranintl.com/202610173815) — `21:04 IRST` / `17:34 UTC`
-  > تیم فوتبال صنعت نفت آبادان در هفته نهم لیگ برتر، آلومینیوم اراک را با نتیجه دو بر یک شکست داد. این نخستین برد صنعت نفت در لیگ برتر است. تا پیش از این نفت در ۸ بازی، ۴ مساوی و ۴ باخت داشت.
 - **`رادیو فردا`** [وزارت خارجه ایران با تأیید توقف مراودات تجاری مرزی با پاکستان، آن را «موقت» خواند](https://www.radiofarda.com/a/iran-s-exports-to-pakistan-temporarily-halted/33878518.html) — `19:45 IRST` / `16:15 UTC`
   > .
 - **`دویچه‌وله فارسی`** [تلاش برای محدود کردن اختیارات دولت آمریکا در کنترل هوش مصنوعی](https://www.dw.com/fa-ir/تلاش-برای-محدود-کردن-اختیارات-دولت-آمریکا-در-کنترل-هوش-مصنوعی/a-79688399?maca=per-rss-per-all-1491-xml-mrss) — `19:34 IRST` / `16:04 UTC`
@@ -160,14 +151,13 @@
   > نخست‌وزیر ایالت نوردراین-وستفالن، نسبت به قدرت‌گیری احزاب افراطی چپ و راست در آلمان هشدار داد. او حزب چپ را به نفوذ یهودستیزی متهم کرد و حزب آلترناتیو برای آلمان را متحد دشمنان اروپا خواند.
 - **`رادیو فردا`** [فرمانده سنتکام:‌ طی هفته اخیر ۴۰۰ کشتی و ۱۰۰ میلیون بشکه نفت از تنگۀ هرمز عبور کردند](https://www.radiofarda.com/a/centcom-commander-gives-update-on-strait-of-hormuz/33878463.html) — `16:10 IRST` / `12:40 UTC`
   > .
-- **`بی‌بی‌سی فارسی`** [کناره‌گیری زودهنگام کیتی زکریا؛ سخنگویی که در روزهای حساس ترامپ ناکام ماند](https://www.bbc.com/persian/articles/cmglwz33rpy5o?at_medium=RSS&at_campaign=rss) — `16:06 IRST` / `12:36 UTC`
-  > کیتی زکریا، تنها پنج روز پس از نخستین حضور نه‌چندان موفق خود در برابر رسانه‌ها، اعلام کرد که از سمت سخنگوی مطبوعاتی کاخ سفید کناره‌گیری می‌کند.
-سمت سخنگوی مطبوعاتی کاخ سفید، حتی در بهترین شرایط شغلی دشوار است. اما شرایط این بار از بهترین حالت ممکن فاصله زیادی داشت.
-- **`رادیو فردا`** [درگیری و بازداشت در اعتراضات سراسری فرانسه؛ جلیقه‌زردها بار دیگر به خیابان آمدند](https://www.radiofarda.com/a/france-cost-of-living-protests-yellow-vests-police-clashes/33878459.html) — `15:54 IRST` / `12:24 UTC`
-  > اعتراضات سراسری به گرانی و کاهش کیفیت خدمات عمومی در فرانسه با درگیری معترضان و نیروهای پلیس در پاریس و مارسی، استفاده از گاز اشک‌آور و بازداشت ده‌ها نفر همراه شد.
 
 ## خبرگزاری‌های بین‌المللی (Global Wire)
 
+- **`Reuters Wire`** [Vehicle drives through Kansas soccer game, killing two, including a child, police say - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5) — `01:40 IRST` / `22:10 UTC`
+  > Vehicle drives through Kansas soccer game, killing two, including a child, police say    Reuters
+- **`AP News Wire`** [No Kings rallies across US urge voters to cast ballots early ahead of midterms - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSU9QdGhLZXFkak1MT3B1b3RBZlVIT3gzNEZheTFHNi1hTFpBUjZGcHVkQWhsTjFSRmJsX1RXbklDRUJ0M3dfcklfREZaYUxQWWhqNTZKWmFDZVhEMGZzd3VpLWZ0OG5zY2NIazNGbUpPQXlFc3ItM2p0akRqbkRXSF9oUnVQWHZpZlZuVWtsaw?oc=5) — `23:22 IRST` / `19:52 UTC`
+  > No Kings rallies across US urge voters to cast ballots early ahead of midterms    AP News
 - **`Reuters Wire`** [Italian police clash with protesters in Milan and Bologna - Reuters](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcEpOU0pkZXEtTWhtSDFpMEZCT01yeno3N3ViQVBwMXJRbkRvU0lldzYwSEJVbkhrVEpPV3FIdU5nYjBJa3FpeThOX2Q2QnZIS0w5Y2JscG8zLXhUTDdlc05WZzUwcldlUHJHc1oyRlZSeTlfU3J3dTg5T2l5NnpzcHlwMUNLeVNxRmJveW9OclJpUXVkSmc?oc=5) — `21:57 IRST` / `18:27 UTC`
   > Italian police clash with protesters in Milan and Bologna    Reuters
 - **`Reuters Wire`** [Injured Swiatek goes down fighting in Wuhan Open semi-final - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWFMdE8waHNobEdaMlNJNGtCclJHSk0xb0tMMGx5T3ZQTFRsbTV3NEh6RzZqR3J5WHJlRjNMYzlteEpITVhBWWk0QW1VaFktQjhnQ0phdjZSS3Y0NzIzZk1pZXpvSV84dS1pQ09OMjlzRXNNM2ozUFU1TEtvdldoQzdqRmVOWEY0a2dmQVpfR283Y2R0cHVHc3FVc0QzMlNJUTg2X1RzV1Nrdw?oc=5) — `21:57 IRST` / `18:27 UTC`
@@ -184,57 +174,48 @@
   > Protesters clash with police in Brussels    Reuters
 - **`Reuters Wire`** [Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ013QTYtQ0JudFVITVllWWh1Y3Y4WXVXOW80UmlXbEw1YXcxSG5RUkc4djV1X255M3BrWFl1ektoZU5vS1pMYzd4MW5jQ19wS3o4NEFDdHEyT3BsdGl6dDRTNXRDTGVKUnFlVkxSamlaVXRRaGhCeTBCblhQaDZUbHh2TlFRbHYzWUQtODRtVDFjdGlyRUxJR3A1OGdXWU1NalRGRnlhTExDbktfdHpWMmpoY1ZpdTlacmtiN0o1TEJaZ28?oc=5) — `17:53 IRST` / `14:23 UTC`
   > Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked    Reuters
-- **`Reuters Wire`** [Hurricane Trudy threatens western Mexico with heavy rain, coastal flooding - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5) — `17:34 IRST` / `14:04 UTC`
-  > Hurricane Trudy threatens western Mexico with heavy rain, coastal flooding    Reuters
 - **`Reuters Wire`** [Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWJaVEpSZWhMYmlHSWRXQzVMdzdYcTNhWHUyekU3djBGWFk1aEI4NTRqVnZTUURaZWFMZUhicERRQXFYQXRKNHRJUGhXaE5WVzl0WUg3UC1SS29UQ0I4YkRydFZzZjU0azhxd1VPa2p0UXRhLWJkRkJzdUJiMGNLenA5TmJoTVozMjVUa0ZHaWFpQ0xiVkZUdjQwRWptSW5lQ0Y3c1hWSEc3YmVoSTVJa0pTUHBTdkZXaVhUMFgwTk5UZw?oc=5) — `16:51 IRST` / `13:21 UTC`
   > Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says    Reuters
 - **`AP News Wire`** [Coastal homes burn as hot winds fuel California fires - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5) — `09:06 IRST` / `05:36 UTC`
   > Coastal homes burn as hot winds fuel California fires    AP News
-- **`AP News Wire`** [Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - AP News](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5) — `06:48 IRST` / `03:18 UTC`
-  > Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest    AP News
 
 ## فناوری و امنیت سایبری (Tech & Open Source)
 
+- **`Hacker News`** [JDK 28](https://openjdk.org/projects/jdk/28/) — `01:07 IRST` / `21:37 UTC`
+  > Article URL: https://openjdk.org/projects/jdk/28/ 
+ Comments URL: https://news.ycombinator.com/item?id=50135379 
+ Points: 40 
+ # Comments: 18
 - **`Hacker News`** [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/) — `23:37 IRST` / `20:07 UTC`
   > Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ 
  Comments URL: https://news.ycombinator.com/item?id=50134617 
- Points: 45 
- # Comments: 37
-- **`Hacker News`** [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise) — `22:15 IRST` / `18:45 UTC`
+ Points: 74 
+ # Comments: 73
+- **`Hacker News`** [Microsoft and CMU team up to train early career software engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise) — `22:15 IRST` / `18:45 UTC`
   > Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise 
  Comments URL: https://news.ycombinator.com/item?id=50133830 
- Points: 34 
- # Comments: 29
-- **`Hacker News`** [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative) — `22:04 IRST` / `18:34 UTC`
-  > Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative 
- Comments URL: https://news.ycombinator.com/item?id=50133736 
- Points: 28 
- # Comments: 15
+ Points: 56 
+ # Comments: 65
 - **`Hacker News`** [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833) — `21:31 IRST` / `18:01 UTC`
   > Article URL: https://twitter.com/opencode/status/2111516673953935833 
  Comments URL: https://news.ycombinator.com/item?id=50133401 
- Points: 534 
- # Comments: 91
-- **`Hacker News`** [Codex is EATING my Mac's disk space](https://github.com/openai/codex/issues/25921) — `21:15 IRST` / `17:45 UTC`
+ Points: 715 
+ # Comments: 121
+- **`Hacker News`** [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921) — `21:15 IRST` / `17:45 UTC`
   > Article URL: https://github.com/openai/codex/issues/25921 
  Comments URL: https://news.ycombinator.com/item?id=50133231 
- Points: 26 
- # Comments: 13
+ Points: 59 
+ # Comments: 25
 - **`Hacker News`** [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural) — `21:06 IRST` / `17:36 UTC`
   > Article URL: https://www.derekwessman.com/blog-1/natural 
  Comments URL: https://news.ycombinator.com/item?id=50133150 
- Points: 93 
- # Comments: 28
-- **`Hacker News`** [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/) — `20:44 IRST` / `17:14 UTC`
-  > Article URL: https://lwn.net/Articles/1088776/ 
- Comments URL: https://news.ycombinator.com/item?id=50132950 
- Points: 112 
- # Comments: 90
+ Points: 135 
+ # Comments: 56
 - **`Hacker News`** [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export) — `20:36 IRST` / `17:06 UTC`
   > Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export 
  Comments URL: https://news.ycombinator.com/item?id=50132870 
- Points: 145 
- # Comments: 81
+ Points: 210 
+ # Comments: 114
 - **`Hacker News`** [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers) — `20:32 IRST` / `17:02 UTC`
   > Article URL: https://www.artie.com/careers 
  Comments URL: https://news.ycombinator.com/item?id=50132839 
@@ -243,8 +224,13 @@
 - **`Hacker News`** [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) — `19:25 IRST` / `15:55 UTC`
   > Article URL: https://pele.run/ 
  Comments URL: https://news.ycombinator.com/item?id=50132193 
- Points: 129 
- # Comments: 15
+ Points: 210 
+ # Comments: 24
+- **`Hacker News`** [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) — `17:31 IRST` / `14:01 UTC`
+  > Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ 
+ Comments URL: https://news.ycombinator.com/item?id=50131256 
+ Points: 459 
+ # Comments: 301
 
 ---
 📂 [آرشیو ۳۰ دقیقه‌ای اخبار](../index.md) | 🌐 [مشاهده نسخه تحت وب سبک](../public/index.html)
