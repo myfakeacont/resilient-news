@@ -1,6 +1,6 @@
 # ⚡ آخرین اخبار و رویدادهای لحظه‌ای (Latest Rolling News)
 
-**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-18 23:55 IRST` | `2026-10-18 20:25 UTC`
+**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-19 02:24 IRST` | `2026-10-18 22:54 UTC`
 
 پایگاه خبری چندرسانه‌ای تاب‌آور. متن سبک و تصاویر محلی فشرده برای دسترسی حداکثر سرعت در شرایط اختلال اینترنت.
 
@@ -8,6 +8,8 @@
 
 ## توییتر و شبکه اکس (X / Twitter Intelligence)
 
+- **`@souzangar (پوریا سوزنگر (امنیت و شبکه))`** [باید در این مورد یک ویدیو بسازم و بگم چه خبره - X](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50dlBxaU1VU3BjNWdQTkxWRzlOZ09KdHB5c1F0SXk4ZTBYRXBQWXZzUDdDaHBLY24yZ21CY252dnNOdUpwSFV1M0NzM3owYk93aTRYVDJ4TTdqWHl0X0hN?oc=5) — `11:20 IRST` / `07:50 UTC`
+  > باید در این مورد یک ویدیو بسازم و بگم چه خبره    X
 - **`@MatinSenPai (متین سنپای (فناوری و دور زدن))`** [اگر روی 9Router ارور HTTP 403: [403]: {"type":"error","error":{"type":"FreeTierError","message":"Error from provider (Console): OpenCode's free tier can only be used from within OpenCode"}} می‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست. برای آپدیت - X](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OT3BHUFhURGY2UzZSRzhmWHBoX0FBOE5kcFNpek1ocHdfd0YwZDhxeHA3dFNXQTRILTRQbUJtYUlFOW05Ym1qeFZFaDRySnlodEdiVXFyQlZKREwwcVJaM2xB?oc=5) — `00:31 IRST` / `21:01 UTC`
   > اگر روی 9Router ارور HTTP 403: [403]: {"type":"error","error":{"type":"FreeTierError","message":"Error from provider (Console): OpenCode's free tier can only be used from within OpenCode"}} می‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست. برای آپدیت    X
 - **`@USABehFarsi (وزارت خارجه آمریکا به فارسی)`** [اول آمریکا. همیشه. - X](https://news.google.com/rss/articles/CBMibEFVX3lxTE1BTkdHZVlKYkNyUGo3em1ScHpxSlpNVHdqb2NmWHVEanZSY3BvVzl3WDJRNHVVcG5pNE5qek5QcW9lOEtnQTBPWXVLdHZWUDBWRXhNbmxWbUlKaDVQNkVoSGpSZk5FYWxYVGp4cQ?oc=5) — `23:00 IRST` / `19:30 UTC`
@@ -30,11 +32,87 @@
   > https://t.co/JzlnKAwBWK    X
 - **`@tom_doerr`** [Self-hosted web UI for yt-dlp to download and convert videos and audio from over 1000 supported sites including YouTube, TikTok, and Twitter. https://t.co/l7AyHIMoNt - X](https://news.google.com/rss/articles/CBMiakFVX3lxTE1uRDIwaGZ3YTJCdHZPQkNwS1ZnaWhNOGlkNUphRnlscjVKV25sSHphYW1OSDgyVzVPRnA2MG5NV1VFX1VWbGJKeDNHcFBPVklKRWl5OV81SVRwQXlCZ1JOMjhTUmhXSnctWHc?oc=5) — `10:30 IRST` / `07:00 UTC`
   > Self-hosted web UI for yt-dlp to download and convert videos and audio from over 1000 supported sites including YouTube, TikTok, and Twitter. https://t.co/l7AyHIMoNt    X
-- **`@souzangar (پوریا سوزنگر (امنیت و شبکه))`** [BGP ipv6 link local unnumbered - X](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Kd1ZfZlk4ZFFfS0lJVUdXRUR5bVJZNzB2RHJoQ0JIY1lHODlBSGNmUFNWOHJ3eUtqcnFxVy1vSGE1VDlWMnFGdXNxSVBIMFJsNF91a3IxS1dZc1lxWnlR?oc=5) — `10:30 IRST` / `07:00 UTC`
-  > BGP ipv6 link local unnumbered    X
 
 ## کانال‌های منتخب تلگرام (Telegram Monitoring)
 
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [شاهزاده رضا پهلوی از ایرانیان ساکن آمریکا و شهروندان آمریکایی خواست در انتخابات ماه نوامبر شرکت کنند و موضوع آزادی ایران...](https://t.me/IranintlTV/362899) — `02:01 IRST` / `22:31 UTC`
+  > شاهزاده رضا پهلوی از ایرانیان ساکن آمریکا و شهروندان آمریکایی خواست در انتخابات ماه نوامبر شرکت کنند و موضوع آزادی ایران را در تصمیم‌گیری انتخاباتی خود در نظر بگیرند. او تاکید کرد ایران آزاد می‌تواند به امنیت و اقتصاد آمریکا و ثبات جهانی کمک کند.
+
+نوید محبی، تحلیل‌گر سیاسی، گف...
+
+  ![Media](../media/2026-10-18/44dd9151d220d390.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «در تهران رفتار مقامات زنده شبیه به رفتار مقامات مرده است. آن‌ها رجز خوا...](https://t.me/IranintlTV/362898) — `01:53 IRST` / `22:23 UTC`
+  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «در تهران رفتار مقامات زنده شبیه به رفتار مقامات مرده است. آن‌ها رجز خواندند و کشته شدند. مقامات جدید هم رجز می‌خوانند و احتمالا کشته می‌شوند. امروز مهرداد اخلاقی رای اعتماد مجلس را گرفت و رسما وزیر دفاع جمهوری اسلامی شد. او از ه...
+
+  ![Media](../media/2026-10-18/713ec022b513f34e.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ، رییس‌جمهوری آمریکا، ۹ روز مانده به انتخابات اسرائیل، با اعلام حمایت کامل از بنیامین نتانیاهو، ادامه همکاری...](https://t.me/IranintlTV/362897) — `01:50 IRST` / `22:20 UTC`
+  > دونالد ترامپ، رییس‌جمهوری آمریکا، ۹ روز مانده به انتخابات اسرائیل، با اعلام حمایت کامل از بنیامین نتانیاهو، ادامه همکاری با او برای مقابله با جمهوری اسلامی را ضروری خواند و هشدار داد اگر تهران رفتار خود را تغییر ندهد، آمریکا برای «تمام کردن کار» اقدام خواهد کرد.
+
+نتانیاهو نیز ...
+
+  ![Media](../media/2026-10-18/af34b4979a7e62c7.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ، رییس‌جمهوری آمریکا، گفت روسیه در مقایسه با توانایی‌هایش کمک بسیار اندکی به جمهوری اسلامی می‌کند و او می‌خو...](https://t.me/IranintlTV/362896) — `01:37 IRST` / `22:07 UTC`
+  > دونالد ترامپ، رییس‌جمهوری آمریکا، گفت روسیه در مقایسه با توانایی‌هایش کمک بسیار اندکی به جمهوری اسلامی می‌کند و او می‌خواهد این وضعیت حفظ شود. 
+
+ترامپ در عین حال افزود که قصد ندارد با اقداماتی که مسکو را از میز مذاکرات صلح اوکراین دور می‌کند، به روند مذاکرات آسیب بزند.
+
+ترامپ ...
+
+  ![Media](../media/2026-10-18/754a71afbae2518d.jpg)
+- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [‏ نسخهٔ macOS هم اومد 💻](https://t.me/MatinSenPaii/5613) — `01:25 IRST` / `21:55 UTC`
+  > ‏ نسخهٔ macOS هم اومد 💻 
+
+‏آپدیت مک تأیید اپل رو گرفت و حالا روی TestFlight در دسترسه.
+
+‏اپ CoreForge نسخهٔ macOS — نصب 
+
+‏ @coreforgeios
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نتانیاهو با اعلام دکترین امنیتی جدید اسرائیل گفت من به نهادهای امنیتی و...](https://t.me/IranintlTV/362895) — `01:20 IRST` / `21:50 UTC`
+  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نتانیاهو با اعلام دکترین امنیتی جدید اسرائیل گفت من به نهادهای امنیتی و اطلاعاتی دستور داده‌ام که جمهوری اسلامی را سرنگون کنند. این آشکارترین رویارویی تاریخی اسرائیل با جمهوری اسلامی در ۴۸ سال گذشته است.»
+ @iranintltv
+
+  ![Media](../media/2026-10-18/2d2aacc301ff3c92.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نتانیاهو با اعلام دکترین امنیتی جدید اسرائیل گفت من به نهادهای امنیتی و...](https://t.me/IranintlTV/362894) — `01:19 IRST` / `21:49 UTC`
+  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نتانیاهو با اعلام دکترین امنیتی جدید اسرائیل گفت من به نهادهای امنیتی و اطلاعاتی دستور داده‌ام که جمهوری اسلامی را سرنگون کنند. این آشکارترین رویارویی تاریخی اسرائیل با جمهوری اسلامی در چهل و هشت سال گذشته است.»
+ @iranintltv
+
+  ![Media](../media/2026-10-18/d2a5422e836e6c53.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️تیم فوتبال رئال مادرید در هفته نهم لالیگا با دبل کیلیان امباپه و گل‌های آردا گولر و یان دیومانده سویا را با نتیج...](https://t.me/IranintlTV/362893) — `01:18 IRST` / `21:48 UTC`
+  > 🔻️ ️️️️️تیم فوتبال رئال مادرید در هفته نهم لالیگا با دبل کیلیان امباپه و گل‌های آردا گولر و یان دیومانده سویا را با نتیجه چهار بر یک شکست داد. تیم مورینیو با این برد، ۲۱ امتیازی شد و در رده سوم جدول باقی‌ماند. نکته اینکه در پیروزی خانگی رئال مادرید جای خالی وینیسیوس احساس نشد....
+
+  ![Media](../media/2026-10-18/545b34568fea5c05.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 درحالی دیدار ملوان و تراکتور از هفته نهم لیگ برتر فوتبال ایران به دلیل شعارهای تماشاگران برگزار نشد که روایت‌ها از دلا...](https://t.me/IranintlTV/362892) — `01:15 IRST` / `21:45 UTC`
+  > 🔻 درحالی دیدار ملوان و تراکتور از هفته نهم لیگ برتر فوتبال ایران به دلیل شعارهای تماشاگران برگزار نشد که روایت‌ها از دلایل این اتفاق و همچنین رای نهایی، متناقض است. 
+
+ 🔹 گفتگوی مزدک میرزایی با محمد تقوی در برنامه هت‌تریک
+
+ 🔹️ ️️️️️تماشای نسخه کامل هت‌تریک؛ 👇️ ️️️️️
+ https://yo...
+
+  ![Media](../media/2026-10-18/b797bbb51c8d5c0e.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 بازیکنان تیم فوتبال تراکتور پس از شعارهای تماشاگران در ورزشگاه سیروس قایقران انزلی و تنش‌هایی که پیش از آغاز مسابقه ای...](https://t.me/IranintlTV/362891) — `01:15 IRST` / `21:45 UTC`
+  > 🔻 بازیکنان تیم فوتبال تراکتور پس از شعارهای تماشاگران در ورزشگاه سیروس قایقران انزلی و تنش‌هایی که پیش از آغاز مسابقه ایجاد شد، در مراسم پیش از بازی شرکت کردند، اما سپس زمین را ترک کردند و مسابقه در نهایت برگزار نشد.
+
+ 🔹 گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در هت‌تریک...
+
+  ![Media](../media/2026-10-18/7618058324393a46.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوهای منتشرشده در شبکه‌های اجتماعی از تخریب کافه‌های بلوار ساحلی خرمشهر در حاشیه رود کارون حکایت دارد. کافه کورنیش، ک...](https://t.me/IranintlTV/362890) — `01:09 IRST` / `21:39 UTC`
+  > ویدیوهای منتشرشده در شبکه‌های اجتماعی از تخریب کافه‌های بلوار ساحلی خرمشهر در حاشیه رود کارون حکایت دارد. کافه کورنیش، کافه لیوان و کافه توت‌فرنگی از جمله مکان‌های تخریب‌شده‌ هستند.
+ @iranintltv
+
+  ![Media](../media/2026-10-18/68cfc2fd4bc16823.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [پیام‌های دریافتی:](https://t.me/VahidOnline/78762) — `00:31 IRST` / `21:01 UTC`
+  > پیام‌های دریافتی:
+
+سلام وحید جان چند صدا اومد سمت کنارک
+
+صدای دو انفجار همین الان کنارک
+
+کنارک ۰۰:۲۹ دوتا صدای انفجار اومد
+
+ 📡 @VahidOnline
+- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [راستی اینم بگم که با سطح Reasoning High نوشتم. که Low و High و Max داره و میتونید کلا Off هم کنید](https://t.me/MatinSenPaii/5612) — `00:15 IRST` / `20:45 UTC`
+- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [این هم هزینه و توکن دقیق و Cache hit](https://t.me/MatinSenPaii/5611) — `00:05 IRST` / `20:35 UTC`
 - **`@VahidOnline (وحید آنلاین)`** [سخنرانی مکرون، ترجمه ماشین](https://t.me/VahidOnline/78761) — `23:46 IRST` / `20:16 UTC`
   > سخنرانی مکرون، ترجمه ماشین
 
@@ -42,99 +120,32 @@
 کسانی هستند که به‌حق احساس می‌کنند قیمت سوخت بیش از حد بالا رفته است؛ قیمتی که به‌دلیل آنچه در خلیج فارس رخ داده، افزایش یافته است؛ جنگی که فرانسه در آن مشارکت نداشت.
 این نارضایتی در دیگر پایتخت‌های اروپا نیز ابراز می‌شود...
 
-  ![Media](../media/2026-10-18/ee9dcfb0ba8d304c.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی](https://t.me/IranintlTV/362884) — `23:42 IRST` / `20:12 UTC`
-  > 🎧 نسخه صوتی چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی
- @iranintlTV
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم بریتانیا یکشنبه ۲۶ مهر علیه جمهوری اسلامی در شهر شفی...](https://t.me/IranintlTV/362883) — `23:30 IRST` / `20:00 UTC`
-  > ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم بریتانیا یکشنبه ۲۶ مهر علیه جمهوری اسلامی در شهر شفیلد تجمع برگزار کردند.
-
-  ![Media](../media/2026-10-18/1901977e44727bf7.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [احمد علوی، استاد دانشگاه و اقتصاددان، گفت مقام‌های جمهوری اسلامی با نسبت دادن مشکلات اقتصادی به تحریم‌ها، آمریکا و اسرائ...](https://t.me/IranintlTV/362882) — `23:29 IRST` / `19:59 UTC`
-  > احمد علوی، استاد دانشگاه و اقتصاددان، گفت مقام‌های جمهوری اسلامی با نسبت دادن مشکلات اقتصادی به تحریم‌ها، آمریکا و اسرائیل، تلاش می‌کنند از پذیرش مسوولیت سیاست‌های خود شانه خالی کنند. به گفته او، فقر، بیکاری، کاهش قدرت خرید و تبعیض پیش از جنگ نیز وجود داشته و اکنون تشدید شده ا...
-
-  ![Media](../media/2026-10-18/f4eeded5eb034dae.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [عرفان قانعی‌فرد، تحلیل‌گر مسائل خاورمیانه، گفت سیاست‌های منطقه‌ای جمهوری اسلامی برخلاف هدف تهران برای منزوی کردن اسرائیل...](https://t.me/IranintlTV/362881) — `23:26 IRST` / `19:56 UTC`
-  > عرفان قانعی‌فرد، تحلیل‌گر مسائل خاورمیانه، گفت سیاست‌های منطقه‌ای جمهوری اسلامی برخلاف هدف تهران برای منزوی کردن اسرائیل، باعث شده کشورهای عربی، به‌ویژه کشورهای حوزه خلیج فارس، به همکاری امنیتی و اطلاعاتی با اسرائیل برای مقابله با تهدیدهای مشترک روی بیاورند.
-
-او افزود این همگر...
-
-  ![Media](../media/2026-10-18/2c72a3f406a043ab.jpg)
-- **`@VahidOnline (وحید آنلاین)`** [علی عبدالهی، رئیس ستاد کل نیروهای مسلح و فرمانده قرارگاه مرکزی خاتم‌الانبیاء، روز یکشنبه ۲۶ مهر ماه در پیامی خطاب به آمر...](https://t.me/VahidOnline/78760) — `23:06 IRST` / `19:36 UTC`
-  > علی عبدالهی، رئیس ستاد کل نیروهای مسلح و فرمانده قرارگاه مرکزی خاتم‌الانبیاء، روز یکشنبه ۲۶ مهر ماه در پیامی خطاب به آمریکا و اسرائیل گفت ایران برای «تصمیم‌های احمقانه» آن‌ها لحظه‌شماری می‌کند.
-
-عبداللهی در پیامی که در رسانه‌های رسمی جمهوری اسلامی منتشر شده است، نوشت: «شعارهای...
-
-  ![Media](../media/2026-10-18/3a7fed9babf402db.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [پرواز شرکت هواپیمایی آسترین ایرلاینز از تل‌آویو به وین، شامگاه یکشنبه ۲۶ مهر پس از دریافت گزارشی درباره وجود شی مشکوک در...](https://t.me/IranintlTV/362880) — `22:53 IRST` / `19:23 UTC`
-  > پرواز شرکت هواپیمایی آسترین ایرلاینز از تل‌آویو به وین، شامگاه یکشنبه ۲۶ مهر پس از دریافت گزارشی درباره وجود شی مشکوک در هواپیما، در صوفیه، پایتخت بلغارستان، فرود آمد.
-
-مسافران این پرواز به وب‌سایت وای‌نت گفتند به آن‌ها گفته شده است که «گزارشی ناشناس درباره وجود شی مشکوک در هو...
-
-  ![Media](../media/2026-10-18/c52c746fbdd4d0ef.jpg)
-- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [این ویدئو رو با مدل Deepseek V4.1 Flash 1017 توی خود Deepseek Harness ساختم. بدون راهنمایی یا ابزار خاصی. دقیقا مثل کاری...](https://t.me/MatinSenPaii/5609) — `22:46 IRST` / `19:16 UTC`
-  > این ویدئو رو با مدل Deepseek V4.1 Flash 1017 توی خود Deepseek Harness ساختم. بدون راهنمایی یا ابزار خاصی. دقیقا مثل کاری که با Opus 5.5 انجام دادیم. وان شات و هزینه؟ فقط $0.14 با Cache hit فوق‌العاده‌ی 99 درصد نکته‌ی خارق‌العاده اما هزینه یا Cache hit نیست.…
-
-  ![Media](../media/2026-10-18/076566ee72270565.jpg)
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [هکرها ماه‌ها با استفاده از کدهایی که هوش مصنوعی نوشته بود، سرورهای لینوکسی دولتی آمریکایی رو زیر نظر داشتن و طبق گزارش ش...](https://t.me/Linuxor/5738) — `22:44 IRST` / `19:14 UTC`
-  > هکرها ماه‌ها با استفاده از کدهایی که هوش مصنوعی نوشته بود، سرورهای لینوکسی دولتی آمریکایی رو زیر نظر داشتن و طبق گزارش شرکت امنیتی Unit 42، چت‌های هوش مصنوعی رو هم پشت سرشون باقی گذاشتن.
-یه پنجره جعلی برای وارد کردن رمز عبور sudo ساخته بودن که رمزهای عبور مدیر سیستم رو توی یه ...
-
-  ![Media](../media/2026-10-18/d582187fd31f6be8.jpg)
-- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [این ویدئو رو با مدل Deepseek V4.1 Flash 1017 توی خود Deepseek Harness ساختم.](https://t.me/MatinSenPaii/5608) — `22:41 IRST` / `19:11 UTC`
-  > این ویدئو رو با مدل Deepseek V4.1 Flash 1017 توی خود Deepseek Harness ساختم. 
-بدون راهنمایی یا ابزار خاصی. دقیقا مثل کاری که با Opus 5.5 انجام دادیم . وان شات
-و هزینه؟ فقط $0.14
-با Cache hit فوق‌العاده‌ی 99 درصد
-نکته‌ی خارق‌العاده اما هزینه یا Cache hit نیست. بلکه تناسب هزینه،...
-
-  ![Media](../media/2026-10-18/9d2e4e5326835f14.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی رسیده به ایران‌اینترنشنال، برگزاری مراسم زادروز و گلباران مزار جاویدنام فرهاد مینا را نشان می‌دهد. این معترض ۳۷ س...](https://t.me/IranintlTV/362879) — `22:33 IRST` / `19:03 UTC`
-  > ویدیوی رسیده به ایران‌اینترنشنال، برگزاری مراسم زادروز و گلباران مزار جاویدنام فرهاد مینا را نشان می‌دهد. این معترض ۳۷ ساله، ۱۹ دی‌ ۱۴۰۴ در مشهد کشته شد.
-
-  ![Media](../media/2026-10-18/3723a842ae058400.jpg)
-- **`@ircfspace (پایگاه کلودفلر و پروکسی IRCF)`** [فالس‌نیوز به نقل از یک عضو هیئت‌رئیسه مجلس اعلام کرده، که ۲۵ نماینده بدلیل نداشتن دسترسی به اینترنت نتونستن در رأی‌گیری ...](https://t.me/ircfspace/2679) — `22:30 IRST` / `19:00 UTC`
-  > فالس‌نیوز به نقل از یک عضو هیئت‌رئیسه مجلس اعلام کرده، که ۲۵ نماینده بدلیل نداشتن دسترسی به اینترنت نتونستن در رأی‌گیری الکترونیکی اعتماد به وزیر پیشنهادی دفاع شرکت کنن! 😄 
-
- 🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ 
- @ircfspace
-
-  ![Media](../media/2026-10-18/728aa6c1cebee71a.jpg)
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [شرکت‌ها: «هوش مصنوعی قراره جای برنامه‌نویس‌ها رو بگیره.»](https://t.me/Linuxor/5737) — `22:29 IRST` / `18:59 UTC`
-  > شرکت‌ها: «هوش مصنوعی قراره جای برنامه‌نویس‌ها رو بگیره.»
-
-برنامه‌نویس‌ها: «چه عالی! ما هم از هوش مصنوعی استفاده می‌کنیم تا محصولات شما رو جایگزین کنیم!» 
-
- @Linuxor ~ twtayaan
-
-  ![Media](../media/2026-10-18/97a0cdb16a1514d7.jpg)
-- **`@ircfspace (پایگاه کلودفلر و پروکسی IRCF)`** [در یک پرونده قضایی در آمریکا که مربوط به اتهام حمایت از یک سازمان تروریستی خارجی و تقلب ویزایی بوده، اطلاعات یک کاربر تل...](https://t.me/ircfspace/2678) — `22:24 IRST` / `18:54 UTC`
-  > در یک پرونده قضایی در آمریکا که مربوط به اتهام حمایت از یک سازمان تروریستی خارجی و تقلب ویزایی بوده، اطلاعات یک کاربر تلگرام در اختیار مقام‌های آمریکایی قرار گرفته؛ موضوعی که طبق گزارش رسانه‌ها در اواسط اکتبر ۲۰۲۶ منتشر شده و حالا بحث‌هایی درباره حریم خصوصی تلگرام به راه انداخ...
-
-  ![Media](../media/2026-10-18/fabcb72c1cea8e95.jpg)
-- **`@VahidOnline (وحید آنلاین)`** [بنیامین نتانیاهو، نخست‌وزیر اسرائیل، روز یکشنبه راهبرد جدید امنیت ملی این کشور را اعلام کرد؛ راهبردی که بر پیشگیری از ته...](https://t.me/VahidOnline/78759) — `22:21 IRST` / `18:51 UTC`
-  > بنیامین نتانیاهو، نخست‌وزیر اسرائیل، روز یکشنبه راهبرد جدید امنیت ملی این کشور را اعلام کرد؛ راهبردی که بر پیشگیری از تهدیدها و انجام حملات پیش‌دستانه تأکید دارد.
-
-دفتر نخست‌وزیری اسرائیل اعلام کرد که بر اساس این راهبرد، حمله به تهدیدهای در حال شکل‌گیری جایگزین سیاست سنتی مهار...
-
-  ![Media](../media/2026-10-18/8725d12007dc8cb7.jpg)
-
 ## اخبار و رسانه‌های فارسی (Persian News)
 
-- **`بی‌بی‌سی فارسی`** [حمایت «تمام و کمال» ترامپ از نتانیاهو: او تنها کسی است که می‌تواند با ایران مقابله کند](https://www.bbc.co.uk/persian/live/cqvgr35kjg1nt?at_medium=RSS&at_campaign=rss) — `23:55 IRST` / `20:25 UTC`
+- **`بی‌بی‌سی فارسی`** [حمایت «تمام و کمال» ترامپ از نتانیاهو: او تنها کسی است که می‌تواند با ایران مقابله کند](https://www.bbc.co.uk/persian/live/cqvgr35kjg1nt?at_medium=RSS&at_campaign=rss) — `02:24 IRST` / `22:54 UTC`
   > دونالد ترامپ با حمایت «تمام و کمال» از بنیامین نتانیاهو نوشت اگر اسرائیل نخست‌وزیری غیر از او داشته باشد آمریکا باید به‌تنهایی با ایران مقابله کند. او به تهران بار دیگر هشدار داد که اگر به‌سرعت تغییر رفتارندهد، «کار را خیلی زود تمام خواهیم کرد.» آقای نتانیاهو هم در پیامی در ای...
+- **`یورونیوز فارسی`** [انفجار و آتش‌سوزی در یک نفتکش در تنگه هرمز؛ سپاه: با مین دریایی برخورد کرد](https://parsi.euronews.com/2026/10/19/tanker-hits-sea-mine-strait-of-hormuz-irgc-oct-2026) — `02:07 IRST` / `22:37 UTC`
+  > سپاه پاسداران شامگاه یکشنبه با انتشار ویدیویی از انفجار و آتش‌سوزی در یک نفتکش «بر اثر برخورد با مین دریایی» خبر داد و اعلام کرد که این نفتکش با خاموش کردن تمامی سامانه‌های موقعیت‌یاب و ناوبری، قصد عبور از مسیر «غیرمجاز» و خروج از تنگه هرمز را داشته است.
+- **`ایران اینترنشنال`** [با ۴ طلا و یک نقره و ۴ برنز؛ تیم ملی کشتی آزاد زیر ۲۳ سال ایران قهرمان جهان شد](https://www.iranintl.com/202610181565) — `01:57 IRST` / `22:27 UTC`
+  > با برگزاری مسایقات فینال و رده‌بندی مسابقات قهرمانی کشتی آزاد زیر ۲۳ سال جهان در لاس‌وگاس آمریکا، تیم ایران با کسب ۴ طلا، یک نقره و ۴ برنز، قهرمان این رقابت‌ها شد.
+
+  ![Media](../media/2026-10-18/45f0ba6a29898e2d.jpg)
+- **`ایران اینترنشنال`** [رئال مادرید ۴-۱ سویا؛ دبل امباپه،‌ هنرمندی گولر و دیومانده،‌ بدون جای خالی وینیسیوس](https://www.iranintl.com/202610185679) — `00:35 IRST` / `21:05 UTC`
+  > تیم فوتبال رئال مادرید در هفته نهم لالیگا با دبل کیلیان امباپه و گل‌های آردا گولر و یان دیومانده سویا را با نتیجه چهار بر یک شکست داد. تیم مورینیو با این برد، ۲۱ امتیازی شد و در رده سوم جدول باقی‌ماند. نکته اینکه در پیروزی خانگی رئال مادرید جای وینیسیوس خالی نبود.
+
+  ![Media](../media/2026-10-18/ec76c439420984e4.jpg)
+- **`یورونیوز فارسی`** [هشدار قالیباف به کشورهای منطقه درباره همکاری با شرکت‌های هوش مصنوعی؛ «نهاد مدیریت داده خلیج فارس در راه است»](https://parsi.euronews.com/2026/10/18/ghalibaf-warns-gulf-states-ai-companies-data-authority-oct-2026) — `00:31 IRST` / `21:01 UTC`
+  > محمدباقر قالیباف روز یکشنبه به «دولت‌ها، صندوق‌های سرمایه‌گذاری و شرکت‌های منطقه» نسبت به همکاری با شرکت‌های داده و هوش مصنوعی که به گفته او به «تهاجم و کشتار کودکان» کمک می‌کنند، هشدار داد. او همچنین بدون ارائه جزئیات از تشکیل نهاد جدیدی با عنوان «نهاد مدیریت داده خلیج فارس» ...
+- **`ایران اینترنشنال`** [یوونتوس ۰-۳ لاتزیو؛ تحقیر خانگی یووه فریاد اعتراض تماشاگران را هم بلند کرد](https://www.iranintl.com/202610188631) — `00:27 IRST` / `20:57 UTC`
+  > تیمی فوتبال یوونتوس در هفته هفتم سری آ در ورزشگاه آلیانتس با نتیجه ۳ بر صفر مقابل لاتزیو شکست خورد و بحران این تیم عمیق‌تر شد. با این شکست تحقیرآمیز خانگی بیانکونری هشت امتیاز از صدر فاصله گرفت تا در پایان بازی اسپالتی و شاگردانش با سوت‌های اعتراضی هوادارانش روبه‌رو شوند.
+
+  ![Media](../media/2026-10-18/d9148eaf574f2f93.jpg)
 - **`بی‌بی‌سی فارسی`** [چرا آمریکایی‌ها با ساخت مراکز داده مخالف‌اند؟](https://www.bbc.com/persian/articles/cq62yd17pyjjo?at_medium=RSS&at_campaign=rss) — `23:46 IRST` / `20:16 UTC`
   > مراکز داده، زیرساخت اصلی اینترنت و هوش مصنوعی، تا همین اواخر کمتر در مرکز توجه افکار عمومی آمریکا قرار داشتند. اما گسترش سریع این تاسیسات عظیم و نگرانی‌ها درباره مصرف آب و انرژی، آلودگی و تاثیر آنها بر جوامع محلی، موجی از مخالفت عمومی ایجاد کرده است؛ موجی که اکنون به موضوعی سی...
-
-  ![Media](../media/2026-10-18/1df19a1c0df669dd.jpg)
 - **`ایران اینترنشنال`** [آتش‌سوزی در یک پایگاه نظامی کانادا چهار کشته و ده‌ها مجروح بر جای گذاشت](https://www.iranintl.com/202610188811) — `23:15 IRST` / `19:45 UTC`
   > آتش‌سوزی گسترده در یک پایگاه نظامی در استان آلبرتای کانادا چهار کشته بر جای گذاشت و ده‌ها نفر را به‌شدت مجروح کرد. مارک کارنی، نخست‌وزیر کانادا، این حادثه را یکی از بدترین فجایع دوران صلح نیروهای مسلح این کشور در خاک کانادا توصیف کرد.
-
-  ![Media](../media/2026-10-18/6edd45977277b79c.jpg)
 - **`ایران اینترنشنال`** [دست‌کم ۱۵ زن و دختر از ابتدای مهر در شهرهای مختلف ایران به قتل رسیده‌اند](https://www.iranintl.com/202610185976) — `22:35 IRST` / `19:05 UTC`
   > از ابتدای مهرماه، گزارش‌هایی از قتل دست‌کم ۱۵ زن و دختر در شهرهای مختلف ایران منتشر شده است. در بسیاری از این پرونده‌ها، همسران، برادران یا دیگر اعضای خانواده قربانیان به‌عنوان عامل یا متهم معرفی شده‌اند. قربانیان از دختران نوجوان تا زنان سالخورده را شامل می‌شوند.
-
-  ![Media](../media/2026-10-18/b347b40d793bfc27.jpg)
 - **`ایران اینترنشنال`** [میلان ۳-۲ آتالانتا؛ روسونری با خوش‌شانسی در سن‌سیرو کامبک نخورد](https://www.iranintl.com/202610182467) — `22:01 IRST` / `18:31 UTC`
   > تیم فوتبال میلان در هفته هفتم سری‌آ در سن‌سیرو ۳ بر ۲ آتالانتا را شکست داد. گونسالو راموس، آدرین رابیو و ماریو گیلا برای میلان گل زدند. روسونری پس از پیروزی قاطع در لیگ اروپا، این بار نیز برنده شد و فعلا به رده چهارم رسید؛ هرچند باید منتظر نتیجه کالیاری بماند.
 - **`یورونیوز فارسی`** [ترکیه برای مهار حوثی‌ها به دنبال کمک ایران است؛ افزایش تعهدات دفاعی آنکارا در قبال عربستان](https://parsi.euronews.com/2026/10/18/turkey-seeks-irans-help-to-contain-houthis-as-defense-commitments-to-saudi-arabia-grow) — `22:00 IRST` / `18:30 UTC`
@@ -145,8 +156,8 @@
   > نیروی دریایی اسپانیا تصمیم گرفته در برابر عبور بی‌ضرر کشتی‌های مراکشی از آب‌های سئوتا و ملیله، پروتکل خود را تغییر دهد و بدون دستور مافوق وارد عمل شود.
 - **`ایران اینترنشنال`** [سقوط بالگرد عربستان سعودی و حمله حوثی‌ها به نجران ۲ کشته و ۶ زخمی بر جای گذاشت](https://www.iranintl.com/202610186080) — `21:08 IRST` / `17:38 UTC`
   > سقوط بالگرد شناسایی عربستان سعودی در نجران دو کشته بر جا گذاشت. در حادثه‌ای جداگانه در نجران، پرتابه‌ای که به گزارش رویترز از سوی حوثی‌ها شلیک شده بود، شش نفر را زخمی کرد. حوثی‌ها می‌گویند بالگرد را سرنگون کرده‌اند، اما ائتلاف به رهبری عربستان سعودی علت سقوط را نقص فنی اعلام کرد.
-- **`یورونیوز فارسی`** [نخستین قربانی سامانه آدام؛ تعطیلی مدارس در ایبیزا، فورمنترا، مایورکا، والنسیا و آلیکانته](https://parsi.euronews.com/2026/10/18/the-southern-coast-of-valencia-on-edge-because-of-adam-the-dana-could-leave-accumulations) — `20:45 IRST` / `17:15 UTC`
-  > اوج این سامانه بارشی جدید بین یکشنبه و دوشنبه خواهد بود و در پیتیوساس، ساحل جنوبی والنسیا، آلیکانته، مورسیا و آلمریا بارش سنگین انتظار می‌رود.
+- **`یورونیوز فارسی`** [دانا آدام دو قربانی گرفت: تعطیلی کلاس‌ها در ایبیزا، فورمنترا، مایورکا، والنسیا و آلیکانته](https://parsi.euronews.com/2026/10/18/the-southern-coast-of-valencia-on-edge-because-of-adam-the-dana-could-leave-accumulations) — `20:45 IRST` / `17:15 UTC`
+  > در منطقه مارسمه بارسلون سیلاب یک زن را با خود برد و زن دیگری هنگام شنا در ساگانتو ناپدید شد. برای پیتیوسا و سواحل جنوبی والنسیا و نیز آلیکانته، مورسیا و آلمریا بارش شدید تا ۳۰۰ میلی‌متر در ۱۲ ساعت پیش‌بینی شده است.
 - **`ایران اینترنشنال`** [وضعیت مبهم کونده و اریک گارسیا پیش از بازی بارسلونا با پاری‌سن‌ژرمن](https://www.iranintl.com/202610189947) — `20:21 IRST` / `16:51 UTC`
   > بارسلونا پیش از دیدار سه‌شنبه مقابل پاری سن ژرمن با نگرانی درباره وضعیت دو مدافع خود روبه‌رو شده است. ژول کونده و اریک گارسیا پس از بازی مقابل رئال بتیس با مشکلات جسمانی روبه‌رو شدند و حضور هر دو در دیدار لیگ قهرمانان اروپا در هاله‌ای از ابهام قرار دارد.
 - **`یورونیوز فارسی`** [مارین لوپن از «تهدید برای دموکراسی» نگران است و «قدرت فرسوده ماکرون» را نکوهش می‌کند](https://parsi.euronews.com/2026/10/18/marine-le-pen-is-worried-about-a-threat-to-democracy-and-criticises-an-exhausted-macronist) — `20:05 IRST` / `16:35 UTC`
@@ -155,98 +166,84 @@
   > قاسم علی غلامی، زندانی پیشین در زندان وکیل‌آباد مشهد، در گفت‌وگو با دویچه وله از شرایط زندان، هجوم ساس و شپش، محدودیت درمان و ترس از انتقال حرف‌هایش به حفاظت زندان می‌گوید؛ گزارشی از زندگی در سالنی معروف به "بند آرامش".
 - **`ایران اینترنشنال`** [دو مدرس دانشگاه تهران در پی انتقاد از خامنه‌ای و سوابق رسانه‌ای از تدریس محروم شدند](https://www.iranintl.com/202610187003) — `20:00 IRST` / `16:30 UTC`
   > دانشگاه تهران همکاری خود را با فرزاد کلبعلی و سپید (زهرا) بیرشک، دو مدرس دانشکده‌های حقوق و ادبیات، قطع و ورود هر دو را به دانشگاه ممنوع کرد. رسانه‌های حکومتی انتقادهای کلبعلی از علی خامنه‌ای و جمهوری اسلامی و همچنین سوابق رسانه‌ای و نوشته‌های بیرشک را هدف حمله قرار داده‌اند.
-- **`ایران اینترنشنال`** [شمس‌آذر ۰-۰ سپاهان؛ تیم نویدکیا بالاخره متوقف شد، البته ۱۰ نفره!](https://www.iranintl.com/202610185787) — `19:55 IRST` / `16:25 UTC`
-  > تیم فوتبال سپاهان در هفته نهم لیگ برتر مقابل شمس آذر با تساوی بدون گل متوقف شد. آریا یوسفی در دقیقه ۳۲ اخراج شد و سپاهان بیش از ۶۰ دقیقه، ۱۰ نفره به بازی ادامه داد. این نتیجه برای تیم محرم نویدکیا پس از سه پیروزی پی‌درپی ثبت شد.
 - **`یورونیوز فارسی`** [خطر پنهان در نخ دندان‌های پرطرفدار؛ کدام ترکیبات شیمیایی باعث نگرانی دانشمندان شده‌اند؟](https://parsi.euronews.com/2026/10/18/dental-floss-pfas-forever-chemicals-health-risks) — `19:55 IRST` / `16:25 UTC`
   > بعضی نخ دندان‌های محبوب تا همین اواخر به دلیل لغزندگی زیادشان شناخته می‌شدند؛ اما حالا شماری از مصرف‌کنندگان متوجه شده‌اند که نخ دندان همیشگی‌شان زبرتر و متفاوت شده است. علت این تغییر، تصمیم برخی تولیدکنندگان برای کنار گذاشتن ماده‌ای شیمیایی است.
-- **`یورونیوز فارسی`** [درخواست از مسکو در نشست منامه؛ «نفوذ خود را برای مهار برنامه‌ هسته‌ای و موشکی ایران به کار بگیرید»](https://parsi.euronews.com/2026/10/18/gcc-asks-russia-curb-iran-nuclear-missile-plans) — `19:35 IRST` / `16:05 UTC`
-  > کشورهای عربی حوزه خلیج فارس در نشست منامه از مسکو خواستند با استفاده از نفوذ خود بر تهران، ایران را به اجرای قطعنامه سازمان ملل وادار کند. این کشورها تاکید کردند باید در هرگونه مذاکره یا توافق آتی درباره پرونده هسته‌ای و موشکی ایران حضور داشته باشند.
-- **`یورونیوز فارسی`** [مجله خبری| ۲۶ مهر ۱۴۰۵ (۱۸ اکتبر ۲۰۲۶) - شامگاهی](https://parsi.euronews.com/video/2026/10/18/mglh-khbri-mhr-aktbr-shamgahi) — `19:30 IRST` / `16:00 UTC`
-  > آخرین تحولات اروپا و جهان را دنبال کنید ۲۶ مهر ۱۴۰۵ (۱۸ اکتبر ۲۰۲۶). با یورونیوز در جریان آخرین اخبار و رویدادهای سیاسی، اقتصادی، فرهنگی و سرگرمی قرار بگیرید.
-- **`یورونیوز فارسی`** [فرانسه: پاریس، لیون و مارسی خسارات اعتراض‌های خشونت‌آمیز را برآورد می‌کنند](https://parsi.euronews.com/video/2026/10/18/france-paris-lyon-and-marseille-assess-the-damage-after-violent-protests) — `19:28 IRST` / `15:58 UTC`
-  > روز یکشنبه ۱۸ اکتبر ساکنان فرانسه با خیابان‌های پوشیده از شیشه شکسته، دوچرخه‌های سوخته و آوار روبه‌رو شدند؛ پیامد تظاهراتی بود که خسارت زیادی در پاریس، لیون و مارسی بر جای گذاشت.
-- **`ایران اینترنشنال`** [ترامپ در آستانه انتخابات اسرائیل حمایت کامل خود را از نتانیاهو اعلام کرد](https://www.iranintl.com/202610186106) — `19:18 IRST` / `15:48 UTC`
-  > دونالد ترامپ، رییس‌جمهوری آمریکا، در آستانه انتخابات پارلمانی اسرائیل حمایت «کامل و بی‌قید و شرط» خود را از بنیامین نتانیاهو اعلام کرد و گفت ادامه همکاری با او برای تکمیل عملیات علیه جمهوری اسلامی ضروری است.
 
 ## خبرگزاری‌های بین‌المللی (Global Wire)
 
-- **`Reuters Wire`** [At least 4 killed in major fire at Canadian military base - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXEzTWctWFllT2dCNGlES0Ewcm9qV0djallLZ3c2bEdoRVlta2RBQ09uQ1hZQnMxbndPUHNzRzdmakNYZU5IeHRPbF9wUVlFNTBCLUwyWE9TbUFFYjRua1BEM01VWm5ab0NwRm5QWXV2eW1ycERzRklTbzdxV2NpS1lOV29pZWtsRzgyOE9RTVVRNDhOdXhBdnJ6REFJQk54azV3ag?oc=5) — `22:47 IRST` / `19:17 UTC`
-  > At least 4 killed in major fire at Canadian military base    Reuters
+- **`Reuters Wire`** [Brazil's Bolsonaro, Lula face off in first debate as supporters fill streets - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxONzg5OGp3WHJKSjREX2N5WnZTbTJOX2pVai1IRDl3eGVEMmFzZnczd2UxTnlWR25GYlFKa1kzbk9OSWt6cXFjUExNWXlSa1dkNFJLaG9mTnR4MnY2bkZSVThOVmg0blgwbGNUUGxNMEpNRmlNWkhnbWJzVlAtVUxOaEF1WWdLZ0E1V3o2OEVuQVRVYW85TTRoQ3BTY3lqMnhKb1JwbFJxVGI2WDRHSEhVWTVraw?oc=5) — `00:57 IRST` / `21:27 UTC`
+  > Brazil's Bolsonaro, Lula face off in first debate as supporters fill streets    Reuters
+- **`Reuters Wire`** [Four killed after high winds turn grass fire deadly at Canadian military base, report says - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXEzTWctWFllT2dCNGlES0Ewcm9qV0djallLZ3c2bEdoRVlta2RBQ09uQ1hZQnMxbndPUHNzRzdmakNYZU5IeHRPbF9wUVlFNTBCLUwyWE9TbUFFYjRua1BEM01VWm5ab0NwRm5QWXV2eW1ycERzRklTbzdxV2NpS1lOV29pZWtsRzgyOE9RTVVRNDhOdXhBdnJ6REFJQk54azV3ag?oc=5) — `00:32 IRST` / `21:02 UTC`
+  > Four killed after high winds turn grass fire deadly at Canadian military base, report says    Reuters
+- **`Reuters Wire`** [Trump endorses Netanyahu in close Israeli election - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5) — `00:25 IRST` / `20:55 UTC`
+  > Trump endorses Netanyahu in close Israeli election    Reuters
+- **`AP News Wire`** [Driver in deadly Kansas soccer field crash released while investigation continues - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSF9waVZaZXdNU0xNai1uNjM4c0kyNlllLUhzUkgzYkNFX2RnWWlraFAwN0pEeWhSaE1HREpNdjFVMk92X2NmWW1wSkN6U0ZPZlI5am9JX1hiSDctbHdXQkRMaVdZeUtIMUg5eVF4UzBhSk5FMFpWZDNrZDNPREpmbVMwSDhmZm1WX3BFVVZLdGdBcDJxZGp5X1kzcWlWRFpQZy1v?oc=5) — `00:18 IRST` / `20:48 UTC`
+  > Driver in deadly Kansas soccer field crash released while investigation continues    AP News
+- **`Reuters Wire`** [Kenya confirms eighth Ebola case as regional outbreak spreads - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWl96bU5yLTB2VVk3N2EyYmRwdDl3ak9nZDVKVXRIS0NPMG96Njc4MWF6VUxYM2ZZY2lRWU5teUxFaGFJSk1wV0h3c0JRekZlZnBPN3lmTmp0dVc1cTFLZ2NyRm9sdGVHWWdjZUxUTWtpZERtMG1GMnZsV09uYlFJaERtWVhEbDBWV00zQkZPb0R2V095eGFqTHJsQXctaGVxd0t5dzlJLWJ6OFVYX080bDJ6UE54QWd5M3pfZGdEZW8wNVNfTkYzbGl3?oc=5) — `23:47 IRST` / `20:17 UTC`
+  > Kenya confirms eighth Ebola case as regional outbreak spreads    Reuters
+- **`Reuters Wire`** [Anthropic to commit 5% stake to new public benefit fund - Reuters](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5) — `22:41 IRST` / `19:11 UTC`
+  > Anthropic to commit 5% stake to new public benefit fund    Reuters
+- **`Reuters Wire`** [Milan police clash with protesters on second day of unrest - Reuters](https://news.google.com/rss/articles/CBMimgFBVV95cUxNem5RVUNnUFN4V1Q4aUVmQ2NwbmZsZ19HR0h6VURQNkd4OG45OFVyclZwNTdtZnVqczdTRWhxOXVvMjJPWno3ckxFS3NUOGxsRXA1bF9lNl9ELUpJNUVhT19BZVkwbW0tUWVKLURsOElEWVpGaUZ3ejZnbjlPR0NmeG5VWnNITE5TUU1qZmhiMU40LTNXN1dEbXFB?oc=5) — `22:37 IRST` / `19:07 UTC`
+  > Milan police clash with protesters on second day of unrest    Reuters
 - **`Reuters Wire`** [Macron condemns "shocking" scenes of violence across France - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmJ1bnhSTWszS2NQXzcxU2k2YWxiUThROTNpQmN6YzJtbXJQbEVaUHpFeFRxbjVFbm5FZ0UxRDZOUlVSNkY0Q0JrRXBhVm5CcGlCMkJfUW4wb0lnWmFaUnNDQ08xNnh6enBjaVh5dzYyaUxZMnYyUDJHTk5zeHRNam40bVhhVW9Sd05SV09pUWpXZWxoSHpvS1N3Z3A?oc=5) — `22:15 IRST` / `18:45 UTC`
   > Macron condemns "shocking" scenes of violence across France    Reuters
-- **`Reuters Wire`** [US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JXcTFReXJpR0UyNGM1UVFfMTVMRlJHbGpmRlh2Wk1HQ3ZQZ0Q0YUNadThFXy1IcTZXdHJMOGxNU0FqM1NTQkVaOHpOX2NaWGNMTXJaRzJnYUVmald2UmVvTExRVVdqajR0ZmVBNE8tVHhkMXFhQ3FQQmhUVGdEMmUwcXA3RHFPN2ZUOTZ6SzBqNVlpQkZGSnlOb3FjV0gyT1JIUzEtYnBwbjBySGlVcjRUaHJnN3dDb2hRMW8zbExBZw?oc=5) — `21:14 IRST` / `17:44 UTC`
-  > US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says    Reuters
-- **`Reuters Wire`** [Trump endorses Netanyahu in close Israeli election - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5) — `21:11 IRST` / `17:41 UTC`
-  > Trump endorses Netanyahu in close Israeli election    Reuters
-- **`Reuters Wire`** [Milan police clash with protesters on second day of unrest - Reuters](https://news.google.com/rss/articles/CBMimgFBVV95cUxNem5RVUNnUFN4V1Q4aUVmQ2NwbmZsZ19HR0h6VURQNkd4OG45OFVyclZwNTdtZnVqczdTRWhxOXVvMjJPWno3ckxFS3NUOGxsRXA1bF9lNl9ELUpJNUVhT19BZVkwbW0tUWVKLURsOElEWVpGaUZ3ejZnbjlPR0NmeG5VWnNITE5TUU1qZmhiMU40LTNXN1dEbXFB?oc=5) — `21:03 IRST` / `17:33 UTC`
-  > Milan police clash with protesters on second day of unrest    Reuters
+- **`AP News Wire`** [Carney says 4 service members killed and dozens injured in fire at Alberta military base - AP News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5) — `21:27 IRST` / `17:57 UTC`
+  > Carney says 4 service members killed and dozens injured in fire at Alberta military base    AP News
 - **`Reuters Wire`** [Captain of flydubai plane describes blocking axe blows as co-pilot attacked - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlNJNGV2RU1JbHotN25MRXNHQVZIeDJJU3I5eGYzT0pkUjdaSnZqbUpNZzRJY1U2cW1yUUViUjVuTVlvb184VjZsaEF5dnNBdEFBTVhtemRBalZRbG1SdlNhdHFoVkZHTHZ3SzlTMTRWaFhJaTMyVzJxc01qWmp6aUlpa2k5dGJuVTNkeU5mWXZUZ1F6SUlrMzlESGJ4cmRkajZwcF8ybEhoZXRITXQyMVFFTkxKdnZjS0t6WFNBSWQ3M0s3WS14VzhObFM?oc=5) — `20:51 IRST` / `17:21 UTC`
   > Captain of flydubai plane describes blocking axe blows as co-pilot attacked    Reuters
 - **`Reuters Wire`** [US officials visit Palestinian village after settler attacks on diplomats - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMXFmMW1hVjRCN2Fsa0p6OGNUX29BanZRTS1nS3ZwcV9fVzFsTklsN0w1TmxNSWVpamZ0NmEtU1RiQjNpdjNVcWY1TEZmcnhKSXltWEFtenZlVnZubzJPOENjTVotVjA2OVR4UVdwaVVsaGFLV050dnRTN0xKQzBmZWFNU0hPLTZUQ2VwaEtDelhCOTZqbEFYV2JYemRuNGE1dzNmUkhaQzN1OUltOUc3OXdMVUYyb19wNGI5aW04amZYQQ?oc=5) — `20:44 IRST` / `17:14 UTC`
   > US officials visit Palestinian village after settler attacks on diplomats    Reuters
-- **`Reuters Wire`** [Zelenskiy says he spoke to US envoys Witkoff, Kushner - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdUZwZGVuV0Y5UUEteEtVeE56ME9lNmZYQmFtMFYxcmFRZzFQQld3REF3ZWZ3a1hERUhyWkJhN3RPbFdYOEcxRUpsZkI5dFRsbkJPVDhuYUFKYVp5ZElxR2J1Q2x1T1VYTjY5REhzbHlSUHZkUDN4QWZmbzV3cjAyLWVMZG5kWkttUk1vcnY5MmlpcWwzMnpPa3JIMXdCdkVldXlWYzJ2enhsUi1O?oc=5) — `18:53 IRST` / `15:23 UTC`
-  > Zelenskiy says he spoke to US envoys Witkoff, Kushner    Reuters
-- **`Reuters Wire`** [Lithuania says attempted Starlink arson was Russia-linked sabotage - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0FMbVJmdl80MGprYjdwckNocW1aRTVXa3RSazdUZzZxTDBrRWVuQ2tXWGNYcEhmYUdSOGRzWTUzaklVSllyNllRLTlKMlBOaFc5OEpHQVJDRGxndHo3V1V4LWM2Tl80cURPcTBlSVluOURBZmZzVkRtXzVZbVdoUXNWRHdBd0xROE54WHBxclBYQVJjM0tfWWRFLWItSHRMODFBSmVPQkRUcXlyZzVoZkNRRjVRSkxpVm96eU1sU0d1d00?oc=5) — `18:36 IRST` / `15:06 UTC`
-  > Lithuania says attempted Starlink arson was Russia-linked sabotage    Reuters
-- **`AP News Wire`** [Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game - AP News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSENrWmpZclZ3MTdpUkhZNmRULTFQN2VjS3lvVThlYzJvWW0zUTA5eVR5OTFxUjRqYjJ6aGdINW9QbkstNXB5dWczYXZONGFoLXliMVBMV1NOVXFqZlBjaHV2aHc3RlVzZWRBblBneWszWnMzamVteE0tQm9mQmhZZTJfNnE2UDQ3UHAtVm1qZGZqdFM1OHNXRnVaRjc4S2tsTXZaOUs5RDF2Zw?oc=5) — `18:00 IRST` / `14:30 UTC`
-  > Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game    AP News
-- **`Reuters Wire`** [Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWdfVTBONW9jTm9ldm94TWotRVpYMXhVaVktUTl4RDZUN1ByWWh4d3JiMTlwTHNpNG93LW5Jc3RCZ1lod2FfMktBZE9QYThCdWRBOHF3OVNrT2hOa3hlOWpVc1Zsb1JjLVphWFd3TUF6YTJDMDNObWFEb2JHbmpsYVN6YVZReWppS2NsZTlzakNyMEJlcVNmcWtMVmp1X2lqZTcwSDM4dThEb1FfX1BxNWJYU0YxWHc?oc=5) — `17:29 IRST` / `13:59 UTC`
-  > Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters    Reuters
-- **`AP News Wire`** [Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5) — `10:37 IRST` / `07:07 UTC`
-  > Consumer apprehension grows as US retailers adopt AI-assisted pricing tools    AP News
+- **`AP News Wire`** [Catholic priest killed by falling cross during livestreamed Mass in Ecuador - AP News](https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0o5Z3Y5ZThuTmNJZGNtNXByYVN6VFhpN1AyVGExeHpieVQ5RjhHQ05raUsxVnJzZDBidlYwMExzMHZTUDhMNEVILWhjSzJzRHV1N2ZnVmE5VDA5bk1vcGhhUmZUZFczb2swcERUaDg0a3JRa29PRzNhdV9CRk4xNGI2aDBiZC1vMk92S0pTVUc1RXd2dFE?oc=5) — `19:05 IRST` / `15:35 UTC`
+  > Catholic priest killed by falling cross during livestreamed Mass in Ecuador    AP News
 
 ## فناوری و امنیت سایبری (Tech & Open Source)
 
-- **`Hacker News`** [Tiny Brutalism – Thanks to HN it's on Steam](https://store.steampowered.com/app/5426130/Tiny_Brutalism/) — `22:29 IRST` / `18:59 UTC`
-  > Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ 
- Comments URL: https://news.ycombinator.com/item?id=50144144 
- Points: 22 
+- **`Hacker News`** [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp) — `01:06 IRST` / `21:36 UTC`
+  > I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Impo...
+- **`Hacker News`** [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) — `00:18 IRST` / `20:48 UTC`
+  > https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 
+
+ Comments URL: https://news.ycombinator.com/item?id=50145337...
+- **`Hacker News`** [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf) — `00:13 IRST` / `20:43 UTC`
+  > Article URL: https://github.com/Netflix/vmaf 
+ Comments URL: https://news.ycombinator.com/item?id=50145295 
+ Points: 10 
  # Comments: 3
 - **`Hacker News`** [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/) — `22:18 IRST` / `18:48 UTC`
   > Article URL: https://www.getlazarus.org/dynamic/ 
  Comments URL: https://news.ycombinator.com/item?id=50144066 
- Points: 35 
- # Comments: 8
+ Points: 88 
+ # Comments: 12
 - **`Hacker News`** [Florida's HOAs and condo associations are making the housing crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html) — `22:10 IRST` / `18:40 UTC`
   > Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html 
  Comments URL: https://news.ycombinator.com/item?id=50144005 
- Points: 103 
- # Comments: 163
-- **`Hacker News`** [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/) — `21:56 IRST` / `18:26 UTC`
-  > Article URL: https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/ 
- Comments URL: https://news.ycombinator.com/item?id=50143876 
- Points: 22 
- # Comments: 8
+ Points: 136 
+ # Comments: 233
 - **`Hacker News`** [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings) — `21:26 IRST` / `17:56 UTC`
   > Article URL: https://github.com/ardiri/palmos-lemmings 
  Comments URL: https://news.ycombinator.com/item?id=50143536 
- Points: 40 
- # Comments: 7
+ Points: 70 
+ # Comments: 20
 - **`Hacker News`** [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/) — `20:26 IRST` / `16:56 UTC`
   > Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ 
  Comments URL: https://news.ycombinator.com/item?id=50142866 
- Points: 184 
- # Comments: 107
+ Points: 333 
+ # Comments: 160
 - **`Hacker News`** [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) — `20:02 IRST` / `16:32 UTC`
   > Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ 
  Comments URL: https://news.ycombinator.com/item?id=50142573 
- Points: 175 
- # Comments: 66
+ Points: 252 
+ # Comments: 107
 - **`Hacker News`** [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html) — `19:50 IRST` / `16:20 UTC`
   > Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html 
  Comments URL: https://news.ycombinator.com/item?id=50142449 
- Points: 63 
- # Comments: 13
-- **`Hacker News`** [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550) — `18:56 IRST` / `15:26 UTC`
-  > Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 
- Comments URL: https://news.ycombinator.com/item?id=50141909 
- Points: 218 
- # Comments: 216
-- **`Hacker News`** [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/) — `18:30 IRST` / `15:00 UTC`
-  > Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ 
- Comments URL: https://news.ycombinator.com/item?id=50141681 
- Points: 106 
- # Comments: 138
+ Points: 79 
+ # Comments: 23
+- **`Hacker News`** [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/) — `18:17 IRST` / `14:47 UTC`
+  > Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ 
+ Comments URL: https://news.ycombinator.com/item?id=50141579 
+ Points: 120 
+ # Comments: 97
 
 ---
 📂 [آرشیو ۳۰ دقیقه‌ای اخبار](../index.md) | 🌐 [مشاهده نسخه تحت وب سبک](../public/index.html)
