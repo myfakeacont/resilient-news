@@ -1,92 +1,405 @@
 {
-  "generated_at_utc": "2026-10-23T21:59:54.007841+00:00",
-  "generated_at_tehran": "2026-10-24T01:29:54.007841+03:30",
+  "generated_at_utc": "2026-10-24T00:32:28.313090+00:00",
+  "generated_at_tehran": "2026-10-24T04:02:28.313090+03:30",
   "article_count": 100,
   "articles": [
     {
-      "hash": "b37c6c69fdf1e79c",
+      "hash": "de8719e58556b8e5",
       "title": "ترامپ: ممکن است عملیات نظامی دیگری علیه ایران انجام دهیم",
+      "link": "https://www.bbc.co.uk/persian/live/cm5ynqqqdeq6t?at_medium=RSS&at_campaign=rss",
+      "summary": "دونالد ترامپ می‌گوید که واشنگتن ممکن است عملیات نظامی دیگری علیه ایران انجام دهد. او در یک گردهمایی در فلوریدا گفت: «ممکن است یک عملیات کوچک دیگر از نوع خشم حماسی انجام دهیم، یا آنها توافق کنند.» سخنان ترامپ در حالی مطرح می‌شود که تام باراک، سفیر آمریکا در ترکیه، ساعاتی پیش گفته بود که احتمال حمله آمریکا به ایران در همین آخر هفته وجود دارد. هم‌زمان، وزیران خارجه چند کشور اروپایی و منطقه‌ای در نشست...",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-24T00:32:31.002153+00:00",
+      "published_epoch": 1792801951,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd14/live/19b2aad0-cf32-11f1-b441-2b33b063138f.jpg"
+      ],
+      "local_media_path": "media/2026-10-24/3f4396ff20fc5191.jpg"
+    },
+    {
+      "hash": "5e08f40b218dc524",
+      "title": "آنچه گذشت؛ وزیر خارجه آلمان: بریتانیا، فرانسه و آلمان آماده مذاکره با ایران هستند",
       "link": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
       "summary": "دونالد ترامپ می‌گوید که واشنگتن ممکن است عملیات نظامی دیگری علیه ایران انجام دهد. او در یک گردهمایی در فلوریدا گفت: «ممکن است یک عملیات کوچک دیگر از نوع خشم حماسی انجام دهیم، یا آنها توافق کنند.» سخنان ترامپ در حالی مطرح می‌شود که تام باراک، سفیر آمریکا در ترکیه، ساعاتی پیش گفته بود که احتمال حمله آمریکا به ایران در همین آخر هفته وجود دارد. هم‌زمان، وزیران خارجه چند کشور اروپایی و منطقه‌ای در نشست...",
       "source_id": "bbc_persian",
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-10-23T21:59:55.986177+00:00",
-      "published_epoch": 1792792795,
+      "published_at": "2026-10-24T00:32:31.002393+00:00",
+      "published_epoch": 1792801951,
       "rtl": true,
       "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ad/live/4a62ad40-cf20-11f1-a701-fddedf244c16.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8a/live/57028cf0-cf34-11f1-93e1-3b657b665bcf.jpg"
       ],
+      "local_media_path": "media/2026-10-24/e43b7a7e7fc2d78a.jpg"
+    },
+    {
+      "hash": "dc6f5a9fd37748ba",
+      "title": "آپدیت بزرگ PattN و PattNG در راهه ...",
+      "link": "https://t.me/patt_channel_x/195",
+      "summary": "آپدیت بزرگ PattN و PattNG در راهه ...",
+      "source_id": "tg_patt_channel_x",
+      "source_name": "@patt_channel_x",
+      "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
+      "category": "telegram",
+      "published_at": "2026-10-24T00:19:01+00:00",
+      "published_epoch": 1792801141,
+      "rtl": true,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "fdb8fb82b557473c",
-      "title": "جابر رجبی، تحلیل‌گر سیاسی، گفت تحولات نظامی اخیر کشورهای حاشیه خلیج فارس را به بازنگری در سیاست‌های دفاعی و امنیتی واداش...",
-      "link": "https://t.me/IranintlTV/363623",
-      "summary": "جابر رجبی، تحلیل‌گر سیاسی، گفت تحولات نظامی اخیر کشورهای حاشیه خلیج فارس را به بازنگری در سیاست‌های دفاعی و امنیتی واداشته است. به باور او، نیاز به سامانه‌های پدافندی پیشرفته می‌تواند عربستان سعودی را به آمریکا و اسرائیل نزدیک‌تر کند و زمینه شکل‌گیری جبهه‌بندی‌های جدید در خاورمیانه را فراهم سازد.\n\nرجبی افزود در صورت آغاز دور تازه‌ای از جنگ، گروه‌های وابسته به جمهوری اسلامی ممکن است حملات خود را از خاک عراق افزایش دهند. به گفته او، کاهش حضور نظامی آمریکا در عراق نیز می‌تواند محدودیت‌های واشینگتن برای حمله به این گروه‌ها را کمتر کند و عراق را به یکی از کانون‌های اصلی درگیری میان آمریکا و جمهوری اسلامی تبدیل کند.\n @iranintltv",
+      "hash": "70c4438f61a968c4",
+      "title": "مای ساتو، گزارشگر ویژه سازمان ملل متحد در امور حقوق بشر ایران، از دولت‌ها، نهادهای مدنی، قربانیان نقض حقوق بشر، خانواده‌...",
+      "link": "https://t.me/IranintlTV/363634",
+      "summary": "مای ساتو، گزارشگر ویژه سازمان ملل متحد در امور حقوق بشر ایران، از دولت‌ها، نهادهای مدنی، قربانیان نقض حقوق بشر، خانواده‌های آنان و مدافعان حقوق بشر خواست اسناد و اطلاعات خود درباره موارد نقض حقوق بشر در ایران، به‌ویژه از شهریور ۱۴۰۵ به بعد، را برای تهیه گزارش آینده او به شورای حقوق بشر سازمان ملل ارسال کنند.\n\nساتو اعلام کرد گزارش بعدی او علاوه بر بررسی وضعیت عمومی حقوق بشر در ایران، بر سرکوب فرامرزی مخالفان جمهوری اسلامی، تهدید و اعمال فشار بر خانواده‌های آنان و تلاش برای ربایش یا بازگرداندن اجباری افراد به ایران تمرکز خواهد داشت.\n\nحقوق زنان، تبعیض جنسیتی و پیامدهای بازداشت، ناپدیدسازی و اعدام بر خانواده‌های قربانیان نیز از محورهای این گزارش خواهد بود.\n\nساتو در فراخوان منتشرشده اعلام کرد مهلت ارسال اطلاعات ۱۵ نوامبر ۲۰۲۶، برابر با ۲۴ آبان ۱۴۰۵ است. این گزارش برای ارائه به شصت‌وچهارمین نشست شورای حقوق بشر سازمان ملل تهیه می‌شود.\n https://iranintl.com/202610232137",
       "source_id": "tg_IranintlTV",
       "source_name": "@IranintlTV",
       "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
       "category": "telegram",
-      "published_at": "2026-10-23T21:58:41+00:00",
-      "published_epoch": 1792792721,
+      "published_at": "2026-10-23T23:42:28+00:00",
+      "published_epoch": 1792798948,
       "rtl": true,
       "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/G1eHiNk7_mlfP5K61DXZ0cXwQGvgrIK55w4vtK-pWePjQwZyak2pD3MpKgB2qrL3g9Kjs8Uy0UZT3PHxKjuGuUmLNiPo5sKS1sw778kouudVIeOoEPLuUBxhf-3_YLT9O1-tIUJh-aAjCUn6GZmeC-pFg-GCF0TznxSXGla6yTDjSN6ialnwZJ43g_eiSq5CbsxwPdWg5aGSIHP7J0T0y7ui2-js2Fqs7DB31ZY_VTDqvomn_1CCIU9qaOqtp1A7R1Azz5vsNTrAI-xF11kILBClOFlsIQDtlRdPcJVhopec6Y98rTJdr2feyS62KmmQaYlun5Yayo0WFwZlPYti1A"
+        "https://cdn4.telesco.pe/file/CE2-r4FHJ7bsSNKdp0Goj4zsUQa-JqAGTbxUEmEBD1jNepiAXKtgyqSf8QAj2X58JRiCV1tyk7P80vENw01yY--il8cETtYx-2QrAS5c_ozY8EOarawA1iI__5Mch_5DfkA3K_dCB2JktbPuEeYhztl8L1TmrZPIRl_9ytH2KxF_DzxPgw_gDYEHoK66ruURV0P0ZVMlSsNOVPz5FR1oD5nkJZ4J0ZdQ3UtgfqDwKg9Djy1f-kwGrL3XgU8LwRzNSjPQGDlcpMPyPTeCrGQG7jVf4fnEHneoBPC8WE85aFS8GKmTATQtK0_YhaWwN1w4ZdKp19Ig9KbRy9I44rtZyA.jpg"
       ],
-      "local_media_path": "media/2026-10-23/6f5bd9c8443c2ccd.jpg"
+      "local_media_path": "media/2026-10-24/43092224f1fcc7af.jpg"
     },
     {
-      "hash": "c6cf07df6716e877",
-      "title": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، اظهارات عبدالناصر همتی درباره کنترل بازار ارز ر...",
-      "link": "https://t.me/IranintlTV/363622",
-      "summary": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، اظهارات عبدالناصر همتی درباره کنترل بازار ارز را «گفتاردرمانی» توصیف کرد و گفت افزایش قیمت دلار از ۲۱۲ هزار به ۲۷۰ هزار تومان نشان می‌دهد بازار به وعده‌های مقام‌های اقتصادی اعتماد ندارد.\n\nملکی افزود جمهوری اسلامی برای تامین واردات هر شش ماه به حدود ۲۰ میلیارد دلار ارز نیاز دارد، اما بخش قابل توجهی از منابع مالی آن در خارج از کشور مسدود است. به گفته او، نظارت وزارت خزانه‌داری آمریکا و خطر تحریم بانک‌های خارجی، دسترسی تهران به این منابع را دشوار کرده و احتمال آزادسازی گسترده آنها از سوی کشورهای همسایه بسیار پایین است.\n @iranintltv",
+      "hash": "ddcfea6fdfef075b",
+      "title": "وال‌استریت ژورنال گزارش داد عراق و پاکستان با بستن برخی گذرگاه‌های مرزی، دسترسی ایران به مسیرهای تجارت زمینی را محدود می...",
+      "link": "https://t.me/IranintlTV/363633",
+      "summary": "وال‌استریت ژورنال گزارش داد عراق و پاکستان با بستن برخی گذرگاه‌های مرزی، دسترسی ایران به مسیرهای تجارت زمینی را محدود می‌کنند؛ اقدامی که فشار اقتصادی ناشی از محاصره دریایی آمریکا و تحریم شرکت‌های هواپیمایی را تشدید می‌کند.\n\nاین روزنامه در گزارش خود نوشت محاصره دریایی و تحریم‌های هوایی پیش‌تر بیشتر مسیرهای کشتیرانی و هوایی ایران را قطع کرده بود و محدودیت‌های تازه، انزوای اقتصادی کشور را عمیق‌تر می‌کند.\n\nبه نوشته وال‌استریت ژورنال، هم‌زمان دونالد ترامپ فشار نظامی را افزایش می‌دهد تا تهران را به دادن امتیاز درباره برنامه هسته‌ای خود وادار کند. با وجود تلاش میانجی‌های منطقه برای احیای مذاکرات، روند دیپلماتیک ماه‌هاست متوقف مانده و حکومت ایران درخواست‌های آمریکا برای گفت‌وگو درباره مساله هسته‌ای را رد می‌کند.\n\n https://iranintl.com/202610234314",
       "source_id": "tg_IranintlTV",
       "source_name": "@IranintlTV",
       "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
       "category": "telegram",
-      "published_at": "2026-10-23T21:53:32+00:00",
-      "published_epoch": 1792792412,
+      "published_at": "2026-10-23T23:34:04+00:00",
+      "published_epoch": 1792798444,
       "rtl": true,
       "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/kRd9gBUbVwDXD78v68p52K2R0S-8Wa6O7CgFS6bqfaV-vO67zn9Y7TQQ102PDVs6B3QT6L-RIsHHuZLsF9K4HXwkQ4cLJ9DSTsGsWgHfS2yS4OICqNEs9uU-6YxkTU_fcwzeTE-_J90VDBjz3Vkl5kQ10Ys2a5EJEkIZBwPYrJRXzhuE-bRhuIfxsWcnZmyG-baEq6SByHEpqKWHPOASpQJpTiSGBXIOspS9y1EnonupdZ3EeuNeYzwEqbaSUmoXFk4KByKqDg7kwfWQFgkFYidDwJm9ON_eh2MW11jRksga-otF92kwPVSFEDmzj3DYf9mULeMq_z6-frVwQjXAPA"
+        "https://cdn4.telesco.pe/file/V1E4zx8boklMj48M-yMGo50pSBpSS-Yt2j8XCI7gPpRH62eW6M7BCdEuyrwlh01RaYHlA67DfxiBpf6igzapy6kaNy1LaCRUt3WGLcGJ65VaQ8YH4sgcRrgpouZolOJ13FeJCLRfUZRnmLxiddobuljZfHhZSU4tid5ZPZDrzTHXaaSDY_pZ_zGUL1Lwmn6hq0Nc6oFvm12BmbixA_h5ugR3XL5pjXQNtHWkifGOjUvKiuqufXfTFhQXp7-icL7iP3AWZVpvu8_8nl4FwierL_C6tqbcoFwL4or6osn-MsGwbnV9DVocuZQMxt4RivxROUzUsDLUJYqTBm6wETKPzQ.jpg"
       ],
-      "local_media_path": "media/2026-10-23/23e0807c5d91977e.jpg"
+      "local_media_path": "media/2026-10-24/91e61fac0c94523e.jpg"
     },
     {
-      "hash": "1761ff7c6555b738",
-      "title": "🔻 تیم فوتبال استقلال با وجود عملکرد قابل قبول تا اینجای فصل، حواشی مختلفی هم دارد؛ بسته بودن پنجره، ماجرای فسخ یاسر آسان...",
-      "link": "https://t.me/IranintlTV/363621",
-      "summary": "🔻 تیم فوتبال استقلال با وجود عملکرد قابل قبول تا اینجای فصل، حواشی مختلفی هم دارد؛ بسته بودن پنجره، ماجرای فسخ یاسر آسانی و تفاهمنامه همکاری با مرکز آکادمی ملی ورزش صربستان.\n\n 🔹 گفتگوی مزدک میرزایی با رها پوربخش در برنامه هت‌تریک\n\n 🔹 تماشای نسخه کامل هت‌تریک؛ 👇 \n https://youtu.be/yETYwzUt7l4 \n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "hash": "e207bf93034132b9",
+      "title": "ساعاتی پیش Nvidia جایگاه شماره یک ارزشمند ترین کمپانی رو از دست داد و Apple جاشو گرفت!",
+      "link": "https://t.me/Linuxor/5801",
+      "summary": "ساعاتی پیش Nvidia جایگاه شماره یک ارزشمند ترین کمپانی رو از دست داد و Apple جاشو گرفت!\n\n @Linuxor",
+      "source_id": "tg_Linuxor",
+      "source_name": "@Linuxor",
+      "source_name_fa": "@Linuxor (لینوکسور (جامعه گنو/لینوکس))",
       "category": "telegram",
-      "published_at": "2026-10-23T21:53:11+00:00",
-      "published_epoch": 1792792391,
+      "published_at": "2026-10-23T23:32:37+00:00",
+      "published_epoch": 1792798357,
       "rtl": true,
       "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/nE2c43inS3HbYVD1FjFnX3y-Ut7bDXcXlsbYcCqqJX3_oZULXZcm12S7be4du2MbfLhSixHkXu_wT0ZqWfbXZCooFD0LN0E7bNaKnIL1Q_7We-Xjq-AsgNB1NIX_Ljgd1KILdGCC0zi7mLMxJC4gI1o8TiUNZa7Kr71_ZEK6093dC-RE8vS_JkDATfvozggGAdCi3Q9Jx8M2ofhbVmW85YWGsz7pKwyn41a6ZayJgyLdmvcHrN7GF0F4HEEN8g4ix6nWve9sSk6jGnK9G2p3e_GjbVxgqsOiij1ajX4qzwnJU4OxL-IfHUheqLa-RcGehXSWNepVNbKR_1XWr7-boA"
+        "https://cdn4.telesco.pe/file/QjQuBMUeW7C5VsjA-ea9dckK_4cnD9ox7RYOrvNRiQBjE4T4U1u9mqMS_1mVtacSPDY7WHgt8nTCiabZE-Lg9MJ_kozRmrzdU2iqb3sTIg35Ptxb2lQ8KPhiDIpi5d__IFX_Z8FSKoj28f0MRNxLkyZwNymgvzA5NLXwZ4v60kffTP8M7I-ocOg4pXMvwdoCb-Qhhtb22_sH8VfcQg36mLuoJq9NOm5MIB4ZN6RXXVCJEm8bTQTP5dOarUMNwxWY1ZRfpd7CWwkTBC2P9wGns3eKC-wl-H7Hu2DMG0JcELmq7heRcSWUVrCv8PBXi3Ty-g3ZEp4I6NmSCb1V-d0-Lg.jpg"
       ],
-      "local_media_path": "media/2026-10-23/7016d7a31ca6d594.jpg"
+      "local_media_path": "media/2026-10-24/d52b142b9a469640.jpg"
     },
     {
-      "hash": "eee19c10dfeaf6a2",
-      "title": "بهنام طالب‌لو، مدیر ارشد برنامه ایران در بنیاد دفاع از دموکراسی‌ها، گفت توانایی جمهوری اسلامی برای ساخت سلاح هسته‌ای به ...",
-      "link": "https://t.me/IranintlTV/363620",
-      "summary": "بهنام طالب‌لو، مدیر ارشد برنامه ایران در بنیاد دفاع از دموکراسی‌ها، گفت توانایی جمهوری اسلامی برای ساخت سلاح هسته‌ای به سرنوشت ذخایر اورانیوم غنی‌شده پس از حملات سال ۲۰۲۵ بستگی دارد. به گفته او، اگر تهران ذخایر مخفی در اختیار داشته باشد، از نظر فنی امکان پیشبرد برنامه تسلیحاتی وجود دارد، هرچند او شخصا به وجود چنین ذخایری باور ندارد.\n\nطالب‌لو تاکید کرد محاصره دریایی و سیاست فشار حداکثری، مهم‌ترین ابزارهای ترامپ در برابر جمهوری اسلامی هستند. او معتقد است تشدید فشار اقتصادی و سیاسی، همراه با حفظ آمادگی نظامی، در شرایط کنونی بر آغاز جنگی تازه اولویت دارد. او همچنین بخشی از تهدیدهای اخیر آمریکا و اسرائیل را متاثر از ملاحظات انتخاباتی دو کشور دانست.\n @iranintltv",
+      "hash": "68924ca56d0269e3",
+      "title": "ارتش دولت یمن جمعه اول آبان اعلام کرد در بیست و چهار ساعت گذشته، در چارچوب عملیات «فجر یمن»، یکهزار و ۳۹۲ حمله علیه مواض...",
+      "link": "https://t.me/IranintlTV/363632",
+      "summary": "ارتش دولت یمن جمعه اول آبان اعلام کرد در بیست و چهار ساعت گذشته، در چارچوب عملیات «فجر یمن»، یکهزار و ۳۹۲ حمله علیه مواضع حوثی‌ها انجام داده و تلاش این گروه برای بازپس‌گیری مناطق ازدست‌رفته در استان تعز را ناکام گذاشته است.\n\nماجد النزیلی، سخنگوی ارتش یمن، گفت این عملیات شامل حملات زمینی و هوایی بوده و به گفته او، حدود ششصد و ۲۰ نیروی حوثی از میدان نبرد خارج شده‌اند و نزدیک به یکصد و ۹۰ خودروی نظامی و تجهیزات جنگی منهدم یا آسیب دیده‌اند.\n\nاو افزود نیروهای دولتی در جبهه الاقروض در استان تعز پیشروی کرده‌اند. این آمار به‌طور مستقل تایید نشده است.\n https://iranintl.com/202610234796",
       "source_id": "tg_IranintlTV",
       "source_name": "@IranintlTV",
       "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
       "category": "telegram",
-      "published_at": "2026-10-23T21:49:03+00:00",
-      "published_epoch": 1792792143,
+      "published_at": "2026-10-23T23:18:52+00:00",
+      "published_epoch": 1792797532,
       "rtl": true,
       "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/EYqxWE9V-E5y_lXYqDVJZu0R4Ib1i5Az28DGLcTcvENyFxrKnjYIlyCDocjhSuWx544WDFvhFSKR6LUdpVPzdF9m4OaVldeaAGT0uUosQkFvuMw4qCGkBgmdgxjNKsXNpzlGJoJCdwzl6DgG1ZBkykhgCQxSwr032PZMkncgzUA-RXZ8xL43p2XwCDR5J4_zSAMrmeK3HXjHliw6XhcROehZPSlC4JRMB_eEzpqcmALJIxPcuiCSdfyp654Oq_J4MkH0SSWguD11JRA-moNA4TMko3VjHx_dFFqzCE5GTEphMrqjKucYgQDxrh3ffWJsjmF4YI8wtctZfZPuIWAMPA"
+        "https://cdn4.telesco.pe/file/agPACvG0rn-aEr3SwdylUfA_VTvkYMoSeObR7bjn9X-Zj7AE1fAre5FCvRGlcEb0BEwy-VULzzyz67FXXlgsdHS1ka5Eq3uRbeEnNqlMYkbbkPxqoBnWLuezSDCleeOmkIqcNF0FYaibevPNarbartO-t9V0nBntZki9P2TK212f5DhfX7vhNcP-FMxX82ZOmiJv89F-WSK_Aazl51McK_gp-3H5VT3kLYKVPsbzJZiMMoi7qedUMsyLJ6wMeqv2q-DXZEHPssqzzBL2auL2DFOR0hradYfMECdGFT9aQUH7gFvtukwEKMAWW9WgiVZS7xmU4KTReqZR1Ex_dU3Skg.jpg"
       ],
-      "local_media_path": "media/2026-10-23/054cafcde15cac90.jpg"
+      "local_media_path": "media/2026-10-24/f46950933294604a.jpg"
+    },
+    {
+      "hash": "fe73c8904378e4b4",
+      "title": "انتخابات پارلمانی اسرائیل پنجم آبان برگزار می‌شود؛ انتخاباتی که می‌تواند به ادامه نخست‌وزیری بنیامین نتانیاهو یا تشکیل د...",
+      "link": "https://t.me/IranintlTV/363631",
+      "summary": "انتخابات پارلمانی اسرائیل پنجم آبان برگزار می‌شود؛ انتخاباتی که می‌تواند به ادامه نخست‌وزیری بنیامین نتانیاهو یا تشکیل دولتی جدید منجر شود. \n\nاما در نظام سیاسی اسرائیل، پیروزی حزب نتانیاهو لزوما به معنای ماندن او در قدرت نیست. حتی اگر لیکود بیشترین کرسی را به دست آورد، نتانیاهو برای تشکیل دولت به حمایت اکثریت پارلمان نیاز دارد.\n\n در این ویدیو ببینید که سرنوشت نخست‌وزیری نتانیاهو چگونه تعیین می‌شود و چرا عدد ۶۱ مهمتر از جایگاه حزب او در نتایج انتخابات است؟\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-23T23:16:42+00:00",
+      "published_epoch": 1792797402,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/ECYMxQDTiZgITU-0mJvEC5vGTNrBF1Kn8JLCnpBgYvXC6TRNef1JpZGsyRF_aAdXzPmtG8pX4tu-BE1GJsRk9SS9nvtc_QRgyCj9wj74vjdvQv-W3WBouX8oXTL0pfuR3Sqvr2fL1JZz27PJ7kNbqkH6x4bAtQaVlCSPdK-BGyCCRzUmn0CiujID4HdRY5z7XiFbI9hCKGfumCYfFFVcQ1RCJlYIp7c8M_roRPVsX41fRWCkNiSxOsgZsuI2bQoGA_pnCcwJEzA7rW_Udi2cbmaYFL6KHelyGH-pcdMpIrL5ktZONombx5WnaRuOKxt95CWpyzAxfPGNQZcnQTuOQg"
+      ],
+      "local_media_path": "media/2026-10-24/6f854e7a3ad9bbc6.jpg"
+    },
+    {
+      "hash": "925dde2165363061",
+      "title": "آیا دونالد ترامپ در تلاش است بر انتخابات برزیل تاثیر بگذارد؟",
+      "link": "https://www.bbc.com/persian/articles/c6jdmrxev15go?at_medium=RSS&at_campaign=rss",
+      "summary": "در آستانه دور دوم انتخابات ریاست‌جمهوری برزیل در ۲۵ اکتبر، نظرسنجی‌ها نشان می‌دهند رقابت میان لوئیس ایناسیو لولا دا سیلوا، رئیس‌جمهور چپ‌گرا، و سناتور فلاویو بولسونارو، رقیب راست‌گرای او، بسیار نزدیک است.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-23T23:13:29+00:00",
+      "published_epoch": 1792797209,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59a9/live/f4cdedf0-ce2e-11f1-9a39-31b474234113.png"
+      ],
+      "local_media_path": "media/2026-10-24/235dabfd2257e7e8.jpg"
+    },
+    {
+      "hash": "f5b0dbe1af0af7a2",
+      "title": "کونته مذاکرات با منچستریونایتد و یوونتوس را رد کرد: زمانی بر می‌گردم که شرایط مناسب باشد",
+      "link": "https://www.iranintl.com/202610238829",
+      "summary": "آنتونیو کونته شایعات درباره مذاکرات پیشرفته با یوونتوس یا منچستریونایتد را رد کرد. کونته در بیانیه‌ای دراین‌باره نوشت: «در حال حاضر هیچ مذاکره‌ای در مرحله پیشرفته نیست. زمانی بازمی‌گردم که احساس کنم شرایط مناسب فراهم شده است.»",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-23T23:11:29+00:00",
+      "published_epoch": 1792797089,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/ddc7baf6f065e5d84517df290e78f124b81db651-1335x917.jpg?rect=0,110,1335,699&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-24/17a373dea81b61f4.jpg"
+    },
+    {
+      "hash": "10eb2572c9ec078c",
+      "title": "جودی دنچ: دیگر نمی‌توانم روی صحنه بروم، فیلم بازی کنم یا کتاب بخوانم",
+      "link": "https://www.bbc.com/persian/articles/cmvg9q8z4de8o?at_medium=RSS&at_campaign=rss",
+      "summary": "جودی دنچ، بازیگر برنده جایزه اسکار، می‌گوید بیماری چشمی‌اش بیش از یک دهه پس از تشخیص، او را از بازی روی صحنه و حتی مطالعه ناتوان کرده است.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-23T23:11:26+00:00",
+      "published_epoch": 1792797086,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf0d/live/be73bd80-ce14-11f1-9a39-31b474234113.jpg"
+      ],
+      "local_media_path": "media/2026-10-24/123a87f6c4bf128b.jpg"
+    },
+    {
+      "hash": "f2df39f56e390e21",
+      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnBrNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpSZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5",
+      "summary": "Amazon cloud capacity sold out through 2027, CEO Jassy says    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-23T23:07:43+00:00",
+      "published_epoch": 1792796863,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "3472ef78ccc67998",
+      "title": "ویدیوهای منتشرشده در شبکه‌های اجتماعی آتش‌سوزی مهیب یک خودرو در محله عظیمیه کرج در شامگاه جمعه یکم آبان را نشان می‌دهد. ...",
+      "link": "https://t.me/IranintlTV/363630",
+      "summary": "ویدیوهای منتشرشده در شبکه‌های اجتماعی آتش‌سوزی مهیب یک خودرو در محله عظیمیه کرج در شامگاه جمعه یکم آبان را نشان می‌دهد. رییس سازمان آتش‌نشانی کرج گفت یک خودروی حامل میلگرد در سراشیبی از کنترل خارج شد و برخورد باک سوخت آن با جدول به انفجار و آتش‌سوزی انجامید. تا لحظه انتشار ویدیو، گزارشی از میزان خسارت منتشر نشده است.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-23T23:05:22+00:00",
+      "published_epoch": 1792796722,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/Snct18_o2PUYwfcGMkMHGXIZwVCLjNPUKMv5RBsv5RrssSxIKXGhWTJxF3Hj_1im7XYMAIE_yUY3QEoFMENSRhgp3yd3ftAvfAaPEJfnJKqKe41jO6S0PAhk658-0ft2pORlIDSym02TA42MX1UXvP8OvO1mEesvoIkeUacMDz5Oct-qhe7xvVMYSpw-TSQTKH0bRAtbC2OuL-UPdoMpHskzSbJyDbFbwyibYnzWOpp6XHJJDy9oqVoEXW852hIqVwovzuFwpzLWlq8_JysLaPObie_gd6vy6fK1iA6HW8eOsJ6sipkWcqqNlJ2qm-oGa-CA8l2DDYCLMJRWP_-pJA"
+      ],
+      "local_media_path": "media/2026-10-24/f227f423a43752aa.jpg"
+    },
+    {
+      "hash": "6a91444f1ef941f7",
+      "title": "لیلا مروتی، تحلیل‌گر سیاسی، گفت کشورهای اروپایی به دنبال توافقی مشابه برجام با جمهوری اسلامی هستند، اما دونالد ترامپ خوا...",
+      "link": "https://t.me/IranintlTV/363629",
+      "summary": "لیلا مروتی، تحلیل‌گر سیاسی، گفت کشورهای اروپایی به دنبال توافقی مشابه برجام با جمهوری اسلامی هستند، اما دونالد ترامپ خواهان پایان کامل برنامه هسته‌ای تهران است. به باور او، این اختلاف اساسی باعث شده تلاش‌های دیپلماتیک اروپا تاثیر محدودی بر تصمیم‌های واشینگتن داشته باشد.\n\nمروتی افزود نشست استانبول با وجود حضور کشورهایی مانند ترکیه و پاکستان، به دلیل غیبت طرف‌های اصلی درگیری و نبود نقشه راه مشخص، نتوانسته زمینه موثری برای توافق فراهم کند. او معتقد است تلاش‌های کنونی میانجیگران برای جلوگیری از دور تازه درگیری‌های نظامی، چشم‌انداز روشنی ندارد.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-23T23:03:39+00:00",
+      "published_epoch": 1792796619,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/O7GiEXQ-fIeyR4V7R5BKQLauICgK-KMrTAukkqK_MDYr4FJ--3nyx4QRk2DTiN_mFrPs2Z0g5j8kl3P1k3KHb6FsJSLIRXIfXoWQJHVhsGmz7NEtT0y7xHTrSSOuz0U1aFzXz4upjY7kIztFpz7ZTPELjEKqsLxe-xamO-KJzceEVLJvdrec3_k72e7nkA7Epg325E2DnypTKVVar9hDDpP9fEip7J9w-dSuO9aPqAjN7VJ1JBUSAifbjiQIrnw1XxYrEkCtZS9r78rqeKbjZV_RL7DFbHlDkDORJvSnRVYH4FEZKdUVmaiQIN2EFzLJ8MjkUXDJG7CyWkcH3-bMtA"
+      ],
+      "local_media_path": "media/2026-10-24/3ba3be583417cedd.jpg"
+    },
+    {
+      "hash": "236868678a50e487",
+      "title": "محمد قائدی، مدرس روابط بین‌الملل، گفت با وجود نشانه‌هایی از احتمال حمله نظامی آمریکا به ایران در روزهای آینده، به باور ا...",
+      "link": "https://t.me/IranintlTV/363628",
+      "summary": "محمد قائدی، مدرس روابط بین‌الملل، گفت با وجود نشانه‌هایی از احتمال حمله نظامی آمریکا به ایران در روزهای آینده، به باور او محتمل‌ترین زمان آغاز عملیات، پس از انتخابات میان‌دوره‌ای آمریکا و تکمیل استقرار ناوگروه آمریکا در منطقه است.\n\nقائدی تاکید کرد اختلافات عمیق تهران و واشینگتن بر سر برنامه هسته‌ای، تنگه هرمز، تحریم‌ها و آزادسازی دارایی‌های مسدودشده، امکان دستیابی به توافق را بسیار محدود کرده است. او معتقد است دیپلماسی دیگر نمی‌تواند مانع رویارویی نظامی شود و پرسش اصلی، زمان آغاز حمله احتمالی است.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-23T23:00:09+00:00",
+      "published_epoch": 1792796409,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/QT8VrT6Cq9sJjjRNkQZh10XLc-8A5R0OlN-zDOUyWUKVrA8aZrSsJa9QujFc9wybMcXV_T_aiwJHzsYrbxYe46ZlvHC5_ow5KodbfnXxutU4pAZjP9lHnqAnrFo_5DwfsOzZrHWS2QqKOjYGCpTGyokAXPQwqZj2jNF0xs8ROrQex5TJxHGSOoDISy1qFpxE0Yxy47OlZw-pPtSuEFtpVQ75ySiIq7HRBIBiaSsFvOGmldSQ0Gm10RGyhohtiaQpxbbGVEuem7lKrp2NP7VJB4FEL9T7QRwldjZzoFjtMTtK-EZimPI3GaNhUqIm6h5M__ANG1tSX07cfR5IZInJAQ"
+      ],
+      "local_media_path": "media/2026-10-24/8d7b6c09faf6db55.jpg"
+    },
+    {
+      "hash": "fde736f6cb40bdef",
+      "title": "بچه‌هااا",
+      "link": "https://t.me/MatinSenPaii/5675",
+      "summary": "بچه‌هااا\n\nیه روش پیدا کردم که کانفیگش روی اینترنت‌های مختلف تست شده و نتیجه‌ش واقعاً خوب بوده! 👀 💙 \n\nتوی این آموزش یاد می‌گیریم چطور با Blue Knight Panel روی هاست رایگان کانفیگ بسازیم 🎀 ✨ \n\n 🎬 ویدیوی آموزش رو از دست ندین: https://youtu.be/VLUi1vG3_mA \n\n ·:¨༺ @BlueKnight_Net ༻¨:·",
+      "source_id": "tg_MatinSenPaii",
+      "source_name": "@MatinSenPaii",
+      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
+      "category": "telegram",
+      "published_at": "2026-10-23T22:57:21+00:00",
+      "published_epoch": 1792796241,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/p4Ctbax13ZikaViA2gifW_TLS3CCW_k10eZWX32pRS1jfPBsTsAbYWv78MKhQWug339PgH3pGlnDQfGK3_TZTneAo6dJVBUHODsimTmjXCx3Net9OK6chBz8xKG1ANA4VxyArblDfXpodg2YavKQty8lJ00wCB8rUqu26OsPHImHFgNtcBDsyRR4RjxYwmmZtQ-1q5H06Hv1lHK8YAL-OlREqgsSI4n93q6SEVn1BxFA962RTOfAQaduruhRF_gWi6a3NCpQXkGD_ZQs-oP2le_mIM5dksTToFmeP5o1dKP0PNXgvFx_iwh9125yj3MpIgjspmXfEdkofIOa6z-_3A.jpg"
+      ],
+      "local_media_path": "media/2026-10-24/67b0f3d97eed7d32.jpg"
+    },
+    {
+      "hash": "1392ff6007902ae5",
+      "title": "اسکات بسنت، وزیر خزانه‌داری آمریکا، اعلام کرد صادرات نفت از خلیج فارس، با وجود تلاش‌های حکومت ایران برای ایجاد اختلال در...",
+      "link": "https://t.me/IranintlTV/363627",
+      "summary": "اسکات بسنت، وزیر خزانه‌داری آمریکا، اعلام کرد صادرات نفت از خلیج فارس، با وجود تلاش‌های حکومت ایران برای ایجاد اختلال در انتقال انرژی، از سطح پیش از درگیری فراتر رفته است.\n\nبسنت در پیامی در شبکه اجتماعی ایکس نوشت صادرات نفت از این منطقه با قدرت در حال افزایش است. او تاکید کرد که به باور او، تهدیدهای حکومت ایران نتوانسته جریان انرژی به بازارهای جهانی را متوقف کند.\n https://iranintl.com/202610238050",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-23T22:53:00+00:00",
+      "published_epoch": 1792795980,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/RSq-Cj8BBXG0-R4N_9pE44yjyTi3jEYsE2-Nm0XbsKYjzFNHeTqjlIA9vVyOVugEiQ2LKqzGcEwas6KjgdgRfTnpenij6IS3oNocUPJG7Dlf_WTJsvJCk7cnCo5_izytP0vWm_eZAU5DEOggMvxs6x9qD6GNH7f2tLLAeNqVEz4wDFCnd0SfnTTPekUR3FuiXsjCiLP9YW_dJDNtxdw5YFNLHto2XJq060bNfldS5yfzV1W9kun5i1NHVhv6kc45jhZZZ3wPamzWeBgS4C51snf2HM0Oyjr2qTEF3n4-CGeZqrsfexIGK__WFdQM-BT2jmP6d76ig6bR8m9o-q8odA.jpg"
+      ],
+      "local_media_path": "media/2026-10-24/d1aa0b64822ad00f.jpg"
+    },
+    {
+      "hash": "5eef22ba5aadcab1",
+      "title": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
+      "summary": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-23T22:30:23+00:00",
+      "published_epoch": 1792794623,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "b9c85bcd1f42baaf",
+      "title": "🔻 حمید علیدوستی، بازیکن پیشین تیم ملی و هما و مدیرفنی فعلی تیم چادرملو و یکی از خوشنامترین فوتبالیست‌های ایران، مدتی است...",
+      "link": "https://t.me/IranintlTV/363626",
+      "summary": "🔻 حمید علیدوستی، بازیکن پیشین تیم ملی و هما و مدیرفنی فعلی تیم چادرملو و یکی از خوشنامترین فوتبالیست‌های ایران، مدتی است در بستر بیماری به‌سر می‌برد. \n\n 🔹 گفتگوی مزدک میرزایی با محمد تقوی در برنامه هت‌تریک\n\n 🔹 تماشای نسخه کامل هت‌تریک؛ 👇 \n https://youtu.be/yETYwzUt7l4 \n\n @iranintltvsport",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-23T22:29:10+00:00",
+      "published_epoch": 1792794550,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/d4gF4rmSmvLWPiXdIGMvsqFerhy3GMj0yfrGQwSll_1nJ9hnm0rR2ncW1UUzsPxCpdWBBrlpDVYipmXj5N0B6jfGMAq0tKLTX9-ouYkqEAhPl-Zx_yZuQfB_4nAd-cObtIUHzQEc5VdcziP-QP68BpWsViOkFNugA0HPdToYqfThAvd4QCBj--ubV6EIo4kDk-fMJKaGOBrbWMc8Z_GFsrY0f1UZJiDVvRLWG4B-t0KjK6jklB01LDDRj9TT2t3uk3y5fhMrfbn0u47FbVmB7yjPmG8MarMfjUjQFBN3OoZTFs_rD08fj1ahT-oMozA9EhkmLEgiJTi0u3DGoIsweQ"
+      ],
+      "local_media_path": "media/2026-10-24/d110d4c5665ea810.jpg"
+    },
+    {
+      "hash": "946e5e590fd016e4",
+      "title": "واشینگتن‌پست: قمار دوباره بر سر تغییر حکومت ایران؟",
+      "link": "https://www.iranintl.com/202610231150",
+      "summary": "دیوید ایگنیشس، ستون‌نویس واشینگتن‌پست، با هشدار درباره احتمال ازسرگیری جنگ با ایران می‌نویسد واشینگتن هنوز هدف روشنی برای دور تازه نبرد ندارد. به باور او، آسیب‌پذیری پایگاه‌های آمریکا و ناکامی در تغییر حکومت ایران، بازنگری در راهبرد نظامی را ضروری کرده است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-23T22:13:00+00:00",
+      "published_epoch": 1792793580,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/5dd30d3a1e8643a876dd49c8041d3fda31e5bdbf-961x641.png?rect=0,70,961,503&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-24/be26fb5842c046ea.jpg"
+    },
+    {
+      "hash": "ec3dd2311ce99785",
+      "title": "سرخط خبرهای شنبه ۲ آبان",
+      "link": "https://t.me/IranintlTV/363625",
+      "summary": "سرخط خبرهای شنبه ۲ آبان\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-23T22:11:31+00:00",
+      "published_epoch": 1792793491,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/Ai3Pg6MnK7eB250-bKFBbXs8hu7tijwWmBMyT1H7ZMt0dCaMvF_1_15tC_UBiYKU87DK2pH-ewQifMKP0v1DooC04Q2k8fqpoaiJhYK2vh6rzuTifxURsZX96foLaTu3zJfQdQ-3GFWZnxc3ssv2sdCNKlTIAGSaaYMCUZYT-kNawSpS9RhGT-vZ69hZUpcAhZR230h_TrGBwmPU9J-APErfaGk4TmJmG4rdotsK9yIMlsXskGJX29T4H1mlxZ90B53ONTfNt0TTnLqiZsOaghtHyimEQ_-OHETlMul-Pfv9XsxT0jN38ICJc3VWgXk0bCMfHuP5N8zoajm4oH3CIQ"
+      ],
+      "local_media_path": "media/2026-10-24/8e47e35cfde5e3db.jpg"
+    },
+    {
+      "hash": "4a6b797d35227afa",
+      "title": "مجارستان: هفتاد سال پس از سرکوب شورش، رهبران قربانیان قیام را گرامی داشتند",
+      "link": "https://parsi.euronews.com/video/2026/10/24/hungary-70-years-after-soviet-crackdown-leaders-honour-uprising-victims",
+      "summary": "هفتاد سال پس از قیام ۱۹۵۶ مجارستان علیه حاکمیت شوروی، نخست‌وزیر پتر ماجر یاد قربانیان را گرامی داشت و اورسولا فون در لاین بر اهمیت آزادی و دموکراسی تاکید کرد.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-23T22:08:47+00:00",
+      "published_epoch": 1792793327,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "249d96e71e1ad83f",
+      "title": "آمریکا با نگرانی از تشدید تنش‌ها، دیپلمات‌ها و خانواده‌هایشان را از خاورمیانه خارج می‌کند",
+      "link": "https://www.iranintl.com/202610231635",
+      "summary": "سی‌ان‌ان به نقل از منابع آگاه گزارش داد آمریکا در پی افزایش نگرانی‌ها از تشدید تنش‌های منطقه‌ای، شماری از دیپلمات‌ها و خانواده‌هایشان را از چند کشور خاورمیانه خارج می‌کند؛ اقدامی که با انتقاد از آشفتگی روند خروج و ابهام درباره حمایت مالی همراه شده است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-23T22:07:08+00:00",
+      "published_epoch": 1792793228,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/f89fc0093838fcad3bc537a48d707d3bc9e6afcf-800x524.jpg?rect=0,53,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-24/ab03dc89da0d0bf8.jpg"
+    },
+    {
+      "hash": "c330447fa1588f5d",
+      "title": "Instacart in talks with DoorDash and Uber for sale, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFhIZ0lVMTlGNkdkWGFJRTVKSVhYUDhYZXBJWGRRSVFOeU5IYWdzbEdDblloYk1pUUhVTXFkZUVnR2lzLXNZelNxc25PRVNocDZiODV5LXBGYVVCNzBtb2JHNHBwc1BCREdUSE9PcUQxNjVXRkl4T2ZIYXVDVTBqeGNVTmM2ejN1Y3cxbUF3?oc=5",
+      "summary": "Instacart in talks with DoorDash and Uber for sale, The Information reports    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-23T22:06:55+00:00",
+      "published_epoch": 1792793215,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "481b0d8864baff88",
@@ -118,7 +431,22 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/ugUkqjnN8z5ong2GFsVQYuCxK34dlueCbQEa6aRzr89T8_qQvf7EpuUDA4bd0nxv2g2mnQyTSxIfZ7kv-cDIMoH1MhY5HSfLnH748z8FXE3U-7iKZQQX3d5LBTqGR6CDOdQIr1Ler7x2QUXBIG1OdQQVy8N_S-dkj3QvnRLAoO_GFx2QALS-dCAkVR4JDn19Sl8J6THbb7ADb_WAe3A4OwkUYUHRlLLTyi6rNIoUCaKLczFluM1lWNH9CK1SmZSWQjsWcbDMcMzNXNnvK8S77wW7Ws3KAGErjIQJfOLabIeyk0tALNZq1EkIEQz1Ql0Y94A1CvgzOBGNKNLDMR9WzQ.jpg"
       ],
-      "local_media_path": "media/2026-10-23/20cf66c1f7996248.jpg"
+      "local_media_path": null
+    },
+    {
+      "hash": "903ea1e5c781ef05",
+      "title": "In Florida, Trump vows to deal with Cuba after Iran settled - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaW1UZUdScXEwTWVUNUJxcDkyWmV1TDREckM1RnRCTFR4VjBuVmk2Vm9OVF83d2FLdTdnSGN2N0FGNURpVXJKbzR4bWI3b05TY3pPWGgzRnZvX2N4SEQ4cmw3blpTZktVMXd4UDlFeWpFcG9jX1FJcTN3OW1WVW5UTnFfQ3BqdHRwNFAzOGRsc1Nyc0N6TENyVDJaeW9ZSExlSl9adExjYmQ?oc=5",
+      "summary": "In Florida, Trump vows to deal with Cuba after Iran settled    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-23T21:36:55+00:00",
+      "published_epoch": 1792791415,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "c07578de7ae7e0e6",
@@ -136,55 +464,19 @@
       "local_media_path": null
     },
     {
-      "hash": "64bb5ebf35915420",
-      "title": "هم‌زمان با ادامه تلاش‌های دیپلماتیک اروپا برای کاهش تنش‌ها با جمهوری اسلامی، اظهارات تند بنیامین نتانیاهو و تحرکات نظامی...",
-      "link": "https://t.me/IranintlTV/363619",
-      "summary": "هم‌زمان با ادامه تلاش‌های دیپلماتیک اروپا برای کاهش تنش‌ها با جمهوری اسلامی، اظهارات تند بنیامین نتانیاهو و تحرکات نظامی آمریکا، احتمال دور تازه‌ای از درگیری‌ها را در کانون توجه قرار داده است.\n\nکامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت مسیر دیپلماسی و آمادگی برای اقدام نظامی به‌طور موازی پیش می‌روند، اما برداشت دونالد ترامپ از توافق با جمهوری اسلامی با رویکرد کشورهای اروپایی تفاوت اساسی دارد. به گفته او، ترامپ به‌جای مذاکرات طولانی، خواهان پذیرش شروط مشخص از سوی تهران است و با توجه به انتخابات پیش‌روی آمریکا و اسرائیل، محاسبات سیاسی و نظامی پیچیده‌تر شده است.\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-23T21:31:13+00:00",
-      "published_epoch": 1792791073,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/tTr-rsAYJHqdJqtJ0Xf1VDjhzp1uDBsVH6F0Q31el4swf21r848jZkZ3UgAQNkZXBz5o-UJUZjUhQCO5o2S6ItWziRf4iSFNCIn0s4524XN0RdkKcRvzJ8ugMJ9WNIEq638fefmt6o_CeDXDhsWWHI0VGbMqFr3Ddwo30coDmAIVnl-51SPCAdDImOztgzelWWZdPrYgpcrxnPGZ7b_dODN_i9SSDQAsiMhDNL9c9LsvwIplBrgpU1vNyJFgiRM8DPOZBZHpBoHK8d2o2SOpxOCeqOCubaTmPnQ4e-HMAk4iZBxBU0iujZhWncMsgBs7xV7wFSLkdnfvERnXvxu4yQ"
-      ],
-      "local_media_path": "media/2026-10-23/72f72c44cace5b90.jpg"
-    },
-    {
-      "hash": "eb9b25a633b271ef",
-      "title": "🔻 محمد تقوی، ایران اینترنشنال در برنامه هت‌تریک در آنالیز بازی چادرملو-استقلال گفت: «استقلال درحالی که در بازی‌های پیشین...",
-      "link": "https://t.me/IranintlTV/363618",
-      "summary": "🔻 محمد تقوی، ایران اینترنشنال در برنامه هت‌تریک در آنالیز بازی چادرملو-استقلال گفت: «استقلال درحالی که در بازی‌های پیشین این فصل، خط دفاعی مستحکمی داشت،‌ اما در بازی با چادرملو، تیم سهراب بختیاری‌زاده، در دفاع پر ضعف و پر از ایراد بود.»\n\n 🔹 تماشای نسخه کامل هت‌تریک؛ 👇 \n https://youtu.be/yETYwzUt7l4 \n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-23T21:18:43+00:00",
-      "published_epoch": 1792790323,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/FHZwvjrO6I3l8VBixloQYWk7uAxkaXAoQhuv8YYoCqjHYmmBrapzod6sc6rsUGJuLlVsHq1-JhPRO2wJmO6Ke0jQqEp5WtlphAPS9Apv4aSiNEdEcdZXaPuTmYosMC9dmNL123IMJ6VTpSBAsVELI_xoFH7m6vbS53cFEFa-dJ7ycGt0FeTG7ft_ojsw6dWN-3wu6en1Fnr2AI0dzL5mWI_em2OCp7rFrCpVCBAkUmdtChuPNwsxaBvhLupXz_WlaIbVhRfZ8xraxpZ_mBdho6-GTIr3eoNsbBSPJ2OTOOx9YjiualzzdfHypGln5rFWIKTEJu7MMp2Ne83ijLxuhw"
-      ],
-      "local_media_path": "media/2026-10-23/97429831884a4f01.jpg"
-    },
-    {
-      "hash": "f54ee7a50330753e",
-      "title": "🔻 تیم فوتبال استقلال در هفته دهم لیگ برتر مقابل چادرملو اردکان با تساوی یک-یک متوقف شد. این درحالی است که به نظر می‌رسید...",
-      "link": "https://t.me/IranintlTV/363617",
-      "summary": "🔻 تیم فوتبال استقلال در هفته دهم لیگ برتر مقابل چادرملو اردکان با تساوی یک-یک متوقف شد. این درحالی است که به نظر می‌رسید بازیکنان استقلال بیش از همیشه خسته هستند.\n\n 🔹 توضیحات مزدک میرزایی، ایران اینترنشنال در برنامه هت‌تریک\n\n 🔹 تماشای نسخه کامل هت‌تریک؛ 👇 \n https://youtu.be/yETYwzUt7l4 \n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-23T21:17:30+00:00",
-      "published_epoch": 1792790250,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/N2HhPYdbPKBytYnOlUXBJxhvrOgf5cXyQL8RWmzjkXXa9Q7aIkB-qB5woES11-5F3SpM0WVfmgU35BCk_oFbT4kVLwxgVB5Q3OYWTf9v-pbc46iwBIQqY6Vz6R_qWoo33Sh5IEr8kUqfAqPlalLFeNQ4jwKYDrcd0a8I0bCF55W0mDDnGaQG-mwen4m3c7gxpHqvG17WGgepAmNTspLQWZZV_tBunPBdY_ppASWp0m_A30nOpW0-8yLvNJCBXZDeSqxv30rGClSWmS9rH-DYFQXz7VCHqhQGz0_Ijzil0Bd9Nn8QBPQ4Y4tWU9JipRRJuUB9ydF85z3GsHtLp37Iow"
-      ],
-      "local_media_path": "media/2026-10-23/58e051cf4acfead9.jpg"
+      "hash": "c61bf2a19e4c5af0",
+      "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+      "summary": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-23T21:16:00+00:00",
+      "published_epoch": 1792790160,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "8ea84901cc97db19",
@@ -204,6 +496,36 @@
       "local_media_path": null
     },
     {
+      "hash": "454687e1574208c2",
+      "title": "Argentine judge clears President Milei of wrongdoing in meme coin scandal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTlKUWt1eVRXTDJiamJoRFpodVg4ZVhxR3RyZGRncnQwLVd0OUFNcElzM1dOQnpmQlFWM2tkNWdFZGVNcHpXa1hQT2NmV1RtV2ljcW9kWmk4djI3YTdVdW5aaXROSk5IOFBjY3hlNTc1ZFJmNW12YWtrUXNjWW1iQk85VWJ3cGIyV0hOUXpGNy1NWW5CNjdnMTZFNDhhb0J0b0dpU1g1c0JNUHdEdHhXd3FyT2VZdVNtcDRfdkgzaEJlUFU?oc=5",
+      "summary": "Argentine judge clears President Milei of wrongdoing in meme coin scandal    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-23T21:15:02+00:00",
+      "published_epoch": 1792790102,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "d0c57985cefa00a3",
+      "title": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says - AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWlvaks4NXljX3RhX2QxSGlPSFZSZ2V0dWZwdV9QZWhrbXhaRXh1WThQNXFpU0ZJZW53SDB6SlhINWVuTmdzeG83OERFTjBZclBEakZ2Mzc5LWZfelhZcVdmMUZvZUhWWkhwMkFMb0Z4elVYTEw4SVBfYkJOTnNpem9CNFZDbnd1R1VTejZmWlVfMnhGQUVQQjRKc3hUTmpM?oc=5",
+      "summary": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-10-23T21:11:00+00:00",
+      "published_epoch": 1792789860,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
       "hash": "aa20ea373b328071",
       "title": "حمله مرگبار افراد مسلح به مراسم خاکسپاری در کلیسایی در اردن",
       "link": "https://www.bbc.com/persian/articles/cwm230e07g3vo?at_medium=RSS&at_campaign=rss",
@@ -218,53 +540,6 @@
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b1a5/live/813846b0-cf23-11f1-b441-2b33b063138f.jpg"
       ],
-      "local_media_path": "media/2026-10-23/3ce15f55ad498ab3.jpg"
-    },
-    {
-      "hash": "3f2d23826b994d94",
-      "title": "هم‌زمان با ادامه کارزار فشار و انزوای اقتصادی آمریکا علیه جمهوری اسلامی، دونالد ترامپ گفت واشینگتن می‌تواند جنگ با جمهور...",
-      "link": "https://t.me/IranintlTV/363616",
-      "summary": "هم‌زمان با ادامه کارزار فشار و انزوای اقتصادی آمریکا علیه جمهوری اسلامی، دونالد ترامپ گفت واشینگتن می‌تواند جنگ با جمهوری اسلامی را «خیلی سریع» پایان دهد.\n\nترامپ با مطرح کردن احتمال اجرای عملیاتی دیگر مشابه «خشم حماسی» علیه جمهوری اسلامی، تاکید کرد تهران می‌تواند با دستیابی به توافق، از حمله دوباره آمریکا جلوگیری کند.\n\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-23T20:59:26+00:00",
-      "published_epoch": 1792789166,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/vJlot5MN-Tm6V5LboJU_jmG0LBg_Dk0FZn4ZA5I2-u3wfo-AyirmUTXvLa9USuAc5R5WHobIrlPOUbeSaSebYZ6f_epvlHy2cBYaf9h9CEnGoXLfDMX4ew7CblDDGE1Z9AN0luFxOia1m8d0jX9-bpSmA5i3juavaOKayW93jw9tqtjoNHdRRHpDDLjT_Czi6B7N2l58bfVVKLTnsN6s4xsFsQEc5bvPJBqf-ymM7Naq0WrJsMfFhvlqyZ8aG0J6toVSI7300qkrM5gU6OvJXuRwSDxYvzMrpeYS5fQaQaJqzAnaVUtLWpotkhtLmIeyyCdqqW6ar7IdCsB1xFplGg"
-      ],
-      "local_media_path": "media/2026-10-23/0f499cca6282bb63.jpg"
-    },
-    {
-      "hash": "f2e47af2e403da5d",
-      "title": "No Source Code? No Problem",
-      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-      "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 \n Comments URL: https://news.ycombinator.com/item?id=50214994 \n Points: 4 \n # Comments: 0",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T20:38:06+00:00",
-      "published_epoch": 1792787886,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "e4445832589ddc5d",
-      "title": "A whirlwind tour of systemd-nspawn containers",
-      "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ \n Comments URL: https://news.ycombinator.com/item?id=50214983 \n Points: 6 \n # Comments: 1",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T20:37:12+00:00",
-      "published_epoch": 1792787832,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -276,23 +551,23 @@
       "source_name": "Reuters Wire",
       "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-10-23T20:15:36+00:00",
-      "published_epoch": 1792786536,
+      "published_at": "2026-10-23T20:26:38+00:00",
+      "published_epoch": 1792787198,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "c330447fa1588f5d",
-      "title": "Instacart in talks for sale, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFhIZ0lVMTlGNkdkWGFJRTVKSVhYUDhYZXBJWGRRSVFOeU5IYWdzbEdDblloYk1pUUhVTXFkZUVnR2lzLXNZelNxc25PRVNocDZiODV5LXBGYVVCNzBtb2JHNHBwc1BCREdUSE9PcUQxNjVXRkl4T2ZIYXVDVTBqeGNVTmM2ejN1Y3cxbUF3?oc=5",
-      "summary": "Instacart in talks for sale, The Information reports    Reuters",
+      "hash": "35f87a54cba2c5ea",
+      "title": "Trump says US will 'take care of Cuba' on its way back from Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSi0yX09qbUQwUnFtemR0RURPc1hNMXpkYmF5cXN2NmVuUEZRQ0NFS1AtMXVlT2gtTDNocWthM0xBS2NrTndlYXNIWnhoQy1CdjJsODBOU0V3RHFSZkRKb0FBOUtGUVJEMlhGTHdtR1UyTXhLWDR1SktFcjlCUm5BSGdkREhaa3NzNEY2VXc0dGxXM25XNW1XNVRjX3dCekNhRDNLMw?oc=5",
+      "summary": "Trump says US will 'take care of Cuba' on its way back from Iran    Reuters",
       "source_id": "reuters_wire",
       "source_name": "Reuters Wire",
       "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-10-23T20:09:03+00:00",
-      "published_epoch": 1792786143,
+      "published_at": "2026-10-23T20:21:43+00:00",
+      "published_epoch": 1792786903,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -312,7 +587,7 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/Jl39yz0NHMiCYb6S2m-lwbqn1CJcT0zJYLvhr0x6bEVuzPfGnIAJkttCCdl-3wdKxaBwGcsAE_4PpadaBjdQtaocf_giBoVsRltaBBvBcEG3NT0lQi1SqrQBDKwolPHgccFVuaJXKg_-ND4QLDmHXosoLTx7pNxVR2Wra2gY62b-KpUgI7rd_taY56WqgnExbZBvdlKHbPpRGALiRA4P4Q-5JivZmETOtInvwoJDV_Xr290WbIaoEgY_WO0tEZ_dpMkTC8Gp098VyYUXyTCepyfxwkBH19pT0gWK0dX0jaDlDAQrYxkJnfJntkszbKxMmzk_L9XyniLEgSFoUV0znA"
       ],
-      "local_media_path": "media/2026-10-23/489e569aaf768787.jpg"
+      "local_media_path": null
     },
     {
       "hash": "ca7c95281a787986",
@@ -329,7 +604,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/EhIFbaL4gJDkndjoD4IOTbDCwpCp8kNuZi3i-XO4hTZxIKVcn9L4zwsjaM9T7xAVewH3KOP2Yk7K6Qfie4g_mkhhWpaQDBqnO_U4EExFXgRVqkc4hiBuaGaPmg4EJ-sS59Uzjy6bQFbgjc0uXtoEpPxWYgwtywDELocBRwiGd-FXxBHRgvkDbuhbhpt39fWcv4Jj0YgkHBO6VfskIox9oW6htEkDPptoXlfPPxMntqhRnR70OmNojGjYctSW0hq168WWNHrir0OC7BxFKQXHX6srJqyAtlgYZ1MW0cFIGO8YG8-_aVk9roZNOSNEcJJgvTtIulMcEDSb4bhtHazjQg.jpg"
       ],
-      "local_media_path": "media/2026-10-23/cf1744aba6feaedd.jpg"
+      "local_media_path": null
     },
     {
       "hash": "f0e690f1f3471501",
@@ -362,113 +637,6 @@
       "local_media_path": null
     },
     {
-      "hash": "fda581d1d651d3a9",
-      "title": "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
-      "link": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
-      "summary": "Article URL: https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left \n Comments URL: https://news.ycombinator.com/item?id=50214447 \n Points: 39 \n # Comments: 20",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T19:53:55+00:00",
-      "published_epoch": 1792785235,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "260f4a60e72b4a6f",
-      "title": "OpenAI: Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ \n Comments URL: https://news.ycombinator.com/item?id=50214416 \n Points: 28 \n # Comments: 17",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T19:50:56+00:00",
-      "published_epoch": 1792785056,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "eff2bae0cc220cd1",
-      "title": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت ممکن است عملیات دیگری شبیه «خشم حماسی» علیه جمهوری اسلامی انجام شود و افزود راه دی...",
-      "link": "https://t.me/IranintlTV/363614",
-      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت ممکن است عملیات دیگری شبیه «خشم حماسی» علیه جمهوری اسلامی انجام شود و افزود راه دیگر این است که تهران توافق کند.\nترامپ جمعه یکم آبان در تجمعی در فورت مایرز فلوریدا گفت: «ممکن است یک خشم حماسی کوچک دیگر هم انجام دهیم؛ یا آن‌ها توافق خواهند کرد.» او افزود اگر مقام‌های جمهوری اسلامی عاقل باشند، مذاکره جدی را آغاز می‌کنند، اما بعید می‌داند چنین کنند.\nترامپ گفت آمریکا ظرفیت غنی‌سازی هسته‌ای ایران را در عملیات «چکش نیمه‌شب» نابود کرد و باقی کار را با عملیات «خشم حماسی» انجام داد. او همچنین جمهوری اسلامی را از نظر نظامی و مالی شکست‌خورده توصیف کرد و گفت هدف آمریکا جلوگیری از دستیابی آن به سلاح هسته‌ای است.\nترامپ افزود اگر جمهوری اسلامی سلاح هسته‌ای داشت، تمام جهان را به گروگان می‌گرفت.\nرییس‌جمهوری آمریکا بار دیگر از توافق هسته‌ای دوران باراک اوباما انتقاد کرد و آن را «یکی از بدترین توافق‌ها» و مسیری برای دستیابی جمهوری اسلامی به سلاح هسته‌ای خواند.\nاو همچنین پیش‌بینی کرد قیمت نفت به‌زودی به‌شدت کاهش خواهد یافت.\n https://iranintl.com/202610233524",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-23T19:45:35+00:00",
-      "published_epoch": 1792784735,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/qfOhsUPpmabPKtlYTIbY7ukL4CzFhIIsO_uvpDFbaH8omdGm9lYDNj1TawFWV0jf4s6u11yu6fnSxxf-kFrP3JPWk-f87Kl5CxFCYBurdFI4473VqYPCZD3uFf1wz5pBR1iz5KtzizVCIaHzisV1Q9KkeBdzMyczIqIeRODstwNdzR9qeFzobo5w_xjMx8FdKVjc5oe1iflCqUmOfFX4yNSVu0IfX9QeDnkFzJ7giDMAckSVKOVyq5lhMguXhei8N_AOFhUeYjbUrLAT3DDYqoebhrwPy3iQjAiCjgK59p0MleLZ12LD26lNN7GDI62S9mCNrienF1qJ31Mpwzs4JA.jpg"
-      ],
-      "local_media_path": "media/2026-10-23/a689e8276b22e8fd.jpg"
-    },
-    {
-      "hash": "ad72169f9c6d1636",
-      "title": "🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم",
-      "link": "https://t.me/IranintlTV/363613",
-      "summary": "🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم\n @iranintlTV",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-23T19:42:55+00:00",
-      "published_epoch": 1792784575,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "56455947c48bfce7",
-      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-      "link": "https://rune.build/blog/rune-1-3-release",
-      "summary": "Article URL: https://rune.build/blog/rune-1-3-release \n Comments URL: https://news.ycombinator.com/item?id=50214325 \n Points: 11 \n # Comments: 0",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T19:42:01+00:00",
-      "published_epoch": 1792784521,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "0b7bb359a3e2540f",
-      "title": "We are all living inside of an obscure sci-fi film from 1970",
-      "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-      "summary": "Article URL: https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/ \n Comments URL: https://news.ycombinator.com/item?id=50214323 \n Points: 57 \n # Comments: 28",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T19:41:59+00:00",
-      "published_epoch": 1792784519,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "00f71c70a2a4e78d",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update \n Comments URL: https://news.ycombinator.com/item?id=50214218 \n Points: 114 \n # Comments: 52",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T19:34:15+00:00",
-      "published_epoch": 1792784055,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "29fa022260f876dc",
       "title": "دو مقام جمهوری اسلامی: برنامه‌های دقیقی برای حمله به کابل‌های زیردریایی خلیج فارس داریم",
       "link": "https://www.iranintl.com/202610234362",
@@ -483,7 +651,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/e8b8d0d9b8f9cb8f1c1b4342b259c939fa76f6f0-2560x1586.jpg?rect=0,123,2560,1340&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-23/ddeeaefda6c3320b.jpg"
+      "local_media_path": null
     },
     {
       "hash": "8732f628460661ed",
@@ -500,7 +668,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/3d73a667cb5a91209cdf8593049c422f5cbce557-3744x2496.jpg?rect=0,269,3744,1959&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-23/ce1cb569088f11b7.jpg"
+      "local_media_path": null
     },
     {
       "hash": "245cb7e427669a0c",
@@ -517,21 +685,6 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/69075567b93a31d3018149ff57cc0caefb0d2415-2177x1396.jpg?rect=0,129,2177,1139&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-23/f73fe47cc96a44f7.jpg"
-    },
-    {
-      "hash": "8601c4119648bba2",
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "link": "https://block.xyz/dessa",
-      "summary": "Article URL: https://block.xyz/dessa \n Comments URL: https://news.ycombinator.com/item?id=50213925 \n Points: 105 \n # Comments: 33",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T19:09:54+00:00",
-      "published_epoch": 1792782594,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -550,21 +703,6 @@
       "local_media_path": null
     },
     {
-      "hash": "42daaa928625b95e",
-      "title": "DNS: A Replacement for Finger",
-      "link": "https://altchan.org/sh/42",
-      "summary": "Article URL: https://altchan.org/sh/42 \n Comments URL: https://news.ycombinator.com/item?id=50213791 \n Points: 8 \n # Comments: 8",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T19:00:04+00:00",
-      "published_epoch": 1792782004,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "901e6b4cec81296a",
       "title": "آیا حامیان قدیمی نتانیاهو در شمال اسرائیل این بار به او پشت می‌کنند؟",
       "link": "https://www.iranintl.com/202610231487",
@@ -579,7 +717,22 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/92ecc0f9cc4673d0a49ab89609736fd3160d88ad-6500x4333.jpg?rect=0,466,6500,3402&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-23/f2646a574b6f67ff.jpg"
+      "local_media_path": null
+    },
+    {
+      "hash": "11981e2a7a5ec97d",
+      "title": "اجلاس استانبول: تأکید ۸ کشور اروپایی و منطقه بر راه‌حل دیپلماتیک در جنگ ایران",
+      "link": "https://www.dw.com/fa-ir/اجلاس-استانبول-تأکید-۸-کشور-اروپایی-و-منطقه-بر-راه‌حل-دیپلماتیک-در-جنگ-ایران/a-79747261?maca=per-rss-per-all-1491-xml-mrss",
+      "summary": "وزیران امور خارجه آلمان و هفت کشور دیگر توافق کردند برای یافتن راه‌حل‌های دیپلماتیک در ارتباط با جنگ ایران همکاری کنند. آنها با هشدار به تهران و حوثی‌ها در باره حمله به کشتی‌ها،تاکید کردند که جنگ ایران راه‌حل نظامی ندارد",
+      "source_id": "dw_persian",
+      "source_name": "DW Persian",
+      "source_name_fa": "دویچه‌وله فارسی",
+      "category": "persian",
+      "published_at": "2026-10-23T18:52:00+00:00",
+      "published_epoch": 1792781520,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "e04c6104a016a5e3",
@@ -596,7 +749,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/9d6279ae8da39a36eec4eb32711f0dfac3670728-1500x1000.jpg?rect=0,34,1500,785&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-23/eb63a48556d09d8e.jpg"
+      "local_media_path": null
     },
     {
       "hash": "f880da7243fe657a",
@@ -613,36 +766,6 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/uXgx7alvWuCiPlg5V96IvpqOP_emq73L85CEDJo_72b9pkgeWd-s8DrP95UDEamyHvKEMcenbbkSsejHNfVIUe_LPnz06assWeO4g4Nf2LD-gml2qQDOmIlKnmZqvDwvoW6bOyRF8Ye6YSzwzRYeRtSc7QTmVEMXOc7INAI9DR7vX3eitLdNLYtKm9FA08un4beJwnnAKDVg-yjsHTiXUFPPiX0Twmggyc_ayOWcVjzTvjKdOPhqeJ6ppvA0VjvoJnhttAHYgIbuFsexgg8HUpK1RjpLo9JcnSfBvkxT8A8U05anx7WE6n91mf9OEi-5Ma-fRkZpmQwJUDL6n1TaSQ.jpg"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "281902224736ad50",
-      "title": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFpsT3JCZlkwblU1WFVQanptYWxJWHZTWnBkZHQyanA4bGd0ZWtyalhGYk13OVdiSmd6eDRyZHU0T1A3UXVYd21TMUpyQmFlelltOUpBVkxNVjRYaTNiWHpaYnBsT3libjhLSFZZY0J6LWpWd1JZX2RlcWtZVE9pcVhWbktFTVg5SDZQZnRzM1h6U3YxeEVwZVg5Nkg0WDUyeFJyWVItZFpEUEpkLUg5MVpXV0Q5SVdhUk1wQll3UlJjV0FH?oc=5",
-      "summary": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-23T18:26:54+00:00",
-      "published_epoch": 1792780014,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "6eb3f2fc8c4ae795",
-      "title": "Senator says planned Meta commercial terms update could harm US businesses - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWpYZWs5b0ZUaHpWaTQ3NDloSHRpXy1KVFMzUFVtUENVd29FeDljcWdzb1FpWmJoWFJROUwtWjBFUEZpamdObTF4b2JKTGJpV0JTX1FDczRaTlg3QXFUMXlqQU13WEVHOEhLLS0tU1pydWt6NU9jaFNxMXIzMlRpdjNYaS1WZ3F5c3pTSlI2QTAwQkpmMHNyMWhXUGFtcEhNRWlIQS1MenpJRC0wRTYyampvNndTXzQ?oc=5",
-      "summary": "Senator says planned Meta commercial terms update could harm US businesses    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-23T18:10:17+00:00",
-      "published_epoch": 1792779017,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -695,21 +818,6 @@
       "local_media_path": null
     },
     {
-      "hash": "c93c81122f511f0c",
-      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-      "link": "https://twitter.com/robbietilton/status/2111936458923851923",
-      "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 \n Comments URL: https://news.ycombinator.com/item?id=50212668 \n Points: 51 \n # Comments: 14",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-23T17:40:22+00:00",
-      "published_epoch": 1792777222,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "c282683540df344a",
       "title": "احتمال آتش‌بس میان روسیه و اوکراین در اولِشکی؛ مسکو و کی‌یف ۵۴۰ اسیر مبادله کردند",
       "link": "https://www.radiofarda.com/a/russia-and-ukraine-swap-270-prisoners-each/33883172.html",
@@ -740,40 +848,6 @@
       "rtl": true,
       "raw_media_urls": [
         "https://gdb.rferl.org/2d004766-c63f-4c94-bd1e-2a679d32217a_cx0_cy10_cw0_w800_h450.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "3baaaa1dbc0fa8ab",
-      "title": "نامزد ایرانی‌تبار حزب یاشار در انتخابات اسرائیل: باید برای سقوط جمهوری اسلامی تلاش کنیم",
-      "link": "https://www.iranintl.com/202610237255",
-      "summary": "نازنین شریفیان، نامزد ایرانی‌تبار و فارسی‌زبان حزب یاشار به رهبری گادی آیزنکوت در انتخابات پارلمانی اسرائیل، در گفت‌وگو با ایران‌اینترنشنال خواستار تشدید فشارهای نظامی و اقتصادی بر رهبران جمهوری اسلامی شد و تاکید کرد باید برای پایان دادن به این حکومت تلاش کرد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-23T17:28:01+00:00",
-      "published_epoch": 1792776481,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/a5753c26451c63a14c3269644b9adb61417490e9-2493x1362.png?rect=27,51,2466,1291&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "6e1b6a2b63f513d1",
-      "title": "ترامپ: پرسش این است که کار جمهوری اسلامی را یکسره کنیم یا بگذاریم به‌تدریج از پا درآید",
-      "link": "https://www.iranintl.com/202610238494",
-      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، جمعه اول آبان گفت که واشینگتن می‌تواند به درگیری با جمهوری اسلامی «خیلی سریع» پایان دهد، اما در حال بررسی آن است که آیا باید کار را یکسره کند یا اجازه دهد حکومت ایران به‌تدریج تحلیل برود و از پا درآید.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-23T17:18:36+00:00",
-      "published_epoch": 1792775916,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/e3af0733a7f0c9307e305cdf725e0523eae4886a-5500x3667.jpg?rect=0,395,5500,2878&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
       "local_media_path": null
     },
@@ -823,21 +897,6 @@
       "local_media_path": null
     },
     {
-      "hash": "6fa1ff1460c0637c",
-      "title": "Tyler Robinson requests 2029 trial for alleged murder of Charlie Kirk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkxMbkJHNmNaaTJrTnVMblhhLTZwaE9yX1JhV1ZOYUp5Qng3QkNMUmIxXzJxaE5yRTROWko4c3JpUVE1RC1EOVdyWmZoc01mTDRBNi1OdHRZMU9FOWZRMFJLVG5sVURMOUVnZFRzc05ja29zYmlIazRWOVdPUV8zT1FmTDM2aHAxclE0bFJHQlZCVVpMbm1KNTJUaC1JanpiSFNDN2VTMUNqLTdoc1BPeHJQUHRhdw?oc=5",
-      "summary": "Tyler Robinson requests 2029 trial for alleged murder of Charlie Kirk    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-23T16:58:53+00:00",
-      "published_epoch": 1792774733,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "7f63e525271fa465",
       "title": "ترامپ: می‌توانیم خیلی سریع به جنگ ایران پایان دهیم؛ فرانسه خواستار خویشتن‌داری طرفین شد",
       "link": "https://parsi.euronews.com/2026/10/23/trump-we-can-end-war-with-iran-very-quickly-france-calls-for-restraint-from-both-sides",
@@ -850,23 +909,6 @@
       "published_epoch": 1792774189,
       "rtl": true,
       "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "ae21e90db9084e78",
-      "title": "فیدان: کشورهای حاضر در نشست استانبول با حمله دوباره به حکومت ایران مخالف هستند",
-      "link": "https://www.iranintl.com/202610230542",
-      "summary": "هاکان فیدان، وزیر امور خارجه ترکیه، پس از نشست با همتایان اروپایی و منطقه‌ای خود در استانبول اعلام کرد کشورهای شرکت‌کننده اتفاق نظر دارند که کارزار نظامی مجدد علیه حکومت ایران به گسترش جنگ در منطقه منجر خواهد شد و دیپلماسی تنها راه پایان بحران است.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-23T16:48:43+00:00",
-      "published_epoch": 1792774123,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/c51c1a7d0a740741124ae75abce03c7c3c3da77b-7521x5016.jpg?rect=0,540,7521,3936&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
       "local_media_path": null
     },
     {
@@ -887,21 +929,6 @@
       "local_media_path": null
     },
     {
-      "hash": "fd489d2b27f96536",
-      "title": "US fines Air France, KLM over flights in prohibited Iraqi airspace - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmlDdXhrR2VhUFlYLXFkR3JtSzlGYTZ2Sng0SUNucWQ3bmt3bGtyLUNoYnFOR3luc1FhdFFTTG5NdVAzdm1nay1iSE1RU3FKd0pmZ2JrYURHcV9XYWJwd3h1cjZxUURqRXl3RWxZUkplOU9vWU1lQUY2ai1zOUc1T010V2oxak1xSmJLR1ZNRk9Sd1NtRFFfNWFQR214UF9TN1R5UDFNOWl4aF93T0kwRi1nbTFwUU0?oc=5",
-      "summary": "US fines Air France, KLM over flights in prohibited Iraqi airspace    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-23T16:41:43+00:00",
-      "published_epoch": 1792773703,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "a9cd12d5c9d5a4ca",
       "title": "فرستاده ویژه آمریکا: حمله به ایران حتی در آخر هفته جاری کاملا امکان‌پذیر است؛ هدف تغییر حکومت نیست",
       "link": "https://parsi.euronews.com/2026/10/23/us-envoy-says-strike-on-iran-could-happen-this-weekend-but-regime-change-is-not-the-goal",
@@ -913,21 +940,6 @@
       "published_at": "2026-10-23T16:41:29+00:00",
       "published_epoch": 1792773689,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "8acb8f074c4a5f77",
-      "title": "US telecom operators wobble after report SpaceX in talks for cell sites - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRl9aOXcyWXhEc3FKR0VIU0Y4NGg3eTlrYWg0N3VIMVJIejJ5N1V3U3RRQllVV1NOaEJ2a2FNcEExNHQ2ZzlOY1NJWFhNR1hVN2F6anR5MjZsRWRpWHBVVXAwOEZ1LUdzbWJCb2RTX0hIaVVodlFKUDhxX0FQT0hlTHB2SEZzRTl2ak1nLXFtNHJnQ0FlRU1wYkNvdXcyc1NvMi1YcVRpc2VRUUVxYjkwakVEMUZOME1yTjFja2JpRTI?oc=5",
-      "summary": "US telecom operators wobble after report SpaceX in talks for cell sites    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-23T16:36:41+00:00",
-      "published_epoch": 1792773401,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -975,21 +987,6 @@
       "published_at": "2026-10-23T16:00:30+00:00",
       "published_epoch": 1792771230,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "265dfbeed27e0be4",
-      "title": "Trump weighs quick end to Iran war against letting conflict ‘wither’ - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGt4QW93RlZCRmRnTV9pMzVTeG55Ty1EbG1wcGU5M0VONm9wM3lEX0lvOEpVcW05OWNSWjJoOTJUSDF5cU1DSFhmZmp2OWdOc1ZPNURIRFF0M3ZzVGxteTRDd2ROZGplLUdWcjJSdUdNUkFoSzYwdDN0dy1yMmttWEdyWGVKeVNmRGE1ODRrcWMzRW9lQTVmMjdsT052QmVFN0Z2cmlRWWM?oc=5",
-      "summary": "Trump weighs quick end to Iran war against letting conflict ‘wither’    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-23T15:53:34+00:00",
-      "published_epoch": 1792770814,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -1234,21 +1231,6 @@
       "raw_media_urls": [
         "https://gdb.rferl.org/01000000-0a00-0242-391b-08db5158d783_w800_h450.jpg"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "e2b42a71233acee1",
-      "title": "اعضای سیکا به‌دنبال تبدیل گفت‌وگوی منطقه‌ای به عمل هستند",
-      "link": "https://parsi.euronews.com/2026/10/23/cica-members-look-to-turn-regional-dialogue-into-action",
-      "summary": "کنفرانس تعامل و اقدامات اعتمادساز در آسیا (سیکا) کشورهای عضو را برای بحث درباره امنیت منطقه‌ای، همکاری اقتصادی و چالشهای مشترک گردهم آورد و بر تقویت نقش سازمان و تبدیل گفت‌وگو به اقدام عملی تاکید کرد.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-10-23T14:00:26+00:00",
-      "published_epoch": 1792764026,
-      "rtl": true,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -1589,16 +1571,48 @@
       "local_media_path": null
     },
     {
-      "hash": "cc30ae2639299ae4",
-      "title": "هنوز بسته 4 گیگی‌ای که دیروز خریدم(و بدون هیچ استفاده خاصی الان ازش 400 مگابایت مونده فقط) رو دارم",
-      "link": "https://t.me/MatinSenPaii/5663",
-      "summary": "هنوز بسته 4 گیگی‌ای که دیروز خریدم(و بدون هیچ استفاده خاصی الان ازش 400 مگابایت مونده فقط) رو دارم\nبه نظرم وقتشه استوری بذارم \"هرکی هرچی داشته از قبل داشته\"",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
+      "hash": "3ef0b5083aec4e7a",
+      "title": "ترامپ از لغو محدودیت‌های استارلینک خبر داد اما اوکراین می‌گوید همچنان برقرار است",
+      "link": "https://www.bbc.com/persian/articles/cx24067gdgglo?at_medium=RSS&at_campaign=rss",
+      "summary": "منابعی در وزارت دفاع اوکراین می‌گویند که اختلال در شبکه استارلینک همچنان ادامه دارد، این در حالی است که دونالد ترامپ، رئیس جمهور آمریکا پیش‌تر اعلام کرده بود که ایلان ماسک محدودیت‌های این سامانه ماهواره‌ای را لغو کرده است.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-23T09:33:02+00:00",
+      "published_epoch": 1792747982,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f03/live/032df6f0-cec1-11f1-93e1-3b657b665bcf.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "17dc9136480b30b9",
+      "title": "📣 مدیریت سرور از تلگرام، در نسخهٔ بعدی",
+      "link": "https://t.me/whitedns/2115",
+      "summary": "📣 مدیریت سرور از تلگرام، در نسخهٔ بعدی \n\nدوستان، توی نسخهٔ بعدی پنل Soar Server، اتصال به تلگرام رو اضافه می‌کنیم تا بتونید سرور شخصی‌تون رو از داخل تلگرام مدیریت کنید.\n\nاینطوری موقع قطعی یا اختلال اینترنت، اگه دسترسی مستقیم به داشبورد نداشتید ولی شما و سرورتون هنوز به تلگرام دسترسی داشتید، یه راه جایگزین برای مدیریت سرور دارید.\n\nاین قابلیت هنوز منتشر نشده و برای نسخهٔ بعدی در نظر گرفته شده.\n\n----------\n #اطلاعیه #WhiteDNS_Panel #Soar \n\nکانال: @WhiteDNS",
+      "source_id": "tg_whitedns",
+      "source_name": "@whitedns",
+      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
       "category": "telegram",
-      "published_at": "2026-10-23T09:35:59+00:00",
-      "published_epoch": 1792748159,
+      "published_at": "2026-10-23T09:32:20+00:00",
+      "published_epoch": 1792747940,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "e29015b00838bbb5",
+      "title": "دونالد ترامپ: سیستم استارشیلد ایلان ماسک در اوکراین دوباره فعال شد",
+      "link": "https://www.dw.com/fa-ir/دونالد-ترامپ-سیستم-استارشیلد-ایلان-ماسک-در-اوکراین-دوباره-فعال-شد/a-79739644?maca=per-rss-per-all-1491-xml-mrss",
+      "summary": "ترامپ از بازگشت سامانه استارشلید در اوکراین خبر داد؛ زلنسکی می‌گوید سرعت ارتباطات هنوز به سطح پیشین نرسیده است. کی‌یف هنوز هیچ توضیح رسمی درباره اینکه چه کسی و چرا دستور اعمال این محدودیت‌ها را داده، دریافت نکرده است.",
+      "source_id": "dw_persian",
+      "source_name": "DW Persian",
+      "source_name_fa": "دویچه‌وله فارسی",
+      "category": "persian",
+      "published_at": "2026-10-23T09:17:00+00:00",
+      "published_epoch": 1792747020,
       "rtl": true,
       "raw_media_urls": [],
       "local_media_path": null
