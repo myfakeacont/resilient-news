@@ -1,10 +1,27 @@
 {
-  "generated_at_utc": "2026-10-24T23:01:12.493796+00:00",
-  "generated_at_tehran": "2026-10-25T02:31:12.493796+03:30",
+  "generated_at_utc": "2026-10-25T04:03:08.456108+00:00",
+  "generated_at_tehran": "2026-10-25T07:33:08.456108+03:30",
   "article_count": 100,
   "articles": [
     {
-      "hash": "de8719e58556b8e5",
+      "hash": "040c24dd42656904",
+      "title": "ترامپ درباره ایران: شاید مجبور شوم کار را تمام کنم، شاید هم توافقی حاصل شود",
+      "link": "https://www.bbc.co.uk/persian/live/cje36ky44zp0t?at_medium=RSS&at_campaign=rss",
+      "summary": "دونالد ترامپ بار دیگر احتمال اقدام نظامی تازه علیه ایران را مطرح کرد و گفت: «شاید مجبور شوم کار را تمام کنم، یا شاید آنها توافق کنند.» او تاکید کرد که هنوز درباره نتیجه مطمئن نیست. هم‌زمان، باراک اوباما، رئیس‌جمهور پیشین آمریکا، در یک سخنرانی انتخاباتی به‌شدت از جنگ با ایران انتقاد کرد و گفت که دولت او با استفاده از دیپلماسی و «بدون شلیک حتی یک موشک» توانسته بود مانع دستیابی ایران به سلاح هسته‌ای ...",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-25T04:03:10.916103+00:00",
+      "published_epoch": 1792900990,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528e/live/b072dcc0-cff9-11f1-a701-fddedf244c16.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/8ccaadaa7366ece4.jpg"
+    },
+    {
+      "hash": "126d42869d40efe8",
       "title": "آنچه گذشت؛ حوثی‌ها: تاسیسات نفتی و سه فرودگاه عربستان را هدف قرار دادیم",
       "link": "https://www.bbc.co.uk/persian/live/cm5ynqqqdeq6t?at_medium=RSS&at_campaign=rss",
       "summary": "حوثی‌ها می‌گویند که به خط لوله شرق-غرب، تاسیسات آرامکو و سه فرودگاه عربستان سعودی حمله کرده‌اند. این گروه همچنین مسئولیت حمله به یک پایگاه دریایی و یک اردوگاه نظامی در شهر عدن را بر عهده گرفته است. وزارت دفاع عربستان می‌گوید که بقایای دو موشک بالستیک رهگیری‌شده حوثی‌ها در مکه، جده و طائف سقوط کرده است. رسانه‌های وابسته به حوثی‌ها نیز از کشته شدن دست‌کم ۱۷ نفر در حملاتی در یمن خبر داده‌اند که مسئول...",
@@ -12,12 +29,571 @@
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-10-24T23:01:14.536841+00:00",
-      "published_epoch": 1792882874,
+      "published_at": "2026-10-25T04:03:10.916530+00:00",
+      "published_epoch": 1792900990,
       "rtl": true,
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0412/live/34f31ef0-cfd8-11f1-93e1-3b657b665bcf.jpg"
       ],
+      "local_media_path": "media/2026-10-25/477767917697962d.jpg"
+    },
+    {
+      "hash": "881b6fe31fb75dc0",
+      "title": "افشاگری رئیس پیشین موساد از جنگ ۱۲روزه: هویت ۹۹.۹درصد از عوامل ما در ایران هرگز برملا نشد؛ همچنان در تهران‌اند",
+      "link": "https://parsi.euronews.com/2026/10/25/david-barnea-mossad-agents-99-percent-remain-in-tehran-oct-2026",
+      "summary": "دیوید بارنئا، رئیس پیشین موساد، روز پنجشنبه گفت که این سازمان صبح نخستین روز جنگ ۱۲روزه در ژوئن ۲۰۲۵، عمدا و با هدف حفاظت از عوامل خود در ایران، ویدیویی از ماموریت آن‌ها منتشر کرد تا نیروهای امنیتی ایران شمار زیادی از افراد را بازداشت کنند و در نهایت در شناسایی عوامل موساد ناتوان بمانند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-25T03:53:59+00:00",
+      "published_epoch": 1792900439,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "ab11e776717f3c0c",
+      "title": "افشاگری رئیس پیشین موساد از جنگ ۱۲روزه: هویت ۹۹.۹درصد از عوامل ما در ایران هرگز برملا نشد؛ همچنان در تهران‌اند",
+      "link": "https://parsi.euronews.com/2026/10/25/former-mossad-chief-david-barnea-agents-still-in-tehran-iran-oct-2026",
+      "summary": "دیوید بارنئا، رئیس پیشین موساد، روز پنجشنبه گفت که این سازمان صبح نخستین روز جنگ ۱۲روزه در ژوئن ۲۰۲۵، عمدا و با هدف حفاظت از عوامل خود در ایران، ویدیویی از ماموریت آن‌ها منتشر کرد تا نیروهای امنیتی ایران شمار زیادی از افراد را بازداشت کنند و در نهایت در شناسایی عوامل موساد ناتوان بمانند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-25T03:31:39+00:00",
+      "published_epoch": 1792899099,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "8bf1c98fcaaeaed7",
+      "title": "نیروهای ائتلاف به رهبری عربستان سعودی روز شنبه به صنعا، پایتخت تحت کنترل حوثی‌ها، و شهر بندری حدیده در ساحل دریای سرخ حم...",
+      "link": "https://t.me/IranintlTV/363771",
+      "summary": "نیروهای ائتلاف به رهبری عربستان سعودی روز شنبه به صنعا، پایتخت تحت کنترل حوثی‌ها، و شهر بندری حدیده در ساحل دریای سرخ حمله هوایی کردند.\n\nرسانه‌های وابسته به حوثی‌ها اعلام کردند در این حملات دست‌کم ۱۶ نفر کشته شده‌اند.\n\nآمار تلفات اعلام‌شده هنوز به‌طور مستقل تایید نشده است.\n https://iranintl.com/202610257366",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-25T03:10:31+00:00",
+      "published_epoch": 1792897831,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/u-OPBD4XVLoNAoYpxnvqQXZhmaQnZXRqDcUuYPcAFOVwCUtly1hCWiKhunf5uEnmUrfouYOnUnEnPHkqUdjcCyD68eU_sois7p_-SXedtfeM9zVi3963oV6a04DpS4lLooSSiU-rboDONUxo3Ext77cr3pE-ONPjgYQTcgNIyajww4AhFGiGzqQBer-dfYLS049860-y22_RZii80qEStwHBYVjQOYF2cUxKGxh5ULCUKGhjJ-m3fxYFIQCMHY8EJljHD2LjgXY85AIj1MR39DJFz-C5Udy2mV4rsVOkkKs0hUORkvxHnnwqKnSyM2-b2AWtnOsWo6ReCIApC2HOpQ.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/42763784148aff54.jpg"
+    },
+    {
+      "hash": "9cdd8cd5d832a530",
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "summary": "Article URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/ \n Comments URL: https://news.ycombinator.com/item?id=50227892 \n Points: 32 \n # Comments: 12",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-25T03:05:53+00:00",
+      "published_epoch": 1792897553,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "ac34c23f64b3c68f",
+      "title": "📂 مجموعهٔ یکپارچهٔ ریزالورهای منتشرشده در کانال",
+      "link": "https://t.me/whitedns/2149",
+      "summary": "📂 مجموعهٔ یکپارچهٔ ریزالورهای منتشرشده در کانال\n\nفهرست‌های متنی و فایل‌های ریزالوری که قبلاً در کانال منتشر کرده بودیم را در یک فایل جمع کردیم و آدرس‌های تکراری را حذف کردیم.\n\n 📌 تعداد نهایی: ۷٬۶۲۹ آدرس یکتا\n 📄 فرمت فایل: متن ساده، هر آدرس در یک خط\n\nدیگر لازم نیست فهرست‌های قدیمی را جداگانه پیدا و با هم ترکیب کنید؛ مجموعهٔ ادغام‌شده را از فایل همین پست دریافت کنید.\n\n @dns_resolvers_bot \n----------\n #اسکن #DNS #Resolvers \n\nکانال: @WhiteDNS \n https://whitedns.online",
+      "source_id": "tg_whitedns",
+      "source_name": "@whitedns",
+      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
+      "category": "telegram",
+      "published_at": "2026-10-25T02:55:56+00:00",
+      "published_epoch": 1792896956,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "79852f8c33bd5d43",
+      "title": "🔥 WhtieDNS Public Servers",
+      "link": "https://t.me/whitedns/2148",
+      "summary": "🔥 WhtieDNS Public Servers\n\nسرور عمومی SOAR \n\n soar://eyJwcm9maWxlIjp7ImlkIjoiZGM4MGYyMzNiZjQyNDg0MzdjZDMyZWU0N2NlOWRkYTgiLCJuYW1lIjoid2hpdGVkbnMgcHVibGljIDIiLCJyZXNvbHZlcnMiOlsiMS4xLjEuMSIsIjguOC44LjgiXSwic2VydmVyIjp7ImRvbWFpbiI6IjNzYXBlbTU3aWplZWc3Z3RmM3NoejIuc29hci53aGl0ZWRucy5kb3dubG9hZCIsInB1YmxpY19rZXkiOiJ1VVdrOU4yc3lXVG1sUUFPOHlsa3ZpaWkxSVFHRjlJa0JabFFSYkZsNjNNPSJ9LCJzb2FyU2V0dGluZ3MiOnsidHJhbnNwb3J0IjoiYXV0byIsImRpc2NvdmVyeSI6dHJ1ZSwiZGlzY292ZXJ5V2FudCI6MiwiZGlzY292ZXJ5Q29uY3VycmVuY3kiOjIsImRpc2NvdmVyeVBhY2VNcyI6MTAwMCwic2FmZVFOYW1lIjoxMDEsIm1heFFOYW1lIjoyNTMsIm1heEFuc3dlciI6MTIzMiwiaG9sZE1zIjo1MDAsIm1heEluZmxpZ2h0IjoxMjgsIm1heFBhdGhXaW5kb3ciOjMyLCJtYXhTdHJlYW1zIjoxMjgsInN0cmVhbVdpbmRvd0tpQiI6MjU2LCJzZW5kQnVmZmVyS2lCIjo2NCwic2Vzc2lvbklkbGVTZWNvbmRzIjo5MCwiZGlhbFRpbWVvdXRTZWNvbmRzIjo5MCwiY291bnRyeSI6IklSIn19LCJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MX0 \n\n soar://eyJwcm9maWxlIjp7ImlkIjoiNDRjMjc0YTMzNTM1MGZhYzljMjg0ZWNhOGVhMzkyNzYiLCJuYW1lIjoiV2hpdGVETlMgUHVibGljIiwicmVzb2x2ZXJzIjpbIjEuMS4xLjEiLCI4LjguOC44Il0sInNlcnZlciI6eyJkb21haW4iOiJpdGJoaml6dmd1aDJ6aGJpajNmaTVpLnNvYXIud2hpdGVkbnMuZG93bmxvYWQiLCJwdWJsaWNfa2V5IjoiR1daa2NSVVErUHhqMnEydXRKZllEV2cwR2dOR3AybmtVMmN5UE8ySk1UMD0ifSwic29hclNldHRpbmdzIjp7InRyYW5zcG9ydCI6ImF1dG8iLCJkaXNjb3ZlcnkiOnRydWUsImRpc2NvdmVyeVdhbnQiOjIsImRpc2NvdmVyeUNvbmN1cnJlbmN5IjoyLCJkaXNjb3ZlcnlQYWNlTXMiOjEwMDAsInNhZmVRTmFtZSI6MTAxLCJtYXhRTmFtZSI6MjUzLCJtYXhBbnN3ZXIiOjEyMzIsImhvbGRNcyI6NTAwLCJtYXhJbmZsaWdodCI6MTI4LCJtYXhQYXRoV2luZG93IjozMiwibWF4U3RyZWFtcyI6MTI4LCJzdHJlYW1XaW5kb3dLaUIiOjI1Niwic2VuZEJ1ZmZlcktpQiI6NjQsInNlc3Npb25JZGxlU2Vjb25kcyI6OTAsImRpYWxUaW1lb3V0U2Vjb25kcyI6OTAsImNvdW50cnkiOiJJUiJ9fSwic2NoZW1hIjoid2hpdGVkbnMucHJvZmlsZSIsInZlcnNpb24iOjF9 \n\nسرور عمومی CottenDNS \n\n cottendns://eyJwcm9maWxlIjp7ImVuZ2luZSI6ImNvdHRlbmRucyIsImlkIjoiZGM4MGYyMzNiZjQyNDg0MzdjZDMyZWU0N2NlOWRkYTg6Y290dGVuIiwibmFtZSI6IndoaXRlZG5zIHB1YmxpYyAyIMK3IENvdHRlbiIsInJlc29sdmVycyI6WyIxLjEuMS4xIiwiOC44LjguOCJdLCJzZXJ2ZXIiOnsiZG9tYWluIjoiY290LjNzYXBlbTU3aWplZWc3Z3RmM3NoejIuc29hci53aGl0ZWRucy5kb3dubG9hZCIsImVuY3J5cHRpb25fa2V5IjoiODU5YzY4MWYzZGU2NDE4ZmVmY2ZlNmY4ZTY0OWYzN2U4ZDkyMGU2MzExNzEyOWE3MjEwNmM3NjRhNDRkOTFmYyIsImVuY3J5cHRpb25fbWV0aG9kIjo1fX0sInNjaGVtYSI6IndoaXRlZG5zLnByb2ZpbGUiLCJ2ZXJzaW9uIjoxfQ \n\n @whitedns \n\n----------\n #کانفیگ #CottenDNS #Soar #Servers \n\n دانلود برنامهٔ WhiteDNS برای اندروید \n دانلود برنامهٔ WhiteDNS برای ویندوز، مک و لینوکس \n راهنمای واردکردن کانفیگ و اتصال WhiteDNS \n\n وب‌سایت WhiteDNS",
+      "source_id": "tg_whitedns",
+      "source_name": "@whitedns",
+      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
+      "category": "telegram",
+      "published_at": "2026-10-25T02:54:26+00:00",
+      "published_epoch": 1792896866,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "0273117a52f772fd",
+      "title": "نیویورک تایمز گزارش داد اطلاعات تازه درباره طرح‌های احتمالی جمهوری اسلامی برای حمله به آمریکایی‌ها و بررسی حملات گسترده‌...",
+      "link": "https://t.me/IranintlTV/363770",
+      "summary": "نیویورک تایمز گزارش داد اطلاعات تازه درباره طرح‌های احتمالی جمهوری اسلامی برای حمله به آمریکایی‌ها و بررسی حملات گسترده‌تر در دولت ترامپ، خطر بازگشت به جنگ تمام‌عیار را افزایش داده است. این روزنامه هشدار داد که محاسبات انتخاباتی و برداشت‌های نادرست می‌تواند بحران را تشدید کند.\n\nبر اساس این گزارش، مقام‌های دولت آمریکا نگران‌اند حکومت ایران در «مراحل پیشرفته» برنامه‌ریزی برای حمله به مقام‌های آمریکایی باشد. در مقابل، مقام‌های ایرانی ظاهرا معتقدند آمریکا و اسرائیل برای سومین حمله بزرگ خود در ۱۶ ماه گذشته آماده می‌شوند تا تهران را به پذیرش خواسته‌های واشینگتن وادار کنند.\n\nنیویورک تایمز به نقل از دیپلمات‌ها و کارشناسان هشدار داده است که در چنین فضایی، حتی یک تیراندازی علیه یک مقام آمریکایی یا انفجاری در نزدیکی محل استقرار رهبران حکومت ایران می‌تواند به درگیری گسترده‌تری منجر شود.\n\n https://iranintl.com/202610250247",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-25T02:41:04+00:00",
+      "published_epoch": 1792896064,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/O80uUNQpnAyNbNIFVqlVfIfscGuP8rgPZuL-JEAaDoqdSRw4eUlSAyGdj6KP4I5cXphUSz9EffGeTlGSPQL1nJiUcGJXTYCtmd4pKGEZbz2zMe3TLf1dQ84AsrDVocS0IXu-ix2z0FvnZJ6BbL2qWCS3Aq7VMIvZMnAnLU4GYwTWQxbTta2zucNYhkTNuyy7rdHCUj2F_GG3J7yAII6Doo8hcKngcGWfARgE-TnUR9p8_XWDj95sCLIy7u18BUb8FInJ4QaluXnjYxbNiCDAGjJSj3SakqkQ1fLux4f6PTq2PMkC-jAkrpIh_am-SiTXouGQJSpgMWXbXjSZc4Wlhw.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/418d9269634d796c.jpg"
+    },
+    {
+      "hash": "b8273b4ff450e076",
+      "title": "Obama unloads on Trump while stumping for Democrats ahead of midterms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5",
+      "summary": "Obama unloads on Trump while stumping for Democrats ahead of midterms    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-25T02:40:00+00:00",
+      "published_epoch": 1792896000,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "163e68b1f5664e59",
+      "title": "🟢 WhiteDNS Panel — نسخهٔ 0.10.0",
+      "link": "https://t.me/whitedns/2147",
+      "summary": "🟢 WhiteDNS Panel — نسخهٔ 0.10.0 \nاین نسخه مشکل اتصال CottenMax به حساب‌های ساخته‌شده در پنل را برطرف می‌کند.\n ✅ پشتیبانی از Normal و Max با همان دامنه، کلید و پروفایل حساب\n ✅ اعمال سهمیه و محدودیت‌های حساب روی اتصال‌های Max\n ✅ رفع مشکل پاک‌سازی نشست‌های Max هنگام توقف موتور\n ✅ کنترل باز و بسته‌کردن سایدبار، با حفظ انتخاب کاربر\n ✅ حذف لینک‌های تکراری مستندات؛ لینک فقط پایین سایدبار باقی مانده است\nحساب‌ها و لینک‌های قبلی قابل استفاده‌اند. برای سازگاری کامل، کلاینت را نیز به اندروید 1.6.14 یا دسکتاپ 1.4.5 به‌روزرسانی کنید.\n 📥 دانلود پنل و جزئیات انتشار \n\n 📱 WhiteDNS Android — نسخهٔ 1.6.14 \nمشکل شروع اتصال Max با دامنه‌های طولانی حساب‌های پنل برطرف شد.\n ✅ محاسبهٔ خودکار فضای لازم برای شروع اتصال Max\n ✅ رفع این مشکل در اتصال و اسکن، شامل دامنه‌های پشتیبان\n ✅ حفظ پروفایل‌ها و تنظیمات ذخیره‌شده\nنیازی به ساخت کانفیگ تازه یا تغییر دستی تنظیمات نیست. برای اتصال Max به حساب‌های پنل، سرور را نیز به نسخهٔ 0.10.0 ارتقا دهید.\n 📥 دانلود نسخهٔ اندروید \n\n 💻 WhiteDNS Desktop — نسخهٔ 1.4.5 \nرفع مشکل شروع اتصال و اسکن CottenMax با دامنه‌های طولانی ساخته‌شده توسط پنل.\n ✅ تنظیم خودکار ظرفیت شروع اتصال متناسب با دامنه‌های اصلی و پشتیبان\n ✅ سازگاری این محاسبه با تنظیمات شکل‌دهی نام DNS\n ✅ حفظ پروفایل‌ها و تنظیمات ذخیره‌شده\nاین نسخه برای ویندوز، لینوکس و macOS منتشر شده است. برای استفاده از Max در حساب‌های پنل، سرور را نیز به نسخهٔ 0.10.0 به‌روزرسانی کنید.\n 📥 دانلود نسخهٔ دسکتاپ \n\n @whitedns \n https://whitedns.online",
+      "source_id": "tg_whitedns",
+      "source_name": "@whitedns",
+      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
+      "category": "telegram",
+      "published_at": "2026-10-25T02:38:39+00:00",
+      "published_epoch": 1792895919,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn5.telesco.pe/file/ZcHHsuxzjJL1QeZB3fy6u7_e-qVj4FouUH82LXHA1AZhidE2tMBtTvYibiIngNjiL3EUlxrKjNUBDUi2K-Z6DLmHlw9VoD9iRQ_rJ-EpYiWFyW6jXffujX-Lr-OgQJ-N0NHkhK4m3nuTpgT5CcMHBfU3KRd9invmSNbxiyPfe5jM8cvS6CrEACb8fMzBWo7JESmuBe4rKZYOg0Goa1p_wKDZL0eomyQCxsfqUXGeJ0FqNXmip0_XAhpMZKYBcZ0XYneo3Cp2SeS7mATdXch512cjE7Q1ovqWtA9f3IE9fO_7RJAXGrRr5ejWKoNB8hYAMzNt2MXHjKfWoJo3Os9ktw.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/8b716fb2ce30ba58.jpg"
+    },
+    {
+      "hash": "064c0232a95ae4db",
+      "title": "نیویورک تایمز: تهدیدهای متقابل، آمریکا و ایران را به جنگ تمام‌عیار نزدیک کرده است",
+      "link": "https://www.iranintl.com/202610252301",
+      "summary": "نیویورک تایمز گزارش داد اطلاعات تازه درباره طرح‌های احتمالی جمهوری اسلامی برای حمله به آمریکایی‌ها و بررسی حملات گسترده‌تر در دولت ترامپ، خطر بازگشت به جنگ تمام‌عیار را افزایش داده است. این روزنامه هشدار داد که محاسبات انتخاباتی و برداشت‌های نادرست می‌تواند بحران را تشدید کند.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-25T02:20:13+00:00",
+      "published_epoch": 1792894813,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/0598f513701deb8644c2ecc7045bdddd5fe50266-1920x1080.png?rect=0,38,1920,1005&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-25/9c746f9404c8bfb8.jpg"
+    },
+    {
+      "hash": "2a95c5919dd5051d",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "summary": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report \n Comments URL: https://news.ycombinator.com/item?id=50227639 \n Points: 35 \n # Comments: 8",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-25T02:18:35+00:00",
+      "published_epoch": 1792894715,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "cbd68883d6cbc0a5",
+      "title": "بازداشت نزدیک به هزار نفر در اعتراض‌های گسترده فرانسه؛ درگیری معترضان و پلیس در پاریس",
+      "link": "https://www.bbc.com/persian/articles/crvg6pl00977o?at_medium=RSS&at_campaign=rss",
+      "summary": "در جریان دور تازه اعتراض‌های گسترده در فرانسه، نزدیک به هزار نفر بازداشت شدند. صدها هزار نفر روز شنبه ۲۴ اکتبر در اعتراض به افزایش هزینه‌های زندگی و وضعیت نامناسب مدارس و خدمات عمومی به خیابان‌ها آمدند و در پایان تجمع‌های عمدتا مسالمت‌آمیز، درگیری‌هایی میان معترضان و پلیس در پاریس و چند شهر دیگر روی داد.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-25T01:54:34+00:00",
+      "published_epoch": 1792893274,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6200/live/aa698a10-d015-11f1-93e1-3b657b665bcf.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/e7b2d247630bcd52.jpg"
+    },
+    {
+      "hash": "825063fb8d1ce4ca",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras \n Comments URL: https://news.ycombinator.com/item?id=50227356 \n Points: 27 \n # Comments: 7",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-25T01:33:49+00:00",
+      "published_epoch": 1792892029,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "c582fb662c75fdbb",
+      "title": "〽️ آموزش تنظیمات WhiteDns Android",
+      "link": "https://t.me/whitedns/2146",
+      "summary": "〽️ آموزش تنظیمات WhiteDns Android\n\nمرسی از Tajirax بابت آماده کردن این PDF ✨ \n\n·:¨༺ @BlueKnight_Net ༻¨:·",
+      "source_id": "tg_whitedns",
+      "source_name": "@whitedns",
+      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
+      "category": "telegram",
+      "published_at": "2026-10-25T01:30:58+00:00",
+      "published_epoch": 1792891858,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "6a0af5fe8609d380",
+      "title": "بچه‌ها، آپدیت جدید WhiteDNS اندروید منتشر شده! 🍓",
+      "link": "https://t.me/whitedns/2145",
+      "summary": "بچه‌ها، آپدیت جدید WhiteDNS اندروید منتشر شده! 🍓 \n\nاگه نمی‌دونی چطور با WhiteDNS وصل بشی یا دنبال روش‌های مختلف اتصال برای شرایط نت ملی هستی، این آموزش کامل رو از دست نده! 👀 💗 \n\nتوی این ویدیو تمام روش‌های اتصال رو دونه‌به‌دونه بررسی کردیم. 🫶🏻 \n\n 📺 تماشا ویدیو در یوتیوب \n\n·:¨༺ @BlueKnight_Net ༻¨:·",
+      "source_id": "tg_whitedns",
+      "source_name": "@whitedns",
+      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
+      "category": "telegram",
+      "published_at": "2026-10-25T01:30:57+00:00",
+      "published_epoch": 1792891857,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/nH9mk5YlBvsGl6T49LRNePZ19LuvXXzx0bjwhmXNhG_cw_AZdGsu5lUrCXRzYAS4sbiziOCLzE4KE0ucgg-t3w3da8JJhOsVWGRct3GjWb_9qCaNvOug2BtGEqecgVG7IbZTbIXh3Agsp9or5hYIJIT0AspSHNIcQ1KiRyvGJd3xL1VddGLlRwi2c-jLFoDAduhYZkhgUhUenPQzQUxrGZ9Rl6Q97m9Dnf-U2dbwTvmiKHCYWz95HhDUCPmg6K_6lZssVHfX0reWiQ-m-KGtT4aOWo9ZnOoGkOh88jLMDsH5EUvB3Quy1SbFA2G42QPbzUYwyzsCrHlQ2gb9fDO_vg.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/08ebeb709bb5ed94.jpg"
+    },
+    {
+      "hash": "d55b04d04fc95544",
+      "title": "رسانه‌های اسرائیلی: حماس به تکرار حمله‌ای مشابه هفتم اکتبر تهدید کرده است",
+      "link": "https://www.iranintl.com/202610253977",
+      "summary": "رسانه‌های اسرائیلی گزارش داده‌اند که حماس در پیامی از طریق یک مقام سازمان ملل، اسرائیل را به حمله‌ای مشابه هفتم اکتبر ۲۰۲۳ تهدید کرده است. به گزارش این رسانه‌ها، یک مقام ارشد نظامی اسرائیل این پیام را در نامه‌ای فوری به نخست‌وزیر و وزیر دفاع منتقل کرده است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-25T01:18:58+00:00",
+      "published_epoch": 1792891138,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/7debc819df331f9cfdb2db9f5cad71d0edadeeb6-776x513.png?rect=0,54,776,406&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-25/03300d367917f633.jpg"
+    },
+    {
+      "hash": "f6a3757975998585",
+      "title": "نشریه هیل به نقل از منابع آگاه گزارش داد فرماندهی مرکزی ارتش آمریکا، سنتکام، گزینه‌هایی برای حمله دوباره به ایران، احتما...",
+      "link": "https://t.me/IranintlTV/363769",
+      "summary": "نشریه هیل به نقل از منابع آگاه گزارش داد فرماندهی مرکزی ارتش آمریکا، سنتکام، گزینه‌هایی برای حمله دوباره به ایران، احتمالا پس از انتخابات میان‌دوره‌ای کنگره در نوامبر، آماده کرده است.\n\nبه گفته این منابع، طرح‌های حمله در اختیار پیت هگست، وزیر دفاع آمریکا، قرار گرفته‌اند و اجرای آن‌ها به مجوز کاخ سفید بستگی دارد.\n\nگرگوری برو، کارشناس مسائل ایران در گروه اوراسیا، گفت احتمال ازسرگیری حملات آمریکا پس از انتخابات را بالا می‌داند. به گفته او، واشینگتن ممکن است برای وادار کردن جمهوری اسلامی به پذیرش توافق، فشار نظامی را افزایش دهد.\n\nهیل همچنین گزارش داد مقام‌های جمهوری اسلامی هشدار داده‌اند در صورت حمله تازه آمریکا یا اسرائیل، پاسخ تهران شدیدتر و گسترده‌تر از گذشته خواهد بود.\n\nوزارت دفاع آمریکا در پاسخ به هیل اعلام کرد وظیفه این وزارتخانه تهیه گزینه‌های نظامی برای رییس‌جمهوری است، اما درباره عملیات احتمالی آینده اظهارنظر نمی‌کند.\n\nبر اساس این گزارش، آمریکا بیش از ۵۰ هزار نیروی نظامی و حدود ۲۰ ناو جنگی در خاورمیانه دارد و در حال اعزام تجهیزات و نیروهای بیشتری به منطقه است.\n https://iranintl.com/202610250306",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-25T01:12:25+00:00",
+      "published_epoch": 1792890745,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/mYnqnvayp8_crpiuTD4-Sxw-3FqQoiqWm7LjzJDszCLwAXYJ1kq0536F66SffofjFY3mU4mbKuEtgF_erkzkLgYTyIFlgltGmM5nW5YeIUhqDHRsf2DylDBpxtjABgtW4_nrKuLdbRUul8AaN8GBWqu0RtfE_TPFvqv0rUFzwfToUkfwtOPlSsrDfKCh5lNOLhCA0C7qQ776OYW2DUceLS6UI3inGzA9ASpZSIZPSDNXmhwyc2WgTacYuhoJKMU9xt3B1JqI5b_5vFs7dnH4w-mCg136wJuyhwkRZP3I503i3pZ5sOjA7A7qHns6rf8jkDv_qQ0-utIl0CCugtQ-iA.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/76de48a324bae2f4.jpg"
+    },
+    {
+      "hash": "24e60e7b16358dd2",
+      "title": "دونالد ترامپ، رییس‌جمهوری آمریکا، در سخنرانی در ایالت جورجیا گفت نیروهای آمریکایی تمامی ۱۵۰ کشتی و ۲۶۸ هواپیمای نظامی ای...",
+      "link": "https://t.me/IranintlTV/363768",
+      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، در سخنرانی در ایالت جورجیا گفت نیروهای آمریکایی تمامی ۱۵۰ کشتی و ۲۶۸ هواپیمای نظامی ایران را نابود کرده‌اند.\n\nترامپ گفت: «حکومت ایران دیگر نه هواپیمایی دارد، نه کشتی و نه هیچ‌چیز دیگر. رهبران رده اول و دوم آن هم از بین رفته‌اند. باید بفهمم اصلا با چه کسی مذاکره می‌کنیم.»\n\nاو با انتقاد از توافق هسته‌ای دولت باراک اوباما، گفت این توافق مسیر دستیابی جمهوری اسلامی به سلاح هسته‌ای را هموار می‌کرد و تاکید کرد آمریکا با عملیات «چکش نیمه‌شب» و «خشم حماسی» توان غنی‌سازی هسته‌ای حکومت ایران را نابود کرده است.\n\nترامپ همچنین افزایش قیمت نفت را موقتی خواند و پیش‌بینی کرد با پایان جنگ و ازسرگیری تردد نفتکش‌ها در تنگه هرمز، قیمت‌ها به‌شدت کاهش یابد.\n https://iranintl.com/202610255679",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-25T00:53:04+00:00",
+      "published_epoch": 1792889584,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/h3Xn0gCbiWItbT6WbNtYk6vBDFwzVgGUymaIcVQYcx9dE-RJTDYLNxlHEWmulynChrxuMkBG0gsFrirf8wizFYU9zknIr1AGzhtnljZhDd5bz96JFOgrc8HEdtTcHJBzWP3fRTyRbaBkcaj1epqcctnsUFn2GAFk_mGozCV3EwOzjQPSh9TwTyw_owYnXsA8mmLUWUN0MbMJI7TGdJKveM8yCQoKppzapvk1uL12BjaFchDDv__Zt83N3GpDUIJDkziCrnYe6BElFllBNlNZyOPWR7HwjIF8ZvKrjwbP-Ol8V4z7jKYzqLIF86xaAxQlaASJv-nfNFEMjSJaVSGyJQ.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/6d946eb4141aeb1a.jpg"
+    },
+    {
+      "hash": "c5aefbccfd08747e",
+      "title": "هیل: ارتش آمریکا گزینه‌هایی برای حمله دوباره به ایران آماده کرده است",
+      "link": "https://www.iranintl.com/202610250307",
+      "summary": "نشریه هیل به نقل از منابع آگاه گزارش داد ارتش آمریکا چند گزینه برای حمله دوباره به اهداف حکومت ایران پس از انتخابات میان‌دوره‌ای سوم نوامبر آماده کرده است. اجرای این طرح‌ها به تایید دونالد ترامپ بستگی دارد و هنوز تصمیم نهایی اعلام نشده است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-25T00:48:42+00:00",
+      "published_epoch": 1792889322,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=0,109,2484,1300&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-25/cf39376fc6b0fdd9.jpg"
+    },
+    {
+      "hash": "b21179bf694469a5",
+      "title": "به عیعای گفتم فلان فیچر ساده رو ایمپلمنت کن. کرد و گفتم تست کردی؟ گفت آره. تنبلی کردم گفتم بهش اعتماد کنم و بدون تست پوش...",
+      "link": "https://t.me/jadivarlog/555",
+      "summary": "به عیعای گفتم فلان فیچر ساده رو ایمپلمنت کن. کرد و گفتم تست کردی؟ گفت آره. تنبلی کردم گفتم بهش اعتماد کنم و بدون تست پوش کردم. بعد دیدم یکسری ارور می ده رو سرور. به عیعای می گم من این ارورها رو می بینم! مگه نگفتی تست کردی؟ چی جواب بده خوبه؟ گفت: آره اتفاقا منم که تست کردم همین ارورها رو می داد (:\n\n #واقعی",
+      "source_id": "tg_jadivarlog",
+      "source_name": "@jadivarlog",
+      "source_name_fa": "@jadivarlog (جادی تی‌وی / ولاگ جادی)",
+      "category": "telegram",
+      "published_at": "2026-10-25T00:36:32+00:00",
+      "published_epoch": 1792888592,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "3ce18a1275442cef",
+      "title": "بنیامین نتانیاهو؛ آیا «آقای امنیت» اسرائیل می‌تواند برای هفتمین بار نخست‌وزیر شود؟",
+      "link": "https://www.bbc.com/persian/articles/cwr7ym1mjxymo?at_medium=RSS&at_campaign=rss",
+      "summary": "بنیامین نتانیاهو، باسابقه‌ترین نخست‌وزیر تاریخ اسرائیل، امیدوار است در انتخابات پارلمانی ۲۷ اکتبر برای هفتمین بار به قدرت برسد.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-25T00:35:54+00:00",
+      "published_epoch": 1792888554,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3df0/live/ab437ae0-c8b8-11f1-a64c-550be9e3c66b.png"
+      ],
+      "local_media_path": "media/2026-10-25/842161b9c266fa00.jpg"
+    },
+    {
+      "hash": "7df829b4c3f4f8cc",
+      "title": "Sydney's new international airport opens to passengers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVJaVWYzbldLQlV4bWFwYzBEek50ekRuSjY0Mk92Y090OEduQkdLdUlBeTVYMWdBanpralBkc25yZzZmN2VzcDVxTnNnYlYyZWpaMWpjZlZmcVN0N0RTLXllYUFoaDZnWlV1czZHdHZUYkpVTnBiVVVxOURCQWt0S1lySlNxWW1rODJlUGQyN2wxR2JIUGNiME1fN3FWVXRFSjFhMFFNd0c?oc=5",
+      "summary": "Sydney's new international airport opens to passengers    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-25T00:29:00+00:00",
+      "published_epoch": 1792888140,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "f8cc388e982b977d",
+      "title": "Yemen's Houthis renew warning against using Riyadh airport - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
+      "summary": "Yemen's Houthis renew warning against using Riyadh airport    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-24T23:57:43+00:00",
+      "published_epoch": 1792886263,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "edd2190c842cf737",
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "link": "https://codeberg.org/Misom/FindMyWeb",
+      "summary": "Article URL: https://codeberg.org/Misom/FindMyWeb \n Comments URL: https://news.ycombinator.com/item?id=50226646 \n Points: 34 \n # Comments: 7",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-24T23:42:52+00:00",
+      "published_epoch": 1792885372,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "10f15a693dfbffcf",
+      "title": "Abuse survivors approve $800 million settlement with Archdiocese of New York - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2Ixc21EUXZ4UEhWVEtXSkJzV1EwWm5tT0V5dlFkbWlKaXJidVNoLU4xZEJScWpKZnlYajJyQUJITE95cXpwRm0wdE1jSGhOV3VpWEk1b1FtRU80ekFYZ0xsTEdPMldZU1EyRkZ1cXU2alZ3eDRBUU5xVGtpM3kxa1FqQUR5Nnk5Q1luX2ZZbkJUMHM2THMxa21GTUlabXgzMWljZWtkM3BxS1RRbklkWlZHNmNzaVhVeGg4U1RWWWV5d0E?oc=5",
+      "summary": "Abuse survivors approve $800 million settlement with Archdiocese of New York    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-24T23:41:39+00:00",
+      "published_epoch": 1792885299,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "866280800ed0fdd4",
+      "title": "Why Gopher in 2026?",
+      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt \n Comments URL: https://news.ycombinator.com/item?id=50226577 \n Points: 43 \n # Comments: 10",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-24T23:33:19+00:00",
+      "published_epoch": 1792884799,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "aaff3529cd056253",
+      "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGtfcFhSaXlZOW01WjJhTEVWcTBQSlN4OTIxb2J3SmxmQ0prZ1dkTEpVckFGY2hQSlgyZzBjTl9RRXlOZ1JWdU5BSUhIZ2pTYmhCQW5WU0ZnUWNUdUlWSVRXajJ1dVRFMFhUN2Zkai1vMGxqS29mUDNTaHVud0FQNVJvb0NVcW5rNmFUVzNod3N2NTd1VkZWUGZadW9oVTVPb1NFQmsxWlhfU2RSWTVPN2dlUnlOd2ItSGRfdHZ3?oc=5",
+      "summary": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-24T23:23:00+00:00",
+      "published_epoch": 1792884180,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "59cfa56961376e88",
+      "title": "باراک اوباما، رییس‌جمهوری پیشین آمریکا، در یک گردهمایی انتخاباتی در میشیگان، دونالد ترامپ را به آغاز جنگی غیرضروری با ای...",
+      "link": "https://t.me/IranintlTV/363767",
+      "summary": "باراک اوباما، رییس‌جمهوری پیشین آمریکا، در یک گردهمایی انتخاباتی در میشیگان، دونالد ترامپ را به آغاز جنگی غیرضروری با ایران متهم کرد و گفت این جنگ نه‌تنها به اهداف خود نرسیده، بلکه موقعیت راهبردی جمهوری اسلامی را تقویت کرده است.\n\nاوباما گفت: «رییس‌جمهوری کنونی تصمیم گرفت جنگی غیرضروری را آغاز کند؛ جنگی که هیچ‌کس خواهان آن نبود و هیچ‌کس به آن رای نداده بود.»\n\nاو افزود جمهوری اسلامی پیش از جنگ سلاح هسته‌ای نداشت و توافق هسته‌ای دولت او بدون شلیک حتی یک موشک، برنامه هسته‌ای تهران را محدود کرده بود.\n\nاوباما با اشاره به گذشت هفت ماه از آغاز جنگ گفت پایگاه‌ها و متحدان آمریکا هدف حمله قرار گرفته‌اند، نیروهای آمریکایی کشته و صدها نفر زخمی شده‌اند و ذخایر موشکی ایالات متحده به سطح خطرناکی کاهش یافته است.\n\nاو تاکید کرد: «ایران اکنون بر تنگه هرمز حق وتو دارد و از نظر راهبردی در موقعیت قوی‌تری نسبت به پیش از جنگ قرار گرفته است.»\n\nرییس‌جمهوری پیشین آمریکا همچنین افزایش قیمت نفت، گازوییل و سایر کالاها را نتیجه تصمیم دولت ترامپ برای آغاز جنگ دانست و گفت این جنگ همچنان ادامه دارد.\n https://iranintl.com/202610244431",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-24T23:21:52+00:00",
+      "published_epoch": 1792884112,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/WXNwV8bPQfGfE12s1D0Zf-jn9g2awvNzNVPZuh9PG4vO07YrCy5aq9OchU9sQrNBJvouua9-yod3kZOv7MwT1U3sdRXU0yCczkp9feFOD9GZ8A2XK7rIaR8wQyLEs22cCSjhsWVjMNRc0XwuvW7_fvIEOhei-7wnUx_Dfs9HM9RciUy7z9iplJBuwo1daw0uIAXoG7u57QWGYRq5511lJcDj41iggooVJ8uWKJAG5nAGvu3oflZxvKypppAPgW6wqdvGG99bcbbjyVIvfXmod0kD-grGQNOSxIh8h9-7xc_X01h_S7lWxESUdOaDyxG-9KWBUtAXUMPufbHCilxkYQ.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/0dfac1d1a4319a09.jpg"
+    },
+    {
+      "hash": "7f28c542ae09f8de",
+      "title": "گادی آیزنکوت رقیب اصلی نتانیاهو در انتخابات اسرائیل کیست؟",
+      "link": "https://www.bbc.com/persian/articles/cqn06gp7g5leo?at_medium=RSS&at_campaign=rss",
+      "summary": "نظرسنجی‌ها نشان می‌دهند ائتلاف احزاب بنیامین نتانیاهو، نخست‌وزیر اسرائیل، که حزب لیکود، احزاب راست افراطی و احزاب فوق‌ارتدکس را در بر می‌گیرد، ممکن است در انتخابات سراسری ۲۷ اکتبر برای کسب اکثریت پارلمانی با چالش روبه‌رو شود.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-24T23:12:02+00:00",
+      "published_epoch": 1792883522,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/236e/live/c9c00b20-cc67-11f1-a64c-550be9e3c66b.png"
+      ],
+      "local_media_path": "media/2026-10-25/36a1aa9de3918aea.jpg"
+    },
+    {
+      "hash": "d5aa301f74f5b72a",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class \n Comments URL: https://news.ycombinator.com/item?id=50226419 \n Points: 225 \n # Comments: 215",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-24T23:11:54+00:00",
+      "published_epoch": 1792883514,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "4ed64d308b811d29",
+      "title": "رییس پیشین موساد جزئیات عملیات در ایران و انفجار پیجرهای حزب‌الله را شرح داد",
+      "link": "https://www.iranintl.com/202610240075",
+      "summary": "دیوید بارنیا، رییس پیشین موساد، می‌گوید این سازمان با علنی کردن حضور مامورانش در ایران، به دنبال بازداشت‌های گسترده و دشوار کردن شناسایی آنها بود. او همچنین جزئیات تازه‌ای از طراحی و اجرای عملیات انفجار پیجرهای حزب‌الله بیان کرد.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-24T23:11:36+00:00",
+      "published_epoch": 1792883496,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/8c31856e11ba0111925fa814ed944edec640448c-800x534.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-25/2a5252941ff3b722.jpg"
+    },
+    {
+      "hash": "b3b5981a63c01af3",
+      "title": "دیوید بارنئا، رییس پیشین موساد، فاش کرد این سازمان در جریان جنگ ۱۲ روزه، عامدانه تصاویر عملیات عوامل خود در ایران را منت...",
+      "link": "https://t.me/IranintlTV/363766",
+      "summary": "دیوید بارنئا، رییس پیشین موساد، فاش کرد این سازمان در جریان جنگ ۱۲ روزه، عامدانه تصاویر عملیات عوامل خود در ایران را منتشر کرد تا با افزایش بازداشت‌ها، شناسایی نیروهای واقعی موساد برای دستگاه‌های امنیتی جمهوری اسلامی دشوار شود.\n\nبارنئا در نشست «پرایوریتی سامیت» گفت هدف این بود که نیروهای امنیتی جمهوری اسلامی شمار زیادی از افراد را بازداشت کنند و نتوانند عوامل واقعی موساد را از دیگران تشخیص دهند.\n\nبه گفته بارنئا در دومین روز جنگ ۲۱ هزار نفر در ایران بازداشت شدند و در نهایت آزاد شدند. \n\nرییس پیشین موساد همچنین گفت ده‌ها عامل این سازمان چند هفته پیش از آغاز حملات ژوئن ۲۰۲۵ به ایران اعزام شده بودند و برخی از آنها همچنان در تهران زندگی می‌کنند.\n\nبارنئا افزود اسرائیل پیش از حملات موشکی جمهوری اسلامی در آوریل و اکتبر ۲۰۲۴، روی توان نظامی ایران در این حوزه حساب می کرد، اما این حملات به اسرائیل کمک کرد ارزیابی دقیق‌تری از توان موشکی تهران به دست آورد.\n\n https://iranintl.com/202610249229",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-24T23:05:36+00:00",
+      "published_epoch": 1792883136,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/u2xcFVXtsIPApwciZVzTiAEf-IUGiUwm0Zq4rydzCDfUECAchBFDbXsSqg7IT07RzLWkgAn8PP49JGqoDmTGUUkHuGQtEg5JBFUvgdR_LEEMehIBIlnm0QcDuFjCFITTbu966W4mVFhK9AslJsAz_nI887goYDjc4mpmbPgeDXQjGFKUTXQi6rJ0JSSJBI9whHxzb6Gfg_iVW06tW6WYAvh9EVOP4VW6QTGKufRPBliomWwfVq0n5T7L7gUsqesw1f8xn5GIH47QhiK68ZFQsuDAF9tWaS2AH5qszUh4Quht7qjyFNycKgkk0d3tFohmoaFlgpasQvFyFTcSsJZN7A.jpg"
+      ],
+      "local_media_path": "media/2026-10-25/fb211744259c243a.jpg"
+    },
+    {
+      "hash": "f2868edba46fc92b",
+      "title": "ویدیوهای منتشرشده در شبکه‌های اجتماعی آتش‌سوزی گسترده در مراتع و گلخانه شهرداری رودهن را در شامگاه شنبه دوم آبان نشان می...",
+      "link": "https://t.me/IranintlTV/363765",
+      "summary": "ویدیوهای منتشرشده در شبکه‌های اجتماعی آتش‌سوزی گسترده در مراتع و گلخانه شهرداری رودهن را در شامگاه شنبه دوم آبان نشان می‌دهد. تصاویر از شدت بالای حریق حکایت دارند.\n\nعلت وقوع آتش‌سوزی و میزان دقیق خسارت هنوز مشخص نیست.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-24T23:04:40+00:00",
+      "published_epoch": 1792883080,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/Rg8997xlaPxseQzSFdHX7AjoDKCClKPNMQtl-MdF8QkHc_SP0nY6iGpEjefiJHV2NmCjrW-ET-8HWqoGlbu_5akq_yDLJYqiXuQqwsB9FBio8FnqaVpEad74tpduEKJXERJ002zXu0gHuCwKEUnJANvWxh1OSUpiulCc9WLTJDI5tsEJPAnZW4Dz5JvJ_KlnUkvg57THT7euTqxbUuMzTjaDBc45TV0FeFgo3mxp017XDQcYyZk3I8l9UAHslpPpY7LlPcaA7kPKB2Df-xpnIBKuvcRiQUs80ts4t1Hpoz1Pa62cEnDPE1imsHpjUx5Aju87bcPDQzQEHgF_jcM_sA"
+      ],
+      "local_media_path": "media/2026-10-25/f8a0c3b9db2ff3b3.jpg"
+    },
+    {
+      "hash": "faa9a797471d42ff",
+      "title": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت دونالد ترامپ همچنان دو گزینه حمله نظامی و دستیابی به توافق با جمهوری اسل...",
+      "link": "https://t.me/IranintlTV/363764",
+      "summary": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت دونالد ترامپ همچنان دو گزینه حمله نظامی و دستیابی به توافق با جمهوری اسلامی را مطرح می‌کند و هنوز تصمیم قطعی درباره آغاز عملیات تازه اعلام نشده است.\n\nتوانا با اشاره به استقرار ناو هواپیمابر جورج واشینگتن در دریای عرب و تجهیز آن به بمب‌های سنگرشکن و تسلیحات پیشرفته گفت نیروهای آمریکایی برای اجرای سریع عملیات احتمالی آمادگی دارند. به گفته او، واشینگتن در شرایطی توان نظامی خود را تقویت کرده که گزارش‌های تاییدنشده‌ای از حمله به نفتکش‌ها و مین‌گذاری در منطقه منتشر شده است.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-24T23:01:12+00:00",
+      "published_epoch": 1792882872,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/o33Ru2N-f92dV4CZYAWupVaALv8HfYvnj3p5RplsOF2fTVhA9W_EEJcpM729q_7NGI_XLbAwWbqFXKoPIFqvpBe-CNF131Lt_NjCCr22B06PjFMM-1wDbtdbp8vZxymDpo55CE-mr5q996QWB2QOdMoSdilecFzuLiyNmt3se3sud-KxHn3VRRrSowWbMOfdXmnWrPT17jSnV6pO4Pbnvk5fTKSa2rWBj2rOWrvH1KuVA_99WEPuG5ofUu4dPK3J5XHaN9rIWrIjKMWIpmLAtI4Hvl2cEDDmr1-YqVzof84zu0tt1a71vaHIA9bhmsvp-fpq0N8d9YzdnFHdWL4Vtw"
+      ],
+      "local_media_path": "media/2026-10-25/e15780e50977909a.jpg"
+    },
+    {
+      "hash": "5dd169a3502cacc4",
+      "title": "گزارش‌ها از پیشنهاد جدید ایران برای بازگشایی تنگه هرمز؛ ترامپ: یا توافق می‌کنند یا کار را تمام می‌کنم",
+      "link": "https://parsi.euronews.com/2026/10/25/trump-rejects-iran-hormuz-proposal-finish-the-job-october-2026",
+      "summary": "دونالد ترامپ روز شنبه گفت که اگر با ایران به توافق نرسد، مجبور می‌شود «کار را تمام کند». او همچنین مدعی شد که ایران مشتاق حصول توافق است. این در حالی است که در روزهای اخیر گزارش‌های متعددی از احتمال ازسرگیری حملات آمریکا و اسرائیل به ایران منتشر شده است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-24T22:52:42+00:00",
+      "published_epoch": 1792882362,
+      "rtl": true,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -35,7 +611,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/UiW7pb_51tybz5h8nhR2aAsWXk5xJ-yM9JIjqgpkPir1uieGo50Wi4UZZNwAOF0XP43R6IiQyzHtHb8k3v_rmgmq92Lhl4gTkdYhZp1bj6f1EaWlLfTmyMrDFxlw8v0CtxAO6ZyrK-YHgWg_8ff26XgSuOs4XfwOh71vAcdUNvn5YSeKFEiq-yNrfA2DxcXX-g1V1G3-O2RBtKPS0QTQ17hpbt0V3XCnupOxcwUrA0bzzZGRRhUUgkEI3hOGssMpsfz70G4P8qcGfzh6J_7Bwfz8X-HVVQ_47yTjrnYJH3Kq4c40soXVx6xYjx9k2_vwh7xqiXhQs2ay31pEh9_qxQ"
       ],
-      "local_media_path": "media/2026-10-24/bb6414426e78959b.jpg"
+      "local_media_path": null
     },
     {
       "hash": "43bd3c5a418f0426",
@@ -52,7 +628,7 @@
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9b9/live/ed1d04c0-ce55-11f1-a166-e30097724580.png"
       ],
-      "local_media_path": "media/2026-10-24/1a2382ff7a656fbb.jpg"
+      "local_media_path": null
     },
     {
       "hash": "2d24206a80163738",
@@ -69,56 +645,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/EMoaFYRrBeRkPyNunmr5fzUw38Iwe5NJeSlqvsg3Oj4d84HQo6jBwkbDGMWp49x19ZttY0KHJ2uaVdwW0SpLZPELRJ8j9MBozrgA5z4Nhu9ddqtFoUkiGLUkLFb-a1OfZS8LCcMOBaIBcN_IGERyozapisZOg8W0jA-riuPyGI9J0NwMzN2fUdiieetT507TeEsWYtW3Hz5QKYBi2n_UriudZrq0QbSePslNrHEj6Ai87GP42ObCHOU0N5g-dn5um_vdTX-oU09VeIm99-9IAtUvK6rnQPLlBKBVtTh0MgGaCkn26KESnXashRkf5bBKIAKmFgkRJvx4atu2Cagb3A"
       ],
-      "local_media_path": "media/2026-10-24/660983e763d60f63.jpg"
-    },
-    {
-      "hash": "24900f6968fd071b",
-      "title": "🎧 نسخه صوتی سیاست با مراد ویسی: قاتلان مردم اصفهان",
-      "link": "https://t.me/IranintlTV/363761",
-      "summary": "🎧 نسخه صوتی سیاست با مراد ویسی: قاتلان مردم اصفهان\n @iranintlTV",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-24T22:37:27+00:00",
-      "published_epoch": 1792881447,
-      "rtl": true,
-      "raw_media_urls": [],
       "local_media_path": null
-    },
-    {
-      "hash": "20e2e4f9c7fb5dbf",
-      "title": "وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به...",
-      "link": "https://t.me/IranintlTV/363760",
-      "summary": "وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به مقر گارد ساحلی در ساختمان وزارت کشور و موشک سوم به ساختمانی در منطقه التواهی اصابت کرد.\n\nیحیی سریع، سخنگوی نظامی حوثی‌ها، مسوولیت حمله به دو موضع نظامی در عدن را بر عهده گرفت.\n\nهم‌زمان، انفجارهای شدیدی در محدوده استان‌های لحج و عدن در جنوب یمن گزارش شد. هنوز اطلاعات رسمی درباره تلفات و خسارت‌های احتمالی منتشر نشده است.\n https://iranintl.com/202610241385",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-24T22:31:44+00:00",
-      "published_epoch": 1792881104,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/TqNDBNR8GG4BDK20Rn_6IXTzUfNYczev82kgdY00DfhMUlSmeDp1uG1je5undEpiudt-KCkJo5roGpNJRzkOaupotrWh5x3ExGzKJh3uvZLzCpPLekaGirfzUIyhFep4-sOH9X7EEtvnUutKwMBU6Xht-sXeMbHCSnBNc-uFuGs46hU0H43IYa62ibth3D6Irn66_QmxEaJGAcS64c48r_KP9LMK9Xc9TEonwxSq1VqdCGnoH3Ys4vHgXMN6tUJ_6Mfu1PHbjfxaTvcZhcnn2M1aYS5NLAaXQ5qGfaSV6Cq7yCCEgjpqTSICf30Bi7uDNRfATi7_hXZKJwAQcf09hQ.jpg"
-      ],
-      "local_media_path": "media/2026-10-24/73e58fc878f31aeb.jpg"
-    },
-    {
-      "hash": "e7b75a7cdc879097",
-      "title": "وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به...",
-      "link": "https://t.me/IranintlTV/363759",
-      "summary": "وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به مقر گارد ساحلی در ساختمان وزارت کشور و موشک سوم به ساختمانی در منطقه التواهی اصابت کرد.\n\nیحیی سریع، سخنگوی نظامی حوثی‌ها، مسوولیت حمله به دو موضع نظامی در عدن را بر عهده گرفت.\n\nهم‌زمان، انفجارهای شدیدی در محدوده استان‌های لحج و عدن در جنوب یمن گزارش شد. هنوز اطلاعات رسمی درباره تلفات و خسارت‌های احتمالی منتشر نشده است.\n https://iranintl.com/202610241385",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-24T22:31:43+00:00",
-      "published_epoch": 1792881103,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/X14-ojN3dNimldTFWUbPi_NipjMaWmSEjiIo1x3wj0Q98dOoT0Cy1Wrqq4CxgjDZrWmxh73FV4RQ105zwiEvt4RRjE--KOtj_Ap7FH6-tM6DWyL3_K8xkXerUpDFpVbuxu8f24sUTgWqnnhn4BJNt50f3OXUK4ZeM8qJV8G_d_-GzPSfdjuqchbwa8oafFz9W4GZsJAJKv5CmLMDcqsVm5WP9rLpetJBxmwHhZGYBEbUel_pAnSb4oHHa4XAPVWrRC3zKmOQunawNggP6MA0_lwtjuAoUsNmEirZbTGnFBXygWxaLb7X2ZX-lpGwt_UqAJbAoJKNn33AKhEXN9IjEA.jpg"
-      ],
-      "local_media_path": "media/2026-10-24/2d6187833353b013.jpg"
     },
     {
       "hash": "f5f6df00612faf1e",
@@ -133,109 +660,39 @@
       "published_epoch": 1792880885,
       "rtl": true,
       "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/ALTJHKh8X4975KfCboKmW0pNnOZfv22XrScou3TBmBVypOsUrP1NWpMbdeaueH4wr71RDaaXbHMNSZD6UET1_8rS_vfJNuVr4344ABk7yvf3m2ptjJUVbxqy4Bhnrttr6mn4DaFyqrVflOzpPMvXmKQe71TNrbuSicFTmGItnna4U6we2Tuo7Lr3wnbF63EAfkpqB7Gn5rqRujXSVhkocBYG-y_y1RWCEJd9R2gzFAVmAH-3O4MHoByCFcir_xwfImwIerggFJJLqv9EaEmZH2V9sIrbgJZ2yt5TR5cI7LxGM7AXOxwIIpp-XSHwPsuRWF3lcIRGFjvWnihmrqcasA.jpg"
+        "https://cdn1.telesco.pe/file/SZMKgmG7eky3L41LQ9uozp50wBR9bhrkMtWXL8M3fqivIBUQS-CUpUD8Ri0UHKQrB4D5RxNX9LjhmzS5HsaAKjjpVgV5C_Asui1uhDrZ9-EU-6r3TeOBtujbF_nijkiRyOFT2UnV9tgI9motFF0JsCo4oCXSvdEri_FOobD57qMyTE_E2F27-xzR5MWUHlU94jEh5QUzb7xtHm_32ARNDFbT8Ivoe8aboOOmNUBGohMU1FTfnKZS0KUeJtCn7Jfi5oeNGF5yFLJrZcUzrYyoAFEwq7td8bK247lJxMn2XA1AC4HYYfUPVcsUBpyQYn6bHH6iDhpkKSn4--SLz53DTg.jpg"
       ],
-      "local_media_path": "media/2026-10-24/e1dfb7a5b0b7d023.jpg"
+      "local_media_path": null
     },
     {
-      "hash": "120daa53681b9571",
-      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ د...",
-      "link": "https://t.me/IranintlTV/363758",
-      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ دادگاه انقلاب زیر نظر قوه قضاییه، سپاه استانی نیز زیر نظر سپاه کل کشور است و نیروی انتظامی زیر نظر نیروی انتظامی کل کشور. این یعنی نظام جمهوری اسلامی تصمیم گرفته است که مردم را بکشد، نه یک قاضی یا فرمانده خاص.»\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-24T22:21:32+00:00",
-      "published_epoch": 1792880492,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/IlCz_0T87fa6lDW3nugJAx8EY_pH1CxdXaiWO_wDnfxmmXfVKteJlg_rTpnmZXqAh8Sc13puZzZkSQr5iCWpwEJA72QXH3T-HjpS6AayaqfiYBiIG-YnwAMPtCrU-TAP5D1VtjidWuAkutm-zp8WJ8MbY2_HzDqrjizel1B2Sb--e2oDPoIoezI3pH56fs2BYDlAWknQg3UCGB8z6aVqZX9TKMWgoJCZrMcIw-I97O59ASOjFkJhR0u-ixOQxOlYxv0YHYSiTu-UZGDDn8VUU3K625aXPa-2JoN1lxDanDb5Qfh4rOZErvDzHl00Ovl-mOus0fRthZxD_Ymdu6Yfnw"
-      ],
-      "local_media_path": "media/2026-10-24/d09d04045b58109e.jpg"
-    },
-    {
-      "hash": "292fd1e5c88735bb",
-      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ د...",
-      "link": "https://t.me/IranintlTV/363757",
-      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ دادگاه انقلاب زیر نظر قوه قضاییه، سپاه استانی نیز زیر نظر سپاه کل کشور است و نیروی انتظامی زیر نظر نیروی انتظامی کل کشور. این یعنی نظام جمهوری اسلامی تصمیم گرفته است که مردم را بکشد، نه یک قاضی یا فرمانده خاص.»\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-24T22:21:00+00:00",
-      "published_epoch": 1792880460,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/QIrIsxCskHwBqKrXbjZly6VtvGtw1J5ecIWjuXlwYbtcKoOR5CM2oGJgmg6O1mPgqzKXGZHITjAWwMeQJr4jhPC2hw1BoVTPc5i4wdpZWEG12EVsH0zxppq8p26qK5gR4rmWYM92nBq1pBdZdlIV427xhPcFEdwhh5k083ojQUGtaQEP4ezuC1FqpJ5hg4OgRiJ7Mt24-hcpG_k5tDjcpfFzItsvAYVQfkcfE5PsH7GQarC84CsxpXN_gUX_7IINuxHoCA6tu_ZFKQweEmg4tkWc8t-o74vDDR4ksLBZ2dRiejI8kgD2d2ectzn-sARvxtkAd4rfAlhwXCQ9OJg24g"
-      ],
-      "local_media_path": "media/2026-10-24/abf53423a996d063.jpg"
-    },
-    {
-      "hash": "d553a3dcd240fa5f",
-      "title": "🔻 روزنامه بیلد آلمان گزارش داد مدیران بایرن مونیخ علاوه بر افت عملکرد لنارت کارل، ستاره جوان خود، از نحوه حضور او در شبک...",
-      "link": "https://t.me/IranintlTV/363756",
-      "summary": "🔻 روزنامه بیلد آلمان گزارش داد مدیران بایرن مونیخ علاوه بر افت عملکرد لنارت کارل، ستاره جوان خود، از نحوه حضور او در شبکه‌های اجتماعی نیز ناراضی‌اند و از این بازیکن ۱۸ ساله می‌خواهند کمتر همراه با دوست دخترش سبک زندگی پرزرق‌وبرق خود را نمایش دهد و بیشتر روی فوتبال تمرکز کند.\n\n 🔹 کارل بخش زیادی از سبک زندگی پرزرق‌وبرق و زندگی خصوصی خود را همراه زوئی کاپله، دوست‌دختر ۲۲ ساله‌اش، در شبکه‌های اجتماعی به اشتراک می‌گذارد. کاپله در تیک‌تاک بیش از ۵۵۴هزار دنبال‌کننده دارد و به نوشته بیلد این نوع فعالیت کارل مورد پسند همه در باشگاه نیست.\n\n 🔹 حضور مشترک آنها در ویدیوهای فضای مجازی، بازدید زیادی جذب می‌کند. در بایرن نگرانی از این موضوع افزایش یافته که تمرکز کارل بیشتر روی اینستاگرام باشد تا عملکردش در زمین.\n\n 🔹 پیام مدیران بایرن به او روشن است؛ نمایش زرق‌وبرق کمتر در شبکه‌های اجتماعی و درخشش بیشتر در زمین؛ مانند فصل گذشته.\n\n 🔹 از سوی دیگر، اولی هوینس، رییس افتخاری بایرن، وارد عمل شده است. او علنا از این بازیکن جوان انتقاد کرد و گفت با او حرف می‌زند.\n\n 🔹 جزییاتی از هشدار مدیران بایرن به کارل را اینجا بخوانید\n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-24T21:58:02+00:00",
-      "published_epoch": 1792879082,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/uijcJUpGUXR0kYhppsYKOrPWC1oDvavyVbZ2lwf5PesgBXYiDaNVTJOgRsJCnNAGHDdcW-uVhnU9CxdipzLXlgBS76H08Qq0WSyz4FtckuaFOfp0P8jJBuGVftLyyRTiyyleVRsgC7jV3oX9KZrWP5yJ7h6AndXL5ACrMtaGapM9n5xxKrZEOJQ705BeUrj0zjw11THNVpyIusENhGkqV6yGzoR6YhfNmuwZClqDbhzgazVd8kI13DGzwK5pwtlAg8HDSC9w7qhIYvR4xvNEFXE3KmcC-J_8RHHdskHQ3R6RaTdxFF6El1QeAmOaIFL6K7ERSt76GRrFsmkuwlVtZQ.jpg"
-      ],
-      "local_media_path": "media/2026-10-24/875a8806566f0297.jpg"
-    },
-    {
-      "hash": "9d3e0f2df35fd4b7",
-      "title": "Trump administration demands county election officials identify noncitizen voters in California - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5",
-      "summary": "Trump administration demands county election officials identify noncitizen voters in California    Reuters",
+      "hash": "5b6e8786a42a16b7",
+      "title": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5",
+      "summary": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires    Reuters",
       "source_id": "reuters_wire",
       "source_name": "Reuters Wire",
       "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-10-24T21:57:51+00:00",
-      "published_epoch": 1792879071,
+      "published_at": "2026-10-24T22:15:27+00:00",
+      "published_epoch": 1792880127,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "566f53738c4b2e8a",
-      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زی...",
-      "link": "https://t.me/IranintlTV/363755",
-      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زیادی در این جنایت دست دارند؛ از امام جمعه گرفته تا استاندار و فرماندهان سپاه و بسیج.»\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-24T21:57:46+00:00",
-      "published_epoch": 1792879066,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/Nam8PutEpkHT3dglCtmA6VavXmmXYcj53QopWWRQeFZNGA9-QUdYfwiZ3Uo8IiTglZUqe4cSU_zJ0KrdFkNj8ucbH3iscp6PFZEzqR0_T45QB1mKiGowkE9VZyHyt_s2y22-2vdv40sCS7iWtylRr_Bx5YcXvwsS3aYmKWvPaTJu_AKP5d3JTh5Qh_3zo3jV_Tl-F1iZLWi2zqJUpkYEwHhchsN9pw-W-NO-PXbm0mxNt4-p67SmjrdVO_EbLnXSdDeXppNSh64So7fsrdhapDNM0VbR1fDoBAGzp2eFHW_71vhJVblzMfiGba_t3Rio5YDhbsRmZY05eEUIlCR-dQ"
-      ],
-      "local_media_path": "media/2026-10-24/b019c897ec342dc8.jpg"
-    },
-    {
-      "hash": "ee24f5f940145cdb",
-      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زی...",
-      "link": "https://t.me/IranintlTV/363754",
-      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زیادی در این جنایت دست دارند؛ از امام جمعه گرفته تا استاندار و فرماندهان سپاه و بسیج.»\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-24T21:57:40+00:00",
-      "published_epoch": 1792879060,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/eQbDH7F9fKrOPFzMH2LfLVhDpo5OscuvnxNpgRWf5MvBEDgPsOJHpYhTTsGOAuqFY642h-K5j_1Q0jYqtk0a6N09XYMHGsRcu9Z5F2fLE-rFPSU3ds3bcGppVmSrpFxz10MmLSNYyTsfNiYcQnH3UDOX-nHERvhKigDo3KJeezk0GW2Iz9if9fpQxNQ-QbkjFu9zNDSef8VeUj-NzHJ6zmFvcnAGMicVKHeY_EcJ-z98cNEdAYQYmYkfejN0d_o_wKPXhhV0s_9ypMH-xDM3LMj9qwiTnVuz9aFvBF6x3HdqqiDX3TQ_gWHK_GFbWcWUYDwK8HlNDeePIX0IKHEQNg"
-      ],
-      "local_media_path": "media/2026-10-24/72cf470af182833f.jpg"
+      "hash": "5c7609681e655a82",
+      "title": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2dDQW5yVDVVYnk1ZzNMcVhCZEMxYUNyYkJxbE1vbkRuU20xVXRZVE9GdDRYQnBSY0Z3T3VIcDNmUFhub05LWS16LU9xdXdVc083b2ExNmJ0UXVCVzNLNzctOEMtUzYxX0xSVW1rMkNRWGVBMjEyRmVxTm13SXlmZDJoS3NlcG9uRHBzamVOZGl6STE4bW5vS1FUQjJSQ2hfN2Y5WXZyR1E4ZkN2ZWJ0djJrVDRnRXVhNWhnY0FKeUJVelBr?oc=5",
+      "summary": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-24T21:56:37+00:00",
+      "published_epoch": 1792878997,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "8e2c46e740062cf3",
@@ -252,19 +709,64 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/f68db1a24f5c0ce58ae59bce278039e63554d867-1080x1350.png?rect=0,464,1080,565&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-24/26e88cb963cc2b7c.jpg"
+      "local_media_path": null
+    },
+    {
+      "hash": "5298a96e42568f02",
+      "title": "We should be more ambitious with the software we build",
+      "link": "https://danluu.com/ambitious/",
+      "summary": "Article URL: https://danluu.com/ambitious/ \n Comments URL: https://news.ycombinator.com/item?id=50225695 \n Points: 253 \n # Comments: 223",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-24T21:47:31+00:00",
+      "published_epoch": 1792878451,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "643321964dce076a",
+      "title": "Small Programs and Languages",
+      "link": "https://ratfactor.com/cards/pl-small",
+      "summary": "Article URL: https://ratfactor.com/cards/pl-small \n Comments URL: https://news.ycombinator.com/item?id=50225674 \n Points: 56 \n # Comments: 5",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-24T21:44:23+00:00",
+      "published_epoch": 1792878263,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "35469283e170e9b2",
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "link": "https://ratfactor.com/cards/limitations",
+      "summary": "Article URL: https://ratfactor.com/cards/limitations \n Comments URL: https://news.ycombinator.com/item?id=50225663 \n Points: 38 \n # Comments: 10",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-24T21:42:47+00:00",
+      "published_epoch": 1792878167,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "512d40a43a732c81",
-      "title": "Trump set to announce plan by Audi to build US factory in Georgia, source says - Reuters",
+      "title": "Trump announces Audi will build $4 billion US factory in Georgia - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
-      "summary": "Trump set to announce plan by Audi to build US factory in Georgia, source says    Reuters",
+      "summary": "Trump announces Audi will build $4 billion US factory in Georgia    Reuters",
       "source_id": "reuters_wire",
       "source_name": "Reuters Wire",
       "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-10-24T21:33:43+00:00",
-      "published_epoch": 1792877623,
+      "published_at": "2026-10-24T21:31:00+00:00",
+      "published_epoch": 1792877460,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -284,7 +786,7 @@
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20be/live/b64d7920-cfef-11f1-b441-2b33b063138f.png"
       ],
-      "local_media_path": "media/2026-10-24/a07e0ae75514ed0d.jpg"
+      "local_media_path": null
     },
     {
       "hash": "b3da392278460059",
@@ -301,7 +803,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/8fa385732330a9b0b2a9d72a5a796e525d78fcca-800x533.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-24/e5f0e7cf81d8ff65.jpg"
+      "local_media_path": null
     },
     {
       "hash": "804f6c370f0287a7",
@@ -318,21 +820,6 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/57a9c3b080721338cbbdd66ca1b8d87c42e65971-800x533.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-24/3032709ef1480403.jpg"
-    },
-    {
-      "hash": "a2d2ee625ab38aa6",
-      "title": "〽️ آموزش تنظیمات WhiteDns Android",
-      "link": "https://t.me/whitedns/2144",
-      "summary": "〽️ آموزش تنظیمات WhiteDns Android\n\nمرسی از Tajirax بابت آماده کردن این PDF ✨ \n\n·:¨༺ @BlueKnight_Net ༻¨:·",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-10-24T21:10:34+00:00",
-      "published_epoch": 1792876234,
-      "rtl": true,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -353,16 +840,16 @@
       "local_media_path": null
     },
     {
-      "hash": "8512c64b84d9ed40",
-      "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
-      "summary": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-24T20:23:00+00:00",
-      "published_epoch": 1792873380,
+      "hash": "356fa3be4ecf3dee",
+      "title": "Show HN: Steal My Bitcoin",
+      "link": "https://stealmybitcoin.com/",
+      "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! \n\n Comments URL: https://news.ycombinator.com/item?id=50224916 \n Points: 433 \n # Comments: 261",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-24T20:30:31+00:00",
+      "published_epoch": 1792873831,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -399,21 +886,6 @@
       "raw_media_urls": [
         "https://gdb.rferl.org/a93e5dd9-0afd-422a-abb4-566e5ad4ae01_cx0_cy9_cw0_w800_h450.jpg"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "a7ec25374c93e78f",
-      "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
-      "summary": "Nigeria's Tinubu launches re-election campaign as economic pain tests support    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-24T19:08:10+00:00",
-      "published_epoch": 1792868890,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -464,38 +936,6 @@
       "local_media_path": null
     },
     {
-      "hash": "7e720e46eba8409f",
-      "title": "ناپولی ۳-۳ رم؛ دو دبل، ۶ گل و تساوی حسرت‌بار برای آلگری و گاسپرینی",
-      "link": "https://www.iranintl.com/202610244607",
-      "summary": "ناپولی در دیداری پرگل، با وجود دو بار پیش افتادن مقابل رم، به تساوی ۳ بر ۳ رضایت داد. اسکات مک‌تامینی برای ناپولی و لئوناردو بالردی برای رم دبل کردند. بالردی در دقیقه ۹۰ گل تساوی رم را به ثمر رساند و ماسیمیلیانو آلگری، سرمربی ناپولی، نیز به دلیل اعتراض اخراج شد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-24T18:28:37+00:00",
-      "published_epoch": 1792866517,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/19ac4c0e85fd9291aea162ad544e3131a0bc1389-2300x1569.jpg?rect=0,217,2300,1204&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "53f8723f0fd1299f",
-      "title": "Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5",
-      "summary": "Protests sweep Italian cities amid heavy security presence, some violence reported    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-24T18:23:43+00:00",
-      "published_epoch": 1792866223,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "9b4f70d6e520e247",
       "title": "اگر کارهای بنده باعث شده گره ای از مشکلات شما باز شود ممنون میشم حمایتی هم از اینجانب بکنید:",
       "link": "https://t.me/patt_channel_x/200",
@@ -507,6 +947,21 @@
       "published_at": "2026-10-24T18:22:18+00:00",
       "published_epoch": 1792866138,
       "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "53f8723f0fd1299f",
+      "title": "Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5",
+      "summary": "Protests sweep Italian cities amid heavy security presence, some violence reported    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-24T18:22:00+00:00",
+      "published_epoch": 1792866120,
+      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -527,9 +982,9 @@
     },
     {
       "hash": "9fae1a5c5dbb05aa",
-      "title": "PattN v7.25.6-P37",
+      "title": "PattN v7.25.6-P38",
       "link": "https://t.me/patt_channel_x/198",
-      "summary": "PattN v7.25.6-P37",
+      "summary": "PattN v7.25.6-P38",
       "source_id": "tg_patt_channel_x",
       "source_name": "@patt_channel_x",
       "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
@@ -542,9 +997,9 @@
     },
     {
       "hash": "173e1c70177a9bde",
-      "title": "PattNG v2.3.13-P68",
+      "title": "PattNG v2.3.13-P69",
       "link": "https://t.me/patt_channel_x/197",
-      "summary": "PattNG v2.3.13-P68",
+      "summary": "PattNG v2.3.13-P69",
       "source_id": "tg_patt_channel_x",
       "source_name": "@patt_channel_x",
       "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
@@ -556,25 +1011,10 @@
       "local_media_path": null
     },
     {
-      "hash": "ebb882ef1cd8d7d2",
-      "title": "دبیر انجمن شرکت‌های هواپیمایی: قیمت بلیت هواپیما ۴۰ درصد افزایش یافت",
-      "link": "https://www.iranintl.com/202610244099",
-      "summary": "مجید اخلاقی، دبیر انجمن شرکت‌های هواپیمایی، از افزایش حدود ۴۰ درصدی قیمت بلیت هواپیما خبر داد.\n\nاو با اشاره به دلایل این افزایش قیمت، هزینه‌های ارزی شرکت‌های هواپیمایی و توقف تخصیص ارز مبادله‌ای را از عوامل اصلی رشد نرخ بلیت عنوان کرد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-24T18:07:16+00:00",
-      "published_epoch": 1792865236,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "6dbbe646376bcb43",
-      "title": "PattN v7.25.6-P37",
+      "title": "PattN v7.25.6-P38",
       "link": "https://t.me/patt_channel_x/196",
-      "summary": "PattN v7.25.6-P37 \n\n PattNG v2.3.13-P68 \n\nبالاخره بعد از یک چالش یک هفته ای هسته ی aether به PattN اضافه شد، همه چیز مشابه همان PattNG هست، تشکر دوباره از @CluvexStudio \n\nبا توجه به اضافه شدن هسته‌ی جدید و همچنین تغییرات گسترده، پیشنهاد میشه برای عدم بروز هر گونه مشکل، PattN را از نو دانلود و اکسترکت کنید، و ترجیحا روی ورژن‌های قبلی آپدیت نکنید (صرفا جهت احتیاط).\n\n///\n تغییرات اصلی PattN/PattNG :\n\n* مشکل فیلتر بودن سرویس کلید وارپ حل شده و در حال حاضر میتوانید بدون نیاز به فیلترشکن کلید های وارپ را دریافت کنید (با تشکر از @Break_The_Barriers ).\n\n* مشکل عدم اتصال به پروتکل MASQUE-HTTP/2 نیز حل شده\n\n* اکنون میتوانید کانفیگ های aether رو بدون ip و port مشخص ذخیره کنید، با این کار موقع اتصال برنامه ابتدا سعی میکند به آخرین ip موفق وصل شود و در صورت عدم اتصال دوباره اتوماتیک اسکن را انجام میدهد و به اولین ip موفق وصل میشود.\n\n///\n\nیه سورپرایز مهم هم داشتم که ترجیح دادم بزارمش برای نسخه‌ی بعد",
+      "summary": "PattN v7.25.6-P38 \n\n PattNG v2.3.13-P69 \n\nبالاخره بعد از یک چالش یک هفته ای هسته ی aether به PattN اضافه شد، همه چیز مشابه همان PattNG هست، تشکر دوباره از @CluvexStudio \n\nبا توجه به اضافه شدن هسته‌ی جدید و همچنین تغییرات گسترده، پیشنهاد میشه برای عدم بروز هر گونه مشکل، PattN را از نو دانلود و اکسترکت کنید، و ترجیحا روی ورژن‌های قبلی آپدیت نکنید (صرفا جهت احتیاط).\n\n///\n تغییرات اصلی PattN/PattNG :\n\n* مشکل فیلتر بودن سرویس کلید وارپ حل شده و در حال حاضر میتوانید بدون نیاز به فیلترشکن کلید های وارپ را دریافت کنید (با تشکر از @Break_The_Barriers ).\n\n* مشکل عدم اتصال به پروتکل MASQUE-HTTP/2 نیز حل شده\n\n* اکنون میتوانید کانفیگ های aether رو بدون ip و port مشخص ذخیره کنید، با این کار موقع اتصال برنامه ابتدا سعی میکند به آخرین ip موفق وصل شود و در صورت عدم اتصال دوباره اتوماتیک اسکن را انجام میدهد و به اولین ip موفق وصل میشود.\n\n///\n\nیه سورپرایز مهم هم داشتم که ترجیح دادم بزارمش برای نسخه‌ی بعد",
       "source_id": "tg_patt_channel_x",
       "source_name": "@patt_channel_x",
       "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
@@ -584,23 +1024,6 @@
       "rtl": true,
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/oNroALFfh1eGbHYozfvwwQuKlJF-ZbbLzt4h2Ch1_67iv0Kfqm8UlonZviu3WCpG8CKF40NHDt-IkwZPXlYxJL7kcSJbaknHf3O7ikm1FRQ5I5Av2ZpsLvPBPJS6uZABIYJUhSwJYyFKLJvNH6YjmiiGqKs-4SZ28_g3iH3nSk-6FGIZdMet6IZVMT4VvsIyEzeSURvnafFsIxqqPtYiu75SQCBJx1rd8vQlunnuF3uXJKi-4YMX4uwZcXzBumIqmiLY5SrxIJiDAuCI15rOPdqgiZyIR7myFQdN_tJx3KFSZGS-N4ZdDEVQHshp_RumDofz93P_Ke0vVDYakgBaPw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "0c4cd688dd2df559",
-      "title": "برای بازی در لیگ نخبگان؛ تراکتور هم با هواپیمای مقامات جمهوری اسلامی به دوبی سفر می‌کند",
-      "link": "https://www.iranintl.com/202610249732",
-      "summary": "باشگاه تراکتور خبر داده که این تیم برای بازی با العین امارات در لیگ نخبگان آسیا با پرواز مستقیم هواپیمایی معراج از تبریز به دوبی سفر می‌کند. این درحالی است که ساعتی پیش علی محمودزاده، عضو هیات مدیره باشگاه تراکتور به سایت فوتبالی گفته بود هنوز رایزنی‌ها به جایی نرسیده است.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-24T17:46:55+00:00",
-      "published_epoch": 1792864015,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/60cba8253907a744597e596adb1a2ead5ab0c103-2560x1920.jpg?rect=0,287,2560,1340&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
       "local_media_path": null
     },
@@ -620,20 +1043,18 @@
       "local_media_path": null
     },
     {
-      "hash": "c875ad8c1ebed31a",
-      "title": "جنایت علیه بشریت؛ بخش ششم گزارش آمران کشتار",
-      "link": "https://www.iranintl.com/202610243759",
-      "summary": "سازمان عفو بین‌الملل در گزارش خود درباره‌ی خیزش زن، زندگی، آزادی با بررسی دقیق زنجیره‌ سرکوب جمهوری اسلامی به این نتیجه رسید که مقامات جمهوری اسلامی از رهبر تا مقامات نظامی، امنیتی و سیاسی باید به اتهام جنایات علیه بشریت تحت تحقیقات کیفری قرار گیرند.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
+      "hash": "435ddd141543f07f",
+      "title": "سایه ایران بر انتخابات اسرائیل؛ آیا جنگ دوباره به سود نتانیاهو تمام می‌شود؟",
+      "link": "https://parsi.euronews.com/2026/10/24/iran-influence-israel-election-2026-netanyahu-war-security",
+      "summary": "تنها سه روز مانده به انتخابات پارلمانی اسرائیل، ایران به یکی از محورهای اصلی رقابت بنیامین نتانیاهو، نخست وزیر این کشور و مخالفانش تبدیل شده است. موضوع ایران تا چه اندازه بر سرنوشت انتخابات اسرائیل تاثیرگذار است؟",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
       "category": "persian",
-      "published_at": "2026-10-24T17:36:34+00:00",
-      "published_epoch": 1792863394,
+      "published_at": "2026-10-24T17:31:07+00:00",
+      "published_epoch": 1792863067,
       "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/3a86cd30e6109e14183560fda8bdbcd442e783fc-900x900.jpg?rect=0,215,900,471&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -654,21 +1075,6 @@
       "local_media_path": null
     },
     {
-      "hash": "07c07b5cf6ebb3a9",
-      "title": "Albanian police fire tear gas as anti-government student protests turn violent - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX21BMWozRzgtZFdWcVVVc3o5dHh3bUIzSzZjcTdZTnNzcFdXN2lVYVpXTmY0OHB0UWdFbjdmQ0FKV0hxOVUxeVJGNEhxTGdhQW9tZWtuTGoxTDNKZWplYjBkLWd4Q2sxdlhXdElFaVo1a0pWbm9walRONWoxRVZCU2VFTEUwMlZfNEZZeWpsVGJPMnF6MW9ZNW11WHlKRGEtVjNoRlFsMTIxT0pvQkU5UnRhT3RxTThD?oc=5",
-      "summary": "Albanian police fire tear gas as anti-government student protests turn violent    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-24T17:11:44+00:00",
-      "published_epoch": 1792861904,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "1a0643973be2321a",
       "title": "خود خبر زیاد جالب نبود اما باید بگم Z-Library بزرگترین آرشیو دزدی از کتابهاست و از کتابهای آموزش ژاپنی تا رمان‌های فارسی...",
       "link": "https://t.me/MatinSenPaii/5688",
@@ -686,17 +1092,17 @@
       "local_media_path": null
     },
     {
-      "hash": "06132af2d27cfcce",
-      "title": "Belgian protesters and police skirmish at anti-government demonstrations in Brussels - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWRmTGozX08xMlVRbHEtbWNESTBRVUg5eVNVR2dJTnh2UTNoU1F1aktWc2FYZVh6N0hkcFJxN05OS1hmNmQzLWZZODBIVFRBYlQ1SG5BUzJvUUdxMmFsRWJlcFdlR3pSRTdJT0pDWk1XYUl6UENiTzNja0ExT0VFbWZvU01iTmpjY0R4bnF1RmRscUtDSnJUQTFJeUtLeF9BZ2kzcWxQOGlOZUhyUThmY29IOTY5eWc?oc=5",
-      "summary": "Belgian protesters and police skirmish at anti-government demonstrations in Brussels    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-24T16:06:20+00:00",
-      "published_epoch": 1792857980,
-      "rtl": false,
+      "hash": "9e923e1defcb78ef",
+      "title": "اسرائیل حدود ۲۵۰ خانواده فلسطینی را پس از کشته‌شدن سربازان از الخلیل اخراج کرد",
+      "link": "https://parsi.euronews.com/2026/10/24/israel-removes-about-250-palestinian-families-from-the-west-bank-city-of-hebron-following",
+      "summary": "چند روز مانده به برگزاری انتخابات حساس در اسرائیل بنیامین نتانیاهو نخست‌وزیر این کشور اعلام کرد پس از کشته شدن دو سرباز اسرائیلی به دست شبه‌نظامیان در ایست بازرسی عملیات گسترده‌ای در کرانه باختری آغاز میکند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-24T16:23:51+00:00",
+      "published_epoch": 1792859031,
+      "rtl": true,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -716,35 +1122,48 @@
       "local_media_path": null
     },
     {
-      "hash": "79c1311225c8e955",
-      "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
-      "summary": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-24T16:02:08+00:00",
-      "published_epoch": 1792857728,
-      "rtl": false,
+      "hash": "185ac33a47bd8b0c",
+      "title": "انتخابات سرنوشت‌ساز اسرائیل؛ نتانیاهو در برابر رقبای خود و بن‌بست تشکیل دولت",
+      "link": "https://parsi.euronews.com/2026/10/24/israel-election-2026-netanyahu-eisenkot-final-polls-coalition",
+      "summary": "اسرائیل روز سه‌شنبه ۲۷ اکتبر انتخابات پارلمانی سرنوشت‌ساز خود را برگزار می‌کند. نظرسنجی‌ها نشان می‌دهد که رقابت میان ائتلاف بنیامین نتانیاهو و احزاب مخالف بسیار نزدیک است اما هیچ‌یک از دو اردوگاه اکثریت لازم را برای تشکیل دولت به دست نخواهند آورد.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-24T16:02:19+00:00",
+      "published_epoch": 1792857739,
+      "rtl": true,
       "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "342c76f3e6d2bdd9",
-      "title": "دور تازه اعتراضات فرانسه؛ ۱۳۵ نفر بازداشت شدند",
-      "link": "https://www.bbc.com/persian/articles/c50mep7kxr2zo?at_medium=RSS&at_campaign=rss",
-      "summary": "در فرانسه بار دیگر ده‌ها هزار نفر برای تظاهرات اعتراض‌آمیز به خیابان‌ها آمدند. معترضان در برخی شهرها از جمله پاریس با پلیس درگیر شدند. در جریان این درگیری‌ها ۱۳۵ نفر بازداشت شده‌اند.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
+      "hash": "467dce33ee265166",
+      "title": "مجله خبری| ۲ آبان ۱۴۰۵ (۲۴ اکتبر ۲۰۲۶) - شامگاهی",
+      "link": "https://parsi.euronews.com/video/2026/10/24/mglh-khbri-aban-aktbr-shamgahi",
+      "summary": "آخرین تحولات اروپا و جهان را دنبال کنید ۲ آبان ۱۴۰۵ (۲۴ اکتبر ۲۰۲۶). با یورونیوز در جریان آخرین اخبار و رویدادهای سیاسی، اقتصادی، فرهنگی و سرگرمی قرار بگیرید.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
       "category": "persian",
-      "published_at": "2026-10-24T15:45:47+00:00",
-      "published_epoch": 1792856747,
+      "published_at": "2026-10-24T16:00:30+00:00",
+      "published_epoch": 1792857630,
       "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b3d/live/052b4bb0-cfc0-11f1-9ecd-8be45051afbd.jpg"
-      ],
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "2f97fbe506122d9c",
+      "title": "بحران بدهی فرانسه؛ چرا دومین اقتصاد بزرگ منطقه یورو زیر فشار است؟",
+      "link": "https://parsi.euronews.com/2026/10/24/france-debt-crisis-moodys-rating-borrowing-costs-2026",
+      "summary": "با وجود نگرانی‌ها درباره وضعیت مالی فرانسه، مؤسسه اعتبارسنجی مودیز رتبه اعتباری این کشور را بدون تغییر حفظ کرد. تصمیمی که به دولت فرانسه فرصت تازه‌ای برای مهار کسری بودجه داده ، اما کارشناسان هشدار می‌دهند که افزایش بدهی عمومی، جهش هزینه استقراض و بن‌بست سیاسی همچنان اقتصاد این کشور را تهدید می‌کند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-24T16:00:15+00:00",
+      "published_epoch": 1792857615,
+      "rtl": true,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -762,6 +1181,21 @@
       "raw_media_urls": [
         "https://gdb.rferl.org/df7054ea-e26b-4413-aded-d9f9a824a607_cx0_cy3_cw0_w800_h450.jpg"
       ],
+      "local_media_path": null
+    },
+    {
+      "hash": "af23c5f83deb7651",
+      "title": "نماینده چین: با پایان اعتبار قطعنامه ۲۲۳۱، آژانس باید بررسی پرونده هسته‌ای ایران را متوقف کند",
+      "link": "https://parsi.euronews.com/2026/10/24/china-calls-for-an-end-to-iaea-review-of-irans-nuclear-file",
+      "summary": "نماینده چین در سازمان ملل متحد با بیان اینکه اعتبار قطعنامه ۲۲۳۱ شورای امنیت پایان یافته است، خواستار توقف بررسی پرونده هسته‌ای ایران در شورای امنیت و آژانس بین‌المللی انرژی اتمی شد.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-24T15:33:12+00:00",
+      "published_epoch": 1792855992,
+      "rtl": true,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -813,6 +1247,21 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/M3VOD4Db1vc2SyOr8do8YSiZKKhDvl9dFa22iEJ0DWel-qnxt6qHSXjsJe-yYNFXH1yEjKuLbjlbqXp7sO6fONhO0-VZr_cZfcN7lIX1aEzutxpjU8HFlfPjLiZYPyKALJIgr6lce57wquxq2cyrm8wFCtMD9akpDVf0QWPvCmTF0ppZCnB3dKIVl_KZgq3utOW5ODDy-jzxv87DCg-cbpCDGkWm2yHxAdYo_TEbkDDdTS0T_fLbas4iehtxdBk1w2pAv_GOedJPoQ5GVcFder2DzvWFyI-QYty231yCQOesrfZuBsZuAHHFtfjAP04S03UHwQDeAcNRv1IOUymB1g.jpg"
       ],
+      "local_media_path": null
+    },
+    {
+      "hash": "2aa13e4f34740c67",
+      "title": "اعتراضات سراسری در ایتالیا؛ صدها نیروی نظامی برای کنترل خشونت‌های احتمالی مستقر شدند",
+      "link": "https://parsi.euronews.com/2026/10/24/italy-protests-meloni-deploys-500-soldiers-milan-security",
+      "summary": "دولت ایتالیا روز شنبه ۲۴ اکتبر، همزمان با آغاز دور تازه اعتراضات سراسری، صدها نیروی نظامی اضافی را در شهرهای بزرگ مستقر کرد و تدابیر امنیتی را افزایش داد. این تصمیم در پی درگیری‌های خشونت‌آمیز هفته گذشته میان معترضان و پلیس اتخاذ شده است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-10-24T14:45:35+00:00",
+      "published_epoch": 1792853135,
+      "rtl": true,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -876,21 +1325,6 @@
       "published_at": "2026-10-24T13:53:00+00:00",
       "published_epoch": 1792849980,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "3df1b09f76baf9dd",
-      "title": "China urges US to halt proposed expansion of outbound investment curbs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
-      "summary": "China urges US to halt proposed expansion of outbound investment curbs    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-24T13:51:55+00:00",
-      "published_epoch": 1792849915,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -1009,21 +1443,6 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/QJbbWQQGlAKaQjF3EL6RSlhq2laXvMZ7qzfjReeo9TVpMYVzCxWJm0jQ4FFA54-jVeVjCOF3perRbsYYaGaO4CZlaA3gbf2B_VqnKLEiW8nE_B42SWzlLrTdNk6t7Cj20b2QqqvkE9SQS7obO0cR7kSW_GVgz1b1Xck2ec4wG6Pel5PMTljDUBzxz2_mVBAH7oFjK2NK-gG_Yijq7yiJT4n5l5JqOvHhHElRrq3cWqFbs4L8R_7MpmTuzVJnipZ5pyhRqM2UDDGQvAW3g04CwHd6kxsZ2bpcbrwXi-zRT3kIEHPPLU6SIbJpF8Mtzqw3C6sjwFKEcJmJnWT6Qw03Zg.jpg"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "5a72b71edb8498a7",
-      "title": "Trump says he may move White House press corps - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5",
-      "summary": "Trump says he may move White House press corps    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-24T12:59:43+00:00",
-      "published_epoch": 1792846783,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -1185,441 +1604,6 @@
       "published_at": "2026-10-24T11:34:02+00:00",
       "published_epoch": 1792841642,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "a9a543a97d2855fe",
-      "title": "ایران برای حمله به کابل‌های زیردریایی خلیج فارس برنامه‌ریزی کرده است",
-      "link": "https://www.dw.com/fa-ir/ایران-برای-حمله-به-کابل‌های-زیردریایی-خلیج-فارس-برنامه‌ریزی-کرده-است/a-79750152?maca=per-rss-per-all-1491-xml-mrss",
-      "summary": "دو مقام آگاه به رویترز می‌گویند تهران در صورت حمله دوباره آمریکا و اسرائیل، برای هدف قرار دادن کابل‌های زیردریایی خلیج فارس برنامه‌ریزی کرده است. کمتر از یک درصد پهنای باند بین‌المللی جهان از تنگه هرمز عبور می‌کند.",
-      "source_id": "dw_persian",
-      "source_name": "DW Persian",
-      "source_name_fa": "دویچه‌وله فارسی",
-      "category": "persian",
-      "published_at": "2026-10-24T11:27:00+00:00",
-      "published_epoch": 1792841220,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "8d95fc1acc33195f",
-      "title": "اینکه می‌بینم ایجنت رندوم اپ رو باز میکنه و باهاش کار میکنه همیشه لذت بخشه، اما تأکید می‌کنم که با AI نمیشه ویدئو ادیت ک...",
-      "link": "https://t.me/MatinSenPaii/5683",
-      "summary": "اینکه می‌بینم ایجنت رندوم اپ رو باز میکنه و باهاش کار میکنه همیشه لذت بخشه، اما تأکید می‌کنم که با AI نمیشه ویدئو ادیت کرد و ته تهش، ابزار دستیه برای ادیتورها که سرعت کارشون خفن بالا بره.\nوگرنه من بزنم صد درصد Slop میشه",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
-      "category": "telegram",
-      "published_at": "2026-10-24T10:29:51+00:00",
-      "published_epoch": 1792837791,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/rz6EMQFDaS-b5x8EGUHHhQhbckbv71WOcM67It90fTfPGSH7jKbKqRf2VObsj8NHjv6G0HbWasDTNy1Qodblq0r8Ie8lhaawDjtXaVgGRNWlK7NebFKdrydPyOdL-M7JZPUw43hOJyL2lI9_lB7HFwc5okC1_Z0S0GiEtx152WRIhHAWWJgQn9FyE4tYl4burJcwPqmz-PGTphIRqlof3jmjvZywrmU_m87nLGeaVUkDfyejH8kptM2c1288oyZm8-S7aee9YIvHnqOM8j5kUBKg4H6-NZcXcpffpeHYcVbgupq0d9VN3AqgN2vM4FWtor9I2SAnrv7uMKVF73XFRw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "7895396bf9702b09",
-      "title": "این اپ ArtCraft(که نرم‌افزارهای اوپن سورس ادوبی رو ساختن) دانلود کردم، و پریمیرش رو تست کردم و خیلی خوبه",
-      "link": "https://t.me/MatinSenPaii/5681",
-      "summary": "این اپ ArtCraft(که نرم‌افزارهای اوپن سورس ادوبی رو ساختن) دانلود کردم، و پریمیرش رو تست کردم و خیلی خوبه\nکلا 60 مگابایته 😂 و خیلییی از امکانات رو نداره\nبسیار ابتدایی و ساده‌ست\nاما آینده‌ی روشنی واسه‌ش میبینم\nسرور mcp هم داره دادم Kimi و Claude یه ویدئوم رو ادیت کنن باهاش",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
-      "category": "telegram",
-      "published_at": "2026-10-24T10:27:08+00:00",
-      "published_epoch": 1792837628,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/sTzmt2HP7dXuz1DeaSJZLuQ4fskV0Cn2wSWqy7IeedJIVdLhkiHioX5nuezqCrBjDRMgwVyFY7BTPk89jeNpE0BxatnLQ9M0ufvLSBPdzhfVhJdd_C4QDrWr6gprbSyZRfO1AFPYpHHcCBVD0Pu86PXc8LRT49bWCzKhyknMnjvO9IRbo7B4HNPxeqc4P-IW9FREWyF8S2qlDpLgNjHEFq_DSxi0iTRLFFBTBToRbtU5QQ_kjvA90F0mscnPisVGK2dydt3QKwubldvHUjzqy2G_8YpzbWoJVEzDHQ8GkYKvfBipJtHHN8bBmGNaRdEPhpEHDKaCgl3d0up_rrKz3Q.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "274cc29842db4d58",
-      "title": "2 Philippine air force planes collide during a training flight, killing all 4 pilots - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEo5akhfQVNkRlRuUUNZV1U3dVhlZThEclBrbmRhamp3MGJPem1MNl9XZ2lSWUtDUUt3bWZ0S2E0SWdxQ2lfZUk1djVBREN6VU5PRDlqcFVvd1RCQVktSVhuZWRWOHdEZFNwckVUdDVZQk5KVHJYdlJNeGpwX0V6V3N3R18wdUlGTE4tQ2pYTzc1YXVnMEVvTGcwT0VTbmp2UVE2NXdZZ3Vla3oxMmc?oc=5",
-      "summary": "2 Philippine air force planes collide during a training flight, killing all 4 pilots    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-24T09:46:00+00:00",
-      "published_epoch": 1792835160,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "29713db33683b744",
-      "title": "افشای بنچمارک‌های گمراه‌کننده‌ی زبان Tov در ادعای «سریع‌تر از Rust»",
-      "link": "https://t.me/MatinSenPaii/5680",
-      "summary": "افشای بنچمارک‌های گمراه‌کننده‌ی زبان Tov در ادعای «سریع‌تر از Rust» \n\nتیم Fyra Labs در یک گزارش تحلیلی ادعای «سریع‌تر از Rust» بودن زبان Tov را بررسی کرده و بنچمارک‌های منتشرشده‌ی آن را گمراه‌کننده و مغرضانه توصیف می‌کند. این گزارش در Lobsters مطرح شده است. نتیجه آن است که ادعاهای عملکردی زبان‌های جدید بدون بازتولید مستقل بنچمارک‌ها قابل اتکا نیستند.\n\n 🔗 منبع \n\n ✉️ t.me/MatinSenPaii",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
-      "category": "telegram",
-      "published_at": "2026-10-24T09:28:02+00:00",
-      "published_epoch": 1792834082,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/IwqKukS6GBxIScyCsa2CtU3Qvwc53vN_mXBC7_6cve8H6mYYO9EsQYCjy8Z0MfdkOWaE4uh9sTUiiaKqJBF1byopFGwdHuzU-txRB8smwH47w4wtsdRTfUWKIj6MdPwOF3gBZvi3-WSWcwjjw_lI4Cw5IRQ5wqx_ZVDhrB9FmeQHs0Xu5syFc01iDuq6DGmVn4soFaitJCIcT1L_o_Qja0dkr8mEFNtpkJbaYauM5HExue6pZZt26kKx5la87xevZcMh6uTdOhF3cSGGB_FszgMay0NP1aqcIc9I32Je7PimZIiEG-yAgL507llbwuRD90zq-wIfVY6Nd21b5xtIxg.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "1267c34e2050c663",
-      "title": "وبسایت whitedns.online انلاین شد 🔥 🔥",
-      "link": "https://t.me/whitedns/2139",
-      "summary": "وبسایت whitedns.online انلاین شد 🔥 🔥 \n\n 🌐 ابزار درست، برای دستگاه تو! \n\n بین ابزارها و نسخه‌های مختلف سردرگم نشو؛ راهنمای فارسی WhiteDNS کمک می‌کند از جای درست شروع کنی. \n\nاز WhiteVPN و WhiteAesther تا WhiteDNS، اسکنر و ابزارهای دیگر؛ در صفحهٔ هر ابزار می‌بینی:\n 🔹 چیست و برای چه کاری مناسب است\n 🔹 کدام فایل را برای دستگاهت دانلود کنی\n 🔹 چطور شروع کنی و آموزش‌هایش را کجا ببینی\n 📱 دانلود بر اساس سیستم‌عامل، با لینک مستقیم منابع اصلی\n\n 🌗 طراحی مناسب موبایل، با حالت روشن و تیره\nبرای کسی که بین ابزارها و لینک‌های دانلود سردرگم است هم بفرست 👇 \n whitedns.online \n @WhiteDNS",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-10-24T09:23:27+00:00",
-      "published_epoch": 1792833807,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn5.telesco.pe/file/hRahGykywTOpXbfhaPTQ3a8WoaXcf-jkcRh_A2WOQPwo4jugJUMpAEk68DBsMyf0WN5CqgAiZ2zWkwRs-uMD261qWkDEHsdKfLJSW9RrCo4x7w_tmwLIxRP26AF9GvHRUjoKcw0LcV7uZ85rg0Ne8SoFMcMCxU7D40g8xnMRoUcVLSbQVAFnSETqEmQivIDMekO7TIYcYdTCTO4J9aeDmnPkeecwo_e8TfZ9I_7Fsvkg4IIaOhqg-LkwPA778Pyemvt1HlsOPTiO0hUYl5x-iKm0xE0XvgxPPPr8CSKM_eXj7Fr4Rv3FQIcrFIpDddMqK7qRW4dBTj8TJ0jVLMD8UA.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "eb36e0399a2e2b3c",
-      "title": "🔥 WhtieDNS Public Servers",
-      "link": "https://t.me/whitedns/2138",
-      "summary": "🔥 WhtieDNS Public Servers\n\nسرور عمومی SOAR \n\n soar://eyJwcm9maWxlIjp7ImlkIjoiZGM4MGYyMzNiZjQyNDg0MzdjZDMyZWU0N2NlOWRkYTgiLCJuYW1lIjoid2hpdGVkbnMgcHVibGljIDIiLCJyZXNvbHZlcnMiOlsiMS4xLjEuMSIsIjguOC44LjgiXSwic2VydmVyIjp7ImRvbWFpbiI6IjNzYXBlbTU3aWplZWc3Z3RmM3NoejIuc29hci53aGl0ZWRucy5kb3dubG9hZCIsInB1YmxpY19rZXkiOiJ1VVdrOU4yc3lXVG1sUUFPOHlsa3ZpaWkxSVFHRjlJa0JabFFSYkZsNjNNPSJ9LCJzb2FyU2V0dGluZ3MiOnsidHJhbnNwb3J0IjoiYXV0byIsImRpc2NvdmVyeSI6dHJ1ZSwiZGlzY292ZXJ5V2FudCI6MiwiZGlzY292ZXJ5Q29uY3VycmVuY3kiOjIsImRpc2NvdmVyeVBhY2VNcyI6MTAwMCwic2FmZVFOYW1lIjoxMDEsIm1heFFOYW1lIjoyNTMsIm1heEFuc3dlciI6MTIzMiwiaG9sZE1zIjo1MDAsIm1heEluZmxpZ2h0IjoxMjgsIm1heFBhdGhXaW5kb3ciOjMyLCJtYXhTdHJlYW1zIjoxMjgsInN0cmVhbVdpbmRvd0tpQiI6MjU2LCJzZW5kQnVmZmVyS2lCIjo2NCwic2Vzc2lvbklkbGVTZWNvbmRzIjo5MCwiZGlhbFRpbWVvdXRTZWNvbmRzIjo5MCwiY291bnRyeSI6IklSIn19LCJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MX0 \n\n soar://eyJwcm9maWxlIjp7ImlkIjoiNDRjMjc0YTMzNTM1MGZhYzljMjg0ZWNhOGVhMzkyNzYiLCJuYW1lIjoiV2hpdGVETlMgUHVibGljIiwicmVzb2x2ZXJzIjpbIjEuMS4xLjEiLCI4LjguOC44Il0sInNlcnZlciI6eyJkb21haW4iOiJpdGJoaml6dmd1aDJ6aGJpajNmaTVpLnNvYXIud2hpdGVkbnMuZG93bmxvYWQiLCJwdWJsaWNfa2V5IjoiR1daa2NSVVErUHhqMnEydXRKZllEV2cwR2dOR3AybmtVMmN5UE8ySk1UMD0ifSwic29hclNldHRpbmdzIjp7InRyYW5zcG9ydCI6ImF1dG8iLCJkaXNjb3ZlcnkiOnRydWUsImRpc2NvdmVyeVdhbnQiOjIsImRpc2NvdmVyeUNvbmN1cnJlbmN5IjoyLCJkaXNjb3ZlcnlQYWNlTXMiOjEwMDAsInNhZmVRTmFtZSI6MTAxLCJtYXhRTmFtZSI6MjUzLCJtYXhBbnN3ZXIiOjEyMzIsImhvbGRNcyI6NTAwLCJtYXhJbmZsaWdodCI6MTI4LCJtYXhQYXRoV2luZG93IjozMiwibWF4U3RyZWFtcyI6MTI4LCJzdHJlYW1XaW5kb3dLaUIiOjI1Niwic2VuZEJ1ZmZlcktpQiI6NjQsInNlc3Npb25JZGxlU2Vjb25kcyI6OTAsImRpYWxUaW1lb3V0U2Vjb25kcyI6OTAsImNvdW50cnkiOiJJUiJ9fSwic2NoZW1hIjoid2hpdGVkbnMucHJvZmlsZSIsInZlcnNpb24iOjF9 \n\nسرور عمومی CottenDNS \n\n cottendns://eyJwcm9maWxlIjp7ImVuZ2luZSI6ImNvdHRlbmRucyIsImlkIjoiZGM4MGYyMzNiZjQyNDg0MzdjZDMyZWU0N2NlOWRkYTg6Y290dGVuIiwibmFtZSI6IndoaXRlZG5zIHB1YmxpYyAyIMK3IENvdHRlbiIsInJlc29sdmVycyI6WyIxLjEuMS4xIiwiOC44LjguOCJdLCJzZXJ2ZXIiOnsiZG9tYWluIjoiY290LjNzYXBlbTU3aWplZWc3Z3RmM3NoejIuc29hci53aGl0ZWRucy5kb3dubG9hZCIsImVuY3J5cHRpb25fa2V5IjoiODU5YzY4MWYzZGU2NDE4ZmVmY2ZlNmY4ZTY0OWYzN2U4ZDkyMGU2MzExNzEyOWE3MjEwNmM3NjRhNDRkOTFmYyIsImVuY3J5cHRpb25fbWV0aG9kIjo1fX0sInNjaGVtYSI6IndoaXRlZG5zLnByb2ZpbGUiLCJ2ZXJzaW9uIjoxfQ \n\n @whitedns \n\n----------\n #کانفیگ #CottenDNS #Soar #Servers \n\n دانلود برنامهٔ WhiteDNS برای اندروید \n دانلود برنامهٔ WhiteDNS برای ویندوز، مک و لینوکس \n راهنمای واردکردن کانفیگ و اتصال WhiteDNS",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-10-24T09:03:22+00:00",
-      "published_epoch": 1792832602,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "96e5a88698a969b3",
-      "title": "آموزش کوتاه نحوه استفاده از whitedns mobile",
-      "link": "https://t.me/whitedns/2137",
-      "summary": "آموزش کوتاه نحوه استفاده از whitedns mobile \n\nپروکسی استفاده شده در آموزش:\n https://t.me/socks?server=127.0.0.1&port=10886 \n\nبا تشکر از دوست عزیزمان Sepee ❤️ \n\n @whitedns",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-10-24T09:03:08+00:00",
-      "published_epoch": 1792832588,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn5.telesco.pe/file/kvhggXwseOEJTQpQtldpzESPsqxDNnH56-Wy5JSSQ8nUlID2bhCYMQLoc_BDM8MFbsbWuyuxQVyCUetgs6rDu_5AIQXdDyYrWNFqliZ68YpnDkvNuhU02R8FarQogrrlRsZuYZb5Jplz4egajKGHsxdNP9j-YEeXFZApHb0tC5Tm9a-LjL8W22dyOekU7UgcDx60S5GnFqk_fNqshynDNevRpIrL3m6tXH2A2oUg_TO801De6H4mYOKaw1lZf4wQaU_shjY-m7qz4X4JH2Ss1Sk_jKz3cBefov04DvIQQ2Mqmn8J9v5wNOn7jqI85K176xvuC92iM04CoTv4D2Tj4w"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "c1dabd777a597c54",
-      "title": "حتما برنامه های whitedns را نصب کنید و امتحان کنید تا یاد بگیرید چطور کار میکنه تا موقع قطعی گسترده سوپرایز نشید .",
-      "link": "https://t.me/whitedns/2136",
-      "summary": "حتما برنامه های whitedns را نصب کنید و امتحان کنید تا یاد بگیرید چطور کار میکنه تا موقع قطعی گسترده سوپرایز نشید . \n\n WhiteDNS \n\nبرنامه ها \n دانلود پایدار اندروید \n دانلود پایدار دسکتاپ \n آموزش ویدیویی دسکتاپ \n آموزش ویدیویی اندروید \n\nپتل \n 📥 دریافت آخرین نسخهٔ پنل \n 📖 راهنمای فارسی پنل \n\nربات \n ربات دریافت کانفیگ اضطراری masterdns \n( این ربات در صورت بروز قطعی گسترده فقط روشن خواهد شد)\n\n----------\n #فهرست_منابع #WhiteDNS #WhiteDNS_Panel #اینترنت_اضطراری",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-10-24T09:02:22+00:00",
-      "published_epoch": 1792832542,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "1803b07739cd5e64",
-      "title": "ترامپ می‌گوید ممکن است یک «عملیات خشم حماسی کوچک دیگر» علیه ایران انجام شود",
-      "link": "https://www.radiofarda.com/a/trump-iran-new-strikes-us-warships-persian-gulf/33883468.html",
-      "summary": "هم‌زمان رئیس ستاد کل نیروهای مسلح جمهوری اسلامی هشدار داد که تحت هیچ شرایطی اجازه ورود ناوهای نظامی آمریکا به خلیج فارس را نخواهد داد.",
-      "source_id": "radio_farda",
-      "source_name": "Radio Farda",
-      "source_name_fa": "رادیو فردا",
-      "category": "persian",
-      "published_at": "2026-10-24T08:46:38+00:00",
-      "published_epoch": 1792831598,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://gdb.rferl.org/8aa43e08-697b-4a72-a2bd-92a36f7559cb_w800_h450.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "007b0dbe9fe953e8",
-      "title": "💻 نسخهٔ 1.4.3 برنامهٔ WhiteDNS Desktop منتشر شد",
-      "link": "https://t.me/whitedns/2133",
-      "summary": "💻 نسخهٔ 1.4.3 برنامهٔ WhiteDNS Desktop منتشر شد \n\nدوستان، توی این نسخه اسکن ریزالور با موتور Soar اضافه شده و مشکل واردکردن کانفیگ‌های CottenDNS هم رفع شده.\n\n• اسکن با موتور اصلی Soar و تنظیمات پروفایل شما، تا ۸ پردازش هم‌زمان، با امکان لغو و ذخیرهٔ نتایج؛ گزینهٔ Pause برای این موتور فعال نیست.\n• تشخیص درست لینک‌های CottenDNS هنگام Import؛ دیگه اشتباهی با نوع MasterDNS ذخیره نمی‌شن.\n• رفع مشکل ثبت نتایج نهایی اسکن‌های کوتاه و به‌روزرسانی وضعیت اسکنر.\n\n 🔧 اگه قبلاً کانفیگ CottenDNS وارد کردید: \nاگه نوعش MasterDNS ثبت شده، در بخش Connections گزینهٔ Import type رو به CottenDNS تغییر بدید و ذخیره کنید. بعد همون پروفایل رو در اسکنر انتخاب کنید و دوباره اسکن بگیرید.\n\nنسخه‌های ویندوز، لینوکس و مک آمادهٔ دانلودن.\nبرای ویندوز با پردازندهٔ Intel یا AMD، فایل windows-x64 رو بگیرید؛ نسخهٔ windows-arm64 مخصوص ویندوز آرم هست.\n\n----------\n #آپدیت #WhiteDNS #Soar #CottenDNS \n\n 📥 دانلود آخرین نسخهٔ پایدار دسکتاپ \nکانال: @WhiteDNS",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-10-24T08:10:19+00:00",
-      "published_epoch": 1792829419,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/HzNnFB_LSxPBPUHCFuSyXoLp0hnGazkNXZn34PFJo_oQd_levHJl3asIBZysFUxeAZK1Esq4atb7gZffvCZfUKJ0XXHOD86Y_c1ifaw3Z2PFO2yevP_rhnC4im6TGIz5HGdFPqNPnEOKouHbRugNqlUewt1d0e5ETwXgqNkFAV6jwba7Kbzp_M4ZkUqGRY8U8D8O_UgJsygFcW6bdWSFlLsCQ7r3TFYMVs3N9zLh0GCVGiO-K3mjf1BmbO__5E0Mi6v3pHPoLovfx5Le7_adLp2L6zoKhilxDHwfkuMX8Bw50kC_JLbhfpN9tgDHYfCeucFezYVNR81hLjMqakEtUw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "1eb2c0737afedbb1",
-      "title": "🧩 قدم بعدی پنل: سه هسته روی یک سرور",
-      "link": "https://t.me/whitedns/2132",
-      "summary": "🧩 قدم بعدی پنل: سه هسته روی یک سرور \n\nدوستان، اگه پست نسخهٔ جدید پنل رو ندیدید، یه نگاه بندازید.\n\nتوی نسخهٔ بعدی پنل Soar Server، پشتیبانی از MasterDNS رو هم اضافه می‌کنیم؛ تا بتونید هسته‌های CottenDNS، MasterDNS و SOAR رو هم‌زمان روی سرور شخصی‌تون اجرا و مدیریت کنید. این قابلیت هنوز منتشر نشده. \n\nسرور شخصی فقط برای خودتون نیست! می‌تونید در حد ظرفیتش به افراد زیادی دسترسی بدید. لطفاً برای خانواده و دوستاتون حساب جدا بسازید، کانفیگ بدید و از الان اتصال رو با هم امتحان کنید؛ تا اگه دوباره قطعی گسترده پیش اومد، اون‌ها هم یه راه جایگزین برای دسترسی به اینترنت داشته باشن.\n\nظرفیت به منابع سرور و شرایط شبکه بستگی داره؛ اتصال در هر نوع قطعی تضمین‌شده نیست.\n\n----------\n #اطلاعیه #WhiteDNS_Panel #MasterDNS #اینترنت_اضطراری \n\n 📥 دانلود نسخهٔ فعلی پنل \n 📖 راهنمای راه‌اندازی سرور شخصی \nکانال: @WhiteDNS",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-10-24T08:03:41+00:00",
-      "published_epoch": 1792829021,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/rTvMpFoXSFw-tGLwLPWdfMnWxS1ZqSUn5sdk4JkPYMICLJJPXe3N3bTiIttCxrgEY0X0mRFlCC-CAstoIm0f35Ou2OF_YX7pJsN3u3DR19RHPSudLIPrNUMKOw_n5X4GTSxB7Kbci8GMSy76foLgr8eEb7LRljZyYpJq8c67UFXF57zbsnYb0NHkT9UDoERgjHsTbNBkx0PfYHUQjb__sAnNo8JEMJyk63g26sj_vCSZUhylygZsrDjhPqAodsFNwnFfAiTVbqRkUAGLFpCF4gCry22gYHfWqfPk48Ey-Hu5tq0-7iLhE-htrvuZO5KGujBEFt_lvmPyysMcR6bkVw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "0a1eb5e73eb60b99",
-      "title": "اوپن‌ای‌آی آموزش مدل‌های هوش مصنوعی روی اینترنت زنده را متوقف می‌کند",
-      "link": "https://t.me/MatinSenPaii/5679",
-      "summary": "اوپن‌ای‌آی آموزش مدل‌های هوش مصنوعی روی اینترنت زنده را متوقف می‌کند \n\nمنظور از آموزش روی اینترنت زنده (live internet) این است که مدل در حین یادگیری یا ارزیابی به وب واقعی دسترسی داشته باشد.\n\nبه گزارش TechCrunch، OpenAI اعلام کرده دیگر مدل‌های پیشرو (frontier) خود را روی اینترنت زنده آموزش نمی‌دهد و دلیل آن را «ریسک‌های قابل‌توجه» عنوان کرده است. این تصمیم چند هفته پس از آن گرفته شد که یکی از مهندسان همین شرکت گفته بود چنین راهکاری جواب نمی‌دهد. نتیجه این تغییر، جدا شدن محیط آموزش مدل‌های بزرگ از وب باز است(که باید دید چه تأثیری می‌ذاره در کل)\n\n 🔗 منبع \n\n ✉️ t.me/MatinSenPaii",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
-      "category": "telegram",
-      "published_at": "2026-10-24T07:26:48+00:00",
-      "published_epoch": 1792826808,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/AReeoJtapUMydb5jmxYE_WHNhFlVao4A0Ps4vwn_ABu6eTeYrE_jZN4zikiNm8IFTC4LaMuXm-ujtqjxztdzADYcif8yeUpUV5ILTeWHNJPfrRhYELZ9h2EYzOlrbiR-C6q45Y-24Bhwz8mxJN86NeWOMo8ExLC10ieCVGoByjcvgZ5nWsQegVC4_UKCwJiFIbtcVnqa-pMo6SW79ZQQrHevoJVyk0U2ugswcmTqwlQMsE1q7KEpDgU1Lwl5iOrSZ-myjGx9jfM2s5yWqzoo9eYsdyX_oAipCwtlXW9Yuf4RcsgIcOJlYK1fw3Lvnfqnb8-nSM5I9WF0ysNkxKYbVA.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "9513626b319929ae",
-      "title": "🚀 نسخهٔ ۰.۷.۰ پنل Soar Server",
-      "link": "https://t.me/whitedns/2131",
-      "summary": "🚀 نسخهٔ ۰.۷.۰ پنل Soar Server \n\nدوستان، حالا می‌تونید سرورتون رو با ربات اختصاصی تلگرام و منوهای فارسی و انگلیسی مدیریت کنید 🤖 \n\n• اتصال با توکن و لینک امن، بدون واردکردن دستی Chat ID\n• ساخت و ویرایش کاربر، تعیین حجم و انقضا، قطع اتصال و تعویض کلید یا لینک ساب\n• آمار لحظه‌ای با /stats و هشدار انقضا، اتمام حجم و اختلال سرویس\n• گزارش روزانه، پیش‌فرض ساعت ۹ صبح تهران؛ مصرف گزارش مجموع فعلی حساب‌هاست، نه ترافیک دیروز\n• ری‌استارت پنل و تونل‌ها و نصب آپدیت‌های پایدار رسمی\n\n 🔒 دسترسی فقط برای یک مدیر در چت خصوصی؛ تغییرات حساس با تأیید یک‌بارمصرف پنج‌دقیقه‌ای\n 🦾 بسته‌های لینوکس برای معماری‌های amd64 و arm64، با انتخاب خودکار موقع نصب و آپدیت\n 🛠 رفع اشکال ذخیرهٔ تنظیمات ربات و بازیابی پیام‌ها و گزارش‌های ازدست‌رفته\n\n ⚠️ برای مدیریت تلگرامی، هم خودتون و هم سرور باید به تلگرام دسترسی داشته باشید. ربات هنگام قطع کامل سرور یا پنل نمی‌تونه هشدار بفرسته.\n\n----------\n #آپدیت #WhiteDNS_Panel #ربات #Linux \n\n 📥 دانلود آخرین نسخهٔ پایدار پنل \n 📖 راهنمای اتصال و بازیابی ربات \nکانال: @WhiteDNS",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-10-24T06:18:04+00:00",
-      "published_epoch": 1792822684,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn5.telesco.pe/file/Ew4SgTfXrRAOcuJ17YjJjkof3K5jZM0iJRFeaXqUqqX4BlhFMDC6fIoiNOWMEqAuTTyxkgGahtjYq7Xa6J8r75zd6MGQA1dQx41fcmhKR-tguo5-UpK22XMCeN6cGrH2Sr7UOpZAcMLomySJuSmgaZcJQJ-dMnU5let4tRsByR3SEQsvgM8vwooo2HJx7709HDrlArqHjQ4HJjqClXZnx1d4jJG5FlOo8G3PDoQic95M_1jO5wMf7vv8ONzlWHgPwta4IL5-Ht5_z3IqbpprWmG0jJiAfXSPKabXTg77M07-o9q9skOnvS_YlVzHVTJ7c0_fKqF4kSeY5QHra47bRw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "7df9ed36aeefa50a",
-      "title": "\"ناوهای آمریکا برای حمله احتمالی به ایران آماده می‌شوند\"",
-      "link": "https://www.dw.com/fa-ir/ناوهای-آمریکا-برای-حمله-احتمالی-به-ایران-آماده-می‌شوند/live-79747480?maca=per-rss-per-all-1491-xml-mrss",
-      "summary": "وال‌استریت ژورنال گزارش داد که ناوهای آمریکا در خاورمیانه در حال افزایش ذخایر تسلیحاتی و آماده‌سازی برای احتمال ازسرگیری حملات به ایران هستند. طبق این گزارش، این اقدام با هدف آمادگی در صورت صدور دستور حمله انجام می‌شود.",
-      "source_id": "dw_persian",
-      "source_name": "DW Persian",
-      "source_name_fa": "دویچه‌وله فارسی",
-      "category": "persian",
-      "published_at": "2026-10-24T05:30:00+00:00",
-      "published_epoch": 1792819800,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "eb979a673680e315",
-      "title": "تراشه‌های آمریکایی و واسطه‌های چینی؛ ایران قطعات پهپادهایش را از کجا می‌آورد؟",
-      "link": "https://www.bbc.com/persian/articles/cq3dj49z1ddmo?at_medium=RSS&at_campaign=rss",
-      "summary": "اسناد تحریمی آمریکا از نقش واسطه‌های خارجی در تامین قطعات پهپادهای ایران حکایت دارند. اما به گفته کارشناسان تحریم‌ها و خسارت‌های جنگ می‌تواند ادامه تولید و بازسازی صنایع پهپادی ایران را دشوارتر کنند.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-10-24T05:04:54+00:00",
-      "published_epoch": 1792818294,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8020/live/9efa81c0-c7c8-11f1-9e10-4dcbd31d4273.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "0cffc6f0671a6ae7",
-      "title": "ایران پس از آمریکا و ترکیه، سومین رکورددار افزایش انتشار گازهای گلخانه‌ای در جهان",
-      "link": "https://www.bbc.com/persian/articles/ckqxn3v9nz7ro?at_medium=RSS&at_campaign=rss",
-      "summary": "بر اساس گزارش تازه برنامه محیط زیست سازمان ملل، در سال ۲۰۲۵ انتشار گازهای گلخانه‌ای در ایران حدود ۱۹ میلیون تن افزایش یافته است؛ رقمی که ایران را پس از آمریکا و ترکیه در جایگاه سوم جهان و در صدر کشورهای خارج از گروه ۲۰ قرار می‌دهد.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-10-24T04:24:20+00:00",
-      "published_epoch": 1792815860,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af00/live/b203e550-ce3e-11f1-a86f-f78305ec9987.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "ea8aefa41c06633f",
-      "title": "به گزارش «آکسیوس» و بر اساس یک یادداشت اطلاعاتی «غیرمحرمانه» به تاریخ اول آبان‌ماه (۲۳ اکتبر) که خطاب به مارکو روبیو، وز...",
-      "link": "https://t.me/VahidOnline/78824",
-      "summary": "به گزارش «آکسیوس» و بر اساس یک یادداشت اطلاعاتی «غیرمحرمانه» به تاریخ اول آبان‌ماه (۲۳ اکتبر) که خطاب به مارکو روبیو، وزیر امور خارجه و مشاور امنیت ملی آمریکا نگاشته شده است، جی کلیتون، مدیر اطلاعات ملی، نسبت به «پیشرفت چشمگیر» طرح‌های ایران برای ترور مقام‌ها و شهروندان آمریکایی در خاورمیانه و برخی مناطق دیگر هشدار داد.\n\n در این سند تأکید شده است که اطلاعات مربوط به این تهدیدات باید به دست طیف گسترده‌تری از کارکنان در معرض خطر برسد و به همین منظور، کلیتون پیشنهاد کرده است تا سطح محرمانگی این اسناد کاهش یابد. \n\nهمزمان با انتشار این هشدار، «سی‌ان‌ان» گزارش داد که وزارت امور خارجه آمریکا در پی تهدیدات ناشی از توطئه‌های ایران و حملات حوثی‌ها، دستور کاهش کادر دیپلماتیک و خروج اعضای خانواده و کارکنان غیرضروری از سفارتخانه‌ها و کنسولگری‌های خود در عربستان سعودی (ریاض، جده و ظهران)، امارات متحده عربی، لبنان، قطر و اردن را صادر کرد. \n@ VahidOOnLine \n\n 📡 @VahidOnline",
-      "source_id": "tg_VahidOnline",
-      "source_name": "@VahidOnline",
-      "source_name_fa": "@VahidOnline (وحید آنلاین)",
-      "category": "telegram",
-      "published_at": "2026-10-24T01:59:39+00:00",
-      "published_epoch": 1792807179,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/scktMCrdBSRkwEha5KVLmrCqRu5V2PlCHuEbmtYCMcDlXfVIxp4kk4naSbOtaAHT7mSqZm2OtYFkGcXd3RaQJxfhCar7pnfSNdiuzKQng2-y_iOnVUmsh6e2O9jorUUJ72cBp9feKz2T4kKSpHqztKuLmbUkP__B1ZCyFlDiitVStcQLgI1Q9RjZXHAmUyfPqVKHWYLH_2qmhbwuaOoON7nVJwfyKahxlMZ03Mb66fcIcRxVV_zb5r0H-RhV9OiVsWWFkeJmsi8rh7w_WkEaIlXnaVsdasV7bmKMPnQM7cM9VGty7mbPzy38VWM89JreRP7cjJDi-RIzkh8Ss9-lgA.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "e00343921bc3b4ff",
-      "title": "📅 برنامه‌های رستم مدیا | شنبه ۲ آبان:",
-      "link": "https://t.me/Rostamchannel/8518",
-      "summary": "📅 برنامه‌های رستم مدیا | شنبه ۲ آبان:\n\nآیا علم ما را از فرض وجود خدا بی‌نیاز کرده است؟\nچگونه نینجاها به پدیده‌ای فراگیر تبدیل شدند؟\nیائسگی، پایان زندگی جنسی زن‌ها نیست\nدموکراسی قصه‌هایی از راه دشوار آزادی، کاندولیزا رایس\n علی اکبر داور ؛ معمار دادگستری نوین و قربانی خشم شاه\nپرونده قاتلان پشت کنکور، جزئیات پرونده قتل خانواده در سعادت‌آباد\nفیلترشکن‌های کاربردی اندروید\n\n 👨‍💻 تیم پشتیبانی رستم‌مدیا آماده پاسخ‌گویی به سوالات شماست.\n\n @rostamsupport \n\n 🔸 نسخه ویندوز نرم‌افزار \n 🤖 نسخه اندروید نرم‌افزار",
-      "source_id": "tg_Rostamchannel",
-      "source_name": "@Rostamchannel",
-      "source_name_fa": "@Rostamchannel (کانال رستم (دور زدن فیلترینگ))",
-      "category": "telegram",
-      "published_at": "2026-10-24T01:17:11+00:00",
-      "published_epoch": 1792804631,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn5.telesco.pe/file/p7hTv-3Ram5MRWKGXTFTuggLm6kN6gw0Y-LkPe1vhMjBBC_F0XReycI1RA4jUhmWB0qLS-d5QTF3LEDSFBPuoRtnIbInWMQ4RgiCujzGo134zq5OcP0EgnOW-OG9fbwkNI-hNtdwutTq96tsJwU12weMKUEtQCfXG1hqm7vEEBs5CE0BgJb1F5OWXmXEiSmVBUHg69EwESY_oYpX0lCS7k51-z3NWF-GNA6mP9YEVk5DMkxfBcNg-poZb6RkGIm3n9GUpxBi8czIa9RA2w08k7qX1isiVpNzVkRiAsXlqy2xmF_UIYUUY9_-hNlTGFivR8gOCXV75DANGpEMSP3ZAw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "8e5a43267dac777a",
-      "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
-      "summary": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-24T01:17:00+00:00",
-      "published_epoch": 1792804620,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "dc6f5a9fd37748ba",
-      "title": "آپدیت بزرگ PattN و PattNG در راهه ...",
-      "link": "https://t.me/patt_channel_x/195",
-      "summary": "آپدیت بزرگ PattN و PattNG در راهه ...",
-      "source_id": "tg_patt_channel_x",
-      "source_name": "@patt_channel_x",
-      "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
-      "category": "telegram",
-      "published_at": "2026-10-24T00:19:01+00:00",
-      "published_epoch": 1792801141,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "e207bf93034132b9",
-      "title": "ساعاتی پیش Nvidia جایگاه شماره یک ارزشمند ترین کمپانی رو از دست داد و Apple جاشو گرفت!",
-      "link": "https://t.me/Linuxor/5801",
-      "summary": "ساعاتی پیش Nvidia جایگاه شماره یک ارزشمند ترین کمپانی رو از دست داد و Apple جاشو گرفت!\n\n @Linuxor",
-      "source_id": "tg_Linuxor",
-      "source_name": "@Linuxor",
-      "source_name_fa": "@Linuxor (لینوکسور (جامعه گنو/لینوکس))",
-      "category": "telegram",
-      "published_at": "2026-10-23T23:32:37+00:00",
-      "published_epoch": 1792798357,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/QjQuBMUeW7C5VsjA-ea9dckK_4cnD9ox7RYOrvNRiQBjE4T4U1u9mqMS_1mVtacSPDY7WHgt8nTCiabZE-Lg9MJ_kozRmrzdU2iqb3sTIg35Ptxb2lQ8KPhiDIpi5d__IFX_Z8FSKoj28f0MRNxLkyZwNymgvzA5NLXwZ4v60kffTP8M7I-ocOg4pXMvwdoCb-Qhhtb22_sH8VfcQg36mLuoJq9NOm5MIB4ZN6RXXVCJEm8bTQTP5dOarUMNwxWY1ZRfpd7CWwkTBC2P9wGns3eKC-wl-H7Hu2DMG0JcELmq7heRcSWUVrCv8PBXi3Ty-g3ZEp4I6NmSCb1V-d0-Lg.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "fb7dbc30a50d1a5c",
-      "title": "Converts Claude Code and OpenAI Codex into deep research agents. https://t.co/dkguNJNhJt - X",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRmlPQUtLQThJZTV5SlVrdnZIUXhOaDJRb0VNNGF1NHNXb0hqZkJFb2R5QloySjUxYzFsZzN5cEJld2ljdGhQUWNKV2twbzdBaUdTZFZHU0M5THl6Rklv?oc=5",
-      "summary": "Converts Claude Code and OpenAI Codex into deep research agents. https://t.co/dkguNJNhJt    X",
-      "source_id": "tw_tom_doerr",
-      "source_name": "@tom_doerr",
-      "source_name_fa": "@tom_doerr (تام دور (هوش مصنوعی و نرم‌افزار))",
-      "category": "twitter",
-      "published_at": "2026-10-23T23:27:32+00:00",
-      "published_epoch": 1792798052,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "af91ba1839a4373a",
-      "title": "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3?oc=5",
-      "summary": "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-23T22:00:00+00:00",
-      "published_epoch": 1792792800,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "c409abb96e43c5ad",
-      "title": "Rescuers search for survivors after deadly earthquake in China’s Tibet region - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWnM1d0c0MlpBemN5ZHRYb2VlQlNPb3hlWlVNdmVtMEVFc1NYVm5sUUp2eGtUTXk3LUU0RlMxYnVONXd5TmpOeThfS1VqaE9RR3dQNDNBSmloU2JOUm5rYXZSZEwyWDNfenZrcnE3QUhpak84LWdSRG1MNHBlRU9VM0tZVWRpazlpNmVjTE5kUzJ4QQ?oc=5",
-      "summary": "Rescuers search for survivors after deadly earthquake in China’s Tibet region    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-23T21:51:00+00:00",
-      "published_epoch": 1792792260,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "c07578de7ae7e0e6",
-      "title": "پیام‌های دریافتی:",
-      "link": "https://t.me/VahidOnline/78823",
-      "summary": "پیام‌های دریافتی:\n\nوحید صدای انفجار شدید بندرکنگ ساعت 1\n\nسلام بندرکنگ دو صدا امد \nاولی شلیک بود \nدومی خونه لرزید نمیدونم برای شلیک بود یا انفجار\n\n[از همون حوالی]\nبندر لنگه همین الان صدا اومد\nیه جوری بود در خونه لرزید هرشب دارن با لانچر میزنن ایندفعه خیلی بد بود\n\n 📡 @VahidOnline",
-      "source_id": "tg_VahidOnline",
-      "source_name": "@VahidOnline",
-      "source_name_fa": "@VahidOnline (وحید آنلاین)",
-      "category": "telegram",
-      "published_at": "2026-10-23T21:35:55+00:00",
-      "published_epoch": 1792791355,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "d0c57985cefa00a3",
-      "title": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWlvaks4NXljX3RhX2QxSGlPSFZSZ2V0dWZwdV9QZWhrbXhaRXh1WThQNXFpU0ZJZW53SDB6SlhINWVuTmdzeG83OERFTjBZclBEakZ2Mzc5LWZfelhZcVdmMUZvZUhWWkhwMkFMb0Z4elVYTEw4SVBfYkJOTnNpem9CNFZDbnd1R1VTejZmWlVfMnhGQUVQQjRKc3hUTmpM?oc=5",
-      "summary": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-10-23T21:11:00+00:00",
-      "published_epoch": 1792789860,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     }

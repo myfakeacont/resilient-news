@@ -1,6 +1,6 @@
 # ⚡ آخرین اخبار و رویدادهای لحظه‌ای (Latest Rolling News)
 
-**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-25 02:31 IRST` | `2026-10-24 23:01 UTC`
+**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-25 07:33 IRST` | `2026-10-25 04:03 UTC`
 
 پایگاه خبری چندرسانه‌ای تاب‌آور. متن سبک و تصاویر محلی فشرده برای دسترسی حداکثر سرعت در شرایط اختلال اینترنت.
 
@@ -35,169 +35,247 @@
 
 ## کانال‌های منتخب تلگرام (Telegram Monitoring)
 
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [نیروهای ائتلاف به رهبری عربستان سعودی روز شنبه به صنعا، پایتخت تحت کنترل حوثی‌ها، و شهر بندری حدیده در ساحل دریای سرخ حم...](https://t.me/IranintlTV/363771) — `06:40 IRST` / `03:10 UTC`
+  > نیروهای ائتلاف به رهبری عربستان سعودی روز شنبه به صنعا، پایتخت تحت کنترل حوثی‌ها، و شهر بندری حدیده در ساحل دریای سرخ حمله هوایی کردند.
+
+رسانه‌های وابسته به حوثی‌ها اعلام کردند در این حملات دست‌کم ۱۶ نفر کشته شده‌اند.
+
+آمار تلفات اعلام‌شده هنوز به‌طور مستقل تایید نشده است.
+ ht...
+
+  ![Media](../media/2026-10-25/42763784148aff54.jpg)
+- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [📂 مجموعهٔ یکپارچهٔ ریزالورهای منتشرشده در کانال](https://t.me/whitedns/2149) — `06:25 IRST` / `02:55 UTC`
+  > 📂 مجموعهٔ یکپارچهٔ ریزالورهای منتشرشده در کانال
+
+فهرست‌های متنی و فایل‌های ریزالوری که قبلاً در کانال منتشر کرده بودیم را در یک فایل جمع کردیم و آدرس‌های تکراری را حذف کردیم.
+
+ 📌 تعداد نهایی: ۷٬۶۲۹ آدرس یکتا
+ 📄 فرمت فایل: متن ساده، هر آدرس در یک خط
+
+دیگر لازم نیست فهرست‌های قد...
+- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [🔥 WhtieDNS Public Servers](https://t.me/whitedns/2148) — `06:24 IRST` / `02:54 UTC`
+  > 🔥 WhtieDNS Public Servers
+
+سرور عمومی SOAR 
+
+ soar://eyJwcm9maWxlIjp7ImlkIjoiZGM4MGYyMzNiZjQyNDg0MzdjZDMyZWU0N2NlOWRkYTgiLCJuYW1lIjoid2hpdGVkbnMgcHVibGljIDIiLCJyZXNvbHZlcnMiOlsiMS4xLjEuMSIsIjguOC44LjgiXSwic2VydmVyIjp7ImRvbWFpbiI6IjNzYXBlbTU3aWplZWc3Z3RmM3NoejIuc29hci53aGl0ZWRu...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [نیویورک تایمز گزارش داد اطلاعات تازه درباره طرح‌های احتمالی جمهوری اسلامی برای حمله به آمریکایی‌ها و بررسی حملات گسترده‌...](https://t.me/IranintlTV/363770) — `06:11 IRST` / `02:41 UTC`
+  > نیویورک تایمز گزارش داد اطلاعات تازه درباره طرح‌های احتمالی جمهوری اسلامی برای حمله به آمریکایی‌ها و بررسی حملات گسترده‌تر در دولت ترامپ، خطر بازگشت به جنگ تمام‌عیار را افزایش داده است. این روزنامه هشدار داد که محاسبات انتخاباتی و برداشت‌های نادرست می‌تواند بحران را تشدید کند....
+
+  ![Media](../media/2026-10-25/418d9269634d796c.jpg)
+- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [🟢 WhiteDNS Panel — نسخهٔ 0.10.0](https://t.me/whitedns/2147) — `06:08 IRST` / `02:38 UTC`
+  > 🟢 WhiteDNS Panel — نسخهٔ 0.10.0 
+این نسخه مشکل اتصال CottenMax به حساب‌های ساخته‌شده در پنل را برطرف می‌کند.
+ ✅ پشتیبانی از Normal و Max با همان دامنه، کلید و پروفایل حساب
+ ✅ اعمال سهمیه و محدودیت‌های حساب روی اتصال‌های Max
+ ✅ رفع مشکل پاک‌سازی نشست‌های Max هنگام توقف موتور
+ ✅...
+
+  ![Media](../media/2026-10-25/8b716fb2ce30ba58.jpg)
+- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [〽️ آموزش تنظیمات WhiteDns Android](https://t.me/whitedns/2146) — `05:00 IRST` / `01:30 UTC`
+  > 〽️ آموزش تنظیمات WhiteDns Android
+
+مرسی از Tajirax بابت آماده کردن این PDF ✨ 
+
+·:¨༺ @BlueKnight_Net ༻¨:·
+- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [بچه‌ها، آپدیت جدید WhiteDNS اندروید منتشر شده! 🍓](https://t.me/whitedns/2145) — `05:00 IRST` / `01:30 UTC`
+  > بچه‌ها، آپدیت جدید WhiteDNS اندروید منتشر شده! 🍓 
+
+اگه نمی‌دونی چطور با WhiteDNS وصل بشی یا دنبال روش‌های مختلف اتصال برای شرایط نت ملی هستی، این آموزش کامل رو از دست نده! 👀 💗 
+
+توی این ویدیو تمام روش‌های اتصال رو دونه‌به‌دونه بررسی کردیم. 🫶🏻 
+
+ 📺 تماشا ویدیو در یوتیوب 
+
+·:¨༺ ...
+
+  ![Media](../media/2026-10-25/08ebeb709bb5ed94.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [نشریه هیل به نقل از منابع آگاه گزارش داد فرماندهی مرکزی ارتش آمریکا، سنتکام، گزینه‌هایی برای حمله دوباره به ایران، احتما...](https://t.me/IranintlTV/363769) — `04:42 IRST` / `01:12 UTC`
+  > نشریه هیل به نقل از منابع آگاه گزارش داد فرماندهی مرکزی ارتش آمریکا، سنتکام، گزینه‌هایی برای حمله دوباره به ایران، احتمالا پس از انتخابات میان‌دوره‌ای کنگره در نوامبر، آماده کرده است.
+
+به گفته این منابع، طرح‌های حمله در اختیار پیت هگست، وزیر دفاع آمریکا، قرار گرفته‌اند و اجرای...
+
+  ![Media](../media/2026-10-25/76de48a324bae2f4.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ، رییس‌جمهوری آمریکا، در سخنرانی در ایالت جورجیا گفت نیروهای آمریکایی تمامی ۱۵۰ کشتی و ۲۶۸ هواپیمای نظامی ای...](https://t.me/IranintlTV/363768) — `04:23 IRST` / `00:53 UTC`
+  > دونالد ترامپ، رییس‌جمهوری آمریکا، در سخنرانی در ایالت جورجیا گفت نیروهای آمریکایی تمامی ۱۵۰ کشتی و ۲۶۸ هواپیمای نظامی ایران را نابود کرده‌اند.
+
+ترامپ گفت: «حکومت ایران دیگر نه هواپیمایی دارد، نه کشتی و نه هیچ‌چیز دیگر. رهبران رده اول و دوم آن هم از بین رفته‌اند. باید بفهمم اصل...
+
+  ![Media](../media/2026-10-25/6d946eb4141aeb1a.jpg)
+- **`@jadivarlog (جادی تی‌وی / ولاگ جادی)`** [به عیعای گفتم فلان فیچر ساده رو ایمپلمنت کن. کرد و گفتم تست کردی؟ گفت آره. تنبلی کردم گفتم بهش اعتماد کنم و بدون تست پوش...](https://t.me/jadivarlog/555) — `04:06 IRST` / `00:36 UTC`
+  > به عیعای گفتم فلان فیچر ساده رو ایمپلمنت کن. کرد و گفتم تست کردی؟ گفت آره. تنبلی کردم گفتم بهش اعتماد کنم و بدون تست پوش کردم. بعد دیدم یکسری ارور می ده رو سرور. به عیعای می گم من این ارورها رو می بینم! مگه نگفتی تست کردی؟ چی جواب بده خوبه؟ گفت: آره اتفاقا منم که تست کردم همین...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [باراک اوباما، رییس‌جمهوری پیشین آمریکا، در یک گردهمایی انتخاباتی در میشیگان، دونالد ترامپ را به آغاز جنگی غیرضروری با ای...](https://t.me/IranintlTV/363767) — `02:51 IRST` / `23:21 UTC`
+  > باراک اوباما، رییس‌جمهوری پیشین آمریکا، در یک گردهمایی انتخاباتی در میشیگان، دونالد ترامپ را به آغاز جنگی غیرضروری با ایران متهم کرد و گفت این جنگ نه‌تنها به اهداف خود نرسیده، بلکه موقعیت راهبردی جمهوری اسلامی را تقویت کرده است.
+
+اوباما گفت: «رییس‌جمهوری کنونی تصمیم گرفت جنگی ...
+
+  ![Media](../media/2026-10-25/0dfac1d1a4319a09.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دیوید بارنئا، رییس پیشین موساد، فاش کرد این سازمان در جریان جنگ ۱۲ روزه، عامدانه تصاویر عملیات عوامل خود در ایران را منت...](https://t.me/IranintlTV/363766) — `02:35 IRST` / `23:05 UTC`
+  > دیوید بارنئا، رییس پیشین موساد، فاش کرد این سازمان در جریان جنگ ۱۲ روزه، عامدانه تصاویر عملیات عوامل خود در ایران را منتشر کرد تا با افزایش بازداشت‌ها، شناسایی نیروهای واقعی موساد برای دستگاه‌های امنیتی جمهوری اسلامی دشوار شود.
+
+بارنئا در نشست «پرایوریتی سامیت» گفت هدف این بود...
+
+  ![Media](../media/2026-10-25/fb211744259c243a.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوهای منتشرشده در شبکه‌های اجتماعی آتش‌سوزی گسترده در مراتع و گلخانه شهرداری رودهن را در شامگاه شنبه دوم آبان نشان می...](https://t.me/IranintlTV/363765) — `02:34 IRST` / `23:04 UTC`
+  > ویدیوهای منتشرشده در شبکه‌های اجتماعی آتش‌سوزی گسترده در مراتع و گلخانه شهرداری رودهن را در شامگاه شنبه دوم آبان نشان می‌دهد. تصاویر از شدت بالای حریق حکایت دارند.
+
+علت وقوع آتش‌سوزی و میزان دقیق خسارت هنوز مشخص نیست.
+ @iranintltv
+
+  ![Media](../media/2026-10-25/f8a0c3b9db2ff3b3.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت دونالد ترامپ همچنان دو گزینه حمله نظامی و دستیابی به توافق با جمهوری اسل...](https://t.me/IranintlTV/363764) — `02:31 IRST` / `23:01 UTC`
+  > کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت دونالد ترامپ همچنان دو گزینه حمله نظامی و دستیابی به توافق با جمهوری اسلامی را مطرح می‌کند و هنوز تصمیم قطعی درباره آغاز عملیات تازه اعلام نشده است.
+
+توانا با اشاره به استقرار ناو هواپیمابر جورج واشینگتن در دریای عرب و تجهیز آن ب...
+
+  ![Media](../media/2026-10-25/e15780e50977909a.jpg)
 - **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سازمان حقوق بشر کارون گزارش داد شعبه پنجم دادگاه انقلاب اصفهان، ایلیا بن‌رشید، معترض ۲۳ ساله ساکن شاهین‌شهر، را به اتهام...](https://t.me/IranintlTV/363763) — `02:17 IRST` / `22:47 UTC`
   > سازمان حقوق بشر کارون گزارش داد شعبه پنجم دادگاه انقلاب اصفهان، ایلیا بن‌رشید، معترض ۲۳ ساله ساکن شاهین‌شهر، را به اتهام محاربه به اعدام محکوم کرده است.
 
 هم‌زمان، خبرگزاری هرانا از بازداشت احسان ارباب، بلاگر فعال در فضای مجازی، پس از انتشار مطالبی در شبکه‌های اجتماعی خبر داد.
 ...
 
-  ![Media](../media/2026-10-24/bb6414426e78959b.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [احزاب عرب اسرائیل با وجود اختلاف‌نظرهای سیاسی، ممکن است در تعیین سرنوشت دولت آینده این کشور نقش مهمی داشته باشند. با این...](https://t.me/IranintlTV/363762) — `02:13 IRST` / `22:43 UTC`
-  > احزاب عرب اسرائیل با وجود اختلاف‌نظرهای سیاسی، ممکن است در تعیین سرنوشت دولت آینده این کشور نقش مهمی داشته باشند. با این حال، بنیامین نتانیاهو و رقیبان اصلی او تاکنون ائتلاف با این احزاب را رد کرده‌اند.
-
-در سال ۲۰۲۱، حزب رعام به رهبری منصور عباس در ائتلافی مشارکت کرد که به ۱۲ ...
-
-  ![Media](../media/2026-10-24/660983e763d60f63.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی سیاست با مراد ویسی: قاتلان مردم اصفهان](https://t.me/IranintlTV/363761) — `02:07 IRST` / `22:37 UTC`
-  > 🎧 نسخه صوتی سیاست با مراد ویسی: قاتلان مردم اصفهان
- @iranintlTV
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به...](https://t.me/IranintlTV/363760) — `02:01 IRST` / `22:31 UTC`
-  > وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به مقر گارد ساحلی در ساختمان وزارت کشور و موشک سوم به ساختمانی در منطقه التواهی اصابت کرد.
-
-یحیی سریع، سخنگوی نظامی حوثی‌ها، مسوولیت حمله به دو موضع نظامی در ع...
-
-  ![Media](../media/2026-10-24/73e58fc878f31aeb.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به...](https://t.me/IranintlTV/363759) — `02:01 IRST` / `22:31 UTC`
-  > وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به مقر گارد ساحلی در ساختمان وزارت کشور و موشک سوم به ساختمانی در منطقه التواهی اصابت کرد.
-
-یحیی سریع، سخنگوی نظامی حوثی‌ها، مسوولیت حمله به دو موضع نظامی در ع...
-
-  ![Media](../media/2026-10-24/2d6187833353b013.jpg)
-- **`@VahidOnline (وحید آنلاین)`** [دونالد ترامپ، رییس‌جمهوری آمریکا، بار دیگر از احتمال حمله نظامی به جمهوری اسلامی یا دستیابی به توافق با تهران سخن گفت و ...](https://t.me/VahidOnline/78831) — `01:58 IRST` / `22:28 UTC`
-  > دونالد ترامپ، رییس‌جمهوری آمریکا، بار دیگر از احتمال حمله نظامی به جمهوری اسلامی یا دستیابی به توافق با تهران سخن گفت و تاکید کرد هدف واشینگتن این است که مانع دستیابی ایران به سلاح هسته‌ای برای همیشه شود.
-
-ترامپ روز شنبه دوم آبان در جمع خبرنگاران در فلوریدا، در پاسخ به پرسشی د...
-
-  ![Media](../media/2026-10-24/e1dfb7a5b0b7d023.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ د...](https://t.me/IranintlTV/363758) — `01:51 IRST` / `22:21 UTC`
-  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ دادگاه انقلاب زیر نظر قوه قضاییه، سپاه استانی نیز زیر نظر سپاه کل کشور است و نیروی انتظامی زیر نظر نیروی انتظامی کل کشور. این یعنی نظام جمهوری اسلامی تصمیم گر...
-
-  ![Media](../media/2026-10-24/d09d04045b58109e.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ د...](https://t.me/IranintlTV/363757) — `01:51 IRST` / `22:21 UTC`
-  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ دادگاه انقلاب زیر نظر قوه قضاییه، سپاه استانی نیز زیر نظر سپاه کل کشور است و نیروی انتظامی زیر نظر نیروی انتظامی کل کشور. این یعنی نظام جمهوری اسلامی تصمیم گر...
-
-  ![Media](../media/2026-10-24/abf53423a996d063.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 روزنامه بیلد آلمان گزارش داد مدیران بایرن مونیخ علاوه بر افت عملکرد لنارت کارل، ستاره جوان خود، از نحوه حضور او در شبک...](https://t.me/IranintlTV/363756) — `01:28 IRST` / `21:58 UTC`
-  > 🔻 روزنامه بیلد آلمان گزارش داد مدیران بایرن مونیخ علاوه بر افت عملکرد لنارت کارل، ستاره جوان خود، از نحوه حضور او در شبکه‌های اجتماعی نیز ناراضی‌اند و از این بازیکن ۱۸ ساله می‌خواهند کمتر همراه با دوست دخترش سبک زندگی پرزرق‌وبرق خود را نمایش دهد و بیشتر روی فوتبال تمرکز کند.
-
-...
-
-  ![Media](../media/2026-10-24/875a8806566f0297.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زی...](https://t.me/IranintlTV/363755) — `01:27 IRST` / `21:57 UTC`
-  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زیادی در این جنایت دست دارند؛ از امام جمعه گرفته تا استاندار و فرماندهان سپاه و بسیج.»
- @iranintltv
-
-  ![Media](../media/2026-10-24/b019c897ec342dc8.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زی...](https://t.me/IranintlTV/363754) — `01:27 IRST` / `21:57 UTC`
-  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زیادی در این جنایت دست دارند؛ از امام جمعه گرفته تا استاندار و فرماندهان سپاه و بسیج.»
- @iranintltv
-
-  ![Media](../media/2026-10-24/72cf470af182833f.jpg)
-- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [〽️ آموزش تنظیمات WhiteDns Android](https://t.me/whitedns/2144) — `00:40 IRST` / `21:10 UTC`
-  > 〽️ آموزش تنظیمات WhiteDns Android
-
-مرسی از Tajirax بابت آماده کردن این PDF ✨ 
-
-·:¨༺ @BlueKnight_Net ༻¨:·
-- **`@patt_channel_x (کانال پترنی‌ها)`** [اگر کارهای بنده باعث شده گره ای از مشکلات شما باز شود ممنون میشم حمایتی هم از اینجانب بکنید:](https://t.me/patt_channel_x/200) — `21:52 IRST` / `18:22 UTC`
-  > اگر کارهای بنده باعث شده گره ای از مشکلات شما باز شود ممنون میشم حمایتی هم از اینجانب بکنید:
-
-USDT (BEP20):
- 0x76a768B53Ca77B43086946315f0BDF21156bF424 
-USDT (TRC20):
- TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o 
-TON (TON):
- UQAc-mZB3y7uxWHKiMmq0ORZEYgycWDWZ4V1k73HsXvTJx-i 
-BTC (BTC):
-...
-- **`@patt_channel_x`** [Mark Pashmfouroush ❤️](https://t.me/patt_channel_x/199) — `21:46 IRST` / `18:16 UTC`
-- **`@patt_channel_x`** [PattN v7.25.6-P37](https://t.me/patt_channel_x/198) — `21:40 IRST` / `18:10 UTC`
-
 ## اخبار و رسانه‌های فارسی (Persian News)
 
-- **`بی‌بی‌سی فارسی`** [آنچه گذشت؛ حوثی‌ها: تاسیسات نفتی و سه فرودگاه عربستان را هدف قرار دادیم](https://www.bbc.co.uk/persian/live/cm5ynqqqdeq6t?at_medium=RSS&at_campaign=rss) — `02:31 IRST` / `23:01 UTC`
+- **`بی‌بی‌سی فارسی`** [ترامپ درباره ایران: شاید مجبور شوم کار را تمام کنم، شاید هم توافقی حاصل شود](https://www.bbc.co.uk/persian/live/cje36ky44zp0t?at_medium=RSS&at_campaign=rss) — `07:33 IRST` / `04:03 UTC`
+  > دونالد ترامپ بار دیگر احتمال اقدام نظامی تازه علیه ایران را مطرح کرد و گفت: «شاید مجبور شوم کار را تمام کنم، یا شاید آنها توافق کنند.» او تاکید کرد که هنوز درباره نتیجه مطمئن نیست. هم‌زمان، باراک اوباما، رئیس‌جمهور پیشین آمریکا، در یک سخنرانی انتخاباتی به‌شدت از جنگ با ایران ا...
+
+  ![Media](../media/2026-10-25/8ccaadaa7366ece4.jpg)
+- **`بی‌بی‌سی فارسی`** [آنچه گذشت؛ حوثی‌ها: تاسیسات نفتی و سه فرودگاه عربستان را هدف قرار دادیم](https://www.bbc.co.uk/persian/live/cm5ynqqqdeq6t?at_medium=RSS&at_campaign=rss) — `07:33 IRST` / `04:03 UTC`
   > حوثی‌ها می‌گویند که به خط لوله شرق-غرب، تاسیسات آرامکو و سه فرودگاه عربستان سعودی حمله کرده‌اند. این گروه همچنین مسئولیت حمله به یک پایگاه دریایی و یک اردوگاه نظامی در شهر عدن را بر عهده گرفته است. وزارت دفاع عربستان می‌گوید که بقایای دو موشک بالستیک رهگیری‌شده حوثی‌ها در مکه،...
+
+  ![Media](../media/2026-10-25/477767917697962d.jpg)
+- **`یورونیوز فارسی`** [افشاگری رئیس پیشین موساد از جنگ ۱۲روزه: هویت ۹۹.۹درصد از عوامل ما در ایران هرگز برملا نشد؛ همچنان در تهران‌اند](https://parsi.euronews.com/2026/10/25/david-barnea-mossad-agents-99-percent-remain-in-tehran-oct-2026) — `07:23 IRST` / `03:53 UTC`
+  > دیوید بارنئا، رئیس پیشین موساد، روز پنجشنبه گفت که این سازمان صبح نخستین روز جنگ ۱۲روزه در ژوئن ۲۰۲۵، عمدا و با هدف حفاظت از عوامل خود در ایران، ویدیویی از ماموریت آن‌ها منتشر کرد تا نیروهای امنیتی ایران شمار زیادی از افراد را بازداشت کنند و در نهایت در شناسایی عوامل موساد نات...
+- **`یورونیوز فارسی`** [افشاگری رئیس پیشین موساد از جنگ ۱۲روزه: هویت ۹۹.۹درصد از عوامل ما در ایران هرگز برملا نشد؛ همچنان در تهران‌اند](https://parsi.euronews.com/2026/10/25/former-mossad-chief-david-barnea-agents-still-in-tehran-iran-oct-2026) — `07:01 IRST` / `03:31 UTC`
+  > دیوید بارنئا، رئیس پیشین موساد، روز پنجشنبه گفت که این سازمان صبح نخستین روز جنگ ۱۲روزه در ژوئن ۲۰۲۵، عمدا و با هدف حفاظت از عوامل خود در ایران، ویدیویی از ماموریت آن‌ها منتشر کرد تا نیروهای امنیتی ایران شمار زیادی از افراد را بازداشت کنند و در نهایت در شناسایی عوامل موساد نات...
+- **`ایران اینترنشنال`** [نیویورک تایمز: تهدیدهای متقابل، آمریکا و ایران را به جنگ تمام‌عیار نزدیک کرده است](https://www.iranintl.com/202610252301) — `05:50 IRST` / `02:20 UTC`
+  > نیویورک تایمز گزارش داد اطلاعات تازه درباره طرح‌های احتمالی جمهوری اسلامی برای حمله به آمریکایی‌ها و بررسی حملات گسترده‌تر در دولت ترامپ، خطر بازگشت به جنگ تمام‌عیار را افزایش داده است. این روزنامه هشدار داد که محاسبات انتخاباتی و برداشت‌های نادرست می‌تواند بحران را تشدید کند.
+
+  ![Media](../media/2026-10-25/9c746f9404c8bfb8.jpg)
+- **`بی‌بی‌سی فارسی`** [بازداشت نزدیک به هزار نفر در اعتراض‌های گسترده فرانسه؛ درگیری معترضان و پلیس در پاریس](https://www.bbc.com/persian/articles/crvg6pl00977o?at_medium=RSS&at_campaign=rss) — `05:24 IRST` / `01:54 UTC`
+  > در جریان دور تازه اعتراض‌های گسترده در فرانسه، نزدیک به هزار نفر بازداشت شدند. صدها هزار نفر روز شنبه ۲۴ اکتبر در اعتراض به افزایش هزینه‌های زندگی و وضعیت نامناسب مدارس و خدمات عمومی به خیابان‌ها آمدند و در پایان تجمع‌های عمدتا مسالمت‌آمیز، درگیری‌هایی میان معترضان و پلیس در پ...
+
+  ![Media](../media/2026-10-25/e7b2d247630bcd52.jpg)
+- **`ایران اینترنشنال`** [رسانه‌های اسرائیلی: حماس به تکرار حمله‌ای مشابه هفتم اکتبر تهدید کرده است](https://www.iranintl.com/202610253977) — `04:48 IRST` / `01:18 UTC`
+  > رسانه‌های اسرائیلی گزارش داده‌اند که حماس در پیامی از طریق یک مقام سازمان ملل، اسرائیل را به حمله‌ای مشابه هفتم اکتبر ۲۰۲۳ تهدید کرده است. به گزارش این رسانه‌ها، یک مقام ارشد نظامی اسرائیل این پیام را در نامه‌ای فوری به نخست‌وزیر و وزیر دفاع منتقل کرده است.
+
+  ![Media](../media/2026-10-25/03300d367917f633.jpg)
+- **`ایران اینترنشنال`** [هیل: ارتش آمریکا گزینه‌هایی برای حمله دوباره به ایران آماده کرده است](https://www.iranintl.com/202610250307) — `04:18 IRST` / `00:48 UTC`
+  > نشریه هیل به نقل از منابع آگاه گزارش داد ارتش آمریکا چند گزینه برای حمله دوباره به اهداف حکومت ایران پس از انتخابات میان‌دوره‌ای سوم نوامبر آماده کرده است. اجرای این طرح‌ها به تایید دونالد ترامپ بستگی دارد و هنوز تصمیم نهایی اعلام نشده است.
+
+  ![Media](../media/2026-10-25/cf39376fc6b0fdd9.jpg)
+- **`بی‌بی‌سی فارسی`** [بنیامین نتانیاهو؛ آیا «آقای امنیت» اسرائیل می‌تواند برای هفتمین بار نخست‌وزیر شود؟](https://www.bbc.com/persian/articles/cwr7ym1mjxymo?at_medium=RSS&at_campaign=rss) — `04:05 IRST` / `00:35 UTC`
+  > بنیامین نتانیاهو، باسابقه‌ترین نخست‌وزیر تاریخ اسرائیل، امیدوار است در انتخابات پارلمانی ۲۷ اکتبر برای هفتمین بار به قدرت برسد.
+
+  ![Media](../media/2026-10-25/842161b9c266fa00.jpg)
+- **`بی‌بی‌سی فارسی`** [گادی آیزنکوت رقیب اصلی نتانیاهو در انتخابات اسرائیل کیست؟](https://www.bbc.com/persian/articles/cqn06gp7g5leo?at_medium=RSS&at_campaign=rss) — `02:42 IRST` / `23:12 UTC`
+  > نظرسنجی‌ها نشان می‌دهند ائتلاف احزاب بنیامین نتانیاهو، نخست‌وزیر اسرائیل، که حزب لیکود، احزاب راست افراطی و احزاب فوق‌ارتدکس را در بر می‌گیرد، ممکن است در انتخابات سراسری ۲۷ اکتبر برای کسب اکثریت پارلمانی با چالش روبه‌رو شود.
+
+  ![Media](../media/2026-10-25/36a1aa9de3918aea.jpg)
+- **`ایران اینترنشنال`** [رییس پیشین موساد جزئیات عملیات در ایران و انفجار پیجرهای حزب‌الله را شرح داد](https://www.iranintl.com/202610240075) — `02:41 IRST` / `23:11 UTC`
+  > دیوید بارنیا، رییس پیشین موساد، می‌گوید این سازمان با علنی کردن حضور مامورانش در ایران، به دنبال بازداشت‌های گسترده و دشوار کردن شناسایی آنها بود. او همچنین جزئیات تازه‌ای از طراحی و اجرای عملیات انفجار پیجرهای حزب‌الله بیان کرد.
+
+  ![Media](../media/2026-10-25/2a5252941ff3b722.jpg)
+- **`یورونیوز فارسی`** [گزارش‌ها از پیشنهاد جدید ایران برای بازگشایی تنگه هرمز؛ ترامپ: یا توافق می‌کنند یا کار را تمام می‌کنم](https://parsi.euronews.com/2026/10/25/trump-rejects-iran-hormuz-proposal-finish-the-job-october-2026) — `02:22 IRST` / `22:52 UTC`
+  > دونالد ترامپ روز شنبه گفت که اگر با ایران به توافق نرسد، مجبور می‌شود «کار را تمام کند». او همچنین مدعی شد که ایران مشتاق حصول توافق است. این در حالی است که در روزهای اخیر گزارش‌های متعددی از احتمال ازسرگیری حملات آمریکا و اسرائیل به ایران منتشر شده است.
 - **`بی‌بی‌سی فارسی`** [دو کشور، دو اعتراض؛ رسانه‌های حکومتی ایران اعتراضات فرانسه و ایران را چگونه مقایسه می‌کنند؟](https://www.bbc.com/persian/articles/cmkgk1k6pgz7o?at_medium=RSS&at_campaign=rss) — `02:16 IRST` / `22:46 UTC`
   > اعتراضات اخیر فرانسه به موضوع مقایسه نحوه برخورد حکومت‌های ایران و فرانسه با معترضان تبدیل شده است. رسانه‌های نزدیک به حکومت ایران با تاکید بر نقش عوامل خارجی و خشونت معترضان، تلاش می‌کنند روایت خود را از اعتراضات دی‌ماه ۱۴۰۴ تقویت کنند؛ روایتی که خانواده‌های جان‌باختگان و منت...
-
-  ![Media](../media/2026-10-24/1a2382ff7a656fbb.jpg)
 - **`ایران اینترنشنال`** [هشدار بایرن مونیخ به ستاره جوان؛ بیش‌ از اندازه با دوست دخترت در شبکه‌های اجتماعی هستی](https://www.iranintl.com/202610241636) — `01:17 IRST` / `21:47 UTC`
   > روزنامه بیلد آلمان گزارش داد مدیران بایرن مونیخ علاوه بر افت عملکرد لنارت کارل، ستاره جوان خود، از نحوه حضور او در شبکه‌های اجتماعی نیز ناراضی‌اند و از این بازیکن ۱۸ ساله می‌خواهند کمتر همراه با دوست دخترش سبک زندگی پرزرق‌وبرق خود را نمایش دهد و بیشتر روی فوتبال تمرکز کند.
-
-  ![Media](../media/2026-10-24/26e88cb963cc2b7c.jpg)
 - **`بی‌بی‌سی فارسی`** [تظاهرات هزاران نفر علیه نتانیاهو در تل‌آویو، سه روز مانده به انتخابات اسرائیل](https://www.bbc.com/persian/articles/ck7vp03em2dro?at_medium=RSS&at_campaign=rss) — `00:59 IRST` / `21:29 UTC`
   > هزاران نفر روز شنبه ۲۴ اکتبر، سه روز مانده به انتخابات پارلمانی اسرائیل، در تل‌آویو علیه دولت بنیامین نتانیاهو تظاهرات کردند. این انتخابات در حالی برگزار می‌شود که سه سال جنگ در غزه و درگیری‌های نظامی با لبنان و ایران، همراه با نگرانی از انزوای بین‌المللی و پیامدهای اقتصادی آن...
-
-  ![Media](../media/2026-10-24/a07e0ae75514ed0d.jpg)
 - **`ایران اینترنشنال`** [عراق به نقش اسرائیل در حمله به انبارهای تسلیحاتی نیروهای وابسته به جمهوری اسلامی مظنون است](https://www.iranintl.com/202610243107) — `00:56 IRST` / `21:26 UTC`
   > روزنامه الشرق‌الاوسط به نقل از منابع عراقی گزارش داد که مقام‌های این کشور به نقش اسرائیل در حملات احتمالی به دو انبار تسلیحاتی گروه‌های مورد حمایت حکومت ایران مظنون‌اند. این ادعاها به‌طور مستقل تایید نشده و ماهیت حوادث همچنان در دست بررسی است.
-
-  ![Media](../media/2026-10-24/e5f0e7cf81d8ff65.jpg)
 - **`ایران اینترنشنال`** [همزمان با تکرار امکان توافق با جمهوری اسلامی، ترامپ از احتمال حمله به ایران گفت](https://www.iranintl.com/202610249166) — `00:40 IRST` / `21:10 UTC`
   > دونالد ترامپ بار دیگر از احتمال حمله یا توافق با ایران سخن گفت و هدفش را جلوگیری دائمی از دستیابی تهران به بمب هسته‌ای دانست. او رهبران جمهوری اسلامی را «بسیار بد» خواند و تاکید کرد آنها «۷۵ هزار معترض را کشته‌اند»، سپس به خبرنگاران گفت: «شما هیچ‌وقت درباره‌اش نمی‌نویسید.»
-
-  ![Media](../media/2026-10-24/3032709ef1480403.jpg)
 - **`ایران اینترنشنال`** [سندی درباره فسخ قرارداد یاسر آسانی با استقلال که می‌تواند تلاش‌های پرسپولیس را منتفی کند](https://www.iranintl.com/202610241091) — `00:01 IRST` / `20:31 UTC`
   > سایت ورزش سه و خبرگزاری فارس سندی را منتشر کرده‌اند که نشان می‌دهد فیفا در پاسخ به سوال باشگاه استقلال درباره بازیکنان خارجی، این باشگاه را مجاز به قرارداد مجدد با بازیکنان فصل پیش خود دانسته است. استقلال البته درباره اندونگ، آنتونیو آدان و موسی جنپو از فیفا استعلام گرفته است.
 - **`ایران اینترنشنال`** [شروع سفر طولانی خاتون بم برای حضور در لیگ قهرمانان زنان آسیا](https://www.iranintl.com/202610244872) — `23:22 IRST` / `19:52 UTC`
   > تیم فوتبال خاتون بم، نماینده فوتبال زنان ایران امشب تهران را به مقصد گوانگژوی چین ترک کرد تا پس از توقفی ۵ ساعته، از گوانگژو به مقصد یانگون میانمار، محل برگزاری مسابقات گروه «A» لیگ قهرمانان آسیا، برود.
 - **`رادیو فردا`** [حملات جدید حوثی‌ها؛ عربستان از سقوط بقایای موشک‌ها در مکه و مدینه خبر داد](https://www.radiofarda.com/a/saudi-says-responded-to-falling-shrapnel-from-houthi-attack-in-mecca-medina-regions/33883625.html) — `22:44 IRST` / `19:14 UTC`
   > حوثی‌ها بار دیگر مدعی حمله به تأسیسات نفتی و فرودگاه‌های عربستان شدند. هم‌زمان رسانه‌های حوثی از کشته‌شدن دست‌کم ۱۶ نفر در حملات هوایی منتسب به عربستان در یمن خبر دادند.
-- **`دویچه‌وله فارسی`** [آسیب‌شناسی بحران اپوزیسیون؛ چرا نارضایتی از حکومت به بدیل سیاسی منسجم تبدیل نشد؟](https://www.dw.com/fa-ir/آسیب‌شناسی-بحران-اپوزیسیون؛-چرا-نارضایتی-از-حکومت-به-بدیل-سیاسی-منسجم-تبدیل-نشد؟/a-79752171?maca=per-rss-per-all-1491-xml-mrss) — `22:17 IRST` / `18:47 UTC`
-  > چرا اپوزیسیون، با وجود گسترش نارضایتی عمومی، هنوز نتوانسته به بدیلی سیاسی منسجم تبدیل شود؟ از بحران ائتلاف‌سازی و اختلاف بر سر آینده ایران تا مناقشه رهبری و فاصله با جامعه؛ سه تحلیل‌گر از ریشه‌های این بن‌بست می‌گویند.
-- **`ایران اینترنشنال`** [چلسی ۰-۲ تاتنهام؛ اسپرز از کابوس شش هفته اول لیگ برتر فاصله می‌گیرد](https://www.iranintl.com/202610240455) — `22:13 IRST` / `18:43 UTC`
-  > تیم فوتبال تاتنهام در هفته هشتم لیگ برتر با پیروزی ۲ بر صفر مقابل چلسی در استمفوردبریج، دومین برد پیاپی خود در لیگ برتر را به دست آورد و به رده دوازدهم جدول رسید. این سومین شکست چلسی در این فصل بود. آبی‌های لندن با ۱۳ امتیاز، فعلا در رده چهارم لیگ برتر هستند.
-- **`ایران اینترنشنال`** [ناپولی ۳-۳ رم؛ دو دبل، ۶ گل و تساوی حسرت‌بار برای آلگری و گاسپرینی](https://www.iranintl.com/202610244607) — `21:58 IRST` / `18:28 UTC`
-  > ناپولی در دیداری پرگل، با وجود دو بار پیش افتادن مقابل رم، به تساوی ۳ بر ۳ رضایت داد. اسکات مک‌تامینی برای ناپولی و لئوناردو بالردی برای رم دبل کردند. بالردی در دقیقه ۹۰ گل تساوی رم را به ثمر رساند و ماسیمیلیانو آلگری، سرمربی ناپولی، نیز به دلیل اعتراض اخراج شد.
-- **`ایران اینترنشنال`** [دبیر انجمن شرکت‌های هواپیمایی: قیمت بلیت هواپیما ۴۰ درصد افزایش یافت](https://www.iranintl.com/202610244099) — `21:37 IRST` / `18:07 UTC`
-  > مجید اخلاقی، دبیر انجمن شرکت‌های هواپیمایی، از افزایش حدود ۴۰ درصدی قیمت بلیت هواپیما خبر داد.
-
-او با اشاره به دلایل این افزایش قیمت، هزینه‌های ارزی شرکت‌های هواپیمایی و توقف تخصیص ارز مبادله‌ای را از عوامل اصلی رشد نرخ بلیت عنوان کرد.
-- **`ایران اینترنشنال`** [برای بازی در لیگ نخبگان؛ تراکتور هم با هواپیمای مقامات جمهوری اسلامی به دوبی سفر می‌کند](https://www.iranintl.com/202610249732) — `21:16 IRST` / `17:46 UTC`
-  > باشگاه تراکتور خبر داده که این تیم برای بازی با العین امارات در لیگ نخبگان آسیا با پرواز مستقیم هواپیمایی معراج از تبریز به دوبی سفر می‌کند. این درحالی است که ساعتی پیش علی محمودزاده، عضو هیات مدیره باشگاه تراکتور به سایت فوتبالی گفته بود هنوز رایزنی‌ها به جایی نرسیده است.
-- **`ایران اینترنشنال`** [جنایت علیه بشریت؛ بخش ششم گزارش آمران کشتار](https://www.iranintl.com/202610243759) — `21:06 IRST` / `17:36 UTC`
-  > سازمان عفو بین‌الملل در گزارش خود درباره‌ی خیزش زن، زندگی، آزادی با بررسی دقیق زنجیره‌ سرکوب جمهوری اسلامی به این نتیجه رسید که مقامات جمهوری اسلامی از رهبر تا مقامات نظامی، امنیتی و سیاسی باید به اتهام جنایات علیه بشریت تحت تحقیقات کیفری قرار گیرند.
-- **`بی‌بی‌سی فارسی`** [دور تازه اعتراضات فرانسه؛ ۱۳۵ نفر بازداشت شدند](https://www.bbc.com/persian/articles/c50mep7kxr2zo?at_medium=RSS&at_campaign=rss) — `19:15 IRST` / `15:45 UTC`
-  > در فرانسه بار دیگر ده‌ها هزار نفر برای تظاهرات اعتراض‌آمیز به خیابان‌ها آمدند. معترضان در برخی شهرها از جمله پاریس با پلیس درگیر شدند. در جریان این درگیری‌ها ۱۳۵ نفر بازداشت شده‌اند.
-- **`رادیو فردا`** [صدها هزار نفر بار دیگر فرانسه به خیابان‌ها رفتند؛ درگیری‌های پراکنده پلیس با معترضان](https://www.radiofarda.com/a/police-say-110-000-marched-in-paris-demonstration/33883592.html) — `19:06 IRST` / `15:36 UTC`
-  > ده‌ها هزار نفر روز شنبه دوم آبان در شهرهای مختلف فرانسه در اعتراض به افزایش هزینه‌های زندگی و سیاست‌های دولت امانوئل مکرون، رئیس‌جمهور این کشور، به خیابان‌ها آمدند.
-- **`بی‌بی‌سی فارسی`** [نتانیاهو از یک «غافلگیری بزرگ برای تشکیلات فلسطینی» خبر داد](https://www.bbc.com/persian/articles/cq1kdpdppzz8o?at_medium=RSS&at_campaign=rss) — `18:47 IRST` / `15:17 UTC`
-  > در پی کشته‌شدن دو سرباز ارتش اسرائيل در شهر الخلیل در کرانه باختری اشغالی، اسرائیل عملیات امنیتی گسترده را در این شهر آغاز کرده و بنیامین نتانیاهو، نخست‌وزیر، از«یک غافلگیری بسیار بزرگ تشکیلات فلسطینی» صحبت کرده است.
-- **`دویچه‌وله فارسی`** [نتانیاهو به دنبال عملیاتی کم‌سابقه در کرانه باختری](https://www.dw.com/fa-ir/نتانیاهو-به-دنبال-عملیاتی-کم‌سابقه-در-کرانه-باختری/a-79751009?maca=per-rss-per-all-1491-xml-mrss) — `18:00 IRST` / `14:30 UTC`
-  > کشته شدن دو سرباز اسرائیلی در نزدیکی الخلیل، ارتش را به عملیات گسترده در کرانه باختری کشاند. نتانیاهو نیز از طرحی برای یک عملیات بی‌سابقه خبر داده؛ اقدامی که به گفته او از زمان جنگ شش‌روزه ۱۹۶۷ مشابهی نداشته است.
-- **`دویچه‌وله فارسی`** [ابداع فناوری جدیدی که بو را با اینترنت منتقل می‌کند](https://www.dw.com/fa-ir/ابداع-فناوری-جدیدی-که-بو-را-با-اینترنت-منتقل-می‌کند/a-79750685?maca=per-rss-per-all-1491-xml-mrss) — `17:23 IRST` / `13:53 UTC`
-  > پژوهشگران می‌گویند یک بینی الکترونیکی ساخته‌اند که از حسگرهای گاز برای شناسایی ترکیبات شیمیایی مرتبط با بوهای مختلف استفاده می‌کند. به گفته آن‌ها به کمک این دستگاه‌ها می‌توان اطلاعات بو را نیز از طریق اینترنت ارسال کرد.
 
 ## خبرگزاری‌های بین‌المللی (Global Wire)
 
-- **`Reuters Wire`** [Trump administration demands county election officials identify noncitizen voters in California - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5) — `01:27 IRST` / `21:57 UTC`
-  > Trump administration demands county election officials identify noncitizen voters in California    Reuters
-- **`Reuters Wire`** [Trump set to announce plan by Audi to build US factory in Georgia, source says - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5) — `01:03 IRST` / `21:33 UTC`
-  > Trump set to announce plan by Audi to build US factory in Georgia, source says    Reuters
-- **`AP News Wire`** [A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News](https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5) — `23:53 IRST` / `20:23 UTC`
-  > A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained    AP News
-- **`Reuters Wire`** [Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5) — `22:38 IRST` / `19:08 UTC`
-  > Nigeria's Tinubu launches re-election campaign as economic pain tests support    Reuters
+- **`Reuters Wire`** [Obama unloads on Trump while stumping for Democrats ahead of midterms - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5) — `06:10 IRST` / `02:40 UTC`
+  > Obama unloads on Trump while stumping for Democrats ahead of midterms    Reuters
+- **`Reuters Wire`** [Sydney's new international airport opens to passengers - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVJaVWYzbldLQlV4bWFwYzBEek50ekRuSjY0Mk92Y090OEduQkdLdUlBeTVYMWdBanpralBkc25yZzZmN2VzcDVxTnNnYlYyZWpaMWpjZlZmcVN0N0RTLXllYUFoaDZnWlV1czZHdHZUYkpVTnBiVVVxOURCQWt0S1lySlNxWW1rODJlUGQyN2wxR2JIUGNiME1fN3FWVXRFSjFhMFFNd0c?oc=5) — `03:59 IRST` / `00:29 UTC`
+  > Sydney's new international airport opens to passengers    Reuters
+- **`Reuters Wire`** [Yemen's Houthis renew warning against using Riyadh airport - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5) — `03:27 IRST` / `23:57 UTC`
+  > Yemen's Houthis renew warning against using Riyadh airport    Reuters
+- **`Reuters Wire`** [Abuse survivors approve $800 million settlement with Archdiocese of New York - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2Ixc21EUXZ4UEhWVEtXSkJzV1EwWm5tT0V5dlFkbWlKaXJidVNoLU4xZEJScWpKZnlYajJyQUJITE95cXpwRm0wdE1jSGhOV3VpWEk1b1FtRU80ekFYZ0xsTEdPMldZU1EyRkZ1cXU2alZ3eDRBUU5xVGtpM3kxa1FqQUR5Nnk5Q1luX2ZZbkJUMHM2THMxa21GTUlabXgzMWljZWtkM3BxS1RRbklkWlZHNmNzaVhVeGg4U1RWWWV5d0E?oc=5) — `03:11 IRST` / `23:41 UTC`
+  > Abuse survivors approve $800 million settlement with Archdiocese of New York    Reuters
+- **`Reuters Wire`** [Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxORGtfcFhSaXlZOW01WjJhTEVWcTBQSlN4OTIxb2J3SmxmQ0prZ1dkTEpVckFGY2hQSlgyZzBjTl9RRXlOZ1JWdU5BSUhIZ2pTYmhCQW5WU0ZnUWNUdUlWSVRXajJ1dVRFMFhUN2Zkai1vMGxqS29mUDNTaHVud0FQNVJvb0NVcW5rNmFUVzNod3N2NTd1VkZWUGZadW9oVTVPb1NFQmsxWlhfU2RSWTVPN2dlUnlOd2ItSGRfdHZ3?oc=5) — `02:53 IRST` / `23:23 UTC`
+  > Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports    Reuters
+- **`Reuters Wire`** [Arrests in Barcelona after 'anti-system' rioters loot shops, set fires - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5) — `01:45 IRST` / `22:15 UTC`
+  > Arrests in Barcelona after 'anti-system' rioters loot shops, set fires    Reuters
+- **`Reuters Wire`** [Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2dDQW5yVDVVYnk1ZzNMcVhCZEMxYUNyYkJxbE1vbkRuU20xVXRZVE9GdDRYQnBSY0Z3T3VIcDNmUFhub05LWS16LU9xdXdVc083b2ExNmJ0UXVCVzNLNzctOEMtUzYxX0xSVW1rMkNRWGVBMjEyRmVxTm13SXlmZDJoS3NlcG9uRHBzamVOZGl6STE4bW5vS1FUQjJSQ2hfN2Y5WXZyR1E4ZkN2ZWJ0djJrVDRnRXVhNWhnY0FKeUJVelBr?oc=5) — `01:26 IRST` / `21:56 UTC`
+  > Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff    Reuters
+- **`Reuters Wire`** [Trump announces Audi will build $4 billion US factory in Georgia - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5) — `01:01 IRST` / `21:31 UTC`
+  > Trump announces Audi will build $4 billion US factory in Georgia    Reuters
 - **`Reuters Wire`** [Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1J4ZnFKQkVEMmNqNnhnQ1hzU290Wm5VWVI1ajhVUmpDbkpqLUlrNEVuckpONnNoN0hlZGJVTnhGY0V3dUh4UXFKUzN2ZFZSbk1fYWtEeUtMNDJRSVlfVDNjX1dWVWd2UzhlZFplZXA3d1l3dkdWLVRUMEhzd1RBcC1GRnRTQk8tNGNjc3B5RHZPcy1DOTlJeHp0Y3ZkdHhaX0xlTktJSWJlVDQ5b1hWQkpmb1ZrRC12RlNpTG5YekQ1Zw?oc=5) — `22:33 IRST` / `19:03 UTC`
   > Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says    Reuters
-- **`Reuters Wire`** [Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5) — `21:53 IRST` / `18:23 UTC`
+- **`Reuters Wire`** [Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5) — `21:52 IRST` / `18:22 UTC`
   > Protests sweep Italian cities amid heavy security presence, some violence reported    Reuters
-- **`Reuters Wire`** [Albanian police fire tear gas as anti-government student protests turn violent - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX21BMWozRzgtZFdWcVVVc3o5dHh3bUIzSzZjcTdZTnNzcFdXN2lVYVpXTmY0OHB0UWdFbjdmQ0FKV0hxOVUxeVJGNEhxTGdhQW9tZWtuTGoxTDNKZWplYjBkLWd4Q2sxdlhXdElFaVo1a0pWbm9walRONWoxRVZCU2VFTEUwMlZfNEZZeWpsVGJPMnF6MW9ZNW11WHlKRGEtVjNoRlFsMTIxT0pvQkU5UnRhT3RxTThD?oc=5) — `20:41 IRST` / `17:11 UTC`
-  > Albanian police fire tear gas as anti-government student protests turn violent    Reuters
-- **`Reuters Wire`** [Belgian protesters and police skirmish at anti-government demonstrations in Brussels - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWRmTGozX08xMlVRbHEtbWNESTBRVUg5eVNVR2dJTnh2UTNoU1F1aktWc2FYZVh6N0hkcFJxN05OS1hmNmQzLWZZODBIVFRBYlQ1SG5BUzJvUUdxMmFsRWJlcFdlR3pSRTdJT0pDWk1XYUl6UENiTzNja0ExT0VFbWZvU01iTmpjY0R4bnF1RmRscUtDSnJUQTFJeUtLeF9BZ2kzcWxQOGlOZUhyUThmY29IOTY5eWc?oc=5) — `19:36 IRST` / `16:06 UTC`
-  > Belgian protesters and police skirmish at anti-government demonstrations in Brussels    Reuters
-- **`Reuters Wire`** [Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5) — `19:32 IRST` / `16:02 UTC`
-  > Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation    Reuters
-- **`Reuters Wire`** [China urges US to halt proposed expansion of outbound investment curbs - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5) — `17:21 IRST` / `13:51 UTC`
-  > China urges US to halt proposed expansion of outbound investment curbs    Reuters
-- **`Reuters Wire`** [Trump says he may move White House press corps - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5) — `16:29 IRST` / `12:59 UTC`
-  > Trump says he may move White House press corps    Reuters
-- **`AP News Wire`** [2 Philippine air force planes collide during a training flight, killing all 4 pilots - AP News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEo5akhfQVNkRlRuUUNZV1U3dVhlZThEclBrbmRhamp3MGJPem1MNl9XZ2lSWUtDUUt3bWZ0S2E0SWdxQ2lfZUk1djVBREN6VU5PRDlqcFVvd1RCQVktSVhuZWRWOHdEZFNwckVUdDVZQk5KVHJYdlJNeGpwX0V6V3N3R18wdUlGTE4tQ2pYTzc1YXVnMEVvTGcwT0VTbmp2UVE2NXdZZ3Vla3oxMmc?oc=5) — `13:16 IRST` / `09:46 UTC`
-  > 2 Philippine air force planes collide during a training flight, killing all 4 pilots    AP News
+- **`AP News Wire`** [North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5) — `13:03 IRST` / `09:33 UTC`
+  > North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge    AP News
+- **`AP News Wire`** [Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFRhSTJyT3RrVXFVUzRQRnpqUndyLTduTjdsVGdNdFQzandyVk5DRU1tcUZaX0xWWW4ycmxYSmpzcmN6UjJ1Mk0ycGpSOHVtZlJOaWo1b1J0RVlnelJJa3dTYWg2M1RYN3M3UVk2MHU1cUM3TUpETkpfWUI2eDl2amNLQzBJWDVxa1lxZEtBWlJYNFBrRDM1V3ZUQ29NTmRI?oc=5) — `04:43 IRST` / `01:13 UTC`
+  > Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates    AP News
 
 ## فناوری و امنیت سایبری (Tech & Open Source)
 
-*خبری ثبت نشده است.*
+- **`Hacker News`** [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/) — `06:35 IRST` / `03:05 UTC`
+  > Article URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/ 
+ Comments URL: https://news.ycombinator.com/item?id=50227892 
+ Points: 32 
+ # Comments: 12
+- **`Hacker News`** [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report) — `05:48 IRST` / `02:18 UTC`
+  > Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report 
+ Comments URL: https://news.ycombinator.com/item?id=50227639 
+ Points: 35 
+ # Comments: 8
+- **`Hacker News`** [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) — `05:03 IRST` / `01:33 UTC`
+  > Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras 
+ Comments URL: https://news.ycombinator.com/item?id=50227356 
+ Points: 27 
+ # Comments: 7
+- **`Hacker News`** [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb) — `03:12 IRST` / `23:42 UTC`
+  > Article URL: https://codeberg.org/Misom/FindMyWeb 
+ Comments URL: https://news.ycombinator.com/item?id=50226646 
+ Points: 34 
+ # Comments: 7
+- **`Hacker News`** [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) — `03:03 IRST` / `23:33 UTC`
+  > Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt 
+ Comments URL: https://news.ycombinator.com/item?id=50226577 
+ Points: 43 
+ # Comments: 10
+- **`Hacker News`** [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) — `02:41 IRST` / `23:11 UTC`
+  > Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class 
+ Comments URL: https://news.ycombinator.com/item?id=50226419 
+ Points: 225 
+ # Comments: 215
+- **`Hacker News`** [We should be more ambitious with the software we build](https://danluu.com/ambitious/) — `01:17 IRST` / `21:47 UTC`
+  > Article URL: https://danluu.com/ambitious/ 
+ Comments URL: https://news.ycombinator.com/item?id=50225695 
+ Points: 253 
+ # Comments: 223
+- **`Hacker News`** [Small Programs and Languages](https://ratfactor.com/cards/pl-small) — `01:14 IRST` / `21:44 UTC`
+  > Article URL: https://ratfactor.com/cards/pl-small 
+ Comments URL: https://news.ycombinator.com/item?id=50225674 
+ Points: 56 
+ # Comments: 5
+- **`Hacker News`** [The Importance of Limitations for Creativity and Learning (2023)](https://ratfactor.com/cards/limitations) — `01:12 IRST` / `21:42 UTC`
+  > Article URL: https://ratfactor.com/cards/limitations 
+ Comments URL: https://news.ycombinator.com/item?id=50225663 
+ Points: 38 
+ # Comments: 10
+- **`Hacker News`** [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) — `00:00 IRST` / `20:30 UTC`
+  > Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! 
+
+ Comments URL: https://news.ycombinator.com/item?id=50224916 
+ Points: 433 
+ # Comments: 261
 
 ---
 📂 [آرشیو ۳۰ دقیقه‌ای اخبار](../index.md) | 🌐 [مشاهده نسخه تحت وب سبک](../public/index.html)
