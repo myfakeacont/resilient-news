@@ -1,6 +1,6 @@
 # ⚡ آخرین اخبار و رویدادهای لحظه‌ای (Latest Rolling News)
 
-**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-29 08:40 IRST` | `2026-10-29 05:10 UTC`
+**آخرین همگام‌سازی پایپ‌لاین:** `2026-10-29 16:08 IRST` | `2026-10-29 12:38 UTC`
 
 پایگاه خبری چندرسانه‌ای تاب‌آور. متن سبک و تصاویر محلی فشرده برای دسترسی حداکثر سرعت در شرایط اختلال اینترنت.
 
@@ -10,6 +10,8 @@
 
 - **`@MitraHejazipour (میترا حجازی‌پور)`** [This is how we get chess fans away from their screens and bring them closer to the action♟️ Last night, I played 4 games against French IM @MIJulienSong, one of the biggest chess influencers in the world, in front of a fantastic crowd at Cap Échecs! Final sco - X](https://news.google.com/rss/articles/CBMickFVX3lxTE5DMjV2akFKSHA1VFVKVm5UVWZBS1paY0daUDFkU1hEc2xwam55bWd0N2ptN0JYc3I0N2VkSEs4dXpoU3ZZaVA5RTBtSTV0aWlZdHQ0X3dLNFJ0cmVLSllMdk5FYnNISXEzd1lMblg2TmJsUQ?oc=5) — `21:15 IRST` / `17:45 UTC`
   > This is how we get chess fans away from their screens and bring them closer to the action♟️ Last night, I played 4 games against French IM @MIJulienSong, one of the biggest chess influencers in the world, in front of a fantastic crowd at Cap Échecs! Final sco    X
+- **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [Historic neighborhoods across several Iranian cities are being demolished, while urban expansion threatens the protected area surrounding Persepolis. These developments highlight the role of government decisions in damaging Iran’s cultural heritage. Feat - X](https://news.google.com/rss/articles/CBMibkFVX3lxTE5PanladUc2VHJ2Q3Vfa2k4VzhNWEdCNTVKc2JFa1Nmc3FfWm1meFBDUzVsd283SzJqX1AxNGozWV9KR0J1ZFd6c0hDMlAxR0ZvcjBKNW9xX1pBNXVDR0YxbXQ5NlI4bWZxbEQtM1hn?oc=5) — `21:17 IRST` / `17:47 UTC`
+  > Historic neighborhoods across several Iranian cities are being demolished, while urban expansion threatens the protected area surrounding Persepolis. These developments highlight the role of government decisions in damaging Iran’s cultural heritage. Feat    X
 - **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [María Corina Machado’s return to Venezuela inspires all those fighting for democracy around the world. Prince Reza Pahlavi’s message underscores the solidarity between the Iranian and Venezuelan people and looks ahead to a future in which a free Iran an - X](https://news.google.com/rss/articles/CBMiY0FVX3lxTE51ZU03bG5Tcl95cUYxbnVDUWxubWRocnNUNG80ZXNobHpyYlVUNjZFSmd3S04xcmFTN0YtcS1OQVJpVzVBVVZBSWs4YXM2TlJvZFE5aVJ2aVd1dFpLUTBocXJPcw?oc=5) — `23:48 IRST` / `20:18 UTC`
   > María Corina Machado’s return to Venezuela inspires all those fighting for democracy around the world. Prince Reza Pahlavi’s message underscores the solidarity between the Iranian and Venezuelan people and looks ahead to a future in which a free Iran an    X
 - **`@MatinSenPai (متین سنپای (فناوری و دور زدن))`** [اینم جالب بود - X](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JVDg5M2JMc0luVFAzenFNc05Lbmd3Mm16YlZKUUxtOVA0aXU4V3ZOMVNaNDRwc1RaTWtpZlh4YkE5MDM0RlNtcFJtU1NaOXd1dWNQQW5kQkUzdG9mZjk3X2d3?oc=5) — `18:45 IRST` / `15:15 UTC`
@@ -18,247 +20,235 @@
   > Star Wars in Albania💥    X
 - **`@MatinSenPai (متین سنپای (فناوری و دور زدن))`** [https://t.co/qseumEzrsH - X](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YM3VSZEowQl9XcmdCQU5QUkx1UVNFd0VnN0tUdGxpTWdUUzNER3pJXzNBbE0xRTR0UHpZUGdaVzNseWtyNEFVclNNR3lHQlRqNDU3QzlCMmw1cElacVJmUnhB?oc=5) — `10:44 IRST` / `07:14 UTC`
   > https://t.co/qseumEzrsH    X
+- **`@tom_doerr`** [Converts Claude Code and OpenAI Codex into deep research agents. https://t.co/dkguNJNhJt - X](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRmlPQUtLQThJZTV5SlVrdnZIUXhOaDJRb0VNNGF1NHNXb0hqZkJFb2R5QloySjUxYzFsZzN5cEJld2ljdGhQUWNKV2twbzdBaUdTZFZHU0M5THl6Rklv?oc=5) — `02:57 IRST` / `23:27 UTC`
+  > Converts Claude Code and OpenAI Codex into deep research agents. https://t.co/dkguNJNhJt    X
 - **`@tom_doerr`** [Converts plain English prompts into self-contained HTML + SVG diagrams compatible with Cursor, Claude Code, and GitHub Copilot. https://t.co/tTRZ3P0lF2 - X](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qN1dlNWk5ZHJRUkFjcnJRUFpNTzZuclJhMkN6VlNGRFo2bUlsTjVMU1YyUG1yUWNTSmR1cEJzSFFITUpwWkdyMnJwbjhrMTRZT0N4RVJSTmw4ZkstMGtZ?oc=5) — `08:56 IRST` / `05:26 UTC`
   > Converts plain English prompts into self-contained HTML + SVG diagrams compatible with Cursor, Claude Code, and GitHub Copilot. https://t.co/tTRZ3P0lF2    X
 - **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [More than four decades ago, Prince Reza Pahlavi warned that radical Islam would one day reach Europe’s own backyard. As unrest spreads across France and other European cities, that warning demands attention. Speaking with Visegrád24 founder Stefan - X](https://news.google.com/rss/articles/CBMiY0FVX3lxTE84ajk1QlhPZ0VnOGl2U1I2MFBYUzRLOW42d1JpWEZwS24ybWdPeUI4N2JsOUl2TXlQN2VKWHFFV1BzMDg1N0tBTTZ2WTRYamhOZmJZc3dzTFE4RG5QbVhyazVmNA?oc=5) — `14:07 IRST` / `10:37 UTC`
   > More than four decades ago, Prince Reza Pahlavi warned that radical Islam would one day reach Europe’s own backyard. As unrest spreads across France and other European cities, that warning demands attention. Speaking with Visegrád24 founder Stefan    X
-- **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [Justice-seeking mothers gathered at the gravesites in Gilan to honor the fallen heroes of Iran’s January National Uprising. - X](https://news.google.com/rss/articles/CBMibkFVX3lxTE9rVDliZFpNLW40MGRMQWc5d3dGUlMwbTd6MjJLNUxlNUhBdGhVamtQSUpGWm03cHFqLUl1UFFYUGtsSU8zQ1RSbklSWk85QVZaUi1kZ2I1QlNVN1hqV1AxS1diWU8xcFVGTk5taFhn?oc=5) — `20:04 IRST` / `16:34 UTC`
-  > Justice-seeking mothers gathered at the gravesites in Gilan to honor the fallen heroes of Iran’s January National Uprising.    X
-- **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [Message from inside Iran: "We will continue the path of fallen heroes, Alireza Raisi and Alireza Sepahi." - X](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndXc0T2RFUGdLRlVMSnIxbm04UXpQbFdCREFtam9LTUJIZy1tMjZZdlM5NzlTMnFhMlBFSmdPMDhwMnpCb0hydXEwZW14dVBlWWxjZnp5emRDNzIySEpTVm9rNA?oc=5) — `10:30 IRST` / `07:00 UTC`
-  > Message from inside Iran: "We will continue the path of fallen heroes, Alireza Raisi and Alireza Sepahi."    X
-- **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [Justice-seeking mothers gathered at the gravesites in Gilan to honor the fallen heroes of Iran’s January National Uprising. - X](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xUHJseTJxV1JCcUVROU0wQ0hOczBpNEQ0Y0lIY0hmNV9BWFlWTEFsc2FXUE01dUtaUEZYV3FhQ3ZPUHgzMlNkY25DYy14YjhRbkJsNURGSzFuSldrQTlBNTVEZw?oc=5) — `10:30 IRST` / `07:00 UTC`
-  > Justice-seeking mothers gathered at the gravesites in Gilan to honor the fallen heroes of Iran’s January National Uprising.    X
+- **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [The family of executed Iranian protester Alireza Raeisi finally found his secret desert grave in Anarak, Isfahan, where the regime secretly buried him. Standing by his resting place, they celebrated his life and honored his memory. Alireza was executed by the Isl - X](https://news.google.com/rss/articles/CBMibkFVX3lxTFB5NE9MallmLUpFQUlSSFZjQVZ1VFRHSzZEb3pnSEtiWjBiekh6cDl0S2MyV05CRGFBbmNYY0ZzQ05VbFdtdXB2VzdaZVlXR1JvSUJSTk5tNkk5RFNLTmcweEVRbV9XMW1ibENnX2ZR?oc=5) — `23:58 IRST` / `20:28 UTC`
+  > The family of executed Iranian protester Alireza Raeisi finally found his secret desert grave in Anarak, Isfahan, where the regime secretly buried him. Standing by his resting place, they celebrated his life and honored his memory. Alireza was executed by the Isl    X
+- **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [Ali-Sina Mostafavi was a mountaineer and athlete. He had climbed in the Himalayas and was a man full of life, with achievements, ambitions, and a future. Ali-Sina was sentenced to death following torture, a forced confession, and a sham trial. His state killing i - X](https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbXZvaENaTXNXMWpPZDd5OFMwcnlhaDhVaHVWZ2U5a25JektpQjkwMUtUOXpyVjFqckRXNnFGMTlSYnpfZ2tWVFN0cGJ3UDdNRGtFTERnUnlDeUZneDk2LU9ZUkVkaXpKeTViSjRB?oc=5) — `16:13 IRST` / `12:43 UTC`
+  > Ali-Sina Mostafavi was a mountaineer and athlete. He had climbed in the Himalayas and was a man full of life, with achievements, ambitions, and a future. Ali-Sina was sentenced to death following torture, a forced confession, and a sham trial. His state killing i    X
 - **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [1700 Iranian activists and families of the fallen heroes, inside Iran and abroad, support the Friedrich Naumann Foundation's 2026 Freedom Prize awarded to Prince Reza Pahlavi on behalf of the Iranian people. Initiated by "Patriotic Doctors of Iran," this statem - X](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tOWFURDBRVVFobHkxVS1jYlRacFd3aG1ORVdpeDFLdVV4VFlxMlpBLVFhYjVodVBXLWV3ZjF0clR6MlBRMWJQdVdWYmpyMTJobkY5U21kY29kcllFVnpuNUpjbw?oc=5) — `00:16 IRST` / `20:46 UTC`
   > 1700 Iranian activists and families of the fallen heroes, inside Iran and abroad, support the Friedrich Naumann Foundation's 2026 Freedom Prize awarded to Prince Reza Pahlavi on behalf of the Iranian people. Initiated by "Patriotic Doctors of Iran," this statem    X
-- **`@MitraHejazipour (میترا حجازی‌پور)`** [Chain of events after October 7. It’s been a rough three years for the Axis of Evil. - X](https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmczY1ZZeXBDTEFyYzFJanBPMEtXbkdjdDVVd05IUTg2WG9fVk0xeGQtVFc5YVRkck55X2N2YkVRODgxWkQ3Y3ZodTFldVVCUDVCZmpqVGxkWnpLdjRFOUJBamx6ekpnLUR3bDJSSC1xQQ?oc=5) — `10:30 IRST` / `07:00 UTC`
-  > Chain of events after October 7. It’s been a rough three years for the Axis of Evil.    X
 
 ## کانال‌های منتخب تلگرام (Telegram Monitoring)
 
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [کور پور، نقاش ایرانی‌تبار بریتانیایی، در نمایشگاه «نقاط ورود» در توکیو، نقش‌های فرش ایرانی را با هنر شرق آسیا پیوند داده...](https://t.me/IranintlTV/364388) — `08:03 IRST` / `04:33 UTC`
-  > کور پور، نقاش ایرانی‌تبار بریتانیایی، در نمایشگاه «نقاط ورود» در توکیو، نقش‌های فرش ایرانی را با هنر شرق آسیا پیوند داده است. او در آثارش با الهام از خاطرات کودکی و زندگی میان فرهنگ‌های مختلف، به موضوعاتی چون مهاجرت و سفر فرهنگ‌ها می‌پردازد.
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [جمعی از شهروندان اسپانیا چهارشنبه ششم آبان در مادرید، در اعتراض به دولت پس از سانحه مرگبار برخورد دو قطار، با پلیس درگیر...](https://t.me/IranintlTV/364424) — `15:59 IRST` / `12:29 UTC`
+  > جمعی از شهروندان اسپانیا چهارشنبه ششم آبان در مادرید، در اعتراض به دولت پس از سانحه مرگبار برخورد دو قطار، با پلیس درگیر شدند.
 
-گزارش سمیه مهری، ایران‌اینترنشنال
-...
+به گزارش رویترز، حدود ۵۰۰ نفر مقابل وزارت حمل‌ونقل تجمع کردند و شماری بطری و مواد آتش‌زا به سوی پلیس پرتاب کردند. ماموران نیز برای متفرق کردن معترضان...
 
-  ![Media](../media/2026-10-29/3e4470255e4eba8f.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [در پی برخورد دو قطار سریع‌السیر در اسپانیا، دست‌کم ۶۸ نفر جان باخته و ده‌ها نفر مجروح شده‌اند. عملیات امدادرسانی ادامه د...](https://t.me/IranintlTV/364387) — `08:01 IRST` / `04:31 UTC`
-  > در پی برخورد دو قطار سریع‌السیر در اسپانیا، دست‌کم ۶۸ نفر جان باخته و ده‌ها نفر مجروح شده‌اند. عملیات امدادرسانی ادامه دارد و علت قطعی حادثه هنوز مشخص نیست.
+  ![Media](../media/2026-10-29/41b64656ed3c36cf.jpg)
+- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [دوره جامع پایتون: مقدماتی تا پیشرفته](https://t.me/Linuxor/5847) — `15:59 IRST` / `12:29 UTC`
+  > دوره جامع پایتون: مقدماتی تا پیشرفته
 
-گزارش مهدی مهرآیین، ایران‌اینترنشنال
- @iranintltv
+ 🗓 شروع دوره:16 آبان
 
-  ![Media](../media/2026-10-29/4b1054088393ccb5.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [امیر حمیدی، متخصص امنیت ملی، گفت مذاکرات هفت‌روزه صرفا تلاشی دیپلماتیک برای جلوگیری از جنگ نیست، بلکه بخشی از راهبرد فشا...](https://t.me/IranintlTV/364386) — `07:46 IRST` / `04:16 UTC`
-  > امیر حمیدی، متخصص امنیت ملی، گفت مذاکرات هفت‌روزه صرفا تلاشی دیپلماتیک برای جلوگیری از جنگ نیست، بلکه بخشی از راهبرد فشار واشینگتن بر جمهوری اسلامی است.
+ 🎁 تخفیف ویژه برای دانشجویان، فرصتی بی‌نظیر برای شما!
 
-به گفته او، آمریکا هم‌زمان با حفظ آمادگی نظامی، از تهران می‌خواهد درباره برنامه هسته‌ای، فعالیت‌های موشکی، امنیت تنگه هرمز ...
+ 🔥 آموزشی که شما را به برنامه‌نویس حرفه‌ای تبدیل می‌کند و در بازار کار به شما رقابت‌پذیری بیشتری می‌دهد. همچنین برای اپلای‌های شغلی و تحصیلی شما را برتر می‌کند و ...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [خبرگزاری رویترز در گزارشی تحقیقی گزارش داد جمهوری اسلامی با شبکه‌ای مخفی متشکل از بیش از پنج هزار نهاد مرتبط با ساختار ن...](https://t.me/IranintlTV/364423) — `15:54 IRST` / `12:24 UTC`
+  > خبرگزاری رویترز در گزارشی تحقیقی گزارش داد جمهوری اسلامی با شبکه‌ای مخفی متشکل از بیش از پنج هزار نهاد مرتبط با ساختار نظامی خود، میلیاردها دلار تجهیزات مورد نیاز برنامه‌های موشکی و پهپادی را با دور زدن تحریم‌های غرب و محاصره دریایی آمریکا وارد کرده است.
 
-  ![Media](../media/2026-10-29/47973c88b9483974.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [کامیار بهرنگ، عضو تحریریه ایران‌اینترنشنال، گفت اصرار جمهوری اسلامی بر حفظ برنامه غنی‌سازی، با وجود ادعای نخواستن سلاح ه...](https://t.me/IranintlTV/364385) — `07:40 IRST` / `04:10 UTC`
-  > کامیار بهرنگ، عضو تحریریه ایران‌اینترنشنال، گفت اصرار جمهوری اسلامی بر حفظ برنامه غنی‌سازی، با وجود ادعای نخواستن سلاح هسته‌ای، نگرانی‌ها درباره احتمال حرکت تهران به سمت ساخت این سلاح را افزایش داده است.
+بر اساس این گزارش، تن...
 
-به گفته او، خروج احتمالی جمهوری اسلامی از پیمان منع گسترش سلاح‌های هسته‌...
+  ![Media](../media/2026-10-29/bd82808fb2b0c0b2.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [هوشنگ صیدالی، مدیر هماهنگی «شرکت گاز ایران»، در گفت‌وگو با ایسنا اعلام کرد که شرایط تامین گاز در زمستان پیش‌رو «دشوارتر»...](https://t.me/IranintlTV/364422) — `15:37 IRST` / `12:07 UTC`
+  > هوشنگ صیدالی، مدیر هماهنگی «شرکت گاز ایران»، در گفت‌وگو با ایسنا اعلام کرد که شرایط تامین گاز در زمستان پیش‌رو «دشوارتر» شده و برای تامین سوخت جایگزین، از جمله کپسول گاز و نفت سفید، «برنامه‌ریزی» شده است.
 
-  ![Media](../media/2026-10-29/5af3d29bb4867022.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دفتر هماهنگی امور بشردوستانه سازمان ملل اعلام کرد از ابتدای ماه اوت، بیش از ۲۸۱ هزار نفر بر اثر تشدید درگیری‌ها میان نیر...](https://t.me/IranintlTV/364384) — `07:33 IRST` / `04:03 UTC`
-  > دفتر هماهنگی امور بشردوستانه سازمان ملل اعلام کرد از ابتدای ماه اوت، بیش از ۲۸۱ هزار نفر بر اثر تشدید درگیری‌ها میان نیروهای دولتی یمن و حوثی‌ها آواره شده‌اند.
+مدیر هماهنگی «شرکت گاز ایران» با اشاره به محدودیت منابع افزود: «ممکن اس...
 
-این نهاد هشدار داد سه‌چهارم آوارگان با کمبود سرپناه، آب سالم و خدمات بهداشتی روبه‌رو هستند و بیش از ۲۳۰ هزار نفر به ...
+  ![Media](../media/2026-10-29/24ceca70ad37c4b0.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد گروهی از مشتریان شرکت خودروسازی سایپا به دلیل تاخیر در تحویل خودروهای ش...](https://t.me/IranintlTV/364421) — `15:30 IRST` / `12:00 UTC`
+  > ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد گروهی از مشتریان شرکت خودروسازی سایپا به دلیل تاخیر در تحویل خودروهای شاهین پلاس و شاهین معمولی تجمع کردند.
 
-  ![Media](../media/2026-10-29/54cb7ef25635405d.jpg)
-- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [Gemini Carbon](https://t.me/MatinSenPaii/5726) — `07:32 IRST` / `04:02 UTC`
-  > Gemini Carbon
-به نظر خوب میاد 🔥 اما فعلا در دسترس عموم نیست مثل همون مسخره بازی Argon
+  ![Media](../media/2026-10-29/c1fce1b084f646b2.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [اسرائیل از سال ۲۰۱۹ تا ۲۰۲۲، در کمتر از چهار سال، پنج انتخابات پارلمانی برگزار کرد؛ دوره‌ای که با بن‌بست در تشکیل دولت، ...](https://t.me/IranintlTV/364420) — `15:24 IRST` / `11:54 UTC`
+  > اسرائیل از سال ۲۰۱۹ تا ۲۰۲۲، در کمتر از چهار سال، پنج انتخابات پارلمانی برگزار کرد؛ دوره‌ای که با بن‌بست در تشکیل دولت، شکل‌گیری و فروپاشی ائتلاف‌ها و بازگشت بنیامین نتانیاهو به قدرت همراه بود. اکنون نیز اگر احزاب برای تشکیل دولت به توافق نرسند، احتمال برگزاری دوباره انتخابات ...
 
-  ![Media](../media/2026-10-29/c2f788e31566e19d.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مای ساتو، گزارشگر ویژه سازمان ملل در امور حقوق بشر ایران، اعلام کرد جمهوری اسلامی از شرایط جنگی برای تشدید سرکوب، افزایش...](https://t.me/IranintlTV/364383) — `07:31 IRST` / `04:01 UTC`
-  > مای ساتو، گزارشگر ویژه سازمان ملل در امور حقوق بشر ایران، اعلام کرد جمهوری اسلامی از شرایط جنگی برای تشدید سرکوب، افزایش بازداشت‌ها و اجرای اعدام‌ها استفاده کرده است. نماینده اتحادیه اروپا نیز در نشست کمیته سوم مجمع عمومی سازمان ملل، افزایش اعدام‌ها پس از اعتراضات سراسری دی‌ما...
+  ![Media](../media/2026-10-29/5520a4d2cca1f474.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [یک قاضی در ایتالیا دستور آزادی یوسف سیهر، روزنامه‌نگار و فعال متهم به تحریک خشونت در اعتراضات میلان را صادر کرد. سیهر که...](https://t.me/IranintlTV/364419) — `15:23 IRST` / `11:53 UTC`
+  > یک قاضی در ایتالیا دستور آزادی یوسف سیهر، روزنامه‌نگار و فعال متهم به تحریک خشونت در اعتراضات میلان را صادر کرد. سیهر که پلیس او را مدیر گروه تلگرامی «جنبش ۱۷ اکتبر» معرفی کرده بود، دوم آبان به اتهام تحریک به ارتکاب جرم با اهداف تروریستی بازداشت شد. جورجا ملونی، نخست‌وزیر ایتا...
 
-  ![Media](../media/2026-10-29/ff1eafd9111d38de.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، با اشاره به ادامه فشار اقتصادی و محاصره دریایی علیه جمهوری اسلامی گفت واشینگ...](https://t.me/IranintlTV/364382) — `07:29 IRST` / `03:59 UTC`
-  > کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، با اشاره به ادامه فشار اقتصادی و محاصره دریایی علیه جمهوری اسلامی گفت واشینگتن قصد دارد این فشارها را تشدید کند. به گفته او، بسنت تاکید کرده کارزار تعرفه‌ای و اقتصادی آمریکا در هشت هفته آینده شدیدتر خواهد شد و در صورت بازگشت به دیپلم...
+  ![Media](../media/2026-10-29/1e0144e884ceef1b.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [امین قنبری، خبرنگار اهل سمنان و مدیر کانال تلگرامی «پیام‌گوی سمنان»، به حکم شعبه اول دادگاه انقلاب این شهر به ۲۰ سال حبس...](https://t.me/VahidOnline/78883) — `15:21 IRST` / `11:51 UTC`
+  > امین قنبری، خبرنگار اهل سمنان و مدیر کانال تلگرامی «پیام‌گوی سمنان»، به حکم شعبه اول دادگاه انقلاب این شهر به ۲۰ سال حبس محکوم شده است. 
 
-  ![Media](../media/2026-10-29/fbc5ecc077e5170d.jpg)
-- **`@Rostamchannel (کانال رستم (دور زدن فیلترینگ))`** [📅 برنامه‌های رستم مدیا | پنجشنبه ۷ آبان:](https://t.me/Rostamchannel/8524) — `07:21 IRST` / `03:51 UTC`
-  > 📅 برنامه‌های رستم مدیا | پنجشنبه ۷ آبان:
+هرانا خبر داد اتهام‌های مطرح‌شده علیه قنبری شامل «اقدام رسانه‌ای علیه جمهوری اسلامی»، «اجتماع و تبانی»، «فعالیت تبلیغی علیه نظام»، «حمایت ا...
 
-الگوریتم جدید یوتیوب و راهکار دیده‌شدن کانال‌های کوچک
- ساخت انیمیشن با هوش مصنوعی 
- بازار استخدام افراد مسلح در تورنتو؛ آیا ایران آن‌ها را به کار می‌گیرد؟ برنامه سی‌بی‌سی 
- پرونده جنایی مرد ژله‌ای
-چرا آریستوفان را پدر کمدی می نامند
-چطو...
+  ![Media](../media/2026-10-29/6cda605c27cf08cd.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [در پی انتشار گزارش‌هایی درباره ارسال نامه از سوی جی‌دی ونس، معاون رئیس‌جمهوری آمریکا، به محسن رضایی، دبیر شورای عالی امن...](https://t.me/VahidOnline/78882) — `15:20 IRST` / `11:50 UTC`
+  > در پی انتشار گزارش‌هایی درباره ارسال نامه از سوی جی‌دی ونس، معاون رئیس‌جمهوری آمریکا، به محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، روزنامه نیویورک تایمز روز پنجشنبه گزارش داد که مذاکرات مستقیم تهران و واشنگتن ممکن است از هفتهٔ آینده در قطر یا ترکیه آغاز شود.
 
-  ![Media](../media/2026-10-29/165c6987aa1d3545.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سرخط خبرهای پنج‌شنبه ۷ آبان](https://t.me/IranintlTV/364381) — `07:10 IRST` / `03:40 UTC`
-  > سرخط خبرهای پنج‌شنبه ۷ آبان
- @iranintltv
+به گزا...
 
-  ![Media](../media/2026-10-29/5b75f2f4ee3eb5e0.jpg)
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [نگو موتورولا بگو موتور-لا](https://t.me/Linuxor/5846) — `06:33 IRST` / `03:03 UTC`
-  > نگو موتورولا بگو موتور-لا
+  ![Media](../media/2026-10-29/6b103989b932604f.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [سپاه پاسداران انقلاب اسلامی روز پنجشنبه هفتم آبان‌ماه با انتشار ویدیویی مدعی شد یک پهپاد آمریکایی موسوم به «ام‌کیو‌ام-۱۷...](https://t.me/VahidOnline/78881) — `15:19 IRST` / `11:49 UTC`
+  > سپاه پاسداران انقلاب اسلامی روز پنجشنبه هفتم آبان‌ماه با انتشار ویدیویی مدعی شد یک پهپاد آمریکایی موسوم به «ام‌کیو‌ام-۱۷۰» را در غرب تنگهٔ هرمز شناسایی و به‌طور سالم به زمین نشانده است.
 
- @Linuxor
+به گزارش خبرگزاری ایرنا، نیروی دریایی سپاه در بیانیه‌ای اعلام کرد: «یگان جنگ الکترونیک این...
 
-  ![Media](../media/2026-10-29/c098ffa0339bb85b.jpg)
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [من اگه راننده تاکسی بشم 13: میدونیییییی؟ ترامپ گفته می‌خواد اسم هوش مصنوعی رو عوض کنه به ابرهوش چون کلمه مصنوعی حس بدی م...](https://t.me/Linuxor/5845) — `06:17 IRST` / `02:47 UTC`
-  > من اگه راننده تاکسی بشم 13: میدونیییییی؟ ترامپ گفته می‌خواد اسم هوش مصنوعی رو عوض کنه به ابرهوش چون کلمه مصنوعی حس بدی می‌ده، به نظر من این بیشتر ایده مارکتینگه، اگه یادتون باشه دار و دسته شرکت هوش مصنوعی از جمله گوگل و سم التمن هرکدوم یک میلیون دلار به مراسم…
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سانا چهارشنبه ششم آبان گزارش داد دادگاهی در سوریه عبدالجبار غازی ارزیق، عضو گروه شبه‌نظامی لواءالقدس وابسته به سپاه پاسد...](https://t.me/IranintlTV/364380) — `06:09 IRST` / `02:39 UTC`
-  > سانا چهارشنبه ششم آبان گزارش داد دادگاهی در سوریه عبدالجبار غازی ارزیق، عضو گروه شبه‌نظامی لواءالقدس وابسته به سپاه پاسداران، را به اتهام عضویت در گروهی مسلح مرتبط با جنایت‌های جنگی و جنایت علیه بشریت به حبس ابد محکوم کرد.
+  ![Media](../media/2026-10-29/0d3400a837e7cd1d.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [پیت هگست، وزیر جنگ ایالات متحده، در بحبوحهٔ بررسی گزینه‌های احتمالی دولت دونالد ترامپ برای اجرای عملیات نظامی علیه جمهور...](https://t.me/VahidOnline/78880) — `15:17 IRST` / `11:47 UTC`
+  > پیت هگست، وزیر جنگ ایالات متحده، در بحبوحهٔ بررسی گزینه‌های احتمالی دولت دونالد ترامپ برای اجرای عملیات نظامی علیه جمهوری اسلامی ایران، عالی‌ترین مقام برنامه‌ریزی پنتاگون را برکنار کرد.
 
-به گزارش سانا، دادگاه اعلام کرد این گروه با هدف تحریک...
+شبکهٔ سی‌ان‌ان گزارش داد ژنرال برت سیلویا، مدیر بخش راهبرد، طرح‌ها و سیاست‌گذاری ستاد مشتر...
 
-  ![Media](../media/2026-10-29/87b0908013d0e4a5.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دولت بریتانیا چهارشنبه ششم آبان اعلام کرد برای کاهش فشار افزایش قیمت انرژی در پی جنگ ایران، به ۲۰ میلیون خانوار واجد شرا...](https://t.me/IranintlTV/364379) — `05:20 IRST` / `01:50 UTC`
-  > دولت بریتانیا چهارشنبه ششم آبان اعلام کرد برای کاهش فشار افزایش قیمت انرژی در پی جنگ ایران، به ۲۰ میلیون خانوار واجد شرایط ۱۰۰ پوند کمک مالی پرداخت می‌کند و کاهش مالیات بر ارزش افزوده برق را تا ژوییه ۲۰۲۷ تمدید خواهد کرد.
+  ![Media](../media/2026-10-29/9385fdba97183f32.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [مرکز عملیات تجارت دریایی بریتانیا (UKMTO) پنج‌شنبه ۷ آبان از آتش‌سوزی یک شناور در تنگه هرمز خبر داد؛ هم‌زمان، سپاه مدعی ...](https://t.me/VahidOnline/78879) — `15:16 IRST` / `11:46 UTC`
+  > مرکز عملیات تجارت دریایی بریتانیا (UKMTO) پنج‌شنبه ۷ آبان از آتش‌سوزی یک شناور در تنگه هرمز خبر داد؛ هم‌زمان، سپاه مدعی شد سه نفتکش پس از برخورد با مین منفجر شده‌اند، اما سنتکام شامگاه چهارشنبه ۶ آبان ادعاهای ایران درباره برخورد کشتی‌های تجاری با مین در این آبراه را رد کرد.
+ ب...
 
-جان هیلی، وزیر دارایی بریتانیا، گفت جنگ در خاورمیانه و...
+  ![Media](../media/2026-10-29/e98045e71e839de4.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [وزیر خزانه‌داری آمریکا، کارزار فشار اقتصادی بر ایران را «بسیار موفق» توصیف کرده و می‌گوید قطع دسترسی به دلار باعث شده جم...](https://t.me/VahidOnline/78878) — `15:14 IRST` / `11:44 UTC`
+  > وزیر خزانه‌داری آمریکا، کارزار فشار اقتصادی بر ایران را «بسیار موفق» توصیف کرده و می‌گوید قطع دسترسی به دلار باعث شده جمهوری اسلامی بودجهٔ گروه‌های نیابتی‌اش در منطقه را قطع کند.
 
-  ![Media](../media/2026-10-29/bf3b156eafa3b778.jpg)
-- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [🟢 پنل 0.14.0 WhiteDNS Sever Management منتشر شد 🔥](https://t.me/whitedns/2191) — `04:08 IRST` / `00:38 UTC`
-  > 🟢 پنل 0.14.0 WhiteDNS Sever Management منتشر شد 🔥 
+اسکات بسنت، بعدازظهر چهارشنبه پنجم آبان، در گفت‌وگو با شبکه سی‌ان‌بی‌سی دربارهٔ فشارهای اقتصادی ب...
 
- 🔀 پراکسی مستقل برای هر موتور 
-برای Soar، Cotten و MasterDNS مسیر SOCKS5 یا HTTP/HTTPS CONNECT جدا تنظیم کنید؛ ورودی لوکال Xray و sing-box هم قابل استفاده است. خرابی پراکسی باعث برگشت خودکار به اتصال مستقیم نمی‌شود.
- 🎛 کنترل ...
+  ![Media](../media/2026-10-29/8c0707d0c9e03ad7.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [دکتر نبی امیدی، دانشیار اقتصاد و مدیریت مالی دانشگاه پیام نور، به اتهام‌هایی از جمله اقدام علیه امنیت ملی، تبلیغ علیه نظ...](https://t.me/VahidOnline/78877) — `15:14 IRST` / `11:44 UTC`
+  > دکتر نبی امیدی، دانشیار اقتصاد و مدیریت مالی دانشگاه پیام نور، به اتهام‌هایی از جمله اقدام علیه امنیت ملی، تبلیغ علیه نظام و حضور در اعتراضات دی‌ماه ۱۴۰۴ در ملکشاهی، به ۹ سال حبس محکوم شده است. حکم او در دادگاه تجدیدنظر تایید و قطعی شده و اخراج از دانشگاه نیز از مجازات‌های تکم...
 
-  ![Media](../media/2026-10-29/7efbc9fa9538a543.jpg)
+  ![Media](../media/2026-10-29/ac72e809ce871bb8.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [تشکل‌های دانش‌آموزی و دانشجویی در فرانسه همچنان برای ادامه اعتراضات برنامه‌ریزی می‌کنند. محدودیت تجمعات و احتمال منع رفت...](https://t.me/IranintlTV/364418) — `15:13 IRST` / `11:43 UTC`
+  > تشکل‌های دانش‌آموزی و دانشجویی در فرانسه همچنان برای ادامه اعتراضات برنامه‌ریزی می‌کنند. محدودیت تجمعات و احتمال منع رفت‌وآمد، بحث درباره حق اعتراض در این کشور را تشدید کرده است.
+
+در آلمان نیز پس از اعلام پیوستن گروه‌های چپ افراطی به این تظاهرات، مقام‌های پلیس این کشور درباره ...
+
+  ![Media](../media/2026-10-29/f88be8ef9c1f4c68.jpg)
 
 ## اخبار و رسانه‌های فارسی (Persian News)
 
-- **`بی‌بی‌سی فارسی`** [رسانه‌های آمریکا؛ ونس در نامه به رضایی پیشنهاد از سرگیری مذاکرات مستقیم را داده است](https://www.bbc.co.uk/persian/live/cm93z7dn7qwzt?at_medium=RSS&at_campaign=rss) — `08:40 IRST` / `05:10 UTC`
-  > پس از آن که وال استریت ژورنال از نامه جی‌دی ونس، معاون رئیس جمهور آمریکا به محسن رضایی، دبیر شورای امنیت ملی ایران خبر داد، دونالد ترامپ در پاسخ به خبرنگاران محتوای این نامه که گزارش شده درباره آغاز مذاکرات بوده است را مرتبط با «ارسال اقلام دارویی و پزشکی» دانست. همزمان عباس ع...
+- **`بی‌بی‌سی فارسی`** [سپاه: در شبانه‌روز گذشته سه نفتکش در تنگه هرمز با مین برخورد کرده‌اند](https://www.bbc.co.uk/persian/live/cm93z7dn7qwzt?at_medium=RSS&at_campaign=rss) — `16:08 IRST` / `12:38 UTC`
+  > نیروی دریایی سپاه پاسداران می‌گوید که در شبانه‌روز گذشته سه نفتکش «متخلف» بر اثر برخورد با مین در تنگه هرمز دچار انفجار و آتش‌سوزی شده‌اند. این انفجارها به‌طور مستقل تایید نشده‌اند اما پیشتر مرکز عملیات تجارت دریایی بریتانیا اعلام کرد که بامداد پنجشنبه گزارشی از آتش‌سوزی در یک...
+- **`ایران اینترنشنال`** [درآمد نجومی فیفا از جام جهانی ۲۰۲۶؛ پنج میلیارد دلار فقط از فروش بلیت و خدمات ویژه](https://www.iranintl.com/202610298983) — `15:59 IRST` / `12:29 UTC`
+  > فدراسیون جهانی فوتبال (فیفا) انتظار دارد درآمد حاصل از فروش بلیت و خدمات ویژه تماشاگران در جام جهانی ۲۰۲۶ به حدود پنج میلیارد دلار برسد؛ رقمی که بیش از پنج برابر درآمد این بخش در جام جهانی ۲۰۲۲ قطر است.
 
-  ![Media](../media/2026-10-29/997a6813a7e9fb39.jpg)
-- **`یورونیوز فارسی`** [خانه منتسب به رهبر ایران درهمسایگی ولیعهد بریتانیا؛ تلگراف: انصاری درپی توقف فروش ملک چندمیلیون پوندی لندن است](https://parsi.euronews.com/2026/10/29/london-apartment-ansari-khamenei-telegraph-sale-injunction-oct-2026) — `08:13 IRST` / `04:43 UTC`
-  > به گزارش تلگراف، علی انصاری، سهامدار اصلی بانک منحل‌شده آینده، در تلاش برای جلوگیری از فروش یک آپارتمان مجلل در لندن است که گفته می‌شود متعلق به مجتبی خامنه‌ای است. این آپارتمان در منطقه «کنزینگتون» و در فاصله کمی از اقامتگاه رسمی شاهزاده و شاهدخت ولز قرار دارد.
-- **`یورونیوز فارسی`** [صورتحساب نفتی اروپا: اتحادیه اروپا ماهانه ۱۰ میلیارد یورو بیش از ۲۰۲۵ می‌پردازد](https://parsi.euronews.com/2026/10/29/europes-oil-bill-eu-pays-10bn-more-per-month-than-in-2025) — `08:00 IRST` / `04:30 UTC`
-  > بخش کسب‌وکار یورونیوز بررسی می‌کند که چگونه هزینه واردات نفت اروپا در پی تنش‌های خاورمیانه افزایش یافته و کارشناسان کاهش قیمت‌ها را در آینده نزدیک محتمل نمی‌دانند.
-- **`ایران اینترنشنال`** [نتانیاهو با ۵۳ کرسی پیشتاز ماند؛ تشکیل دولت اسرائیل در بن‌بست قرار گرفت](https://www.iranintl.com/202610290583) — `06:52 IRST` / `03:22 UTC`
-  > با شمارش ۸۹.۸ درصد آرای انتخابات پارلمانی اسرائیل، اردوگاه بنیامین نتانیاهو با ۵۳ کرسی همچنان از اکثریت لازم برای تشکیل دولت فاصله دارد. احزاب غیرعرب مخالف او ۴۸ کرسی و احزاب عرب ۱۹ کرسی دارند، اما اختلاف بر سر همکاری، تشکیل دولت جایگزین را دشوار کرده است.
+  ![Media](../media/2026-10-29/22a6ff2c222e27b3.jpg)
+- **`یورونیوز فارسی`** [جت۲ ایرلاین ارزان‌قیمت، هواپیمای تمام بیزنس‌کلاس معرفی کرد](https://parsi.euronews.com/2026/10/29/nothing-beats-a-jet2-charter-low-cost-airline-unveils-business-class-only-plane) — `15:46 IRST` / `12:16 UTC`
+  > هواپیمای بوینگ ۷۳۷-۸۰۰ ان‌جی دارای ۷۶ صندلی در کلاس تجاری است و مبدا فعالیت آن فرودگاه لیورپول جان لنون است.
+- **`ایران اینترنشنال`** [در حمله پهپادی روسیه به ایستگاه راه‌آهن دنیپرو ۱۳ نفر کشته شدند](https://www.iranintl.com/202610290758) — `15:45 IRST` / `12:15 UTC`
+  > حمله پهپادی روسیه به ایستگاه اصلی راه‌آهن شهر دنیپرو اوکراین هنگام سوار شدن مسافران به قطار، جان ۱۳ نفر را گرفت و دست‌کم پنج زخمی بر جای گذاشت.
 
-  ![Media](../media/2026-10-29/47dfb0198c17ee2e.jpg)
-- **`یورونیوز فارسی`** [شمارش بیش از ۹۰ درصد از آرای انتخابات اسرائیل؛ پیشتازی بلوک نتانیاهو همزمان با بن‌بست سیاسی](https://parsi.euronews.com/2026/10/29/israel-election-results-90-percent-counted-netanyahu-deadlock-oct-2026) — `06:48 IRST` / `03:18 UTC`
-  > کمیته مرکزی انتخابات اسرائیل بامداد پنجشنبه از شمارش ۹۰.۵ درصد آرا خبر داد. بنابر نتایج اعلام‌شده، بلوک نتانیاهو با کسب ۵۳ کرسی کنست پیشتاز است و بلوک آیزنکوت ۴۸ کرسی به دست آورده است. با این حال، هر دو بلوک با اکثریت ۶۱ کرسی لازم برای تشکیل دولت فاصله دارند.
-- **`ایران اینترنشنال`** [آتلانتیک: هگست مسئول برنامه‌ریزی پنتاگون را هم‌زمان با بررسی حمله دوباره برکنار کرد](https://www.iranintl.com/202610291636) — `06:19 IRST` / `02:49 UTC`
-  > آتلانتیک گزارش داد که پیت هگست، وزیر جنگ آمریکا، سپهبد برت سیلویا، مسئول ارشد برنامه‌ریزی پنتاگون، را برکنار کرده است؛ اقدامی بدون توضیح رسمی و معرفی جانشین، در حالی که دونالد ترامپ احتمال ازسرگیری حملات به ایران پس از انتخابات میان‌دوره‌ای را بررسی می‌کند.
+  ![Media](../media/2026-10-29/d05a6b36a83381c1.jpg)
+- **`یورونیوز فارسی`** [چهار دهه تخریب باغ‌ها زیر سایه قوانین حامی برج‌ها؛ تهران تا «سیمانی شدن» فاصله چندانی ندارد](https://parsi.euronews.com/2026/10/29/tehran-green-space-loss-urban-laws-four-decades) — `15:19 IRST` / `11:49 UTC`
+  > یک گزارش علمی تازه نشان می‌دهد که تهران در چهار دهه گذشته بخش عظیمی از سرسبزی و باغ‌های خود را از دست داده است؛ بر اساس این پژوهش، توسعه شهری و تصمیم‌های مربوط به ساخت‌وساز از جمله مصوبه «برج‌باغ» در روند تخریب باغ‌ها نقش داشته‌اند.
+- **`ایران اینترنشنال`** [درگذشت دو مادر دادخواه نزدیک به ده ماه پس از کشته شدن فرزندانشان](https://www.iranintl.com/202610296133) — `15:04 IRST` / `11:34 UTC`
+  > اطلاعات رسیده به ایران اینترنشنال حاکی است مادر علی علوی و مادر سعید نجفی از کشته‌شدگان اعتراض‌های دی‌ماه نزدیک به ۱۰ ماه از فقدان فرزندانشان، جان باختند. مادر علی علوی به تازگی نوشته بود: «علی جان با رفتنت قلبم را تکه تکه کردی. من آدم سابق نمی‌شوم من مانند یک مرده متحرک هستم.»
+- **`یورونیوز فارسی`** [اسراییل: معترضان خواستار دولت وحدت عرب و یهود پس از انتخابات](https://parsi.euronews.com/video/2026/10/29/israel-protesters-demand-arab-jewish-unity-government-after-election) — `14:53 IRST` / `11:23 UTC`
+  > معترضان به خیابان‌های تل آویو آمدند تا دولتی متشکل از احزاب یهودی و عرب را مطالبه‌ کنند. در نبود پیروز قاطع در انتخابات اسرائیل پلیس برای پراکندن فعالانی که ترافیک را بسته بودند وارد عمل شد.
+- **`یورونیوز فارسی`** [مجله خبری| ۷ آبان ۱۴۰۵ (۲۹ اکتبر ۲۰۲۶) - نیم‌روزی](https://parsi.euronews.com/video/2026/10/29/mglh-khbri-aban-aktbr-nimrozi) — `14:30 IRST` / `11:00 UTC`
+  > آخرین تحولات اروپا و جهان را دنبال کنید ۷ آبان ۱۴۰۵ (۲۹ اکتبر ۲۰۲۶). با یورونیوز در جریان آخرین اخبار و رویدادهای سیاسی، اقتصادی، فرهنگی و سرگرمی قرار بگیرید.
+- **`ایران اینترنشنال`** [۶۹۰ نفر؛ کلیدداران نظامی-امنیتی اینترنت ایران](https://exclusive.iranintl.com/iran-internet-control-network-fa) — `14:30 IRST` / `11:00 UTC`
+  > بررسی هزاران سند نشان می‌دهد ۶۹۰ شخص حقیقی و ۲۹۸ شخص حقوقی، از «ستاد اجرایی فرمان امام» و بنیاد تعاون سپاه پاسداران تا وزارت دفاع، مالکیت، مدیریت، نظارت، فیلترینگ و تامین تجهیزات اینترنت ایران را در دست دارند.
 
-  ![Media](../media/2026-10-29/33f1ee7a191a2e99.jpg)
-- **`بی‌بی‌سی فارسی`** [بدرود با استن واورینکا، مردی معمولی که به جمع غول‌ها راه یافت](https://www.bbc.com/persian/articles/cm8ezj6y8598o?at_medium=RSS&at_campaign=rss) — `06:13 IRST` / `02:43 UTC`
-  > دوران درخشان استن واورینکا، که در عصری طلایی سه عنوان قهرمانی گرنداسلم برایش به ارمغان آورد، با شکستی آبرومندانه در شبی احساسی در بازل به پایان رسید.
+  ![Media](../media/2026-10-29/f087bdf7fd4014bd.jpg)
+- **`ایران اینترنشنال`** [شمار کشته‌های سانحه ریلی اسپانیا به ۶۹ نفر رسید و جست‌وجو برای بازماندگان ادامه دارد](https://www.iranintl.com/202610298709) — `14:19 IRST` / `10:49 UTC`
+  > امدادگران اسپانیایی جست‌وجو در واگن‌های متلاشی‌شده دو قطار سریع‌السیر را برای یافتن بازماندگان احتمالی ادامه دادند. شمار کشته‌شدگان این سانحه به ۶۹ نفر افزایش یافته و هم‌زمان، رانندگان قطار اعتصاب از پیش برنامه‌ریزی‌شده خود را در اعتراض به وضعیت ایمنی راه‌آهن برگزار کردند.
 
-  ![Media](../media/2026-10-29/f74eb4f5af93715a.jpg)
-- **`بی‌بی‌سی فارسی`** [نشست مهم حزب کمونیست چین؛ شی به دنبال «سخت‌گیری بیشتر در انضباط حزبی»](https://www.bbc.com/persian/articles/cqkgl8m7xkxdo?at_medium=RSS&at_campaign=rss) — `04:20 IRST` / `00:50 UTC`
-  > نشستی مهم در عرصه سیاست چین در پایتخت این کشور در جریان است؛ جایی که مقام‌های ارشد در جلسه‌ای غیرعلنی گرد هم آمده‌اند؛ نشستی که ممکن است در سال‌های آینده بر ترکیب و چهره حزب کمونیست حاکم تاثیر بگذارد.
-
-  ![Media](../media/2026-10-29/7fa9f279760cd237.jpg)
-- **`ایران اینترنشنال`** [آمریکا به متحدانش درباره حمله احتمالی به ایران پس از انتخابات هشدار داد](https://www.iranintl.com/202610291989) — `04:16 IRST` / `00:46 UTC`
-  > آسوشیتدپرس به نقل از دو دیپلمات مطلع گزارش داد آمریکا از متحدان منطقه‌ای خود خواسته برای حملات احتمالی به ایران پس از انتخابات میان‌دوره‌ای و واکنش تلافی‌جویانه تهران آماده باشند. به گفته این منابع، ترامپ هنوز تصمیم نهایی نگرفته است.
-
-  ![Media](../media/2026-10-29/8a7d7745a40452f6.jpg)
-- **`یورونیوز فارسی`** [شمارش معکوس برای حملات «کوتاه اما شدید» آمریکا به ایران؛ وال‌استریت ژورنال: ونس به محسن رضایی نامه نوشت](https://parsi.euronews.com/2026/10/29/vance-letter-mohsen-rezaei-iran-us-strikes-wsj-oct-2026) — `03:34 IRST` / `00:04 UTC`
-  > در فاصله کمتر از یک هفته تا انتخابات میان‌دوره‌ای کنگره آمریکا، در حالی که ترامپ بارها احتمال ازسرگیری حملات به ایران پس از این انتخابات را مطرح کرده است، وال‌استریت ژورنال به نقل از مقام‌های آمریکایی و منابع آگاه گزارش داد که جی‌دی ونس در تلاش برای احیای مذاکرات به محسن رضایی...
-- **`ایران اینترنشنال`** [ضرر بازی‌نکردن در آزادی؛ درآمد پرسپولیس از کمک هواداران، ۲۰ برابر بیش از بلیت‌فروشی](https://www.iranintl.com/202610285420) — `03:10 IRST` / `23:40 UTC`
-  > اطلاعات منتشر شده در سامانه کدال نشان می‌دهد پرسپولیس در ۴ ماه ابتدایی از سال مالی خود (یک تیر تا ۳۰ مهر ۱۴۰۵) بیش از اینکه از بلیت‌فروشی درآمد کسب کند، از کمک‌های هواداران کسب درآمد کرده است؛ ۴ میلیارد تومان در برابر بیش از ۷۱ میلیارد تومان. چیزی نزدیک به ۲۰ برابر.
-- **`یورونیوز فارسی`** [اسپانیا؛ مادرید برای قربانیان سانحه قطار سوگواری می‌کند؛ امدادگران شب کار می‌کنند](https://parsi.euronews.com/video/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night) — `02:41 IRST` / `23:11 UTC`
-  > اسپانیا از سانحه مرگبار برخورد قطار سریع‌السیر در تولدو با ۶۸ کشته و بیش از ۱۰۰ زخمی در شوک است و سوگ و اعتراض و درخواست استعفا سراسر کشور را فرا گرفته است.
-- **`ایران اینترنشنال`** [جمهوری اسلامی به اتکای مسکو مقر سیا را هدف قرار می‌دهد](https://www.iranintl.com/202610286990) — `02:35 IRST` / `23:05 UTC`
-  > در حالی که ترامپ کمک روسیه به جمهوری اسلامی را ناچیز می‌داند، گزارش‌های تازه از نقش ماهواره‌های جاسوسی مسکو در حملات به اهداف آمریکایی حکایت دارند. آیا جمهوری اسلامی با پشتیبانی اطلاعاتی و نظامی روسیه و چین، به بازوی عملیاتی این دو قدرت در رویارویی غیرمستقیم با آمریکا تبدیل شده؟
-- **`ایران اینترنشنال`** [ترامپ دستور «مذاکره صلح» با حکومت ایران را رد کرد و موضوع تماس ونس را کمک پزشکی خواند](https://www.iranintl.com/202610286790) — `02:13 IRST` / `22:43 UTC`
-  > دونالد ترامپ صدور دستور به جی‌دی ونس برای آغاز «مذاکرات صلح با ایران» را رد کرد و موضوع را کمک به تامین اقلام پزشکی خواند. پیش‌تر وال‌استریت ژورنال گزارش داده بود ونس به دستور ترامپ برای احیای مذاکرات صلح به محسن رضایی نامه فرستاده است.
-- **`ایران اینترنشنال`** [لیورپول ۶ (۱-۱) ۵ چلسی؛ لیورپول همچنان شکست‌ناپذیر در ضربات پنالتی](https://www.iranintl.com/202610289550) — `01:54 IRST` / `22:24 UTC`
-  > تیم فوتبال لیورپول در مرحله یک‌هشتم‌نهایی ای‌اف‌ال کاپ پس از تساوی یک بر یک مقابل چلسی، در ضربات پنالتی ۶ بر ۵ پیروز شد و به یک‌چهارم نهایی رسید. مامارداشویلی پنالتی امگا را مهار کرد و فوفانا نیز آخرین پنالتی چلسی را از دست داد.
-- **`ایران اینترنشنال`** [مای ساتو: حکومت ایران هیچ راه قانونی برای ابراز مخالفت باقی نگذاشته است](https://www.iranintl.com/202610281271) — `01:40 IRST` / `22:10 UTC`
-  > مای ساتو، گزارشگر ویژه سازمان ملل در امور ایران، گفت محدودیت‌های قانونی و برخوردهای امنیتی حکومت، هیچ راه قانونی برای ابراز مخالفت باقی نگذاشته است. او تاکید کرد چهار دهه سرکوب، اعتراض‌ها را متوقف نکرده و تنها نارضایتی‌ها را عمیق‌تر کرده است.
-- **`ایران اینترنشنال`** [جنوا ۲-۰ یوونتوس؛ ده‌روسی، بیانکونری را ۱۱ امتیاز از صدر دور کرد](https://www.iranintl.com/202610283111) — `01:35 IRST` / `22:05 UTC`
-  > تیم فوتبال یوونتوس در هفته نهم سری آ با گل‌های اهیزیبوئه و بالدانزی، دو بر صفر مقابل جنوا شکست خورد و به رده هشتم سقوط کرد. تیم اسپالتی با سومین شکست فصل، اکنون ۱۱ امتیاز با صدر و شش امتیاز با رده چهارم فاصله دارد.
-- **`ایران اینترنشنال`** [منچسترسیتی ۴ (۲-۲) ۳ برایتون؛ صعود سیتی به یک‌چهارم نهایی ای‌اف‌ال کاپ در ضربات پنالتی](https://www.iranintl.com/202610285337) — `01:33 IRST` / `22:03 UTC`
-  > تیم فوتبال منچسترسیتی در ای‌اف‌ال کاپ انگلیس پس از تساوی دو بر دو مقابل برایتون، در ضربات پنالتی پیروز شد و به یک‌چهارم نهایی رسید. خرونیمو رولی دو پنالتی پایانی برایتون را مهار کرد و نقش اصلی را در صعود سیتی داشت.
-- **`بی‌بی‌سی فارسی`** [فراخوان جدید رضا پهلوی و نگرانی‌ها از امنیت ربات تلگرامی](https://www.bbc.com/persian/articles/cm79pjqy3y1lo?at_medium=RSS&at_campaign=rss) — `01:01 IRST` / `21:31 UTC`
-  > رضا پهلوی در فراخوان تازه خود از مردم ایران خواسته از طریق یک بات تلگرامی با تیم او ارتباط برقرار کنند؛ اقدامی که نگرانی‌هایی درباره امنیت اطلاعات کاربران برانگیخته است.
-- **`رادیو فردا`** [تلاش میانجی‌ها برای جلوگیری از جنگ؛ «جی‌دی ونس برای محسن رضایی نامه فرستاده است»](https://www.radiofarda.com/a/mediators-trying-to-reach-a-deal-before-us-heavy-attacks-to-iran/33886180.html) — `23:16 IRST` / `19:46 UTC`
-  > .
+  ![Media](../media/2026-10-29/3a1fcc3e2695004a.jpg)
+- **`دویچه‌وله فارسی`** [پنیر کاتیج؛ ترند تازه شبکه‌های اجتماعی یا یک غذای واقعا مفید؟](https://www.dw.com/fa-ir/پنیر-کاتیج؛-ترند-تازه-شبکه‌های-اجتماعی-یا-یک-غذای-واقعا-مفید؟/a-79794232?maca=per-rss-per-all-1491-xml-mrss) — `14:06 IRST` / `10:36 UTC`
+  > پنیر کاتیج از جیره‌بندی جنگ جهانی تا ترند تیک‌تاک راه درازی را پشت سر گذاشته است. آیا این پنیر یک "ابرغذا" برای عضله‌سازی است یا فقط هیاهوی شبکه‌های اجتماعی است؟ بررسی ارزش غذایی و میزان پروتئین آن را از دست ندهید.
+- **`یورونیوز فارسی`** [اسپانیا: جرثقیل‌ها لاشه قطار را جمع می‌کنند و امدادگران تا صبح کار می‌کنند](https://parsi.euronews.com/video/2026/10/29/spain-cranes-clear-twisted-train-wreckage-as-rescuers-work-through-the-night) — `14:03 IRST` / `10:33 UTC`
+  > تیم‌های امداد و نجات تمام شب در محل برخورد قطاری که ۶۸ نفر را نزدیک تولدو کشت کار کردند. جرثقیل‌ها به پاک‌سازی لاشه‌ها ادامه دادند و مقام‌ها سردخانه موقت برای شناسایی قربانیان برپا کردند.
+- **`ایران اینترنشنال`** [جریمه عجیب بارسلونا در پرونده آلوارز؛ فقط ۶۰۲ یورو!](https://www.iranintl.com/202610294361) — `13:55 IRST` / `10:25 UTC`
+  > فدراسیون فوتبال اسپانیا در پی شکایت اتلتیکومادرید از بارسلونا به دلیل مذاکره برای جذب یولیان آلوارز، مهاجم آرژانتینی این تیم، باشگاه کاتالانی را به پرداخت ۶۰۲ یورو جریمه محکوم کرد.
+- **`ایران اینترنشنال`** [تشدید کمبود داروهای روان‌پزشکی در ایران و هشدار درباره افزایش بستری بیماران](https://www.iranintl.com/202610296703) — `13:42 IRST` / `10:12 UTC`
+  > انجمن علمی روان‌پزشکان ایران از تشدید کمبود داروهای روان‌پزشکی در ماه‌های اخیر خبر داد و هشدار داد اختلال در دسترسی به دارو و تغییر ناخواسته روند درمان می‌تواند وضعیت بیماران را بی‌ثبات کند و نیاز به بستری را افزایش دهد.
+- **`یورونیوز فارسی`** [در پمپئی کمد زنانه‌ای با لوازم آرایش و جواهرات کشف شد](https://parsi.euronews.com/2026/10/29/in-pompeii-a-womans-wardrobe-has-been-uncovered-containing-beauty-items-and-valuables) — `13:38 IRST` / `10:08 UTC`
+  > سنگ‌های قیمتی، سکه‌ها، ابزار و لوازم زیبایی؛ کمدی در خانه کورنلیوس ماکسیموس روزگار زنان پمپئی پیش از فوران وزوو در سال ۷۹ میلادی را زنده می‌کند.
+- **`ایران اینترنشنال`** [ظن دخالت قطر و ترکیه در انتخابات اسرائیل؛ شین‌بت مامور تحقیق درباره منابع مالی خارجی شد](https://www.iranintl.com/202610291276) — `13:23 IRST` / `09:53 UTC`
+  > به گزارش رسانه‌های اسرائیلی، حزب لیکود به رهبری بنیامین نتانیاهو معتقد است قطر و ترکیه منابع مالی گروه‌هایی را تامین کرده‌اند که برای افزایش مشارکت شهروندان عرب در انتخابات اخیر این کشور فعالیت داشته‌اند؛ روایتی که سازمان امنیت داخلی اسرائیل (شین‌بت) مامور بررسی آن شده است.
+- **`ایران اینترنشنال`** [منبع آگاه: اجازه تجدیدنظرخواهی از حکم ۲۶ سال حبس آرتین غضنفری را ندادند](https://www.iranintl.com/202610294061) — `13:19 IRST` / `09:49 UTC`
+  > یک منبع مطلع نزدیک به خانواده آرتین غضنفری، شهروند بهائی و عکاس خبری، به ایران‌اینترنشنال گفت پس از ابلاغ حکم ۲۶ سال حبس این عکاس خبری، به او اجازه تجدیدنظرخواهی نداده‌اند.
+- **`یورونیوز فارسی`** [اوج‌گیری سرخک در آمریکا شکاف‌های واکسیناسیون در اروپا را یادآوری می‌کند](https://parsi.euronews.com/2026/10/29/us-measles-surge-reminds-of-europes-vaccination-gaps) — `13:19 IRST` / `09:49 UTC`
+  > ایالات متحده در معرض از دست دادن وضعیت ریشه‌کن‌سازی سرخک است، زیرا جوامع کم‌واکسینه در اروپا همچنان در برابر موارد وارداتی آسیب‌پذیرند.
+- **`دویچه‌وله فارسی`** [گزارش مای ساتو: تشدید سرکوب در ایران در سایه جنگ؛ از اعدام و بازداشت‌های گسترده تا قطع اینترنت](https://www.dw.com/fa-ir/گزارش-مای-ساتو-تشدید-سرکوب-در-ایران-در-سایه-جنگ؛-از-اعدام-و-بازداشت‌های-گسترده-تا-قطع-اینترنت/a-79793377?maca=per-rss-per-all-1491-xml-mrss) — `13:16 IRST` / `09:46 UTC`
+  > گزارشگر ویژه سازمان ملل در امور حقوق بشر ایران می‌گوید جنگ با آمریکا و اسرائیل نه‌تنها به کاهش سرکوب داخلی منجر نشده، بلکه به مقام‌های ایران امکان داده است فشار بر معترضان، خانواده‌های قربانیان و منتقدان را افزایش دهند.
+- **`یورونیوز فارسی`** [بعد از فرانسه و ایتالیا؛ آلبانی برای حضور در تجمعات خشونت‌آمیز جریمه نقدی تعیین کرد](https://parsi.euronews.com/2026/10/29/albania-set-fine-of-up-to-5500-euros-for-participation-in-violent-gatherings) — `13:06 IRST` / `09:36 UTC`
+  > این تدابیر بلافاصله لازم‌الاجرا می‌شود، اما برای ادامه اجرا و پابرجا ماندن باید ظرف ۴۵ روز به تصویب مجلس برسد.
 
 ## خبرگزاری‌های بین‌المللی (Global Wire)
 
+- **`Reuters Wire`** [Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3F1YnVQRFlzek5JbUlNWWRDWEQySFVzemNFQ0p0VHhjUTBMdnQ3VktON3FFaWE5VENiVFJSaTl3TTlzZVluQnlTT1NFR3gybTMyTjR2eVRsN0lrNlJSVkVweGFyTW5odGtDYm52SW85Smx1LWEyYnhUaWZNMUxjZHpXNG1VdDVpR3NmcWh4SnpFVVByVlZJQWNySjBFM1R3NWwwUThYZmRJX2toQzRGTjdEcnI4ZzdmLUo4SVpR?oc=5) — `07:50 IRST` / `04:20 UTC`
+  > Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say    Reuters
 - **`AP News Wire`** [High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year - AP News](https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5) — `06:20 IRST` / `02:50 UTC`
   > High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year    AP News
-- **`Reuters Wire`** [Cash is king as investors draw new battle lines in AI spending boom - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5) — `06:01 IRST` / `02:31 UTC`
-  > Cash is king as investors draw new battle lines in AI spending boom    Reuters
-- **`Reuters Wire`** [Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3?oc=5) — `05:54 IRST` / `02:24 UTC`
-  > Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters    Reuters
-- **`Reuters Wire`** [DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5) — `05:41 IRST` / `02:11 UTC`
-  > DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports    Reuters
-- **`Reuters Wire`** [Seoul court dismisses lawsuit by Tesla owners seeking refunds for 'Full Self-Driving' tech - Reuters](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYjh3SVB5QkI5b2FUQ0ptMFpDNWRsTU9yVVd3Q0kxZnJUWG1wUDZnYXVzeEt5T1ZLVHJQcHBTV3V0SkRFNGc2NnkyQ0haTGhVcU9HWkJqRTFzY1MzWFNCMTF4Tjl5S09BeG5CN3dDTzhJY1RGRHlSaTBOb3FtdDNTRWRUYThoYXJXRVlud050R29xTVVMSUhMTHFWWm16T3l6RF9hcWhyMTBLeHk4cWxkRWp0dlp1N1c3RXN3eWFfemljc01ZTnBseW5aU3VDUlZleDlhSDAtUVBJUWFXaEE?oc=5) — `05:30 IRST` / `02:00 UTC`
-  > Seoul court dismisses lawsuit by Tesla owners seeking refunds for 'Full Self-Driving' tech    Reuters
-- **`Reuters Wire`** [Dollar steady after Fed hold leaves rate path murky - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmVmOE5mU3JyckhjNGlWelQ5QVdhNzkwU0h1Zkd4bjJ6UGszY2lYem1BRmxjWW95VDBrYzg5NXNIWFhFWmNjNmFlUHZleE01YnNOWjRWVV9LWU1SYS1lRlVoRm15U1FrNjdvbkhtVzA4UWNzREJFWjBmUS1vU1FmcEN5a2loa1VsaHRRN190UHZNRmtvTVR1a0RmUlZwTlBPTmtoVFpURGpudw?oc=5) — `05:25 IRST` / `01:55 UTC`
-  > Dollar steady after Fed hold leaves rate path murky    Reuters
-- **`Reuters Wire`** [Samsung sees chip shortage worsening, but keeps investors in suspense on returns - Reuters](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5) — `04:26 IRST` / `00:56 UTC`
-  > Samsung sees chip shortage worsening, but keeps investors in suspense on returns    Reuters
-- **`Reuters Wire`** [Judge says Trump bid to set aside California ballots would ‘wreak havoc’ on democracy - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFZqTWtocU00NE9tc1BJemlmckVHUjIzQlVyLTJhUklOS0YwcURmVXowUlZUUzVlNTlZOWplM1pBZmROOVB0NDNPX3lNRWctWVZTNlotUm1oQUlvdDI1UGZ6MjN0MG1xWUd3dnB3T2NxWFNPaFpqWFFmUzZLcW8xZmI0cmRpTVlRSi1NQlZrVUVqR2RoT3dENGhyZm02NFcxckVIamhBcXlNYzZ0R0dsQ2pUN3dQQkhIaGc?oc=5) — `04:14 IRST` / `00:44 UTC`
-  > Judge says Trump bid to set aside California ballots would ‘wreak havoc’ on democracy    Reuters
-- **`Reuters Wire`** [Oil prices fall as peace hopes offset fears of growing Middle East conflict - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5) — `03:58 IRST` / `00:28 UTC`
-  > Oil prices fall as peace hopes offset fears of growing Middle East conflict    Reuters
-- **`Reuters Wire`** [Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5) — `03:51 IRST` / `00:21 UTC`
-  > Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say    Reuters
-- **`Reuters Wire`** [Minnesota charges conservative activist O'Keefe, influencer Higby after voting stunt - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVV5aXNSQ21ieTViM3dvUWpfSGZCbzlhUUwxRXJwcVJoRVZud2ZSbWhDeXNLNDV2d3lUOGdnM0Z4ZXVjZVFhZHVhUHh2X3haVXhiV0ZKSUI1M2xZTGlldS1faXhyRW5ENzFUb2J0RjBMbVVrbVdJUkJFU3U5RlAtcWFiNmNwc2tta2NBVE81bzR1c2xZNnlHMV9TV3hqdDNUTk0wYklqVmlVVjU5NWk5aUUyNHNQMHE4VEhKd0dpS0dOV2Rid0tjTQ?oc=5) — `03:50 IRST` / `00:20 UTC`
-  > Minnesota charges conservative activist O'Keefe, influencer Higby after voting stunt    Reuters
+- **`Reuters Wire`** [Oil falls as diplomacy hopes outweigh Middle East escalation fears - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5) — `03:58 IRST` / `00:28 UTC`
+  > Oil falls as diplomacy hopes outweigh Middle East escalation fears    Reuters
+- **`Reuters Wire`** [ECB President Lagarde resigns at time of mounting challenges for Europe - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldaRFJxZExRTzZ2T1lfc1pYUWtpbFJwRHk0YmpCaHdkYXd4ZV9vbGpmellrN1Ztck8wallTMnphd1V6VWFLckM4bTRiX1c5VmZmSUZwdUROem02ZXlUY3NKT1poTEhFWDRQOThHcEQ5YkMzY1gxU1NoTm5mdFhVR2xWakJSYUFVSTRKS0Rva1JIR0FhOHFJck5Ic3AzNzNWQTJuMXFySnNFcDNIYXN0TWtn?oc=5) — `02:32 IRST` / `23:02 UTC`
+  > ECB President Lagarde resigns at time of mounting challenges for Europe    Reuters
+- **`AP News Wire`** [Pentagon watchdog tells lawmakers it won’t investigate Starlink slowdowns to Ukraine - AP News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZ6TzNnOExPZmEyc0F6ckNhMURBcndMTUFfaC1TTDZkY1lqRGVhNm05YjlqeUo0a2hOdmdlWVYtV3M3bkVRbHhpNUJRRXVzcEhFSjNkUzRlVmJVYTBHWEgyeXdUZnpwSENKS1AyVTg4ekROcGljemJOdnJQSkh5WmgzSThGTlRfVDdHWGcxdHZ0NmkzcWdOd011MndzSWJxZFdYZFhnV1Z3NENTdjAxN2p6T3pJc2JY?oc=5) — `02:32 IRST` / `23:02 UTC`
+  > Pentagon watchdog tells lawmakers it won’t investigate Starlink slowdowns to Ukraine    AP News
 - **`AP News Wire`** [Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5) — `01:16 IRST` / `21:46 UTC`
   > Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil    AP News
+- **`Reuters Wire`** [Microsoft's cloud growth, cash flow offer respite from AI spending fears - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5) — `23:37 IRST` / `20:07 UTC`
+  > Microsoft's cloud growth, cash flow offer respite from AI spending fears    Reuters
+- **`Reuters Wire`** [Leak website releases data on thousands of US Homeland Security employees - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkJfbVFuNlVmSmFPRUVEYzBEZ3k3RDhzb1JIUlU3eFoxS25sejEtUGFNdFVDMUI4NW5IR3R2M1hvX2hTc0U2RXBJX3VWNHlUWXJodW9ENzE5Ql93UkNGUFo2WkhwcmsxSnVhQ28tZUppZkdWX0lmTzZZNnJ0SjBxXzFFZ1o2NVc2clVZRUdJZXJDWGdqeWlBMDFRV2wybVRCRWxQdXNJdVhNR2lM?oc=5) — `23:34 IRST` / `20:04 UTC`
+  > Leak website releases data on thousands of US Homeland Security employees    Reuters
+- **`Reuters Wire`** [Flavio Bolsonaro declares himself rightful president-elect of Brazil - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWxyOENKWVdrbnhkd21SeEw1WmtqanpZUU5OQ1ctZ0xWamdfYnQyUC00N1VzYkF1akNBR2dHSVJEWmhSbFppV3ZndC1rWmZ5R2cyR1BYeS1OZDlkdkY4T3I3V1hBR240eWUtd2dUdERQZURYa0hPNkFfTEFfV1hmVTV2MHlsQloxSEN6VHEzSTRQWFFhME1UeUIzdzd0Zk95b1R6c21nNUtQYk05SGRST2t2Sy1DZUU?oc=5) — `23:33 IRST` / `20:03 UTC`
+  > Flavio Bolsonaro declares himself rightful president-elect of Brazil    Reuters
+- **`AP News Wire`** [Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5) — `21:35 IRST` / `18:05 UTC`
+  > Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy    AP News
+- **`AP News Wire`** [Spain’s 4 deadly train crashes this year, at a glance - AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWtzVUlJX3VsMFBkR2RHVE00TkZGOFJSZWN1eW9pUG50OHc0VzYyS0NXa01hTXZHMGUwMHA0NjB6cTlXLWxQNWx1SF9sMTNqQXdra0xDeW1GY1l5VjVNeGFJZTBjMXpIQjFkVDdDNWk4VlpiUm51bTVGSlZXWWhmWmlkUVh1RzZKNDlTNQ?oc=5) — `18:26 IRST` / `14:56 UTC`
+  > Spain’s 4 deadly train crashes this year, at a glance    AP News
+- **`Reuters Wire`** [After landing in US, Flavio Bolsonaro declares himself Brazil's rightful leader - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5) — `15:26 IRST` / `11:56 UTC`
+  > After landing in US, Flavio Bolsonaro declares himself Brazil's rightful leader    Reuters
 
 ## فناوری و امنیت سایبری (Tech & Open Source)
 
-- **`Hacker News`** [Zillow to pay $212.5M to settle class action for real estate venture](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/) — `07:18 IRST` / `03:48 UTC`
-  > Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/ 
- Comments URL: https://news.ycombinator.com/item?id=50284342 
- Points: 16 
- # Comments: 2
-- **`Hacker News`** [The Milwaukee Brewers win the first World Series title in franchise history](https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series) — `07:14 IRST` / `03:44 UTC`
-  > Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series 
- Comments URL: https://news.ycombinator.com/item?id=50284329 
- Points: 40 
- # Comments: 12
-- **`Hacker News`** [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) — `07:03 IRST` / `03:33 UTC`
+- **`Hacker News`** [If IPv4 Were Land](https://iptrust.co/blog/if-ipv4-were-land) — `15:49 IRST` / `12:19 UTC`
+  > Article URL: https://iptrust.co/blog/if-ipv4-were-land 
+ Comments URL: https://news.ycombinator.com/item?id=50287775 
+ Points: 6 
+ # Comments: 0
+- **`Hacker News`** [An Urgent Message on Artificial Intelligence from the Kogui People](https://sonidoselva.com/perspectiva-kogui) — `14:59 IRST` / `11:29 UTC`
+  > Article URL: https://sonidoselva.com/perspectiva-kogui 
+ Comments URL: https://news.ycombinator.com/item?id=50287359 
+ Points: 41 
+ # Comments: 11
+- **`Hacker News`** [Show HN: UK Farming Simulator](https://butterbean.farm/) — `14:45 IRST` / `11:15 UTC`
+  > Article URL: https://butterbean.farm/ 
+ Comments URL: https://news.ycombinator.com/item?id=50287255 
+ Points: 7 
+ # Comments: 11
+- **`Hacker News`** [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/) — `14:14 IRST` / `10:44 UTC`
+  > Article URL: https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/ 
+ Comments URL: https://news.ycombinator.com/item?id=50287001 
+ Points: 80 
+ # Comments: 41
+- **`Hacker News`** [Zero click, silent, remote Android DoS](https://smsofdeath.com/) — `10:38 IRST` / `07:08 UTC`
+  > Article URL: https://smsofdeath.com/ 
+ Comments URL: https://news.ycombinator.com/item?id=50285452 
+ Points: 149 
+ # Comments: 96
+- **`Hacker News`** [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/) — `10:17 IRST` / `06:47 UTC`
+  > Article URL: https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/ 
+ Comments URL: https://news.ycombinator.com/item?id=50285319 
+ Points: 118 
+ # Comments: 20
+- **`Hacker News`** [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) — `07:03 IRST` / `03:33 UTC`
   > Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce 
  Comments URL: https://news.ycombinator.com/item?id=50284255 
- Points: 134 
- # Comments: 26
+ Points: 436 
+ # Comments: 174
 - **`Hacker News`** [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) — `03:55 IRST` / `00:25 UTC`
   > Article URL: https://divagr.com/blog/qwenputer 
  Comments URL: https://news.ycombinator.com/item?id=50282838 
- Points: 233 
- # Comments: 54
+ Points: 551 
+ # Comments: 111
 - **`Hacker News`** [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) — `03:15 IRST` / `23:45 UTC`
   > Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html 
  Comments URL: https://news.ycombinator.com/item?id=50282544 
- Points: 124 
- # Comments: 49
-- **`Hacker News`** [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/) — `03:15 IRST` / `23:45 UTC`
-  > Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ 
- Comments URL: https://news.ycombinator.com/item?id=50282538 
- Points: 57 
- # Comments: 48
+ Points: 197 
+ # Comments: 92
 - **`Hacker News`** [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) — `03:05 IRST` / `23:35 UTC`
   > Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 
  Comments URL: https://news.ycombinator.com/item?id=50282454 
- Points: 232 
- # Comments: 212
-- **`Hacker News`** [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/) — `00:49 IRST` / `21:19 UTC`
-  > Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ 
- Comments URL: https://news.ycombinator.com/item?id=50281044 
- Points: 154 
- # Comments: 105
-- **`Hacker News`** [A Health Update](https://furbo.org/2026/10/28/a-health-update/) — `00:43 IRST` / `21:13 UTC`
-  > Article URL: https://furbo.org/2026/10/28/a-health-update/ 
- Comments URL: https://news.ycombinator.com/item?id=50280974 
- Points: 162 
- # Comments: 25
-- **`Hacker News`** [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers) — `00:30 IRST` / `21:00 UTC`
-  > Article URL: https://nango.dev/careers 
- Comments URL: https://news.ycombinator.com/item?id=50280824 
- Points: 0 
- # Comments: 0
+ Points: 556 
+ # Comments: 458
 
 ---
 📂 [آرشیو ۳۰ دقیقه‌ای اخبار](../index.md) | 🌐 [مشاهده نسخه تحت وب سبک](../public/index.html)
