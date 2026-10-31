@@ -1,24 +1,322 @@
 {
-  "generated_at_utc": "2026-10-30T22:52:09.184374+00:00",
-  "generated_at_tehran": "2026-10-31T02:22:09.184374+03:30",
+  "generated_at_utc": "2026-10-31T02:09:47.582713+00:00",
+  "generated_at_tehran": "2026-10-31T05:39:47.582713+03:30",
   "article_count": 100,
   "articles": [
     {
-      "hash": "cfa8b7e124df18db",
-      "title": "سخنگوی ارتش پاکستان درباره «عوامل قدرتمند» مخالف میانجی‌گری ایران و آمریکا هشدار داد",
+      "hash": "63d44b8294d61a95",
+      "title": "ترامپ: گفتگوهایی با ایران در جریان است",
+      "link": "https://www.bbc.co.uk/persian/live/ck79p4jd83pnt?at_medium=RSS&at_campaign=rss",
+      "summary": "دونالد ترامپ، رئیس‌جمهور آمریکا می‌گوید گفتگوهایی با ایران در جریان است. او در پاسخ به پرسش خبرنگاری در کاخ سفید درباره این مذاکرات، گفت: «آن‌ها می‌خواهند گفتگو کنند و گفتگو می‌کنند، راستش را بخواهید، ما زمان داریم.» آقای ترامپ همچنین جنگ با ایران را وضعیتی غیرمعمول و کم‌هزینه برای مالیات‌دهندگان آمریکایی توصیف کرد. در همین حال گزارش‌ها حاکی از گفتگوهای طولانی میانجی‌گران قطری در تهران درباره تازه...",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-31T02:09:49.788280+00:00",
+      "published_epoch": 1793412589,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a343/live/a6ee95f0-d4bc-11f1-93e1-3b657b665bcf.jpg"
+      ],
+      "local_media_path": "media/2026-10-31/9c33e0b9843deabc.jpg"
+    },
+    {
+      "hash": "cd40d6e82f79eb01",
+      "title": "آنچه گذشت: سخنگوی ارتش پاکستان درباره «عوامل قدرتمند» مخالف میانجی‌گری ایران و آمریکا هشدار داد",
       "link": "https://www.bbc.co.uk/persian/live/ckdd8p9ypld7t?at_medium=RSS&at_campaign=rss",
       "summary": "سخنگوی ارتش پاکستان در گفت‌وگو با رویترز اعلام کرد که این کشور به میانجی‌گری میان ایران و آمریکا «با احتیاط خوش‌بین» است، اما هشدار داد که «عوامل قدرتمندی» ادامه جنگ را به سود خود می‌دانند. احمد شریف چودری سفرهای اخیر فرمانده ارتش پاکستان به تهران را نشانه‌ای مثبت دانست و گفت توافق دفاعی مشترک مکه مانعی برای پیوستن ایران ندارد، اما تصمیم نهایی با رهبران پاکستان، عربستان و ترکیه است. این اظهارات هم...",
       "source_id": "bbc_persian",
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-10-30T22:52:11.704331+00:00",
-      "published_epoch": 1793400731,
+      "published_at": "2026-10-31T02:09:49.788561+00:00",
+      "published_epoch": 1793412589,
       "rtl": true,
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fede/live/2693a930-d48b-11f1-b441-2b33b063138f.jpg"
       ],
+      "local_media_path": "media/2026-10-31/ec284510c4204a2b.jpg"
+    },
+    {
+      "hash": "3648f3816813acb0",
+      "title": "قطر برای توافق تهران و واشینگتن تلاش می‌کند؛ مقام ایرانی از آمادگی پاسخ نظامی گفت",
+      "link": "https://www.iranintl.com/202610314595",
+      "summary": "اکسیوس از مذاکرات فشرده میانجی‌های قطری در تهران برای ازسرگیری گفت‌وگوهای مستقیم جمهوری اسلامی و آمریکا خبر داد. هم‌زمان، تسنیم به نقل از «یک مقام ارشد امنیتی» گزارش کرد طرح واکنش نظامی حکومت ایران تکمیل شده و تصمیم برای پاسخ گسترده به هرگونه حمله قطعی است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-31T01:41:43+00:00",
+      "published_epoch": 1793410903,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/272a15558ce18c837649fd40cfc1d4d417399773-1270x713.png?rect=0,25,1270,665&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-31/5f6ed9766f60de91.jpg"
+    },
+    {
+      "hash": "b08ae3c9fa9948a3",
+      "title": "آمریکا با فروش ۵۰۰ موشک پاتریوت به اوکراین موافقت کرد",
+      "link": "https://www.bbc.com/persian/articles/cx30e294jg80o?at_medium=RSS&at_campaign=rss",
+      "summary": "آمریکا با فروش ۵۰۰ موشک پاتریوت به اوکراین موافقت کرده است.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-31T01:11:47+00:00",
+      "published_epoch": 1793409107,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc9c/live/5e4ba3d0-d4c4-11f1-a701-fddedf244c16.jpg"
+      ],
+      "local_media_path": "media/2026-10-31/a59e3833f8413548.jpg"
+    },
+    {
+      "hash": "2d232a8ffab7d9ff",
+      "title": "آمریکا فروش ۵۰۰ موشک پاتریوت به اوکراین را تایید کرد؛ تحویل سال‌ها طول می‌کشد",
+      "link": "https://www.iranintl.com/202610312667",
+      "summary": "آمریکا فروش ۵۰۰ موشک رهگیر پاتریوت به ارزش تقریبی ۲.۱ میلیارد دلار به اوکراین را تایید کرد، اما دو منبع به رویترز گفته‌اند این موشک‌ها احتمالا تا اوایل دهه ۲۰۳۰ تحویل نخواهند شد؛ تاخیری که با نیاز فوری کی‌یف به تقویت پدافند هوایی فاصله دارد.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-31T01:09:15+00:00",
+      "published_epoch": 1793408955,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/a368850d1f1123f3b9054b1361e42b2b3fbe264f-800x533.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-31/c89f5696fbf29b75.jpg"
+    },
+    {
+      "hash": "0fdb3e209d3611d8",
+      "title": "روزنامه الشرق الاوسط از درگیری‌های شدید میان نیروهای دولتی یمن و حوثی‌ها در منطقه المقاطره، واقع در شمال استان لحج و جنو...",
+      "link": "https://t.me/IranintlTV/364666",
+      "summary": "روزنامه الشرق الاوسط از درگیری‌های شدید میان نیروهای دولتی یمن و حوثی‌ها در منطقه المقاطره، واقع در شمال استان لحج و جنوب تعز، خبر داد.\n\nبنا به این گزارش، نیروهای حوثی از سه محور به مواضع نیروهای دولتی حمله کردند و تلاش داشتند کنترل منطقه المقاطره را به دست بگیرند و به سوی طورالباحه در استان لحج پیشروی کنند. نیروهای دولتی نیز برای مقابله با این حملات وارد درگیری شدند. هنوز آمار تاییدشده‌ای از تلفات منتشر نشده است.\n\nاین درگیری‌ها در ادامه تنش‌های نظامی میان حوثی‌ها و نیروهای دولتی یمن در مناطق مرزی استان‌های تعز و لحج رخ داده است. منطقه المقاطره به دلیل قرار گرفتن در مسیر ارتباطی این دو استان، از مناطق مورد مناقشه میان طرف‌های درگیر بوده است.\n https://iranintl.com/202610319985",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-31T00:40:38+00:00",
+      "published_epoch": 1793407238,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/RW2wq_KGLbbHOh6_oPsoZW2r0vEVkbOrJL1qvsnGGvOFF19lUp5SEGY2Q_vwo0zCcqSsPwhi-prbgoIDEcb55LKCjasXY7hqtUo8NVpgtnz8xGI8bAkAijkhwYPK7BnnTgr0wXsskau4aGkF9g_3b-Nm_-9GwGbfl-BB_hSMkxdJOJ0P20pEfbERY-VnnD1-JNI7NADpCwOvK8zAsny8JVJ-EmkLNXfzFKyMHRkFXg_tWeoZzBR1eaNod4tMcYrOyfQ1BD_YV0pmn7bnayUJg-E4SJIxex3nFbm7ik6jj218ODlz7hvixM01QJ645Fp3YLN_R4OsLPwR1n3OXMqcEA.jpg"
+      ],
+      "local_media_path": "media/2026-10-31/d1aa02408c788600.jpg"
+    },
+    {
+      "hash": "5774daf95d3bcdbd",
+      "title": "جایی که ترس بخشی از زندگی روزمره شده و زیر سایه جنگ و فشارهای اقتصادی برگزاری هالووین چه معنایی دارد؟ تقلید فرهنگی؟ بحرا...",
+      "link": "https://t.me/IranintlTV/364665",
+      "summary": "جایی که ترس بخشی از زندگی روزمره شده و زیر سایه جنگ و فشارهای اقتصادی برگزاری هالووین چه معنایی دارد؟ تقلید فرهنگی؟ بحران هویت؟ یا تلاشی برای پس گرفتن حق شادی؟\n\nگلاره هان\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-31T00:03:24+00:00",
+      "published_epoch": 1793405004,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/isbJMMqtsIOL1Rg0O77ez1eaJRQmn929aUIwKN4fPIlFvKdkiaPBom0gegiYAfhVMP07LkVXZcFdwwEDxwQ-ejEH1m-aZ1TnE8byaqHM817RrQ4eqjVZh6StwS0iHUmTJeTn7n70hVywBEbh-zVD9VLIh0JY4uYGpdu7Vmtdqk9e3KcPlxvxebOvS9oyHCCQBlaEc3GRguLfTffWd4wbxF2Jui6zgYQk5iiexzBI8dejkTe1g6kgbjG2kFw7lMdUHuR9_oS2yU7xv7P6IEvIkIK2nKVxOpusLrEn7hJEyoJxI7uC3tvGrJyZRirJ1jdxrOtPuEzn-_gHn9WuxaYOXQ"
+      ],
+      "local_media_path": "media/2026-10-31/3822e94a5dc409f2.jpg"
+    },
+    {
+      "hash": "c66f61d08fa643f5",
+      "title": "ارتش اسرائیل اعلام کرد ایهاب جمیل ابوتقیه، فرمانده یک گروه از شاخه نظامی حماس، در حمله‌ای کشته شده است. به گفته ارتش اسر...",
+      "link": "https://t.me/IranintlTV/364664",
+      "summary": "ارتش اسرائیل اعلام کرد ایهاب جمیل ابوتقیه، فرمانده یک گروه از شاخه نظامی حماس، در حمله‌ای کشته شده است. به گفته ارتش اسرائیل، او در آغاز جنگ در نگهداری شمار زیادی از گروگان‌های اسرائیلی در اسارت حماس نقش داشته است.\n\nارتش اسرائیل افزود ابراهیم جهاد محمد ابوعشیبه، فرمانده یک دسته از شاخه نظامی حماس، نیز در همین حمله کشته شده است. به گفته این ارتش، دو فرمانده حماس اخیرا برای حمله به غیرنظامیان و نیروهای اسرائیلی برنامه‌ریزی کرده و در تلاش برای بازسازی توان نظامی این گروه بوده‌اند. ارتش اسرائیل این اقدامات را نقض سازمان‌یافته آتش‌بس توصیف کرد.\n\nجروزالم پست نیز گزارش داد ابوتقیه در نگهداری ۱۲ گروگان اسرائیلی نقش داشته است.\n\nجروزالم پست همچنین به نقل از ارتش اسرائیل و شین‌بت گزارش داد که در عملیاتی جداگانه، چهار عضو دیگر حماس در جنوب غزه کشته شدند و دو انبار تسلیحات این گروه در البریج و شهر غزه هدف حمله قرار گرفتند.\n https://iranintl.com/202610305820",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-31T00:03:18+00:00",
+      "published_epoch": 1793404998,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/u-us7Z0YCIwI4JKzMDutKSJfjx6vET6QXeIKBakf52rjZwaM9zLc8n3xmhDGeJ9NsB5pjvPIhd2XnEFXuRg33HEJw2XD2VsxrtDnWokn5roDDcBD3W6zt0oCpv4ZmFbdyynablxB2Ou7MFVoQmC5PRm9_XAlNw4chi84tCo0Dh3naUVYoeDa0Mp4G6lF1RNCuoc5XXHuSTTijSBN9m6b5Gs9HngrvNdLe2S0MyZ2Plv5GsMkBJEFdYM6DVkS6J83yYII0ep00MUQebg23ky_y8I0XzNtu4D2bJeczBwUaPnQWAmCacoacjXyd2Ceolb-IUaaZN27wi0tWGUu_tY3ow.jpg"
+      ],
+      "local_media_path": "media/2026-10-31/d0365bfd522d3cb5.jpg"
+    },
+    {
+      "hash": "194cd9be01af6798",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "link": "https://tng.episodle.com/",
+      "summary": "Article URL: https://tng.episodle.com/ \n Comments URL: https://news.ycombinator.com/item?id=50311686 \n Points: 57 \n # Comments: 17",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-30T23:51:24+00:00",
+      "published_epoch": 1793404284,
+      "rtl": false,
+      "raw_media_urls": [],
       "local_media_path": null
+    },
+    {
+      "hash": "6a3de8ec6c710ffa",
+      "title": "خزانه‌داری آمریکا از سقوط ریال، تورم ۹۰ درصدی و کاهش تحویل نفت ایران خبر داد",
+      "link": "https://www.iranintl.com/202610309425",
+      "summary": "وزارت خزانه‌داری آمریکا در گزارشی از افت حدود ۲۵ درصدی ارزش ریال از آغاز کارزار تازه فشار اقتصادی، تورم نقطه‌به‌نقطه ۹۰ درصدی و کاهش تحویل نفت ایران خبر داده است؛ آماری که این وزارتخانه آن را نشانه تشدید انزوای اقتصادی تهران می‌داند.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-10-30T23:33:27+00:00",
+      "published_epoch": 1793403207,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/5bdc9ba663e007d980591b96cfba7adad65725a4-800x533.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-10-31/4c9e5f374cdba79c.jpg"
+    },
+    {
+      "hash": "084fe209ed45bd04",
+      "title": "روابط عمومی سپاه پاسداران گزارش داد که نیروی هوافضای سپاه شامگاه جمعه هشتم آبان، یک پهپاد شناسایی آمریکایی از نوع MQM-۱۷...",
+      "link": "https://t.me/IranintlTV/364663",
+      "summary": "روابط عمومی سپاه پاسداران گزارش داد که نیروی هوافضای سپاه شامگاه جمعه هشتم آبان، یک پهپاد شناسایی آمریکایی از نوع MQM-۱۷۰ را با استفاده از سامانه‌های جنگ الکترونیک در آسمان جزیره قشم زمین‌گیر و به غنیمت گرفته است.\n\nسپاه پاسداران اعلام کرد این دومین پهپاد از این نوع است که نیروهایش به غنیمت گرفته‌اند. این نهاد پیش‌تر، هفتم آبان نیز از تصرف یک پهپاد MQM-۱۷۰ در غرب تنگه هرمز خبر داده بود.\n\nادعای سپاه درباره به غنیمت گرفتن این پهپاد به‌طور مستقل تایید نشده است.\n https://iranintl.com/202610306815",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-30T23:29:43+00:00",
+      "published_epoch": 1793402983,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/XlYK-mM5g7HMXniUvmoMUPcaNe7UE1DbrYgvAdwGA9JixNU8jaNB20FwZAPz-Xo9Um_j9D-GOzYPak3F5RFCWcrmZxsOOVJsNl_mcr3VQBHkor41OUn4iBsPZD03261v5QuTtoEGl3jWNlTO6CXf8gZ4SvUH35ia7vempqA4TgJfBsvi_6Nxo5dRnGUGTW4q02xv_X-bJNJILa9cQbRTmTXJgFLYn4k7X1CNuGuDQkr87IMI9vmXfJXT1Ks5enn2PzwlntTvs4u9zqx9iuGG52zICZtAG7XBwv3gq0fQMJmVgRrcqjK37PuPDiEiKO6AQmkiOVJvgG_9Tauh_aCTSg.jpg"
+      ],
+      "local_media_path": "media/2026-10-31/d0868ee4b4e7b302.jpg"
+    },
+    {
+      "hash": "ae646f8a345f4cd0",
+      "title": "سازمان اطلاعات و امنیت کانادا در پاسخی اختصاصی به ایران‌اینترنشنال اعلام کرد در بیش از یک مورد، از اجرای توطئه‌های مرگبا...",
+      "link": "https://t.me/IranintlTV/364662",
+      "summary": "سازمان اطلاعات و امنیت کانادا در پاسخی اختصاصی به ایران‌اینترنشنال اعلام کرد در بیش از یک مورد، از اجرای توطئه‌های مرگبار عوامل وابسته به سرویس‌های اطلاعاتی جمهوری اسلامی علیه افراد در خاک کانادا جلوگیری کرده است. این نهاد هشدار داد تهدیدهای جمهوری اسلامی در سال ۲۰۲۶ نیز ادامه خواهد داشت.\n\nهم‌زمان، پلیس فدرال کانادا، آر‌سی‌ام‌پی، در پاسخی اختصاصی به ایران‌اینترنشنال تاکید کرد پرونده‌های مربوط به دخالت و سرکوب فراملی جمهوری اسلامی را با جدیت پیگیری می‌کند.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-30T23:26:15+00:00",
+      "published_epoch": 1793402775,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/hdSSbynxTyNVYWnuhisUMMhIpJ_MSRN9Cw9RHGEqxBOsjPEQB_voPHMXWFOcvxUdgcyVzoLXSBzDpIH_YjGZ8MMh70vlrU5yw1C1OXoNWpHZ6H1YIg_xgB-xzQL6I963isHyeS8jBqZm0a1A-6PI6SYID7fmbVPsb8uXMyxwNQRd0opTI1dteJZ2hpSgWg2DNCwB9gXyutVoRKK3pG5xis8ceDwSdKwT4Aor8L_lB5RMO2esjEAJw8zmRTbs5AUe4eM0z31Hm2snAzETRw10HYpLSUWPeDs-9fm_OZJhIr227XaWL4C6fK_1V9uSlOUWNlzyl1K8q_NSrw8n_lcc6g"
+      ],
+      "local_media_path": "media/2026-10-31/22880a6a1b32f2fd.jpg"
+    },
+    {
+      "hash": "93dcf3e6baf17f80",
+      "title": "رقیه رضایی، روزنامه‌نگار و عضو تحریریه ایران‌وایر، با اشاره به نقض حکم اعدام شهاب زهدی در دیوان عالی کشور و صدور دوباره ...",
+      "link": "https://t.me/IranintlTV/364661",
+      "summary": "رقیه رضایی، روزنامه‌نگار و عضو تحریریه ایران‌وایر، با اشاره به نقض حکم اعدام شهاب زهدی در دیوان عالی کشور و صدور دوباره این حکم گفت ارجاع پرونده به همان شعبه و قاضی پیشین، به‌جای شعبه هم‌عرض، پرسش‌های جدی درباره روند دادرسی ایجاد می‌کند. \n\nاو همچنین با انتقاد از واکنش‌های محدود جامعه جهانی به افزایش اعدام معترضان در ایران، خواستار اقدام‌های عملی برای افزایش هزینه اعدام‌ها برای جمهوری اسلامی شد.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-30T23:25:31+00:00",
+      "published_epoch": 1793402731,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/nHtaRy7Q6YZYe9kN5QHqLNny2BJZQ3DTLt9Dxlihv2MVDWEqfuQNa2RY5PQKUSZ0DuosnAgz960beSyyoyJ5xnqLH-yY-v-T4J0SAABHMJlTmDFwhce4cxk5QcR4xCyFf733_8lHTMruC9cgg_6pMqWH4L2w57SypZ_ml1m1M0Nr7azadAZ62uuShaYir1mQ2hpfTpTj-P1-wAOrr36qR4DTIw0SV65tokdHfg_a2ZuqmHCXOKr3Bgio-eqHSaXVCMqyLmCbjWNuN3J85pT3TlLLvwZ5m2hywoWk4GzwLSjroQBla3xx9rPOfqBMnS9vWssaqJAPobSNNWX-xd7Jwg"
+      ],
+      "local_media_path": "media/2026-10-31/dbca23c8467908f6.jpg"
+    },
+    {
+      "hash": "d1f34f75d7255835",
+      "title": "Russia, US veto rival UN Western Sahara resolutions, leaving peacekeeping mission in limbo - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUm5zVXBMZTEtQnVkYW9MY1FJYXo0S0x2V1llamdsaEgxZmFLMlBpVEE5b3BZUGM1akRURXg2dWJJdUpOeHJlc3FvYW5QUEc0czJZdTI1SUNKYm5GS2FGNGxqcHFwQzdmQ3drOFBwa19JaHFvZEFRMGwzdTQ3T3gyNzJYdmctUDQ1Y2xCZmh4NC1oQUhqVXc?oc=5",
+      "summary": "Russia, US veto rival UN Western Sahara resolutions, leaving peacekeeping mission in limbo    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-30T23:21:13+00:00",
+      "published_epoch": 1793402473,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "d5dec2d7fee0a578",
+      "title": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzItX09tRWFpV3F0WnBCdENGUXQ5RklpTjRqSVR5V1NWVVNtcTVnZ0psNEhJX2M3c2taM0pKZW5MNGthM3dwRXpEa1lxMTZqdUtLZkNZY0h4VVdpRDhSOEZ2WEJNT0pjaG5HZjhYT094LVRwZzZHcHUzVGdSQ21zTFpKZ2NjVVlJQWZ6eUhzeWtnT19kWC1VMUlNeGVPQncyYjJzWVhQZVh1YmEtUFZzNVJ5YV9IUmc?oc=5",
+      "summary": "Lavrov says Zelenskiy comments are unhelpful, Russia's position is unchanged    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-30T23:19:43+00:00",
+      "published_epoch": 1793402383,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "16590ac414078044",
+      "title": "ارتش آنلاین لولا؛ چگونه یک کانال واتس‌اپ ورق انتخابات برزیل را برگرداند؟",
+      "link": "https://www.bbc.com/persian/articles/c60rljxnqx22o?at_medium=RSS&at_campaign=rss",
+      "summary": "در حالی که نظرسنجی‌ها از شکست خبر می‌دادند، میلیون‌ها نفر به کانالی به نام «ارتش لولا» پیوستند؛ کانالی که بسیاری آن را در تبدیل شور و هیجان فضای مجازی به بسیج واقعی در خیابان‌ها موثر می‌دانند.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-10-30T23:10:15+00:00",
+      "published_epoch": 1793401815,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3bd/live/33178300-d14a-11f1-93e1-3b657b665bcf.jpg"
+      ],
+      "local_media_path": "media/2026-10-31/ea4b96836d6c64d4.jpg"
+    },
+    {
+      "hash": "a11424564618b9c2",
+      "title": "McDonald's must face lawsuit over McRib, US judge rules - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVDhaTWVhR2RLZVplbHFIWkZQTGFXLVRZRnk5TEhiV0k2RGpjREU2d2JVdDQ0bGR1dWVLQ1FhQmNrdTJFazlaQXh6bWN6d0dkWjA2cGRXYVdqRGVMVHRRWl9TN1pScDBuT1ROUWlyUGEtM2FyTGdCWVJmSm5aQkdyY0RUV1pHMDZKbFBWZ0hYdXhrRWw3Skt0cGZkREFGVWdGN2Q0ZnpxNDZIdw?oc=5",
+      "summary": "McDonald's must face lawsuit over McRib, US judge rules    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-30T23:02:02+00:00",
+      "published_epoch": 1793401322,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "0096e25c5f41adea",
+      "title": "دونالد ترامپ اعلام کرد مذاکرات با جمهوری اسلامی همچنان ادامه دارد، اما واشینگتن برای دستیابی به توافق عجله‌ای ندارد. او ...",
+      "link": "https://t.me/IranintlTV/364660",
+      "summary": "دونالد ترامپ اعلام کرد مذاکرات با جمهوری اسلامی همچنان ادامه دارد، اما واشینگتن برای دستیابی به توافق عجله‌ای ندارد. او تاکید کرد تهران خواستار گفت‌وگو است، اما حکومت با بحران‌های شدیدی روبه‌روست.\n\nهم‌زمان، خبرنگار اکسیوس، گزارش داد هیات میانجی‌گر قطر پس از ۱۲ ساعت حضور در تهران، همچنان در حال گفت‌وگو برای دستیابی به توافق میان آمریکا و جمهوری اسلامی است.\n\nجزییات بیشتر با کامبیز توانا، عضو تحریریه ایران‌اینترنشنال\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-30T22:57:58+00:00",
+      "published_epoch": 1793401078,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/ME0nvPQzrRkWRBFIBOcLwQIZY4RCaVdreCxFRxVDi28b9oUIvyQLSnIp-Gn58X5e2PtdOkc7BSXVmX_E_DQJmPhrFbjZFGXoSXo63jdYkArg-gPpq15oM600FlO0AJlqYpewcBvrTJyluVV3zrYi5xBXXVyQ_F53gxxPNwitaAsFSakicSVOO0va0qIkvXviO_rowAClQKNpN7Re4W2GiQToADhBGVDqmgYXxB0t_EVzJVyFXl9YYRqstzmVxcZ_jHrYHLvADrdr5frRdxULNi6ZXWXhDjRvOnREdisBlRCXHrrp8Eez5AJvwGyyVifBzWkAwblbvVw-3G6ghWjaqA"
+      ],
+      "local_media_path": "media/2026-10-31/580e762218dc89f6.jpg"
+    },
+    {
+      "hash": "83e17e402cb736fa",
+      "title": "اکسیوس گزارش داد سندی از وزارت خزانه‌داری آمریکا را به دست آورده که نشان می‌دهد نرخ تورم عمومی ایران در ماه سپتامبر به ۹...",
+      "link": "https://t.me/IranintlTV/364659",
+      "summary": "اکسیوس گزارش داد سندی از وزارت خزانه‌داری آمریکا را به دست آورده که نشان می‌دهد نرخ تورم عمومی ایران در ماه سپتامبر به ۹۰ درصد رسیده است. این گزارش، افزایش تورم را به کاهش ارزش ریال و محدود شدن دسترسی ایران به بازارهای بین‌المللی در پی کارزار فشار اقتصادی دولت دونالد ترامپ مرتبط دانسته است.\n\nبر اساس این سند، نرخ تورم عمومی ایران پیش از آغاز حملات آمریکا و اسرائیل در اسفند ۱۴۰۴ حدود ۷۰ درصد بود و نرخ تورم هسته، بدون احتساب اقلام پرنوسان مانند مواد غذایی و انرژی، در سپتامبر اندکی بیش از ۷۰ درصد ثبت شد. همچنین نرخ غیررسمی دلار در ماه اکتبر به دو میلیون و ۶۸۷ هزار ریال رسید.\n\nوزارت خزانه‌داری آمریکا در این گزارش اعلام کرده است که از سوم شهریور، یک روز پس از اعلام آغاز کارزار «عملیات طرد اقتصادی»، هیچ محموله نفتی جدیدی در ایران بارگیری نشده است. به گفته این وزارتخانه، تحریم‌ها و محاصره دریایی آمریکا صادرات نفت ایران را محدود کرده و واشینگتن مسیرهای جایگزین انتقال پول، از جمله شبکه‌های رمزارزی، را نیز هدف قرار داده است.\n https://iranintl.com/202610300635",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-10-30T22:56:37+00:00",
+      "published_epoch": 1793400997,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/ADFB-vbWrFlW_qesc5_YUv5dy6ehdEz4_VUJkk8EOfYeIAFToF_cqRXdWKQe8-YJIhHZPweMAuwl3UZBvNzUmopSMPnsUJgY4AmeBtuv3TwO_IwYFEAUrLCEd-LYpYwGBLcgNigvK6ncV8RHrQDLiPmTLpmhyNAl-41osDP8aTPSEIbVO6EoQhRmc3qlRz4BIMM-hV55P_dWcbjj-ggD4V9Q8XjgFTmLVEr8lw1lOlq0LgnMJNImR_HBt0Vn14OmGxnpheK1bL_1OQteTWhMee1xlWbJaz-I7qU7f-Fv-zvh2wfUONf3NabxQoEnPvo-gg-RfexnV16ZzFvVlhOVNA.jpg"
+      ],
+      "local_media_path": "media/2026-10-31/9212bfaac2f02c5a.jpg"
     },
     {
       "hash": "e2a8be0cea68c34e",
@@ -35,7 +333,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/nGheiW0NDYjFABBiR8PELKnntP6bm2xzdp8SbQ3g5e7rbS_xKZRWGkVbCMC4AR1MNL70mPxwco7QNVs64X6UwRcTGTfpzbYlbIfOc0U0pUXkZIQkOCgIlVwhHXMc_eUirZ0cOOlvx5F-oyUKGycyN-NN6WZ2vtaTifUbNWlBUP7rkQHmas_Ylskhbmc6W-eG0mBY3YnxRayRqMrHXt_VSe3stZfBzYYRrQQmo0NGzFeXu9cNGfskfHqb0QjfetryteseRaW8vYqjk0Xf80jq_hQcD1dJvopDfqSWUKgYJrrfttLAiYVqXhfgvx-Va49tg-l2psQ5bvfVBEYQcMd8dQ"
       ],
-      "local_media_path": "media/2026-10-30/5a8e97172d2bffb4.jpg"
+      "local_media_path": null
     },
     {
       "hash": "a3633d5b56262f23",
@@ -51,57 +349,6 @@
       "rtl": true,
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/TeAuVdt48mfCHXJRvCs6b6Y8LYbCWH-b70UPKDo48RIfFMdJtx72YOk6foey-3pOdR6m_LiH9LHJeK5ygBT9-kWnyZt2hDm4s8iiFlUdm67J7oCMMvee448nvbSu7xRoGcRgxaxf5fzTFrqo0Lr0RZViC3Ata8tCQPc5BbRtdzkkKJZsFBfD_IQ0ASXjNAG6v76ch7myFPzgLbGqcVrdUAoHyV0Gh_JJc5Wo03Rpj6MsMZLpmzQCvifQ7RBPmipcdNVo7-z6upFGkSPuGvv-DZl8Gr-cjkM2Jw96-Z1LSg2levMCgtMwqVLVeOZc9JIxXOf22fFw1V85ygZI0c7qYg"
-      ],
-      "local_media_path": "media/2026-10-30/e25735cf43380a53.jpg"
-    },
-    {
-      "hash": "d6850758a320bcfd",
-      "title": "کانال تلگرامی اخبار سپاه پاسداران، نزدیک به این نیروی نظامی، گزارش داد شمار نفتکش‌هایی که طی ۴۸ ساعت گذشته بر اثر برخورد...",
-      "link": "https://t.me/IranintlTV/364656",
-      "summary": "کانال تلگرامی اخبار سپاه پاسداران، نزدیک به این نیروی نظامی، گزارش داد شمار نفتکش‌هایی که طی ۴۸ ساعت گذشته بر اثر برخورد با مین در تنگه هرمز منفجر شده‌اند، به هشت فروند رسیده است.\n\nاین خبر در حالی از سوی این کانال منتشر شده که برد کوپر، فرمانده سنتکام، پیش‌تر اعلام کرده بود نیروهای آمریکایی مسیرهای اصلی کشتیرانی در تنگه هرمز را مین‌روبی کرده‌اند.\n\nآمار اعلام‌شده از سوی کانال تلگرامی اخبار سپاه پاسداران به‌طور مستقل تایید نشده است.\n https://iranintl.com/202610304513",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-30T22:36:06+00:00",
-      "published_epoch": 1793399766,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/Fg44WAn4toIZsKz-JV4uUApMGS8Ndxm9Qp3bA6dB_PEe4d9rg4gJSsJwDO-S38dpaJfR6lB5_vMARCMwpM1Njl92444wOCyZSQx1iDVtIrkP5kK03rYrjCN4xqGfHr3JclLstImFBwqu3WcE9-6U1uspLgJR3sAwo77wv-revRlHkdRQ8JAiZDf_rZuMj6fQVB8Aq5_kBgoP3p6kSAPz3iSmC4thr5f7gO9dL6A3oMc3DHWs0QfB32l-oZvxZniiTly9zcSayc1FQozM5PDpbDdlqiYTnxPya7pQAXw-S7XKo-xrtTT6Fo3OKHpv0BZR03SLAI5phMdMMJTyo5i-1A.jpg"
-      ],
-      "local_media_path": "media/2026-10-30/a0b7a45ae3792b3d.jpg"
-    },
-    {
-      "hash": "51925f87ca3b8a89",
-      "title": "جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت اظهارات نمایندگان مجلس جمهوری اسلامی و امامان جمعه درباره دستیابی به سلا...",
-      "link": "https://t.me/IranintlTV/364655",
-      "summary": "جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت اظهارات نمایندگان مجلس جمهوری اسلامی و امامان جمعه درباره دستیابی به سلاح هسته‌ای، بیش از آنکه بیانگر تصمیم رسمی حکومت باشد، بخشی از کارزار تبلیغاتی برای افزایش فشار بر آمریکا و کشورهای غربی است. به گفته او، با افزایش نقش محسن رضایی در تصمیم‌گیری‌های امنیتی، این تهدیدها شدت گرفته است.\n\nبرزگر هشدار داد خروج جمهوری اسلامی از پیمان منع گسترش سلاح‌های هسته‌ای، ان‌پی‌تی، می‌تواند حمایت کشورهایی مانند روسیه و چین از تهران را نیز دشوار کند. او افزود چنین اقدامی احتمال شکل‌گیری اجماع بین‌المللی برای جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای و خطر حملات نظامی را افزایش خواهد داد.\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-30T22:33:42+00:00",
-      "published_epoch": 1793399622,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/hroRiA2F6xKG2NQ-oauTmUvwHNJ6Sb-vSe92GanNaqW2VnGsmCsZfOiJ8zc5PqKAobHaKTXtIiFEqRngeSccOOBhrwd6h3ydDHcRbjaFju2SguwsdBfkXT2QrlZk40nr8dbnJV0NoG5GswGYutKXLD52AVnNkA4DupMYvtjV-z3gwYyIiugNr2vHBE0chgjLQ_7mXitwaRbBKUB6_cYU-2tkhRORYb98DqJHBiZ3y6l7Lppidea_XDz1lNlte668fJ0yOUPb-rVc2CTYaHefhxRexY-KzJy2-bTMzsIupa0WFFUt5ggTe0zpCFvKhZcDwOaRIkkSUZpEfm4uKM3dlg"
-      ],
-      "local_media_path": "media/2026-10-30/9a8e610e1f5849be.jpg"
-    },
-    {
-      "hash": "f4a1f41e0b4e10f1",
-      "title": "دونالد ترامپ اعلام کرد مذاکرات با جمهوری اسلامی همچنان ادامه دارد، اما واشینگتن برای دستیابی به توافق عجله‌ای ندارد. او ...",
-      "link": "https://t.me/IranintlTV/364654",
-      "summary": "دونالد ترامپ اعلام کرد مذاکرات با جمهوری اسلامی همچنان ادامه دارد، اما واشینگتن برای دستیابی به توافق عجله‌ای ندارد. او تاکید کرد تهران خواستار گفت‌وگو است، اما حکومت با بحران‌های شدیدی روبه‌روست.\n\nهم‌زمان، خبرنگار اکسیوس، گزارش داد هیات میانجی‌گر قطر پس از ۱۲ ساعت حضور در تهران، همچنان در حال گفت‌وگو برای دستیابی به توافق میان آمریکا و جمهوری اسلامی است.\n\nجزییات بیشتر با کامبیز توانا، عضو تحریریه ایران‌اینترنشنال\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-30T22:27:08+00:00",
-      "published_epoch": 1793399228,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/OUH-TSEJE_uimJqDnjJL7Omo-8_trLopA8TSKVlI4ayejjt6Loi_F6ysX-P9xMFHKqOW7ezStbv_YRDSXi7sT39qa8F7V2qL_v3aMXxv9-mvhU4GVeaEzej6FRgFHvs1nRVGes01PmQyKcr5MIO_JlND3vKJ8QFEQb97wO8zpDomqNkcA2SwLfoDUcmHPZT-hWYrSgoFhY2GSIwn8b6vk4n6DY6rz-vuTX9-ziLtbpwJYFzhCu11tFjtSAHnuLo1m1Kln8BRtOExsGIfnXUDpHGVHdKqbqQobsPn6egdypfc30nAPdYtWiSCKmtdNE_D5bUnOgajm4SdcDGCgYy0tg"
       ],
       "local_media_path": null
     },
@@ -121,6 +368,21 @@
       "local_media_path": null
     },
     {
+      "hash": "e429c75221cb34bb",
+      "title": "An ICE officer is charged with assault for striking a man with a car in Houston - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFh4dnZmYThTd3d1QUZQRDdEOTNNU2tfYUQxM3FtVGR0UjdSTzV0ZndxWGt6MDI2NGMwTUZhcXZSN2xCbG1XdDg3aW4yUWJnWHRYeW1CTmxMRVRpR0wtX2IyLUtDdlFGMmxtNkNqRG1WQmhGRGh6VUU3dG1GLW9GdmUwWVVsYlJscnRKdnNCLTk2cnJYRXZtc0tDdw?oc=5",
+      "summary": "An ICE officer is charged with assault for striking a man with a car in Houston    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-10-30T22:22:00+00:00",
+      "published_epoch": 1793398920,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
       "hash": "e92bfc517da4919e",
       "title": "گروه ویژه اقدام مالی جمهوری اسلامی را در فهرست سیاه نگه داشت و خواستار اصلاح قوانین شد",
       "link": "https://www.iranintl.com/202610305028",
@@ -135,56 +397,22 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/d9c062846c6f9fc6d7c6346ef04544ce6f2364d3-621x360.jpg?rect=0,18,621,325&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-30/d45d439eeb417c06.jpg"
-    },
-    {
-      "hash": "4ca9df7413af2e68",
-      "title": "دنی دانون، سفیر اسرائیل در سازمان ملل متحد، با انتشار ویدیویی در صفحه ایکس خود از سخنان‌اش در مجمع عمومی سازمان ملل، خطا...",
-      "link": "https://t.me/IranintlTV/364653",
-      "summary": "دنی دانون، سفیر اسرائیل در سازمان ملل متحد، با انتشار ویدیویی در صفحه ایکس خود از سخنان‌اش در مجمع عمومی سازمان ملل، خطاب به نماینده جمهوری اسلامی هشدار داد که حکومت ایران در آستانه سقوط قرار دارد و مردم ایران به‌زودی فرصت تعیین سرنوشت خود را خواهند یافت.\n\nدانون در این ویدیو گفت: «شما مرتکب اشتباهی بزرگ می‌شوید. وقت آن رسیده که واقعیت را ببینید. غرورتان باعث سقوط شما خواهد شد. زمین زیر پایتان در حال جوشیدن است.» او خطاب به مردم ایران افزود: «لحظه شما به‌سرعت نزدیک می‌شود. به‌زودی می‌توانید آینده خود را تعیین کنید.»\n\nسفیر اسرائیل همچنین گفت جمهوری اسلامی فرصت‌های متعددی برای کنار گذاشتن ایدئولوژی افراطی خود داشته، اما همه آن‌ها را رد کرده است. او تاکید کرد اسرائیل در برابر تهدیدهای جمهوری اسلامی و رنج مردم ایران بی‌تفاوت نخواهد ماند و از کشورهای جهان خواست علیه این حکومت موضع بگیرند. دانون افزود: «اسرائیل در کنار مردم ایران و کسانی ایستاده است که خواهان آزادی از این حکومت هستند.»\n https://iranintl.com/202610300543",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-30T22:16:46+00:00",
-      "published_epoch": 1793398606,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/rouffiE0P06RSgaKfYMVsrYZnWeIguWSuFcR9kjvj-o7gv6w2xpAuoVTma4uQ1-HZvhM_GWatx0KgRz4WaBVKPppv96lj5764Da7VPWrs-_AWXjG9_q2___vE6-eHtFHGhZ8LK9vclGLl8T9dUh5vgzM9ZP5sQTrzf8VpAYwWyGLWHsuRj1d7OeJLNEL2Jt_t1opjGLMqtU65irqZNlsqD95DqVkgoQysPW_gjtWxqYsXEeRxzOTXTHZ_p022UIxZ36y7qDoj-WEM6hQDTgaya1WYNrTPvdq4XGabaXridOfqDnhEFag6HzlzcSPQRxWEIrhhtRfowgzbCiaZZkppA.jpg"
-      ],
-      "local_media_path": "media/2026-10-30/2e57f4f0975d23b7.jpg"
-    },
-    {
-      "hash": "8f4aff2a1ebd6953",
-      "title": "France is getting download tax for content providers (€0.055/GB)",
-      "link": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
-      "summary": "Article URL: https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/ \n Comments URL: https://news.ycombinator.com/item?id=50310796 \n Points: 5 \n # Comments: 1",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-30T22:10:12+00:00",
-      "published_epoch": 1793398212,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "e721dd58808d3865",
-      "title": "سرخط خبرهای شنبه ۹ آبان",
-      "link": "https://t.me/IranintlTV/364652",
-      "summary": "سرخط خبرهای شنبه ۹ آبان\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-30T22:08:21+00:00",
-      "published_epoch": 1793398101,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/nxiqAcfgvxSgAI_rD3m9dA-R83QQibE5DQarQsWUXH8eyv4Nc4Vy2UWHue2w1nFRxgdUPTwqeIkJhc9Y_6lNUvDQoVRrZbjEv9iIXRlDvw79vS3Ju6fbAIcZveg0JsheZy6GMiIB5d-Fj8AImEtA5ybp98eAzikFo3gZNIDfSEMppH5NC9pgAY3FuD-o2iJpQMm47xas0adUEawY_cZZi5c6FSst0Fn6949bG3VCPVPXeoZFgRKlOPoFcKuqNaRGTLBrqQkWC8X7NHEs5w_kZ8qP8l5ZWlyVm1hjSKStd23OEaNSKchlJhYGvebwEbBAffVSov0_stkcaQgV1N8bjA"
-      ],
-      "local_media_path": "media/2026-10-30/3ee24cb3164da7f8.jpg"
+      "hash": "5e022560ddbe7a98",
+      "title": "US FDA approves Inovio's treatment for rare throat disease; shares surge - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmdHX0xYU2FPbm1sVkNPVVRMdk5kR2F3ZXdQamlrNUxnNjROR1ZSQjF1SGRZbEpESGxwLUgwNE95NnJmZTlOTUFWcGkzNmN6c1RQS1cxWkxpV2FacVVBdzYxYi1iRWZJeDUzdm9WU0c2YVV1LXJhbWhvbjFpRHphTENVX09lUEZ0MTFpeVVmSXZuaGkwRmo3bmhJOVNaSDRFakVQbTNnc3V6dw?oc=5",
+      "summary": "US FDA approves Inovio's treatment for rare throat disease; shares surge    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-30T22:18:51+00:00",
+      "published_epoch": 1793398731,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "8a7798465a1ad559",
@@ -202,61 +430,10 @@
       "local_media_path": null
     },
     {
-      "hash": "850751d8b22a44f9",
-      "title": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید: «من سه ماه است حقوق نگرفته‌ام، اما حاضرم این سختی‌ها را تحمل کنم...",
-      "link": "https://t.me/IranintlTV/364651",
-      "summary": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید: «من سه ماه است حقوق نگرفته‌ام، اما حاضرم این سختی‌ها را تحمل کنم تا رژیم آخوندی جمهوری اسلامی یک‌بار برای همیشه تمام شود.»",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-30T22:04:43+00:00",
-      "published_epoch": 1793397883,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/IE4pazl2Eb2wiD7_Ece7PgYHJdESV8ue_QmvdqLhv6tG6RFdCu_yuyE1fhNFAeUyF_Mp-Qk1VHzTxqGJpBZqrz2u88Y0k3JWIlQRP4OKP2WcD_yGk-C7lAydaN4vuBF1p0eg1EUYnP0JCGXW_1MS_krrsWU2-GY7Eaxc6pelo6Flq-NRu56396UCXr399NqeLpRVRvUHfwMUALZRFEwkwsX4sb-wBQ74HrQyDI8ZJXzMWIAxLN24JryJmB8UvRkbcE-ZtlOQnU0_t3cm1itFidrtQJaba2S0EtXhFnSsJQWAXlVQfQMvGauH4Tyyk6--2fcwQwpSjsEEpDZQV1CAuw"
-      ],
-      "local_media_path": "media/2026-10-30/0dbdace11bc95607.jpg"
-    },
-    {
-      "hash": "9f9a88f363cc2386",
-      "title": "🔻 شنبه ۹ آبان، تیم‌های فوتبال نساجی مازندران و پرسپولیس در جریان هفته یازدهم لیگ برتر به مصاف یکدیگر می‌روند. پرسپولیس د...",
-      "link": "https://t.me/IranintlTV/364650",
-      "summary": "🔻 شنبه ۹ آبان، تیم‌های فوتبال نساجی مازندران و پرسپولیس در جریان هفته یازدهم لیگ برتر به مصاف یکدیگر می‌روند. پرسپولیس درصورت پیروزی در این بازی،‌ دوباره صدرنشین خواهد شد.\n\n 🔹️ ️️️️️گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n\n 🔹️ ️️️️️تماشای نسخه کامل هت‌تریک؛ 👇️ ️️️️️\n https://youtu.be/LYACfAwUkp8 \n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-30T22:04:16+00:00",
-      "published_epoch": 1793397856,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/Ff-zUmCxbcbWHevu9dd9L1cxJpE1GzRvZWBD84IieAmd9yjCzqa6FfSXCZ91nejGHOIHmztoqZvEJrTyCJo5RinVe13HrIY_-EX_ZFQyeLItUCTG5URC_IIJ0DgOl-GdUISr3VV4pYCuE0bxPp7kv185dnQ8DHBjsX4mfPFelljr7DASqnfNM1qmTfriylg4lKmcT232sp4IE3DUoFE13j4aiCR5tuP1EltS0jrdxA3-edwe8jim1AqMASOBRcKQ-D5BWeXjUrYdnEJMtfN5WLweSdEt2zRwkNKlU4MtegBQGz1kZCgRY0qfWiOO9ScncmlI62e5Koqzic1tQNrgJw"
-      ],
-      "local_media_path": "media/2026-10-30/3d824e2bb15abf68.jpg"
-    },
-    {
-      "hash": "2ed088cec400fa89",
-      "title": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت جمهوری اسلامی با مشکلات اقتصادی گسترده‌ای روبه‌رو است و حتی در پرداخت حقوق نیروهای...",
-      "link": "https://t.me/IranintlTV/364649",
-      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت جمهوری اسلامی با مشکلات اقتصادی گسترده‌ای روبه‌رو است و حتی در پرداخت حقوق نیروهای نظامی و پلیس مشکل دارد. او همچنین تاکید کرد جنگ با ایران یک جنگ معمولی نیست و مدعی شد آمریکا با هزینه‌ای نسبتا اندک، توانسته تهدید سلاح هسته‌ای جمهوری اسلامی را از میان ببرد.\n\nترامپ در پاسخ به انتقادها درباره هزینه‌های جنگ گفت آمریکا با اقداماتی که در ونزوئلا انجام داده، بیش از هزینه‌های عملیات نظامی در ایران درآمد کسب کرده است. او گفت دستاوردهای مالی واشینگتن در ونزوئلا به صدها میلیارد دلار رسیده است.\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-10-30T22:00:30+00:00",
-      "published_epoch": 1793397630,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/gH5Rlzn0evXEhknAwih7H8H8JA4GqjoswBCYlsbU0AckGYSr0XurHNIUObqd9v1e7uf6PnPUx_uWvmx5LOV4MaSEprElAGK0r2XP7lNKO-pQWbb0iL7OCPNWRF4eybhIf7bWwMh90EawStFYv4nV-jZO8G2JCNsXj3UmUQ3OapxOqkgOuR9KZ5NQ_erymhL05B8lNGiSogyVIINknHtjsqFWzPfOOIEExvlVTQ0HYQ4g8PzNUPWFew6sg47zKFoAnYayj6LW81THi360L_-aXbstmHx2bV1GrCSTSFOFvJGdlgvOovonnN27bxxctJe1dVY_DkflKK3q5JYdTZwLwQ"
-      ],
-      "local_media_path": "media/2026-10-30/578bed0f10445b22.jpg"
-    },
-    {
       "hash": "0383ab3e8939528c",
       "title": "Linode Security Incident",
       "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
-      "summary": "Article URL: https://status.linode.com/incidents/nt58zhx3pmgm \n Comments URL: https://news.ycombinator.com/item?id=50310687 \n Points: 52 \n # Comments: 15",
+      "summary": "Article URL: https://status.linode.com/incidents/nt58zhx3pmgm \n Comments URL: https://news.ycombinator.com/item?id=50310687 \n Points: 149 \n # Comments: 78",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -268,25 +445,25 @@
       "local_media_path": null
     },
     {
-      "hash": "e429c75221cb34bb",
-      "title": "An ICE officer is charged with assault for striking a man with a car in Houston - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFh4dnZmYThTd3d1QUZQRDdEOTNNU2tfYUQxM3FtVGR0UjdSTzV0ZndxWGt6MDI2NGMwTUZhcXZSN2xCbG1XdDg3aW4yUWJnWHRYeW1CTmxMRVRpR0wtX2IyLUtDdlFGMmxtNkNqRG1WQmhGRGh6VUU3dG1GLW9GdmUwWVVsYlJscnRKdnNCLTk2cnJYRXZtc0tDdw?oc=5",
-      "summary": "An ICE officer is charged with assault for striking a man with a car in Houston    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
+      "hash": "956eba3f065aa07f",
+      "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
+      "summary": "North Korea says sanctions don't work to deny its status as nuclear weapons state    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-10-30T21:56:00+00:00",
-      "published_epoch": 1793397360,
+      "published_at": "2026-10-30T21:44:09+00:00",
+      "published_epoch": 1793396649,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
     {
       "hash": "50feaec2c2a1e076",
-      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "link": "https://www.firezone.dev/blog/introducing-sanstun",
-      "summary": "Article URL: https://www.firezone.dev/blog/introducing-sanstun \n Comments URL: https://news.ycombinator.com/item?id=50310398 \n Points: 23 \n # Comments: 1",
+      "summary": "Article URL: https://www.firezone.dev/blog/introducing-sanstun \n Comments URL: https://news.ycombinator.com/item?id=50310398 \n Points: 61 \n # Comments: 14",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -298,46 +475,16 @@
       "local_media_path": null
     },
     {
-      "hash": "a11424564618b9c2",
-      "title": "McDonald's must face lawsuit over McRib, US judge rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVDhaTWVhR2RLZVplbHFIWkZQTGFXLVRZRnk5TEhiV0k2RGpjREU2d2JVdDQ0bGR1dWVLQ1FhQmNrdTJFazlaQXh6bWN6d0dkWjA2cGRXYVdqRGVMVHRRWl9TN1pScDBuT1ROUWlyUGEtM2FyTGdCWVJmSm5aQkdyY0RUV1pHMDZKbFBWZ0hYdXhrRWw3Skt0cGZkREFGVWdGN2Q0ZnpxNDZIdw?oc=5",
-      "summary": "McDonald's must face lawsuit over McRib, US judge rules    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-30T21:27:20+00:00",
-      "published_epoch": 1793395640,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "7e7eece139c5df49",
       "title": "AO3 Down for Maintenance",
       "link": "https://www.otwstatus.org",
-      "summary": "Article URL: https://www.otwstatus.org \n Comments URL: https://news.ycombinator.com/item?id=50310258 \n Points: 49 \n # Comments: 6",
+      "summary": "Article URL: https://www.otwstatus.org \n Comments URL: https://news.ycombinator.com/item?id=50310258 \n Points: 92 \n # Comments: 22",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
       "category": "tech",
       "published_at": "2026-10-30T21:17:23+00:00",
       "published_epoch": 1793395043,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "5e022560ddbe7a98",
-      "title": "US FDA approves Inovio's treatment for rare throat disease; shares surge - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmdHX0xYU2FPbm1sVkNPVVRMdk5kR2F3ZXdQamlrNUxnNjROR1ZSQjF1SGRZbEpESGxwLUgwNE95NnJmZTlOTUFWcGkzNmN6c1RQS1cxWkxpV2FacVVBdzYxYi1iRWZJeDUzdm9WU0c2YVV1LXJhbWhvbjFpRHphTENVX09lUEZ0MTFpeVVmSXZuaGkwRmo3bmhJOVNaSDRFakVQbTNnc3V6dw?oc=5",
-      "summary": "US FDA approves Inovio's treatment for rare throat disease; shares surge    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-30T21:17:10+00:00",
-      "published_epoch": 1793395030,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -358,36 +505,6 @@
       "local_media_path": null
     },
     {
-      "hash": "b2bae5820e89f7cf",
-      "title": "October ends with a thud for Intel, Reddit, AI stalwarts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnVOYWtuZ0pscDhrZzNkRldHcFVCZmc2SHlBcDBhQ0JoSkQ4bURFRjBrWDlUb184bWFYcC1hR1c3SXpldTlvd3NBMkowX3loazVVdWlxUjhlYmwwSVhUVWdxamtMclpLTjV2WW5QSjM1YTl2b3hrOEkzclRmX19QSkp4a1FfckFTWWwtb0VfemJjUmVHNndxWU9fcXpWVVAwZThIbEF3OA?oc=5",
-      "summary": "October ends with a thud for Intel, Reddit, AI stalwarts    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-30T20:53:02+00:00",
-      "published_epoch": 1793393582,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "f7319b543e3f36d9",
-      "title": "US approves $2.1 billion Patriot missile sale to Ukraine - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno?oc=5",
-      "summary": "US approves $2.1 billion Patriot missile sale to Ukraine    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-30T20:48:30+00:00",
-      "published_epoch": 1793393310,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "201e796da37df2b3",
       "title": "ساخت ویدیو با Claude Code، بدون استفاده از انجین کروم یه توسعه‌دهنده ابزاری ساخته به اسم Kinetograph که جای Remotion رو ...",
       "link": "https://t.me/MatinSenPaii/5737",
@@ -403,16 +520,16 @@
       "local_media_path": null
     },
     {
-      "hash": "d0be16745e173982",
-      "title": "Polish president turns back from Senegal trip as top court chief suspended - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5",
-      "summary": "Polish president turns back from Senegal trip as top court chief suspended    Reuters",
+      "hash": "b2bae5820e89f7cf",
+      "title": "October ends with a thud for Intel, Reddit, AI stalwarts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnVOYWtuZ0pscDhrZzNkRldHcFVCZmc2SHlBcDBhQ0JoSkQ4bURFRjBrWDlUb184bWFYcC1hR1c3SXpldTlvd3NBMkowX3loazVVdWlxUjhlYmwwSVhUVWdxamtMclpLTjV2WW5QSjM1YTl2b3hrOEkzclRmX19QSkp4a1FfckFTWWwtb0VfemJjUmVHNndxWU9fcXpWVVAwZThIbEF3OA?oc=5",
+      "summary": "October ends with a thud for Intel, Reddit, AI stalwarts    Reuters",
       "source_id": "reuters_wire",
       "source_name": "Reuters Wire",
       "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-10-30T20:44:16+00:00",
-      "published_epoch": 1793393056,
+      "published_at": "2026-10-30T20:34:00+00:00",
+      "published_epoch": 1793392440,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -432,13 +549,13 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/oPkh7MCaz0ZGAldJYmM6b-ro12DV2-ubKhCkkrDIS0CGbkxbFuKL5g2lYImtanFQTSinmmyoGCKy5gw1BLBFZR20o32pvtRTQctes4fMlZnpuPCrVdlBfwSc-qq5vKHj1HzQtyE0pUa5ne0pU6qi-XTSbGn1lIzluTrPGXKxq-2ZUVXIGINnDoJtp0oEGcPmFlaCW0DlGMDKuVsUVCCfQKFZaeTmBTP34S7scNDhrSiItOrnsn6qnpnkiWHVqU5UOiVLoRsfIS6w_6U8qR3oNeHm4Noz8TeJOHKC236qodC-n9MLkDd7g6JvkcOBS1SS5w6ulbLSwQroMC6kcmKu5w"
       ],
-      "local_media_path": "media/2026-10-30/37d718ad6bf39b02.jpg"
+      "local_media_path": null
     },
     {
       "hash": "38bf7b60e3017ad0",
       "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
       "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ \n Comments URL: https://news.ycombinator.com/item?id=50309647 \n Points: 113 \n # Comments: 57",
+      "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ \n Comments URL: https://news.ycombinator.com/item?id=50309647 \n Points: 214 \n # Comments: 126",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -464,7 +581,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/208ff4b7293e93b6f0b991e9f959ca2b8427d2bd-1920x1080.png?rect=0,38,1920,1005&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-30/a3766b88b5ac3a5d.jpg"
+      "local_media_path": null
     },
     {
       "hash": "6ab40d6585d54087",
@@ -477,21 +594,6 @@
       "category": "wire",
       "published_at": "2026-10-30T20:20:09+00:00",
       "published_epoch": 1793391609,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "c949af5cea000679",
-      "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
-      "link": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
-      "summary": "Article URL: https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/ \n Comments URL: https://news.ycombinator.com/item?id=50309573 \n Points: 18 \n # Comments: 2",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-30T20:18:18+00:00",
-      "published_epoch": 1793391498,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -512,46 +614,16 @@
       "local_media_path": null
     },
     {
-      "hash": "171eac8029637be0",
-      "title": "Thousands gather in Paris suburb in tribute to victims of shooting - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRnoxcEFmdjIwV0I0N2pLcV9PSnNwM3J4SHJiTHBxaFNrODNRQUpEWTBscy1xV2NiYllTb0Z5ZC1veHJURDY5LXpFZ2dERDBaQkNOWjFKdTJaMV9zT21pQ3FJdlFialh6dnVhRDNSX1kwTFFoR0dmNWxROEJQSzVpX2xKb3JaUW5aNExoSzBpM3NxS2VkY0E3X2NabzQ?oc=5",
-      "summary": "Thousands gather in Paris suburb in tribute to victims of shooting    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
+      "hash": "6c85159ed11e51a7",
+      "title": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5",
+      "summary": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
       "category": "wire",
-      "published_at": "2026-10-30T20:13:44+00:00",
-      "published_epoch": 1793391224,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "28f2337eac046256",
-      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
-      "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-      "summary": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as tables (relations).\n- ddx: a database extension that adds automatic differentiation in the style of JA...",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-30T20:09:47+00:00",
-      "published_epoch": 1793390987,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "139e8bb290efa6ba",
-      "title": "An Arrogant Way of Killing (2016)",
-      "link": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
-      "summary": "Article URL: https://magazine.atavist.com/2016/an-arrogant-way-of-killing \n Comments URL: https://news.ycombinator.com/item?id=50309470 \n Points: 15 \n # Comments: 7",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-10-30T20:08:52+00:00",
-      "published_epoch": 1793390932,
+      "published_at": "2026-10-30T20:15:00+00:00",
+      "published_epoch": 1793391300,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -569,30 +641,15 @@
       "published_epoch": 1793390833,
       "rtl": true,
       "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/FYz0KR0LkcMkAoxWQu_z3p1yIlOAl0fEeBESG3AV-EO0XZ7HewqJnMlzzvA6Uf7KoDrU7-Z_6at_QrNnCpwl6oqXRVdOlolYfrn2kcYdxZAtuAXwGbjhq2Eg4Kz8XrYn-9eFGTBYnoDMjFqrzcHfGG1L0Mr6oXCqz5pZmiObcsZG9wa-GuUU-fCu26L-in6SkHkwoRlLmaLKrn-uH9lGlkQAvl7qOu57W87uFd5cOgUTWNcpgqZlOKI3XT_S3FucXipAmW-DOcrZlxrmuS8tdsiCEmAfreIjSELjkyCYIcIqINuwg0ff5tJjEKav4QWPT6G4pMNfN39IocYxj_-THg.jpg"
+        "https://cdn1.telesco.pe/file/apm5Dr5twYCmlvwYf6eufik1dLH2ZEGjoTVaqHNpRgRU1EhVXKugLzFY57dWhmmUS3drdK-3YgTtYAQDZEeKnTYM23CJrDRjoMhCFUQ8-zVB17rHIoVjuCVC5ARkayD_Znt9pjAwh-Fn-WgbmDKsXwxqHp7yCGZfWSVReK6fuY6bhOK60wAIMXSmnGDbLLQH6l-pZJb-PR2VpZ4bM9TGkUZJgWZOBTle6hjUW26iHFYpMYBPFT_tuPBNs6j1af18hYS8u9ryV-nM1KG8v5pGG3mbEOwcbGtC9hJALuHi3la2yRum9czUPrY9sMcVV1FCuqGk8gc8EU8vJ1CrpanuPg.jpg"
       ],
-      "local_media_path": "media/2026-10-30/034857acfd8d42de.jpg"
-    },
-    {
-      "hash": "d1f34f75d7255835",
-      "title": "Russia vetos US-drafted resolution on Western Sahara - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUm5zVXBMZTEtQnVkYW9MY1FJYXo0S0x2V1llamdsaEgxZmFLMlBpVEE5b3BZUGM1akRURXg2dWJJdUpOeHJlc3FvYW5QUEc0czJZdTI1SUNKYm5GS2FGNGxqcHFwQzdmQ3drOFBwa19JaHFvZEFRMGwzdTQ3T3gyNzJYdmctUDQ1Y2xCZmh4NC1oQUhqVXc?oc=5",
-      "summary": "Russia vetos US-drafted resolution on Western Sahara    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-10-30T19:59:21+00:00",
-      "published_epoch": 1793390361,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
       "hash": "fc2b672a3941e47f",
       "title": "Jules Verne's Lost Novel",
       "link": "https://blue-continuum.com/verne-paris",
-      "summary": "Article URL: https://blue-continuum.com/verne-paris \n Comments URL: https://news.ycombinator.com/item?id=50309314 \n Points: 48 \n # Comments: 12",
+      "summary": "Article URL: https://blue-continuum.com/verne-paris \n Comments URL: https://news.ycombinator.com/item?id=50309314 \n Points: 83 \n # Comments: 19",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -607,7 +664,7 @@
       "hash": "43fccb2925180cb9",
       "title": "The oldest ice disappears and the Stone Age emerges from it",
       "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "summary": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 \n Comments URL: https://news.ycombinator.com/item?id=50309266 \n Points: 45 \n # Comments: 12",
+      "summary": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 \n Comments URL: https://news.ycombinator.com/item?id=50309266 \n Points: 94 \n # Comments: 34",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -634,6 +691,36 @@
       "local_media_path": null
     },
     {
+      "hash": "f52fe725fd01e56c",
+      "title": "Infinite Mac: BeOS",
+      "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "summary": "Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html \n Comments URL: https://news.ycombinator.com/item?id=50309029 \n Points: 105 \n # Comments: 39",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-30T19:30:09+00:00",
+      "published_epoch": 1793388609,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "27a210cf545d344d",
+      "title": "A Pickpocket's Guide to New York",
+      "link": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york \n Comments URL: https://news.ycombinator.com/item?id=50308986 \n Points: 54 \n # Comments: 7",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-30T19:26:39+00:00",
+      "published_epoch": 1793388399,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
       "hash": "a7ec3bb055a3cd01",
       "title": "سازنده میم جنجالی امباپه: قصد داشتم به چین سفر کنم؛ امیدوارم با من مشکلی نداشته باشند",
       "link": "https://www.iranintl.com/202610303095",
@@ -648,7 +735,22 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/4399d25dfeee8c8b8b94415b77d2be2694d52a63-2600x1790.jpg?rect=124,247,2476,1296&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-30/80e79899bfba9316.jpg"
+      "local_media_path": null
+    },
+    {
+      "hash": "f7319b543e3f36d9",
+      "title": "US approves $2.1 billion Patriot missile sale to Ukraine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno?oc=5",
+      "summary": "US approves $2.1 billion Patriot missile sale to Ukraine    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-10-30T19:23:00+00:00",
+      "published_epoch": 1793388180,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "4a74e90ed8a6262d",
@@ -662,6 +764,21 @@
       "published_at": "2026-10-30T19:10:51+00:00",
       "published_epoch": 1793387451,
       "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "0ba7eb8e4c9a0b3d",
+      "title": "Bunny CDN Security Incident",
+      "link": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "summary": "Article URL: https://status.bunny.net/incidents/p6gf1by9kr7m \n Comments URL: https://news.ycombinator.com/item?id=50308697 \n Points: 201 \n # Comments: 40",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-10-30T19:05:22+00:00",
+      "published_epoch": 1793387122,
+      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -680,7 +797,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/b366ac2c2f6f30e5faf3d8c0759ac82d93683e28-1095x615.png?rect=0,22,1095,573&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-30/ca8c9edf66cd32fd.jpg"
+      "local_media_path": null
     },
     {
       "hash": "48250fc6b3dcddb8",
@@ -697,19 +814,19 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/738a29a3a3f4718d59e9c2f5c616742b32189f69-800x534.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-10-30/c81c8a7ec0db5552.jpg"
+      "local_media_path": null
     },
     {
-      "hash": "0446c2246d6f7116",
-      "title": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeG4zX0dQOXRZdkNCLTVnaWQ4bm1Wem53VEh1cjZvYmdqQkx5SVZzZUlzQUkzT0w3UEc2a1Zhb3I5UDhreVlGYVZWR2NhYTMydlkzNDZWMnJvQlVCLUZkY01ZaWRaMm1WNjVmckZOZEpIRXZ4UzRLNjIxOUtTdnp2Y2hLSmNlbEZId0cxNGg4LWw5TWNEejVCUW1zdy0td3FoUm9STVJ1OVB2SUljWmtid25B?oc=5",
-      "summary": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation    Reuters",
+      "hash": "d0be16745e173982",
+      "title": "Polish president turns back from Senegal trip after top court chief suspended - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5",
+      "summary": "Polish president turns back from Senegal trip after top court chief suspended    Reuters",
       "source_id": "reuters_wire",
       "source_name": "Reuters Wire",
       "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-10-30T18:39:08+00:00",
-      "published_epoch": 1793385548,
+      "published_at": "2026-10-30T18:18:00+00:00",
+      "published_epoch": 1793384280,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -767,9 +884,9 @@
     },
     {
       "hash": "4e3689d9b4822c0c",
-      "title": "اقتصاد فرانسه «متوقف»؛ پیامد آن بر معادله بودجه چیست؟",
+      "title": "اقتصاد فرانسه در وضعیت توقف؛ پیامد آن برای معادله بودجه‌ای چیست؟",
       "link": "https://parsi.euronews.com/2026/10/30/the-french-economy-at-a-standstill-what-effect-on-the-budget-equation",
-      "summary": "فرانسه از آغاز سال رشدی نداشته و تولید ناخالص داخلی بین ژوئیه و سپتامبر ۰.۱ درصد کاهش یافته است. دولت از نیروهای سیاسی می‌خواهد بودجه ۲۰۲۷ را تصویب کنند، در حالی که توان کشور برای آرام‌کردن بازارها زیر سوال رفته است.",
+      "summary": "فرانسه از آغاز سال هیچ رشدی ثبت نکرده و تولید ناخالص داخلی بین ژوئیه و سپتامبر ۰.۱ درصد کاهش یافته است. دولت نیروهای سیاسی را برای تصویب بودجه ۲۰۲۷ زیر فشار گذاشته، در حالی که توان کشور برای آرام کردن بازارها زیر سوال است.",
       "source_id": "euronews_persian",
       "source_name": "Euronews Persian",
       "source_name_fa": "یورونیوز فارسی",
@@ -911,40 +1028,6 @@
       "local_media_path": null
     },
     {
-      "hash": "a1607fce9ff93ffd",
-      "title": "حسن یزدانی پس از برنز جهانی: سال ۲۰۲۷ و المپیک ۲۰۲۸ تلاش می‌کنم به مدال طلا برسم",
-      "link": "https://www.iranintl.com/202610306328",
-      "summary": "حسن یزدانی، کشتی‌گیر وزن ۹۷ کیلوگرم تیم ملی کشتی آزاد ایران پس از کسب مدال برنز مسابقات جهانی آستانه قزاقستان، گفت که برای مدال طلای مسابقات جهانی ۲۰۲۷ و المپیک ۲۰۲۸ لس‌آنجلس تلاش می‌کند.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-30T16:57:56+00:00",
-      "published_epoch": 1793379476,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/d3688ee1aaba85ff7ceb01309959ffb7c40bb482-720x1280.jpg?rect=166,532,554,290&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "7a6509bf402a8aa8",
-      "title": "دیرینه‌شناسان نخستین دایناسور میوه‌خوار جهان را شناسایی کردند",
-      "link": "https://www.iranintl.com/202610301938",
-      "summary": "دانشمندان برای نخستین بار فسیل‌های دایناسوری میوه‌خوار را کشف کرده‌اند که بی‌دندان و به‌اندازه بوقلمون بود. این جانور سری شبیه طوطی داشت و ساختار منقار و آرواره‌هایش برای خوردن میوه و دیگر خوراک‌های گیاهی نرم سازگار شده بود.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-30T16:50:58+00:00",
-      "published_epoch": 1793379058,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/f1519a7ecf7486947433136df88940155b037993-1583x2048.jpg?rect=0,845,1583,828&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
       "hash": "e6bd9960bbc980fc",
       "title": "شیائومی یه مدل هوش مصنوعی متن‌باز به اسم Xiaomi-OCR-0 منتشر کرده که قراره کار با اسناد و فایل‌های متنی رو خیلی هوشمندتر ...",
       "link": "https://t.me/Linuxor/5872",
@@ -991,23 +1074,6 @@
       "published_epoch": 1793377456,
       "rtl": true,
       "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "ac96037af6d2d276",
-      "title": "خیبر خرم‌آباد ۱-۲ سپاهان؛ شاگردان محرم نویدکیا بالاخره به صدر رسیدند، حداقل برای یک روز",
-      "link": "https://www.iranintl.com/202610309157",
-      "summary": "تیم فوتبال سپاهان در هفته یازدهم لیگ برتر، خیبر را در خرم‌آباد با نتیجه دو بر یک شکست داد و در ادامه عملکرد فوق‌العاده خود در ۶ هفته گذشته لیگ، با ۲۳ امتیاز صدرنشین جدول شد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-10-30T16:15:24+00:00",
-      "published_epoch": 1793376924,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/115ec34775babd8cd939dac820e0decd6ad74e2e-1903x2378.jpg?rect=0,742,1903,996&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
       "local_media_path": null
     },
     {
@@ -1150,23 +1216,6 @@
       "rtl": true,
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/rnfhYyoUTaaf9k_Kh8HpB3TnX7WO95toAwy5Z3hWcWBh-uvlfu91-XNv16u1chHDnWR4NvM7cw9KqEqEenlrP8i2XhhtpVEB0mic82DRKkEYw5szwIfzgqwn5CjpXDNntMn6MgOFoy_w0m32BoxgJX4z7JKyCgfmJcgaVvd_9VHU7hXKIR3NqJhba88biqkQrA-sTKe5783weHEBo6azfX7RhR9pE-YIV8n70E5LqjV87P6VECjIDM2lwBUtB_9Py5aOVSQRxnCXrnmWfAaqyNRWY7CMlfykGTG_GTRiOM1gaylipy8Ph4hTAVBFUgkD8BSUTHxesAzIU8Dixv16sA.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "fe91c095550d4148",
-      "title": "«ما را کشتند»؛ تعطیلی روزنامه مستقل «نوایا گازتا» زیر فشار دولت روسیه",
-      "link": "https://www.bbc.com/persian/articles/c6d93p7vjp95o?at_medium=RSS&at_campaign=rss",
-      "summary": "روزنامه «نوایا گازتا» یکی از برجسته‌ترین رسانه‌های خبری مستقل که همچنان در روسیه فعالیت می‌کرد، اعلام کرده است که در پی فشارهای دولت، به زودی تعطیل می‌شود.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-10-30T14:42:39+00:00",
-      "published_epoch": 1793371359,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6918/live/5109c2f0-d45c-11f1-ab12-eb0c94f5b382.jpg"
       ],
       "local_media_path": null
     },
@@ -1458,23 +1507,6 @@
       "local_media_path": null
     },
     {
-      "hash": "41abb90d4c3a61a3",
-      "title": "حمله هکرها به بزرگ‌ترین صرافی رمزارز جهان؛ پای ۶ میلیارد دلار در میان است",
-      "link": "https://www.bbc.com/persian/articles/c9kgjp54pyxgo?at_medium=RSS&at_campaign=rss",
-      "summary": "بایننس، بزرگ‌ترین صرافی رمزارز جهان، اعلام کرده است که در بررسی حمله سایبری گسترده به سامانه‌های این شرکت، چندین راه نفوذ هکرها را شناسایی کرده است. در این حمله که احتمال می‌رود بزرگ‌ترین سرقت رمزارز در تاریخ باشد، دارایی‌هایی به ارزش شش میلیارد و ۳۰۰ میلیون دلار تحت تأثیر قرار گرفته‌اند. بایننس می‌گوید تاکنون حدود سه میلیارد دلار از دارایی‌های مرتبط با حمله را مسدود کرده، بازیابی بخشی از آنها را ...",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-10-30T11:56:15+00:00",
-      "published_epoch": 1793361375,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7ea/live/9c7eaee0-d456-11f1-93e1-3b657b665bcf.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
       "hash": "8f14fc5f98fb6e65",
       "title": "آیا احزاب عربی سرنوشت سیاسی اسرائیل را تعیین می‌کنند؟",
       "link": "https://www.dw.com/fa-ir/آیا-احزاب-عربی-سرنوشت-سیاسی-اسرائیل-را-تعیین-می‌کنند؟/a-79805720?maca=per-rss-per-all-1491-xml-mrss",
@@ -1569,23 +1601,6 @@
       "local_media_path": null
     },
     {
-      "hash": "806864af78a30b26",
-      "title": "پشت درهای بسته کاخ سفید؛ مذاکره با تهران یا حمله‌ای تازه؟",
-      "link": "https://www.bbc.com/persian/articles/c3qjnp42dwj9o?at_medium=RSS&at_campaign=rss",
-      "summary": "آیا آمریکا پس از انتخابات میان‌دوره‌ای بار دیگر به ایران حمله خواهد کرد؟ این پرسشی است که در هفته‌های اخیر در محافل سیاسی و رسانه‌ای آمریکا بیش از پیش مطرح شده است. گزارش‌های تازه رسانه‌های آمریکایی نشان می‌دهد دولت دونالد ترامپ در قبال ایران دو مسیر را به طور همزمان دنبال می‌کند: بررسی گزینه‌های نظامی و افزایش فشار بر تهران، در کنار تلاش برای گشودن کانال‌های تازه دیپلماتیک.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-10-30T09:56:04+00:00",
-      "published_epoch": 1793354164,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/870c/live/ab194cf0-d445-11f1-97f9-27ebf08d99fe.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
       "hash": "e23bd8572e93c60d",
       "title": "میانجی‌گران قطری، پس از نامه جی‌دی ونس به محسن رضایی، بار دیگر به تهران رفتند",
       "link": "https://www.radiofarda.com/a/qatar-mediators-tehran-us-iran-deal-vance-letter/33887233.html",
@@ -1600,21 +1615,6 @@
       "raw_media_urls": [
         "https://gdb.rferl.org/0f6c6ecc-25eb-4f94-6b9d-08df13a87200_w800_h450.jpg"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "d16d7f962e518dbe",
-      "title": "انصافا اینایی که توی بانه لوازم خانگی میفروشن ویدیو های معرفی محصولشون انقدر قشنگه اگه تو تهران بودن کل بازار تهران دستش...",
-      "link": "https://t.me/Linuxor/5864",
-      "summary": "انصافا اینایی که توی بانه لوازم خانگی میفروشن ویدیو های معرفی محصولشون انقدر قشنگه اگه تو تهران بودن کل بازار تهران دستشون بود\n\nحالا اینایی که توی تهرانن و به بازار خیلی بزرگ تری دسترسی دارن ته خلاقیتشون اینه یه کله شارژر رو میشکونن میگن نگاه کنید فیکه 😁 البته یه اصطلاحی هست که بهش میگن نفرین منابع، یعنی منابع بیشتری در دسترست باشه ممکنه بجای پیشرفت، پسرفت کنی!\n\n @Linuxor",
-      "source_id": "tg_Linuxor",
-      "source_name": "@Linuxor",
-      "source_name_fa": "@Linuxor (لینوکسور (جامعه گنو/لینوکس))",
-      "category": "telegram",
-      "published_at": "2026-10-30T07:48:36+00:00",
-      "published_epoch": 1793346516,
-      "rtl": true,
-      "raw_media_urls": [],
       "local_media_path": null
     }
   ]
