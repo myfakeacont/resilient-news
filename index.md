@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-10-31 23:18 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-11-01 02:43 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,75 +13,72 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [روبیو: ترامپ هنوز در مورد حمله به ایران تصمیم نگرفته است](https://www.bbc.co.uk/persian/live/ck79p4jd83pnt?at_medium=RSS&at_campaign=rss) — `23:18 IRST` / `19:48 UTC`
+- **`بی‌بی‌سی فارسی`** [روبیو: ترامپ هنوز در مورد حمله به ایران تصمیم نگرفته است](https://www.bbc.co.uk/persian/live/ck79p4jd83pnt?at_medium=RSS&at_campaign=rss) — `02:43 IRST` / `23:13 UTC`
   > وزیر خارجه آمریکا می‌گوید که دونالد ترامپ هنوز در مورد حملات تازه به ایران تصمیم نگرفته است. مارکو روبیو گفت که واشنگتن هنوز گزینه دیپلماسی را در نظر دارد. همزمان رئیس ستادکل نیروهای مسلح ایران گفته است «هرگاه نشانه‌های اقدام خصمانه دشمن احراز شود، نیروهای مسلح در انتخاب زمان ...
-- **`بی‌بی‌سی فارسی`** [آنچه گذشت: سخنگوی ارتش پاکستان درباره «عوامل قدرتمند» مخالف میانجی‌گری ایران و آمریکا هشدار داد](https://www.bbc.co.uk/persian/live/ckdd8p9ypld7t?at_medium=RSS&at_campaign=rss) — `23:18 IRST` / `19:48 UTC`
+- **`بی‌بی‌سی فارسی`** [آنچه گذشت: سخنگوی ارتش پاکستان درباره «عوامل قدرتمند» مخالف میانجی‌گری ایران و آمریکا هشدار داد](https://www.bbc.co.uk/persian/live/ckdd8p9ypld7t?at_medium=RSS&at_campaign=rss) — `02:43 IRST` / `23:13 UTC`
   > سخنگوی ارتش پاکستان در گفت‌وگو با رویترز اعلام کرد که این کشور به میانجی‌گری میان ایران و آمریکا «با احتیاط خوش‌بین» است، اما هشدار داد که «عوامل قدرتمندی» ادامه جنگ را به سود خود می‌دانند. احمد شریف چودری سفرهای اخیر فرمانده ارتش پاکستان به تهران را نشانه‌ای مثبت دانست و گفت ...
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [تخفیف منفی یک درصدی! (وایب کدینگه شک نکنید ما توی دوران قبل هوش مصنوعی از این مورد به خصوص نداشتیم)](https://t.me/Linuxor/5887) — `23:11 IRST` / `19:41 UTC`
-  > تخفیف منفی یک درصدی! (وایب کدینگه شک نکنید ما توی دوران قبل هوش مصنوعی از این مورد به خصوص نداشتیم)
+- **`بی‌بی‌سی فارسی`** [چگونه جنگ غزه به چالشی انتخاباتی برای حامیان اسرائیل در آمریکا تبدیل شد؟](https://www.bbc.com/persian/articles/ckvg7z4l4nyqo?at_medium=RSS&at_campaign=rss) — `02:34 IRST` / `23:04 UTC`
+  > در یکی از رقابتی‌ترین رقابت‌های انتخابات میان‌دوره‌ای آمریکا، موضع واشنگتن در قبال اسرائیل به عاملی تبدیل شده که رای‌دهندگان هر دو طرف این موضوع را به میدان کشانده است.
 
- @Linuxor
+  ![Media](media/2026-10-31/8ccfb3ba1a51eac7.jpg)
+- **`Reuters Wire`** [Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5) — `02:28 IRST` / `22:58 UTC`
+  > Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [گیلا گاملیل، وزیر نوآوری، علوم و فناوری اسرائیل، در پیامی در ایکس به مناسبت زادروز شاهزاده رضا پهلوی، نوشت: « رویدادهای ...](https://t.me/IranintlTV/364803) — `02:25 IRST` / `22:55 UTC`
+  > گیلا گاملیل، وزیر نوآوری، علوم و فناوری اسرائیل، در پیامی در ایکس به مناسبت زادروز شاهزاده رضا پهلوی، نوشت: « رویدادهای سال گذشته هیچ تردیدی باقی نگذاشته است که مردم شجاع ایران، تحت رهبری شما، ایران را آزاد خواهند کرد و شکوه و عظمت شایسته آن را بازخواهند گرداند.»
+او افزود: «ام...
 
-  ![Media](media/2026-10-31/22b7865b65f2d69e.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [فرماندهی مرکزی آمریکا، سنتکام، با انتشار تصویری از برخاستن یک بالگرد نیروی دریایی آمریکا از ناو هواپیمابر «جورج واشینگتن...](https://t.me/IranintlTV/364775) — `22:55 IRST` / `19:25 UTC`
-  > فرماندهی مرکزی آمریکا، سنتکام، با انتشار تصویری از برخاستن یک بالگرد نیروی دریایی آمریکا از ناو هواپیمابر «جورج واشینگتن»، در شبکه ایکس نوشت این ناو از اجرای محاصره دریایی آمریکا علیه جمهوری اسلامی پشتیبانی می‌کند.
+  ![Media](media/2026-10-31/50977b081d5a9c50.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [گروهی از ایرانیان هم‌زمان با بزرگداشت کوروش بزرگ، در فریدوم پلازای واشینگتن دی‌سی گرد هم آمدند. این تجمع با عنوان «دادخو...](https://t.me/IranintlTV/364802) — `02:20 IRST` / `22:50 UTC`
+  > گروهی از ایرانیان هم‌زمان با بزرگداشت کوروش بزرگ، در فریدوم پلازای واشینگتن دی‌سی گرد هم آمدند. این تجمع با عنوان «دادخواهی کوروش برای ایرانیان» و با هدف پاسداشت میراث تاریخی ایران، تقویت همبستگی ملی و دادخواهی برای مردم ایران برگزار شد.
 
-سنتکام نوشت که نیروهای آمریکایی تا ۳۱ اکتبر، مسیر ۱۴۴ کشتی تج...
+گزارش اردوان روزبه، خبرنگار ایران‌اینت...
 
-  ![Media](media/2026-10-31/aa69c145dd517cd5.jpg)
-- **`Reuters Wire`** [Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5) — `22:53 IRST` / `19:23 UTC`
-  > Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms    Reuters
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [آنتروپیک مهم‌ترین بخش سرورهاش رو، یعنی همون API که همه‌ی برنامه‌ها از طریقش به کلود وصل می‌شن، از پایتون به زبان راست با...](https://t.me/Linuxor/5886) — `22:44 IRST` / `19:14 UTC`
-  > آنتروپیک مهم‌ترین بخش سرورهاش رو، یعنی همون API که همه‌ی برنامه‌ها از طریقش به کلود وصل می‌شن، از پایتون به زبان راست بازنویسی کرده. تیمش حتی یه برنامه‌نویس راست هم نداشت و بیشتر کد رو خود کلود نوشته.
+  ![Media](media/2026-10-31/e9eec3e7015ea107.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [اف‌بی‌آی کره شمالی را مسئول سرقت ۶.۳ میلیارد دلاری از صرافی بایننس معرفی کرد](https://t.me/VahidOnline/78937) — `02:17 IRST` / `22:47 UTC`
+  > اف‌بی‌آی کره شمالی را مسئول سرقت ۶.۳ میلیارد دلاری از صرافی بایننس معرفی کرد 
 
-این رو دو نفر از مسئولای پلتفرم آنتروپیک توی پادکست Latent Space گفتن:
-آدم‌...
+به گزارش رویترز، اداره فدرال تحقیقات آمریکا، اف‌بی‌آی، بامداد یکشنبه ۱۰ آبان اعلام کرد کره شمالی مسئول سرقت میلیاردها دلار دارایی دیجیتال از صرافی بایننس است. 
+این نهاد گفته عاملان حمله با تبدیل دار...
 
-  ![Media](media/2026-10-31/09c183ba30234db8.jpg)
-- **`AP News Wire`** [G20 foreign ministers end Atlanta meeting without consensus on key issues - AP News](https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzNPdDBVU2FTV3NVXzdETklrdGtSQXZBVWFZVm1pNGYxRDY4aHR5QlUzbjBHWVljNnFHU0lUbzVOSWxWNE5TYUdIVXJzX2d3Q2IwYndMZzJqQUhSMGM2amlNVjdCTTdWZGp6cnJEMnk5LVV4NklLd2FZLXdiTEZmNlNLTTh3WWhPcldua0I3bVI4Nk9jUVE?oc=5) — `22:44 IRST` / `19:14 UTC`
-  > G20 foreign ministers end Atlanta meeting without consensus on key issues    AP News
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، در صدا و سیما گفت: «اگر ترامپ و آمریکا اینجا تنبیه نشوند، فردا هر ک...](https://t.me/IranintlTV/364774) — `22:43 IRST` / `19:13 UTC`
-  > محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، در صدا و سیما گفت: «اگر ترامپ و آمریکا اینجا تنبیه نشوند، فردا هر کشوری با خودش می‌گوید که اگر به ایران حمله کنیم، هیچ مابه‌ازایی نخواهد داشت. ما بازدارندگی ایجاد می‌کنیم که هر کشوری سرش را نیندازد پایین و حمله کند.»
+  ![Media](media/2026-10-31/36cb6bf92dffc125.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت غیبت مجتبی خامنه‌ای از انظار عمومی، تاثیر تهدیدهای منسوب به او را کاهش د...](https://t.me/IranintlTV/364801) — `02:17 IRST` / `22:47 UTC`
+  > جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت غیبت مجتبی خامنه‌ای از انظار عمومی، تاثیر تهدیدهای منسوب به او را کاهش داده است، اما فرماندهان ارشد نظامی این تهدیدها را تکرار می‌کنند. به گفته او، محسن رضایی با مطرح کردن احتمال خروج از ان‌پی‌تی و تغییر دکترین هسته‌ای، تلاش دارد...
 
-رضایی،...
+  ![Media](media/2026-10-31/132f892774903444.jpg)
+- **`ایران اینترنشنال`** [بایننس می‌گوید ۹۰ درصد دارایی‌های سرقت‌شده در هک ۶.۳ میلیارد دلاری را جایگزین کرده است](https://www.iranintl.com/202610319648) — `02:15 IRST` / `22:45 UTC`
+  > بایننس، بزرگ‌ترین صرافی رمزارزی جهان، اعلام کرد ۹۰ درصد دارایی‌های سرقت‌شده در حمله هکری ۶.۳ میلیارد دلاری را با منابع مالی خود جایگزین کرده است. اف‌بی‌آی یک گروه تحت حمایت دولت کره شمالی را مسئول این حمله معرفی کرده است.
 
-  ![Media](media/2026-10-31/7350722d5520b23c.jpg)
-- **`Hacker News`** [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html) — `22:37 IRST` / `19:07 UTC`
-  > Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html 
- Comments URL: https://news.ycombinator.com/item?id=50319061 
- Points: 20 
+  ![Media](media/2026-10-31/11185dcd046929b9.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، شامگاه شنبه نهم آبان در گفت‌وگو با صداوسیمای جمهوری اسلامی، درباره ...](https://t.me/IranintlTV/364800) — `02:15 IRST` / `22:45 UTC`
+  > محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، شامگاه شنبه نهم آبان در گفت‌وگو با صداوسیمای جمهوری اسلامی، درباره نامه جی‌دی ونس، معاون دونالد ترامپ، گفت این نامه را مطالعه کرده اما هنوز پاسخی به آن نداده است. او افزود لحن نامه «کاملا تغییر کرده» و این تغییر را نشانه تثب...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت مواضع مارکو روبیو شان می‌دهد واشینگتن به دنبال تغییر اساسی در رفتار و سی...](https://t.me/IranintlTV/364799) — `02:12 IRST` / `22:42 UTC`
+  > کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت مواضع مارکو روبیو شان می‌دهد واشینگتن به دنبال تغییر اساسی در رفتار و سیاست‌های جمهوری اسلامی است و دیگر توافق‌های کلی و وعده‌های دیپلماتیک را کافی نمی‌داند.
+
+توانا با اشاره به گزارش رویترز درباره میانجی‌گری قطر افزود میانجی‌گران...
+
+  ![Media](media/2026-10-31/c4898b6d8c0d5370.jpg)
+- **`Hacker News`** [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) — `02:11 IRST` / `22:41 UTC`
+  > Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ 
+ Comments URL: https://news.ycombinator.com/item?id=50320963 
+ Points: 10 
  # Comments: 2
-- **`ایران اینترنشنال`** [وای‌نت: اسرائیل آماده حمله است اما تصمیم درباره شروع و هدف جنگ با ترامپ است](https://www.iranintl.com/202610312364) — `22:34 IRST` / `19:04 UTC`
-  > روزنامه وای‌نت در گزارشی تحلیلی نوشت ارتش اسرائیل آمادگی‌های خود را برای دور تازه‌ای از درگیری با جمهوری اسلامی تکمیل کرده و منتظر تصمیم دونالد ترامپ، رییس‌جمهوری آمریکا، برای شروع زمان حمله و هدف جنگی تازه است.
+- **`ایران اینترنشنال`** [روبیو: حکومتی که مردم خود را قتل‌عام کرده، نباید به سلاح هسته‌ای دست یابد](https://www.iranintl.com/202610314066) — `01:56 IRST` / `22:26 UTC`
+  > مارکو روبیو، وزیر خارجه آمریکا، حکومت ایران را به «قتل‌عام مردم خود» متهم کرد و گفت دستیابی چنین حکومتی به سلاح‌های کشتار جمعی، دیگران را نیز تهدید خواهد کرد. او تاکید کرد دولت ترامپ اجازه نخواهد داد [حکومت] ایران به سلاح هسته‌ای دست یابد.
 
-  ![Media](media/2026-10-31/b783ad4089051db1.jpg)
-- **`@Linuxor (لینوکسور (جامعه گنو/لینوکس))`** [پروژه AnyPS5 رو که یادتون میاد قرار بود روی کامپیوتر کنسول پلی استیشن 5 رو اجرا کنه](https://t.me/Linuxor/5885) — `22:29 IRST` / `18:59 UTC`
-  > پروژه AnyPS5 رو که یادتون میاد قرار بود روی کامپیوتر کنسول پلی استیشن 5 رو اجرا کنه
-اینایی که داشتن توسعه اش می‌دادن فکر می‌کردن حدود 90 درصد PS5 رو کپی کردن بعد کم کم هزاران کتابخونه پیدا کردن که تابحال ندیده بودنشون و از 90 درصد رسید به 27 درصد! یعنی از اون چیزی که فکرشو می‌...
+  ![Media](media/2026-10-31/2b40bbe036bef6bc.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ناو هواپیمابر روزولت اگر در روزهای آینده دستور حرکت به سمت منطقه را بگی...](https://t.me/IranintlTV/364798) — `01:46 IRST` / `22:16 UTC`
+  > مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ناو هواپیمابر روزولت اگر در روزهای آینده دستور حرکت به سمت منطقه را بگیرد یعنی به احتمال زیاد آمریکا می‌خواهد با سه ناو هواپیمابر و ۲۰ تا ۲۵ ناوشکن همراه ‌آن‌ها به جمهوری اسلامی حمله کند.»
+ @iranintltv
 
-  ![Media](media/2026-10-31/2cf2ff004542385e.jpg)
-- **`بی‌بی‌سی فارسی`** [رضایی: حکومت برای تغییر دکترین هسته‌ای تصمیم جدیدی نگرفته‌ اما ملت ایران مطالباتی دارد](https://www.bbc.com/persian/articles/crz65vj255vjo?at_medium=RSS&at_campaign=rss) — `22:26 IRST` / `18:56 UTC`
-  > دبیر شورای عالی امنیت ملی ایران، گفته است که برای تغییر دکترین هسته‌ای تصمیم جدیدی گرفته‌ نشده است اما ادامه داده که ملت ایران «دارای مطالباتی است.»
-
-  ![Media](media/2026-10-31/963f8600e3e6bab8.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 هری کین پیش از دیدار بایرن مونیخ و دورتموند، توپ طلای خود را به ۷۵ هزار تماشاگر آلیانتس آرنا نشان داد. هواداران بایرن ...](https://t.me/IranintlTV/364769) — `22:24 IRST` / `18:54 UTC`
-  > 🔻 هری کین پیش از دیدار بایرن مونیخ و دورتموند، توپ طلای خود را به ۷۵ هزار تماشاگر آلیانتس آرنا نشان داد. هواداران بایرن او را تشویق کردند، اما هواداران دورتموند برای او سوت زدند. کین سپس با کفشی با کفی طلایی و نام چهار فرزندش به میدان رفت.
-
- 🔹️ ️️️️️پس از ۳۰ سال، بار دیگر یک ب...
-
-  ![Media](media/2026-10-31/a5eff1148a41fe7a.jpg)
-- **`Hacker News`** [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/) — `22:20 IRST` / `18:50 UTC`
-  > Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ 
- Comments URL: https://news.ycombinator.com/item?id=50318871 
- Points: 30 
- # Comments: 12
-- **`@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)`** [“We cannot allow more destruction. We must stand together and do everything we can to save Iran. We have a clear plan to end the Islamic Republic and manage the country after it falls. Our plan will maintain security and stability, protect people’s basic freedo - X](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDdnFVdEhfRnJZQndabVc0eFFQRFozMGhZeDVLQlZoaVI0bjBNcUh4c3ZtLTRjYzFLR2JiZ2t2RjJEVVNiVzlCREo0YzQyc1lPYzFSTUZxNC15cS1vR0lTeTVodw?oc=5) — `22:14 IRST` / `18:44 UTC`
-  > “We cannot allow more destruction. We must stand together and do everything we can to save Iran. We have a clear plan to end the Islamic Republic and manage the country after it falls. Our plan will maintain security and stability, protect people’s basic freedo    X
+  ![Media](media/2026-10-31/b470b4a15933f78c.jpg)
+- **`Reuters Wire`** [Binance says it has covered 90% of losses from $6.3 billion hack - Reuters](https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5) — `01:43 IRST` / `22:13 UTC`
+  > Binance says it has covered 90% of losses from $6.3 billion hack    Reuters
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-10-31 - ساعت 23:00](news/2026-10-31/23-00.md)
 - 📅 [2026-10-31 - ساعت 19:30](news/2026-10-31/19-30.md)
 - 📅 [2026-10-31 - ساعت 15:30](news/2026-10-31/15-30.md)
 - 📅 [2026-10-31 - ساعت 09:00](news/2026-10-31/09-00.md)
@@ -141,7 +138,6 @@
 - 📅 [2026-10-20 - ساعت 11:00](news/2026-10-20/11-00.md)
 - 📅 [2026-10-20 - ساعت 05:30](news/2026-10-20/05-30.md)
 - 📅 [2026-10-20 - ساعت 00:00](news/2026-10-20/00-00.md)
-- 📅 [2026-10-19 - ساعت 20:00](news/2026-10-19/20-00.md)
 
 ---
 توسعه‌یافته برای استقرار سبک و مداوم بر روی اوبونتو ARM64.
