@@ -1,47 +1,672 @@
 {
-  "generated_at_utc": "2026-11-04T21:09:27.919296+00:00",
-  "generated_at_tehran": "2026-11-05T00:39:27.919296+03:30",
+  "generated_at_utc": "2026-11-05T02:05:27.958526+00:00",
+  "generated_at_tehran": "2026-11-05T05:35:27.958526+03:30",
   "article_count": 100,
   "articles": [
     {
-      "hash": "698ec3efead10042",
-      "title": "ترامپ: تاثیر جنگ بر شکست جمهوری‌خواهان تا حد زیادی درست است",
-      "link": "https://www.bbc.co.uk/persian/live/ckzd6m7dv0nyt?at_medium=RSS&at_campaign=rss",
-      "summary": "دونالد ترامپ، رئیس جمهور آمریکا، پس از شکست جمهوری‌خواهان در انتخابات، با اشاره به اظهارات جی‌دی ونس، معاونش، گفت که تاثیر جنگ بر شکست جمهوری‌خواهان تا حد زیادی درست است. پیشتر آقای ونس گفته بود که علت شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، جنگ با ایران بود. دموکرات‌ها موفق شده‌اند با شکست جمهوری‌خواهان در پایگاه‌های تاریخی آنها کنترل هر دو مجلس را در دست بگیرند.",
+      "hash": "b58aaedf9f2a99c9",
+      "title": "هشدار وزیر دارایی آمریکا به «کسانی‌ که به حمایت از ایران» ادامه می‌دهند",
+      "link": "https://www.bbc.co.uk/persian/live/cqd098yjzxkyt?at_medium=RSS&at_campaign=rss",
+      "summary": "اسکات بسنت، وزیر دارایی ایالات متحده، پس اعلام تحریم‌های جدید علیه «یک شبکه جنایی گسترده» به «کسانی که به حمایت از رژیم ایران ادامه می‌دهند» هشدار داد. آمریکا اعلام کرده این «شبکه جنایی» شبکه‌ای است که به «ناوگان سایه» نفتکش‌های ایران کمک می‌کند. بررسی تصاویر ماهواره‌ای شرکت سنتینل-۲ نشان می‌دهد که ناو هواپیمابر یواس‌اس تئودور روزولت و ناوگروه رزمی همراهش در دریای چین جنوبی به سمت غرب در حرکتند.",
       "source_id": "bbc_persian",
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-11-04T21:09:30.364590+00:00",
-      "published_epoch": 1793826570,
+      "published_at": "2026-11-05T02:05:30.483149+00:00",
+      "published_epoch": 1793844330,
       "rtl": true,
       "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/069e/live/85ba5cc0-d881-11f1-93e1-3b657b665bcf.png"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1786/live/e25b0860-d8ab-11f1-93e1-3b657b665bcf.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/74d2771127a94985.jpg"
+    },
+    {
+      "hash": "698ec3efead10042",
+      "title": "آنچه گذشت؛ محسن رضایی: ایران شکست را در میدان نبرد، تنگه هرمز و واشنگتن به ترامپ تحمیل کرد",
+      "link": "https://www.bbc.co.uk/persian/live/ckzd6m7dv0nyt?at_medium=RSS&at_campaign=rss",
+      "summary": "محسن رضایی در نخستین واکنش به نتایج انتخابات کنگره در آمریکا گفته است مقاومت ایران در جنگ موجب شده دونالد ترامپ «در میدان نبرد، تنگه هرمز و واشنگتن» شکست بخورد. ترامپ با اشاره به اظهارات جی‌دی ونس، معاونش، گفت که تاثیر جنگ بر شکست جمهوری‌خواهان تا حد زیادی درست است. جی دی ونس در اظهاراتی که بسیاری آن را در تضاد با سیاست‌ها و برنامه کاخ سفید خوانده‌اند، گفته علت شکست جمهوری‌خواهان در انتخابات میان‌...",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-11-05T02:05:30.483304+00:00",
+      "published_epoch": 1793844330,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d64/live/131ccf00-d8a3-11f1-b441-2b33b063138f.jpg"
       ],
       "local_media_path": null
     },
     {
-      "hash": "5fc31226d464e264",
-      "title": "گزارش‌‌ها از حرکت ناوگروه روزولت به سمت خاورمیانه",
-      "link": "https://www.bbc.co.uk/persian/live/cw073leglm8zt?at_medium=RSS&at_campaign=rss",
-      "summary": "بررسی تصاویر ماهواره‌ای شرکت سنتینل-۲ نشان می‌دهد که ناو هواپیمابر یواس‌اس تئودور روزولت و ناوگروه رزمی همراهش در دریای چین جنوبی به سمت غرب در حرکتند. احتمال می‌رود این ناوگروه به حوزه عملیاتی فرماندهی مرکزی ارتش آمریکا (سنتکام) در خاورمیانه برود.",
+      "hash": "960b94ef7359f43e",
+      "title": "دموکرات‌ها در تگزاس چند رکورد تاریخی در انتخابات میان‌دوره‌ای آمریکا ثبت کردند. جیمز تالاریکو پس از بیش از ۳۰ سال نخستین...",
+      "link": "https://t.me/IranintlTV/365457",
+      "summary": "دموکرات‌ها در تگزاس چند رکورد تاریخی در انتخابات میان‌دوره‌ای آمریکا ثبت کردند. جیمز تالاریکو پس از بیش از ۳۰ سال نخستین دموکراتی شد که از این ایالت به سنا راه یافت و جینا هینه‌هوسا نیز به‌عنوان نخستین فرماندار زن لاتین‌تبار تگزاس انتخاب شد.\nگزارش نیلوفر منصوری، خبرنگار ایران‌اینترنشنال\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-05T01:32:24+00:00",
+      "published_epoch": 1793842344,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/DWFFvot7xanfdeFElGCliVzC15WmwKzSdFNJTPNsmJcmq44d04R-HM8Rh7a0ZaqKzF_tGSgOHpWC0GRSeJfb93lfwzk66UfXSAaZsiYKhzUDy3Tvd7mk2_NKlOxIFsxI0zWqSYLxUyPiLOM5jO6zP5daKRyJPw87xSPgYyCLBZeAt6k6E2OOqEfCOL1rwqYdC4f3VgA2QDrx_I_Q3lGgh6KsTw5dsagRx5SKtxiqUJbmyl1AmgzNRYY3GaIpHNkUPRBfkc0PJM6OpyCsiimq9liDSw2tn_881-7Mdy_HB5mUjLEkpWxTixjLglJ2OQWCV8-GH3YfH1KGvLzijwL4pQ"
+      ],
+      "local_media_path": "media/2026-11-05/153083700161e067.jpg"
+    },
+    {
+      "hash": "f526badd4b331795",
+      "title": "چهره‌های تاریخ‌ساز انتخابات آمریکا؛ نخستین فرمانداران سیاه‌پوست، نخستین سناتور آشکارا همجنس‌گرا و نخستین نماینده زن نسل زد",
+      "link": "https://www.bbc.com/persian/articles/cqvg0yvjy1vjo?at_medium=RSS&at_campaign=rss",
+      "summary": "دموکرات‌ها با چند پیروزی بزرگ و ثبت چند رکورد تاریخی، حتی تبریک دونالد ترامپ را نیز دریافت کردند.",
       "source_id": "bbc_persian",
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-11-04T21:09:30.364641+00:00",
-      "published_epoch": 1793826570,
+      "published_at": "2026-11-05T01:30:19+00:00",
+      "published_epoch": 1793842219,
       "rtl": true,
       "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0290/live/bfd69be0-d867-11f1-a701-fddedf244c16.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1977/live/e6f14410-d884-11f1-ad49-25abedf165e8.jpg"
       ],
+      "local_media_path": "media/2026-11-05/47ad115faf5da1f6.jpg"
+    },
+    {
+      "hash": "18759b55a9a96d2a",
+      "title": "اکسیوس: ترامپ پس از شکست انتخاباتی، میان توافق یا بازگشت به جنگ قرار گرفته است",
+      "link": "https://www.iranintl.com/202611056035",
+      "summary": "دونالد ترامپ پس از اذعان به نقش «جنگ ایران» در شکست انتخاباتی جمهوری‌خواهان، باید میان توافق، ازسرگیری حملات و ادامه محاصره و تحریم‌ها تصمیم بگیرد؛ گزینه‌هایی که به گزارش اکسیوس، هرکدام با موانع سیاسی، نظامی و اقتصادی روبه‌رو هستند.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-05T01:29:19+00:00",
+      "published_epoch": 1793842159,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/bfdb87934e82c522d89eda28852726e8ad8ea57f-2886x1924.jpg?rect=0,207,2886,1510&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-05/11965ce568ea78b6.jpg"
+    },
+    {
+      "hash": "b4bbf50ecd4ad95e",
+      "title": "خبرگزاری یونهاپ کره جنوبی پنج‌شنبه به نقل از وزارت دفاع این کشور گزارش داد یگان ضد دزدی دریایی «چونگهه» دامنه فعالیت‌های...",
+      "link": "https://t.me/IranintlTV/365456",
+      "summary": "خبرگزاری یونهاپ کره جنوبی پنج‌شنبه به نقل از وزارت دفاع این کشور گزارش داد یگان ضد دزدی دریایی «چونگهه» دامنه فعالیت‌های خود را گسترش خواهد داد و در آب‌های نزدیک‌تر به تنگه هرمز عملیات انجام خواهد داد.\n\nبر اساس این گزارش، دولت کره جنوبی قصد دارد طرحی را برای تمدید ماموریت این یگان در خاورمیانه به پارلمان ارائه کند.\n\nماموریت کنونی یگان چونگهه در منطقه تا پایان سال ۲۰۲۶ اعتبار دارد و دولت کره جنوبی برای ادامه استقرار آن پس از این تاریخ، خواستار موافقت پارلمان خواهد شد.\n\nپیش‌تر یونهاپ گزارش داده بود وزارت دفاع کره جنوبی ۱۷ شهریور تیمی را برای ارزیابی امنیت تنگه هرمز اعزام کرده، اما درباره اعزام نیرو تصمیم نگرفته است.\n\nدر اواخر شهریور، چو هیون، وزیر خارجه کره جنوبی، در دیدار با مارکو روبیو، وزیر خارجه آمریکا، بر آمادگی سئول برای کمک به بازگشت عبور و مرور آزاد از تنگه هرمز تاکید کرد.\n\nلی جائه میونگ، رییس‌جمهوری کره جنوبی، نیز گفت سئول وارد جنگی خارجی نمی‌شود، اما باید برای حفاظت از شهروندان، کشتی‌ها و مسیرهای انتقال انرژی خود اقداماتی محدود انجام دهد.\n https://iranintl.com/202611058348",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-05T01:16:52+00:00",
+      "published_epoch": 1793841412,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/TzdJMAwPhO6kBVhUmd5x2oiBlsXXqYPZRrIaHr5Ms0BUgajcsvXavii-oJdBkxmEpgvzeyiCRm4lTg6m5pFXZS7HdK-fo2bQvSp8GCUTro5xWreMnRMURlV2MEmrc6VdKcRnDCJYbiAdDuAnUqj3h5Q2ioOEIVGqlu8WMymNe3SsAFA283ZDip2CSO2JTDtUEnX-cJBPSj2XqfMufQWtF7QiQ8_hVDRl-It4XWUxkaA248d0myAp4hSYyLniNgKqn_xdldpkncS5rc6z3dQY1QQCdOvuoOVIXcLw7TAoYFcPiAjYCOeCjgW_cJB1j8CjyilHMeOhhCvBArj6o_QVXQ.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/31e6d1b165408ecd.jpg"
+    },
+    {
+      "hash": "0612f848bd5a96ad",
+      "title": "رویترز در تحلیلی گزارش داد چین برای ایفای نقش پررنگ‌تر در پایان جنگ ایران و آمریکا تلاش می‌کند، اما نفوذ اقتصادی گسترده ...",
+      "link": "https://t.me/IranintlTV/365455",
+      "summary": "رویترز در تحلیلی گزارش داد چین برای ایفای نقش پررنگ‌تر در پایان جنگ ایران و آمریکا تلاش می‌کند، اما نفوذ اقتصادی گسترده پکن بر تهران به معنای توانایی آن برای پایان دادن به درگیری‌ها نیست.\n\nشی جین‌پینگ، رییس‌جمهوری چین، در دیدار با سلطان عمان خواستار جلوگیری از تبدیل خلیج فارس به میدان رقابت قدرت‌های بزرگ شد. وانگ یی، وزیر خارجه چین، نیز با مقام‌های ایران و عربستان سعودی دیدار کرد و پکن قصد دارد فرستاده ویژه‌ای به منطقه اعزام کند.\n\nبه نوشته رویترز، چین بیش از یک دهه بزرگ‌ترین شریک تجاری ایران بوده و طبق داده‌های شرکت کپلر، در سال ۲۰۲۵ بیش از ۸۰ درصد صادرات دریایی نفت ایران را خریداری کرده است.\n\nبا این حال، این خبرگزاری تاکید کرد روابط تجاری ابزار کافی برای وادار کردن جمهوری اسلامی به توافق نیست. پکن همچنین باید میان مناسبات خود با تهران، کشورهای عربی خلیج فارس و واشینگتن توازن برقرار کند.\n\nرویترز نتیجه گرفت چین فعلا بیشتر «ناظری فعال» است تا میانجیگری تعیین‌کننده و قطر هدایت تلاش‌های اخیر برای جلوگیری از تشدید جنگ را بر عهده دارد.\n https://iranintl.com/202611058068",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-05T00:59:00+00:00",
+      "published_epoch": 1793840340,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/Wryptp3JsPHSNBoP2UsdvIsZtuSM2hYdsT_C51X2aD1SfFgtLkPA5Q8gdgl4PurTAVJqwHzjkf1ta5UNQix2_ShnzT43WfusyJ4ytd6O6Fv2YKpY7J9g5BymlUBIsxUR7j7w53ss-aGEpR-b-2W_ATuRnJFk6tP2bsHyZ1nX4XvxBpJvdeofDmIMXoRRzS00qAWzyVq8c0JqbcqGOy8JnhsqoOaMk-qhMxiRjbxkCncFpixNqnD_FN2n_tBF67ddyAXXcBeEwQUVFBMlAH2rVVbaGtY5VcexMminc07-_h9RHHnDi8z9mKMs0lh0jODwP3OtKJIoxWhfE4RFtjS5dg.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/d2690368a10411a7.jpg"
+    },
+    {
+      "hash": "c60751b01a4cfca7",
+      "title": "ترامپ تاثیر جنگ ایران بر شکست جمهوری‌خواهان را پذیرفت",
+      "link": "https://www.bbc.com/persian/articles/ck4g1jr84ndro?at_medium=RSS&at_campaign=rss",
+      "summary": "ساعتی پس از آن که جی‌دی ونس، معاون ریاست جمهوری آمریکا، در توییتی مفصل به دلایل شکست جمهوری خواهان در انتخابات کنگره پرداخت و علت اصلی آن را جنگ با ایران عنوان کرد، دونالد ترامپ گفت با بخش بزرگی از نظرات معاون خود موافق است هر چند اگر به گذشته بازگردد باز هم دستور جنگ علیه ایران را صادر می‌کند.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-11-05T00:53:25+00:00",
+      "published_epoch": 1793840005,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58ee/live/8ea83cb0-d8b0-11f1-b441-2b33b063138f.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/dfde3d93eab1876a.jpg"
+    },
+    {
+      "hash": "9108cbf051325601",
+      "title": "آمریکایی‌ها در همه‌پرسی‌ها به حق سقط جنین و برخی محدودیت‌های انتخاباتی رای دادند",
+      "link": "https://www.iranintl.com/202611051062",
+      "summary": "رای‌دهندگان آمریکایی هم‌زمان با انتخابات میان‌دوره‌ای ۲۰۲۶، در کنار انتخاب برخی مقامات سیاسی، درباره موضوعاتی از سقط جنین و ازدواج همجنس‌گرایان تا مالیات، مقررات رای‌گیری و حقوق افراد ترنس هم تصمیم گرفتند.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-05T00:31:38+00:00",
+      "published_epoch": 1793838698,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/38646488d016fc66ff9542cad89b3ffefcb54771-5011x3341.jpg?rect=0,360,5011,2622&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-05/dc4c4c73ec0fcfbf.jpg"
+    },
+    {
+      "hash": "9a265447d927aa73",
+      "title": "Nevada U.S. House Election Live Results 2026 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHV0EyRm1IMmZJN2t3TE0tTldXMDFWeGIzelBNX2dDc0VPMVdqUUlzZFNhVlkyMU91Q0o4NE5TSEY2ZXZiSTk3ZjZaUDhKOVEwbjhkcXFZMWhNbHF6VGgwWXFoc01tYnpmUktnR2hVSmlPWDNTanc?oc=5",
+      "summary": "Nevada U.S. House Election Live Results 2026    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-11-05T00:29:34+00:00",
+      "published_epoch": 1793838574,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "98506153683cb371",
+      "title": "آری فلیشر، سخنگوی پیشین کاخ سفید در دولت جورج بوش، در واکنش به اظهارات جی‌دی ونس درباره نقش جنگ ایران در شکست جمهوری‌خوا...",
+      "link": "https://t.me/IranintlTV/365454",
+      "summary": "آری فلیشر، سخنگوی پیشین کاخ سفید در دولت جورج بوش، در واکنش به اظهارات جی‌دی ونس درباره نقش جنگ ایران در شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای گفت: «مشکل جنگ ایران نبود؛ مشکل آتش‌بس بود.»\n\nفلیشر چهارشنبه ۱۳ آبان در شبکه اجتماعی ایکس نوشت آغاز جنگ مستلزم پیروزی و پایان دادن به آن است و عملیات آمریکا پس از حمله به ایران نباید تا زمان سقوط جمهوری اسلامی متوقف می‌شد.\n\nاو گفت جنگ باید شش ماه پیش با بازگشایی کامل تنگه هرمز و برقراری جریان نفت پایان می‌یافت. فلیشر همچنین خواستار حذف مقام‌های رده دوم و سوم حکومت ایران و حمایت آمریکا از نیروهای طرفدار غرب برای به دست گرفتن قدرت شد.\n\nاو افزود واشینگتن فرصت ایجاد خاورمیانه‌ای صلح‌آمیزتر، جلوگیری از دستیابی ایران به سلاح هسته‌ای و برکناری جمهوری اسلامی را از دست داده است.\n\nفلیشر آتش‌بس را عامل بلاتکلیفی درباره پایان جنگ یا ازسرگیری آن دانست و افزایش قیمت‌ها و ادامه حضور نیروهای آمریکایی در منطقه را از پیامدهای این وضعیت خواند. او خطاب به ونس تاکید کرد: «مشکل جنگ نیست؛ مشکل همان به‌اصطلاح آتش‌بس است.»\n https://iranintl.com/202611046749",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-05T00:26:06+00:00",
+      "published_epoch": 1793838366,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/FjftoEY9E3ShWf2F2bznDUsb_Y4eTn08QW0sE1kXPtW8Y2SIwhGKo6GVPco30g0LQZ4GBALEDwEYbIE5bArbheifgE7LXWp_dcXQe_x1zGq-pIxlwV9evey4QJ7Rk1zNAECEQr05gXbAMFLeku6M8KK63zEFZ9rnpY6Nnn8PqL_L1ylwzdTwMLpu-bOEtXxz3i6Ex0dX0d8To0dBjI5Y54m1HqOy_UkwEp6n4n8zJgLx864FWJ_NXU-UwYysj1f6YsNdYpGoRfVCJSXVKn0gdeVxZwa3ofWq1XURaBZHAs7Gku0QDML4XBJRRtpHsyJnGzavgjRE9gHP1n7mHVxTLg.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/995c122ae6f26a89.jpg"
+    },
+    {
+      "hash": "fbb3661af2049a5a",
+      "title": "یزدان برای چندمین بار من رو توی دنیای نرم‌افزار نجات داد",
+      "link": "https://t.me/MatinSenPaii/5786",
+      "summary": "یزدان برای چندمین بار من رو توی دنیای نرم‌افزار نجات داد\nصرفا خواستم این رو بگم که من اگر یک جا به موفقیتی هم برسم توی این چندتا کاری که دارم می‌کنم و نمی‌تونم فعلا بگم چی هستن، پشتش دوست‌هایی دارم که دلسوزانه کمکم می‌کنن و امیدوارم بتونم لطفشونو جبران کنم یک روزی 🤖",
+      "source_id": "tg_MatinSenPaii",
+      "source_name": "@MatinSenPaii",
+      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
+      "category": "telegram",
+      "published_at": "2026-11-05T00:19:47+00:00",
+      "published_epoch": 1793837987,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "508b73152d1d90c9",
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "link": "https://www.spacex.com/starfall",
+      "summary": "Article URL: https://www.spacex.com/starfall \n Comments URL: https://news.ycombinator.com/item?id=50373308 \n Points: 59 \n # Comments: 24",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-11-05T00:18:18+00:00",
+      "published_epoch": 1793837898,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "65fe1fba14dc9acd",
+      "title": "یه چند نفری راجع به روش oob سوال پرسیدن، اولا ایده روش قدیمی هست و من صرفا تو هسته‌ xray خودم پیاده‌سازیش کردم، دوما این...",
+      "link": "https://t.me/patt_channel_x/216",
+      "summary": "یه چند نفری راجع به روش oob سوال پرسیدن، اولا ایده روش قدیمی هست و من صرفا تو هسته‌ xray خودم پیاده‌سازیش کردم، دوما این روش باعث میشه sni خونده نشه بنابراین فقط روی فایروال بلک‌لیست موثر هستش .\n\nبرای اتصال به کانفیگهای worker/cdn کلودفلر در حال حاضر روی فایروال همراه اول و روی IPv4 وایتلیست اجرا میشه، بنابراین این روش براش موثر نیست، ولی روی IPv6 بلک لیست اجرا میشه، بنابراین این روش فقط برای فایروال همراه اول و فقط بر روی IPv6 موثر هستش. \n\nبرای اجراش هم در حال حاضر کافیه ابتدا آدرس رو یک ipv6 سالم کلودفلر به طور مثال 2a06:98c1:3101::6812:202f قرار بدین و dialMode رو هم oob.0 قرار بدین.\n\n در صورتی که فایروالتون همراه اوله و IPv6 هم دارید یکی از مهمترین کاربردهای این روش اتصال به کانفیگ‌های pages کلودفلر بدون داشتن دامنه‌ی شخصی میباشد. \n\n///\n\nبرای فایروال ایرانسل همچنان متد F&F که در اینجا توضیح داده شده باعث رفع محدودیت آپلود میشود و هم روی IPv4 و هم روی IPv6 قابل استفادس.",
+      "source_id": "tg_patt_channel_x",
+      "source_name": "@patt_channel_x",
+      "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
+      "category": "telegram",
+      "published_at": "2026-11-05T00:07:52+00:00",
+      "published_epoch": 1793837272,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "34a686f6127add41",
+      "title": "دونالد ترامپ، رییس‌جمهوری آمریکا، چهارشنبه ۱۳ آبان در پاسخ به پرسش خبرنگاران درباره احتمال برکناری پیت هگست، وزیر جنگ آم...",
+      "link": "https://t.me/IranintlTV/365453",
+      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، چهارشنبه ۱۳ آبان در پاسخ به پرسش خبرنگاران درباره احتمال برکناری پیت هگست، وزیر جنگ آمریکا، گفت: «نه، فکر می‌کنم او عملکرد بسیار خوبی دارد.»\n\nاین اظهارات پس از شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا مطرح شد. به گزارش رویترز، در پی این شکست و افزایش انتقادها از جنگ با ایران، گمانه‌زنی‌هایی درباره آینده هگست در دولت ترامپ شکل گرفته است.\n\nترامپ همچنین در پاسخ به پرسشی درباره احتمال انتصاب هگست به کرسی خالی سنای ایالت تنسی گفت که او در صورت چنین انتصابی بسیار محبوب خواهد بود، اما تاکنون چیزی درباره این احتمال نشنیده است.\n https://iranintl.com/202611040151",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-05T00:06:29+00:00",
+      "published_epoch": 1793837189,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/MCJ4eDUQMVd5E-RcIBnPUPnStpi7wMqgH_AASSRUDGajbVts2FcGC11z0B0EN0J_8GaJCNMH1-BxzHD5Fsg6z9tnStbxpcbnvPkaTcW6eiODcRMrby_KRGwOxRwa-2PvmyuZjEEOhkke5DxJ8N5SV1kN5FcaG7iZofL7mDtZKt6zyhV9Czwq3Hy3ub91ipT0xMZF-UprnGEcilullgTGrC-qI0s55ktJp3tZD3StD7pGWSYitpxLEca1t_escQ0YwkBDyISs40ETXj2K87nQ2ETJu6eNHCQQPn0W7c4kVr6Hrq8l4cd6R1lVn6tPvO_bSLyMwkc8DiccxTL0QM5h5A.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/2aaff269f2268f42.jpg"
+    },
+    {
+      "hash": "1b44b2963f5631c0",
+      "title": "You'll need nerves of steel to work with AI agents",
+      "link": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+      "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ \n Comments URL: https://news.ycombinator.com/item?id=50373149 \n Points: 20 \n # Comments: 12",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-11-05T00:01:30+00:00",
+      "published_epoch": 1793836890,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "03f08cfc9ca59872",
+      "title": "چارلی وایمرز، نماینده پارلمان اروپا، در ویدیویی که از دیدارش با شاهزاده رضا پهلوی منتشر کرده است، با تاکید بر حمایت از ا...",
+      "link": "https://t.me/IranintlTV/365452",
+      "summary": "چارلی وایمرز، نماینده پارلمان اروپا، در ویدیویی که از دیدارش با شاهزاده رضا پهلوی منتشر کرده است، با تاکید بر حمایت از او به‌عنوان «جایگزین حکومت جمهوری اسلامی» گفت: «از تلاش‌های شما برای متحد کردن مردم ایران حول آینده‌ای حمایت می‌کنیم که در آن بتوانند حکومت خود را انتخاب کنند.»\n\nاین نماینده سوئد در پارلمان اروپا گفت: «وقتی در سال ۲۰۲۳ از شما دعوت کردم به اینجا بیایید، می‌خواستم این پارلمان صدای یک جایگزین برای حکومت جمهوری اسلامی را بشنود. این باور از آن زمان تاکنون حتی قوی‌تر شده است.»\n\nوایمرز با اشاره به توسعه دانشگاه‌ها، صنعت و زیرساخت‌های مدرن ایران در دوران سلسله پهلوی گفت: «نام شاهزاده پهلوی با امیدهای بسیاری از ایرانیان پیوندی جدایی‌ناپذیر پیدا کرده است.»\n https://iranintl.com/202611049134",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-04T23:53:57+00:00",
+      "published_epoch": 1793836437,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/UF1-K4A-EW5sG79dcYLLLHNuKsouXZjxoAXF-a8ikRgrOatLTD4YXOWyq3EmySNXx1AQ5Mj84gHayJekww02l1i4UEjyjinHop-hzt_0XLc2qVy46tbGlUL0FpTvaLPQ3gTcTL1a_m64PpiynlbVLkTMbaO472i4ds4kU2_BTifsHdRZTtNmpSjmasRQb-QupQ3Sd36OQDc0B3fmZze4AStGf1eDLN78ANGFhd22sKtsLmJo-mI_UKg7teN1LxkIv_t55_FkdbYGAxi5EIbJYZu3AdSNSTIodFg-TvNM1mm4g_If_lGEriwFKiOHIH0YgIc6MuBI9nyn-W8-N0az0A.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/07e91e88b8b0a27d.jpg"
+    },
+    {
+      "hash": "b162c373e0de40a9",
+      "title": "انتخابات آمریکا چه تاثیری بر آینده ایران دارد؟ واکنش‌های متفاوت در شبکه‌های اجتماعی",
+      "link": "https://www.bbc.com/persian/articles/cmwy7zrlp294o?at_medium=RSS&at_campaign=rss",
+      "summary": "انتخابات میان‌دوره‌ای آمریکا از هفته‌ها پیش از برگزاری تا اعلام نتایج، موضوع بحث در میان کاربران ایرانی شبکه‌های اجتماعی، از حامیان تا منتقدان جمهوری اسلامی، بوده است. این گزارش مجموعه‌ای از واکنش‌های چهره‌های سیاسی و کاربران شبکه‌های اجتماعی و نظراتی است که مخاطبان برای بی‌بی‌سی فارسی فرستاده‌اند.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T23:51:58+00:00",
+      "published_epoch": 1793836318,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b08b/live/a8a08530-d8ad-11f1-8b97-dd854ec90424.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/dcd83ed1998199f8.jpg"
+    },
+    {
+      "hash": "68018cc51785455a",
+      "title": "Qualcomm shares slide as smartphone weakness clouds growth push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1J5TU1haGNMUk9CVzZLSmN4d09oZXdTLUFSTEJOMVAxZURhWE5JRVgzVU41TXdHSV92TEJkODQ2Q1NFLUdLSjh6UThlVUVFTUJUS3gxb25ta1VHYjJEMWQ5LUxwTTRzNXpfaUdPOVJxeGhQaDhqMzg5eDRkTENkeUhNa3lwT1k1cEVQQWR6SEl1R1dkVUtFalp2eHVMTDR5VUhiM1JHUjNPRkt5MW1Td2U2UE9SejRBUTJJR0cyaWE?oc=5",
+      "summary": "Qualcomm shares slide as smartphone weakness clouds growth push    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T23:40:12+00:00",
+      "published_epoch": 1793835612,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "642ae4617ab0a55f",
+      "title": "Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ \n Comments URL: https://news.ycombinator.com/item?id=50372945 \n Points: 92 \n # Comments: 78",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-11-04T23:35:44+00:00",
+      "published_epoch": 1793835344,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "a9cbb1167748ccd3",
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "summary": "Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/ \n Comments URL: https://news.ycombinator.com/item?id=50372929 \n Points: 92 \n # Comments: 61",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-11-04T23:33:14+00:00",
+      "published_epoch": 1793835194,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "a90d9d68156e2525",
+      "title": "هیلی استیونز، نماینده دموکرات ایالت میشیگان در مجلس نمایندگان آمریکا، چهارشنبه ۱۳ آبان پس از پیروزی عبدال السید، نامزد د...",
+      "link": "https://t.me/IranintlTV/365451",
+      "summary": "هیلی استیونز، نماینده دموکرات ایالت میشیگان در مجلس نمایندگان آمریکا، چهارشنبه ۱۳ آبان پس از پیروزی عبدال السید، نامزد دموکرات سنا، اعلام کرد از تصمیم خود برای حمایت از مایک راجرز، رقیب جمهوری‌خواه او، پشیمان نیست.\n\nاستیونز در شبکه اجتماعی ایکس نوشت: «از تصمیمم پشیمان نیستم، اما واقعا متاسفم که برخی همکاران و افراد نزدیک به خود را ناراحت کردم.»\n\nاو با تاکید بر حمایت خود از اسرائیل، ارتباط السید با حسن پیکر، چهره رسانه‌ای چپ‌گرا، را از دلایل مخالفتش با نامزد حزب خود دانست و گفت همچنان به مبارزه با یهودستیزی ادامه خواهد داد.\n https://iranintl.com/202611040737",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-04T23:32:15+00:00",
+      "published_epoch": 1793835135,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/BEtdyY-upd73bH4vWuBmilPjOptQ4G1nZy28RrcIMu-vqprfiaBN_KJHcgIFq1Ls9kt234lJYR-xpedErjsyHX38bc1OlZ-nCXcq8dOxQacqvdopJK5GI4CkoOzxHbxAbjANt7HRpTGMPrc1W7VKatEWdziscy39xquCH-tIwsp-Rlrf0pFOyAGso3jQJXE5E-vylrPiH-1EV_79AyfqQ9Lbm08Q_vsatucwDSvibURMRTTNgK8FegkN0JKK735gXH0-VCBQJaZmeciMCqPKH_ym1a8os2N6TwzcdOBJ3f0SNnarUNNvMzQJC1JVWrj3zssMvmrLibKpdE0e5v4l1w.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/8a39b5178fad08a8.jpg"
+    },
+    {
+      "hash": "997b19f47a8e22ca",
+      "title": "NASA's 22-year-old Swift satellite telescope falls from orbit in fiery finale - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUG9OVmM2ZmxVb0dKYUFDTmw0QXpVakp5SmdOVGg5QmF0Zy1fdzdLSFkwYVJLWk9rWjV2akVCX1pLTDFfQWxkVkk4eENGTUZqVGlldjZsT0U1VHh0TWd1c3c2Ymg2RlBmVmhCSkdGWHJ0R05kNmdKRXduelFLMGZ2dXNsMnlqMVFhUzdINDJfdWFzeTRCbXc5RTRnM0dtVnRCZUxsTTVJaERxSEN0eU03TVFn?oc=5",
+      "summary": "NASA's 22-year-old Swift satellite telescope falls from orbit in fiery finale    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T23:27:00+00:00",
+      "published_epoch": 1793834820,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "5ebb70392061c350",
+      "title": "پس از شکست انتخاباتی، شماری از جمهوری‌خواهان از ترامپ خواستند مسیرش را تغییر دهد",
+      "link": "https://www.iranintl.com/202611041989",
+      "summary": "پس از پیروزی دموکرات‌ها در انتخابات سنا و مجلس نمایندگان آمریکا، که به «زلزله سیاسی در واشینگتن» تعبیر شده است، شماری از متحدان و مشاوران جمهوری‌خواه دونالد ترامپ از او خواستند ترکیب تیم کاخ سفید را تغییر دهد و در سیاست‌هایی چون جنگ ایران و وضع تعرفه‌ها، تجدیدنظر کند.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-04T23:18:00+00:00",
+      "published_epoch": 1793834280,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/651e210f8fab2449120fad7fe127b8e6671181cb-4535x3023.jpg?rect=0,326,4535,2373&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-05/7734bb698c88d0a4.jpg"
+    },
+    {
+      "hash": "113f20a13f400442",
+      "title": "اسحاق هرتزوگ، رییس‌جمهوری اسرائیل، چهارشنبه ۱۳ آبان در واکنش به اظهارات جی‌دی ونس درباره ضرورت تغییر روابط آمریکا و اسرا...",
+      "link": "https://t.me/IranintlTV/365450",
+      "summary": "اسحاق هرتزوگ، رییس‌جمهوری اسرائیل، چهارشنبه ۱۳ آبان در واکنش به اظهارات جی‌دی ونس درباره ضرورت تغییر روابط آمریکا و اسرائیل گفت کشورش برای دونالد ترامپ، رییس‌جمهوری آمریکا، و معاون او احترام زیادی قائل است.\n\nهرتزوگ در دیدار با نمایندگان حزب «اسرائیل خانه ما» گفت: «اظهارات معاون رییس‌جمهوری، ونس، را شنیدم. این دیدگاه‌ها در کشور دوست و متحد بزرگ ما مطرح است.» او افزود: «من برای رییس‌جمهوری ترامپ، معاون رییس‌جمهوری ونس و حزب دموکرات احترام قائلم. اسرائیل همواره تلاش کرده است حمایت هر دو حزب آمریکا را حفظ کند.»\n\nاین اظهارات پس از آن مطرح شد که ونس شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا را ناشی از جنگ ایران دانست و گفت پایان جنگ، کاهش هزینه‌های زندگی، اولویت دادن به منافع آمریکا و تغییر روابط با اسرائیل از خواسته‌های اصلی رای‌دهندگانی بوده است که از جمهوری‌خواهان فاصله گرفته‌اند.\n https://iranintl.com/202611047340",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-04T23:11:34+00:00",
+      "published_epoch": 1793833894,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/Syz6PObkH_GrR-EiMKRzvu04QnPhM0xquoQFfu0wPovBx1GzpmKuLQ27seXjcCvnFHp1sLsOM4gkXP3Idr6nZNlLxk5jPYJ260kl2b3OdV2XN8G_yqsKTkxCdl93zSQ49UlwfYhR8FXQwl3Y3rbGaha2vpWqozFUKFfaPZJ2bDz7y6qTZV6_CsGdk2u9COakpY_QGB5TvsdxQ7AVUQHW8BCHtOJObWk5VBwlPKALVaPyEBWhzo3B4uZWFH6Qgjegd3JobIEK6s5otAELit80tMcr8vgljpBTN-nmE2lVzXnjlU_2B5HQ5cPU5rYnqDuptmwlRud2vYkGDiGJLIHidQ.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/3ba1cdeeefa6b34a.jpg"
+    },
+    {
+      "hash": "4e7747f4139a2592",
+      "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGV2UGo5V1FRUGxkUzdPWVo1NGhFM2lvM2N5NVUycUUya2VIX3N2aHM5am8tNUhCQ21oMng4LVQ2UllCWnRpdlNqUDd4MTM2ZVhpUTBlR3NQTTdBZFNMVlRDVV9LQ2d4Vjc1M0ZBcldwZmVEaGpDTENnVHR2bmp3Sm9ENnF6YWU1TDRjcmxiSWQwTjY5clQwb2V2a1JMdUhxLXRfLUZwUlNwR0Rob1E?oc=5",
+      "summary": "Arm forecasts third-quarter revenue above estimates on AI spending boom    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T23:11:05+00:00",
+      "published_epoch": 1793833865,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "ad3708e3814411e5",
+      "title": "Paraguay bank crisis spurs lawmakers' calls to impeach president - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnVQS0hGM3R0Ynl5bHhWNDN2dkFQX1BqT3NWSnJaYzlXODRySlJ2TnNzZUdSY1FvWVBYMkxrOTQ2aDB1V2tlT1JuX3lwTVA0SzV4cTVzeGcwcHpoZUxleFpaYnFtQkhuQXJWYnoyalBmRm1pdi0wYXVuakM2c0ZLZzJ4LUN2c244MVV1a2tzd1BrZS1icjQxOFAtMXcwRXJiV2RqLV8tbnZxMEpHSlV4Uw?oc=5",
+      "summary": "Paraguay bank crisis spurs lawmakers' calls to impeach president    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T23:10:09+00:00",
+      "published_epoch": 1793833809,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "8ec4d7490c618e7a",
+      "title": "دونالد ترامپ، رییس‌جمهوری آمریکا، چهارشنبه ۱۳ آبان گفت می‌تواند با اکثریت دموکرات‌ها در کنگره آینده درباره «مسائل بسیار ...",
+      "link": "https://t.me/IranintlTV/365449",
+      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، چهارشنبه ۱۳ آبان گفت می‌تواند با اکثریت دموکرات‌ها در کنگره آینده درباره «مسائل بسیار بیشتری از آنچه مردم تصور می‌کنند» همکاری کند.\n\nاو پس از پیروزی گسترده دموکرات‌ها در انتخابات میان‌دوره‌ای و بازپس‌گیری کنترل هر دو مجلس کنگره از جمهوری‌خواهان، در گفت‌وگو با سی‌ان‌بی‌سی درباره دو سال پایانی دوره ریاست‌جمهوری خود ابراز اطمینان کرد.\n https://iranintl.com/202611047361",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-04T23:07:07+00:00",
+      "published_epoch": 1793833627,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/pO1eN-_8LwXPIdeHCvhK4aFa90TjVpxXJdroI1-Qzf6n3d6dxm6Be8fZ_KiM3qdMduAI9oiRaEMTcrV7AJBN_b7ARKeV53MY-XswzAEm71YQChGDKw9ySZ46m-iNzwZRerbzvum9Rve233GckyPvM3D7eSG8pmTfJlX4zenZdqKB7L7SNYr_VZ57XIFSbFfS5OmhfDiuixuiR61NQzV5DjR3Q_ksOkeagpKLbJXTbH-0ifE0htyo0Y1t3ueDQ0j6Oib6bz66R7rgXuyd3r8gry2hsnjZYCVGnF1COiXLmn-N0358F2oZGlNHNTWq3QkMjLKRZw1gG_YyHZe5jgzY5A.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/b3eb7ae12b73f36e.jpg"
+    },
+    {
+      "hash": "6b51c0f9c24b2336",
+      "title": "Republicans call for Trump to change course after midterm drubbing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamFhVEozSjRLb3lJNlFlTTZ4dmtZbjBGdTJHOGNXdmZqXzh6VGhqN3Z2czQ5VUdTaE5KeTMwdHNtUWhVRldhb2hhbGJMNUhDR3NfbF9sOWYyWHVFZHdPeU43OElBMzhnQnQzenpkdzJlQWVya0tMQUhaV1pPN1UwWlVlMXZpMXQxa191LVN5SEZSdWh5T21jcXRycHpOUkI5ZWhhZm4xSktCQnRfRnFhcDZn?oc=5",
+      "summary": "Republicans call for Trump to change course after midterm drubbing    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T22:59:43+00:00",
+      "published_epoch": 1793833183,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "f7314c5d90ca037e",
+      "title": "AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmFGV0prMVV6V1h5NnN6anN1djhhUlBvVVVPMV9WQkZhTkxETlN1VThxQzFJQ284aXhHaktOX1U5WlBxNUtsSzNacVNsb2laWGNQYzQ4TTJ5Uk0xX2tNYmtZM0pRWmtRX045UDB0Z2loUmd0WjVOdjV6Um9MWUI1cFRubXNkbFlxN2xZVkRGRzhYdFZFR093OEJuUWpKN19QX09nMHJRYnVzMmp4Q0d2dl9vSzIwZm5QYkRR?oc=5",
+      "summary": "AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T22:56:24+00:00",
+      "published_epoch": 1793832984,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "d4085959d9b85f77",
+      "title": "کامالا هریس، معاون جو بایدن در دوران ریاست‌جمهوری او، به آسوشیتدپرس گفت از گستردگی جغرافیایی، ایدئولوژیک و نسلی پیروزی‌ه...",
+      "link": "https://t.me/IranintlTV/365448",
+      "summary": "کامالا هریس، معاون جو بایدن در دوران ریاست‌جمهوری او، به آسوشیتدپرس گفت از گستردگی جغرافیایی، ایدئولوژیک و نسلی پیروزی‌های دموکرات‌ها در انتخابات میان‌دوره‌ای خرسند است و این نتایج را نمی‌توان در یک دسته‌بندی ساده حزبی یا کشوری جای داد.\n\nهریس گفت دموکرات‌ها باید در زمینه اقتصاد و حقوق مدنی برای رای‌دهندگان از همه گروه‌های جمعیتی نتایج ملموسی به دست آورند. او افزود فارغ از تصمیمش درباره نامزدی در انتخابات ریاست‌جمهوری ۲۰۲۸، قصد دارد در تعیین مسیر حزب و برجسته کردن مسائلی که در آنها تجربه دارد، نقش ایفا کند.\n https://iranintl.com/202611043108",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-04T22:56:13+00:00",
+      "published_epoch": 1793832973,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/S_aNMmJ39QIX0hPq4kRWbXlN_ii_cqKbwnt9bpZySp6UyQZIc6Gjabu9wG0LEH1-CLZhrj388PGYfN4kgps0pOBTR_lqM8l261jltmBO5WkC3RjcSRapxzY3FiyQbHfS5cV7W8dr4hYLdHcgu9Ac259FbgzEu7mwAJWPBiozuz5m9ZoTpek96rIy6vALSB5HeeD8QxjX4SQjcMghgsJwzye9qxSnjxjwAIEVOOVrGaf2AAlAHcrOlnDCotCJZ0K2zyZznbeAotn5RZhab-QfxEPT4XkLDjwwxmeqcM1d1NWMlfjxvLIlW83QndkfJoj7A-R2bJ-pBugQO9wlYXO1Dw.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/f491b89dad842fc9.jpg"
+    },
+    {
+      "hash": "6327c5a04631d823",
+      "title": "Zelenskiy hopes US election outcome will generate more help for Ukraine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjFLdFdwNUNSQ1l4UnhlT3A0TTNua2ttWWJvNWtNQlpUVlZncVRzTnVZRUkydktKS1IwaHBQU243ajRzUC04N3lEZXhlV3hKczc3V1VvUjFCcy1ESXBUU09YVlBoVlNUaHVrTHR2SWFhMEIxNmlPazBWbTZZdEN2bWRmYmtrYzRqMy15ckpiWDdYNTJHYUUzdmZwZU05MnRiaTBVVTVmUnZtLXJyOEE?oc=5",
+      "summary": "Zelenskiy hopes US election outcome will generate more help for Ukraine    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T22:20:02+00:00",
+      "published_epoch": 1793830802,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "a7c35b5fd2512338",
+      "title": "شب عجب لیگ قهرمانان؛ ۴۴ گل در ۹ بازی؛ کومو فابرگاس، ترسناکتر از پی‌اس‌جی انریکه",
+      "link": "https://www.iranintl.com/202611045878",
+      "summary": "شب دوم هفته چهارم لیگ قهرمانان اروپا، یکی از پرگل‌ترین شب‌های این فصل بود؛ در ۹ بازی امشب، ۴۴ گل به ثمر رسید. تیم شگفتی‌ساز کومو البته سهم بزرگی در این رکورد داشت؛ تیم سسک فابرگاس با نتیجه ۹ بر یک، لانس را در فرانسه شکست داد و یکی از پرگل‌ترین بازی‌های تاریخ رقابت‌ها را ثبت کرد.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-04T22:16:11+00:00",
+      "published_epoch": 1793830571,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/1fbbb0847bb0a9e5f5aa342d4da1829d814d5a8a-2300x1517.jpg?rect=0,157,2300,1204&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-05/6713ce99e5a91c0e.jpg"
+    },
+    {
+      "hash": "9ffea00ebada7d55",
+      "title": "پنج دلیل شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا",
+      "link": "https://www.bbc.com/persian/articles/cmlykqv87gk1o?at_medium=RSS&at_campaign=rss",
+      "summary": "از رأی‌دهندگان ناراضی تا رئیس‌جمهوری نامحبوب؛ این‌ها دلایلی هستند که باعث شدند آمریکایی‌ها در مناطق به طور سنتی جمهوری‌خواه به دموکرات‌ها روی بیاورند.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T22:10:21+00:00",
+      "published_epoch": 1793830221,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg"
+      ],
+      "local_media_path": "media/2026-11-05/8d2814bdf666b555.jpg"
+    },
+    {
+      "hash": "61a88d9db133d193",
+      "title": "نخستین‌های انتخابات آمریکا؛ از فرماندار زن بومی تا سناتور مسلمان",
+      "link": "https://www.iranintl.com/202611045428",
+      "summary": "انتخابات میان‌دوره‌ای ۲۰۲۶ آمریکا با انتخاب نخستین زن آفریقایی‌تبار به فرمانداری، نخستین مسلمان و نخستین مرد آشکارا همجنس‌گرا به سنا، نخستین زنان بومی به فرمانداری و سنا و نخستین فرماندار لاتین‌تبار تگزاس، تاریخ‌ساز شد.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-04T22:10:00+00:00",
+      "published_epoch": 1793830200,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/ee070eb0e9baa0d10ee827e8ed314a5079e0fb05-6000x4000.jpg?rect=0,430,6000,3140&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-05/e7cd76750e9ff41a.jpg"
+    },
+    {
+      "hash": "7ba2f92ee403dacd",
+      "title": "اسپانیا؛ برگزاری سی‌اُمین اجلاس ایبرو-آمریکا با حضور ۲۲ کشور عضو",
+      "link": "https://parsi.euronews.com/video/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc",
+      "summary": "اسپانیا میزبان سی‌امین نشست سران ایبرو-آمریکا در مادرید است؛ رهبران کشورهای اسپانیایی‌زبان و پرتغالی‌زبان گردهم آمده‌اند تا همکاری اروپا و آمریکای لاتین را تقویت کنند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T22:09:10+00:00",
+      "published_epoch": 1793830150,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "a1e6efe69d7a254f",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "summary": "Article URL: https://icode4.coffee/?p=1746 \n Comments URL: https://news.ycombinator.com/item?id=50372164 \n Points: 61 \n # Comments: 2",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-11-04T22:01:49+00:00",
+      "published_epoch": 1793829709,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "42ae8a2c2bb26da2",
+      "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
+      "summary": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-11-04T21:51:00+00:00",
+      "published_epoch": 1793829060,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "a5d2180a5b8d006e",
+      "title": "ایندرا در رأس ائتلاف اسپانیا که زیرساخت‌های زیرآبی اروپا را ایمن خواهد کرد",
+      "link": "https://parsi.euronews.com/2026/11/04/indra-leads-the-spanish-alliance-that-will-protect-europes-underwater-infrastructures",
+      "summary": "این طرح هوش مصنوعی مستقل، حسگرهای پیشرفته و وسایل نقلیه بدون سرنشین را ادغام می‌کند. هدف آن پایش مداوم پهنه آبی از سطح تا بستر دریاست. این توافق، صنعت ملی را به مرجع امنیت اروپا تبدیل می‌کند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T21:29:38+00:00",
+      "published_epoch": 1793827778,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "79bb17c1e68478e1",
+      "title": "تنریف در سوگ د میگل؛ ادای احترام هواداران در ورزشگاه هلیودورو",
+      "link": "https://www.iranintl.com/202611045164",
+      "summary": "بی‌بی‌سی اسپرت گزارش داد که هواداران تنریف پس از مرگ خسوس د میگل، مهاجم این تیم، در ورزشگاه هلیودورو رودریگز لوپس به او ادای احترام کردند. د میگل دوشنبه در جریان مسابقه با آندورا، پس از برخورد با خسوس اوونو، دروازه‌بان این تیم، به‌شدت مصدوم شد و سه‌شنبه بر اثر جراحات جان باخت.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-04T21:25:50+00:00",
+      "published_epoch": 1793827550,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/911cf1c70082679d483ba33692866acfab81b1d5-5107x3391.jpg?rect=0,360,5107,2673&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "954c905f152a5698",
+      "title": "Death Comes for XSLT",
+      "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "summary": "Article URL: https://dbushell.com/2026/11/03/xslt-rip/ \n Comments URL: https://news.ycombinator.com/item?id=50371408 \n Points: 44 \n # Comments: 27",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-11-04T20:57:10+00:00",
+      "published_epoch": 1793825830,
+      "rtl": false,
+      "raw_media_urls": [],
       "local_media_path": null
     },
     {
       "hash": "9e4d2cca96a3aec5",
-      "title": "Residential Proxies Detected on White House Network",
+      "title": "Residential proxies detected on White House network",
       "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network \n Comments URL: https://news.ycombinator.com/item?id=50371246 \n Points: 30 \n # Comments: 2",
+      "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network \n Comments URL: https://news.ycombinator.com/item?id=50371246 \n Points: 642 \n # Comments: 211",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -53,72 +678,49 @@
       "local_media_path": null
     },
     {
-      "hash": "4acd1e91fe030d34",
-      "title": "ویدیوی ارسال‌شده نشان می‌دهد گروهی از دانش‌آموزان چهارشنبه ۱۳ آبان و همزمان با مراسم حکومتی، بر سر مزار جاویدنام فاطمه س...",
-      "link": "https://t.me/IranintlTV/365430",
-      "summary": "ویدیوی ارسال‌شده نشان می‌دهد گروهی از دانش‌آموزان چهارشنبه ۱۳ آبان و همزمان با مراسم حکومتی، بر سر مزار جاویدنام فاطمه سلطانی سرود «ایران جوان» را همخوانی کردند.\nفاطمه سلطانی، ۳۲ ساله، ۱۸ دی‌ماه ۱۴۰۴ در اسفراین کشته شد.",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T20:34:39+00:00",
-      "published_epoch": 1793824479,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/RZ45ApJeqTME5BIgstsjGaqn8lela2NX60efhAMVPLDwOCBUtv6uZ0C4fNbQeEIkPlR3clBuT9ShVeMj1ayt8KWFXk9-WNRydJJAin8VkcCiY8k1PdVS7o__hH4fvnnYP8k0MP72ohGLesiCQxFi3uvaNNoNrGIFfzGhjQJzNgOSPpm0C0jKPk5dAQUdFIY7ysLD2bn-p8XLpQXhwy4M3KHIyJ8iaJuM-mi8VHjT3gDTcsGhkeyT7bQFNKirrtTZJwDHQP2v9Zox2ugBGK_TW0RG4K3yxtD7-i99BNMVfOUDjIpvOMreYdmGXDlpDiPfjnblDg4nj4GtNtQl1Daa3A"
-      ],
-      "local_media_path": "media/2026-11-04/7078979e80f91e81.jpg"
+      "hash": "06f77f7c0f8a1e8e",
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "link": "https://github.com/gauge-sh/gauge-cli",
+      "summary": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don't need an account to try it. Explainer video here: https://youtu.be/zhLUlIKB1Mg The CLI supports a hillclimbing loop: - set up tasks for coding agents that would need your docs, like 'set up Gauge CI checks' - run the tasks - analyze ses...",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
+      "category": "tech",
+      "published_at": "2026-11-04T20:31:30+00:00",
+      "published_epoch": 1793824290,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
-      "hash": "a3e78bf09138f3e5",
-      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت تهدیدهای موشکی جمهوری اسلامی علیه کشورهای اروپایی، درک دولت‌های غربی از خ...",
-      "link": "https://t.me/IranintlTV/365429",
-      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت تهدیدهای موشکی جمهوری اسلامی علیه کشورهای اروپایی، درک دولت‌های غربی از خطرات تهران را افزایش داده و باعث شده مواضع شاهزاده رضا پهلوی در اروپا بیشتر مورد توجه قرار گیرد.\n\nویسی با اشاره به سخنرانی شاهزاده رضا پهلوی در پارلمان اروپا افزود حمایت عملی از مردم ایران باید فراتر از صدور بیانیه باشد. او خواستار پایان دادن به سیاست مماشات، تعطیلی سفارتخانه‌های جمهوری اسلامی و اخراج دیپلمات‌های آن از کشورهای اروپایی شد و تاکید کرد که تعیین آینده سیاسی ایران باید بر اساس رای مردم باشد.\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T20:34:07+00:00",
-      "published_epoch": 1793824447,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/KeQhls2cdMDSUJsl2C-RJAvgkEKlGZtQPnZ9Fw8ylhL7BmKc_uKqMYCtSviLWOzkGckQOSziFwU0MVzc3DdQ06biY0Q4InGQopU7EfGVHJMtADZgzsCBPsldS_iG5wh3wHTAYx9NmtLz4a0LDzgGIk-HjI6qbshiEqc1whZwuq0xybwiQSaDvBunBRvZnbX6hgQehLwZnIOB3rPutiq4s2HoYwZQL71QNgJIkBAnX8ETSGWdbqbU-Do7RtsjuYdk-7YDPqK1RB824uSlyPsMGyjMDVKPo222xFgtcXin2yQoMeXcOFvVP7SZCZp2lDs1QKumvdFKQXI6N1PgA4GaBA"
-      ],
-      "local_media_path": "media/2026-11-04/9d1c14749737b4ca.jpg"
+      "hash": "6353a400759d1c13",
+      "title": "Apple cuts employee AI budgets in cost-control push, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTJ5aVk4RUE4ZGFvVHBYTU9fc1FMamxLMXZ6QmZpZ1EtSnpLNXVlMjFNU2lyOWVSZGNMc1NPQmRkRlRzY3g0M2tjME1UOTAycFV6NXhBMF9rNFJaNEEydXBlYmd4U0tmeWhyaHR0UDIwRVplTVI5Z3g4bnRGMVdoUFVYMkJGcHZmZm5FcnR2b1VkdmxTYVVmUi1pdUF4QTJOQkhIVkVUOHpxYnltcmlhd1VSaElENFNuUUg1NnBGbGd1OWY0cnJmbFdTYlk?oc=5",
+      "summary": "Apple cuts employee AI budgets in cost-control push, Bloomberg News reports    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T20:29:43+00:00",
+      "published_epoch": 1793824183,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
-      "hash": "eba1593f7929df72",
-      "title": "دنی دانون، سفیر اسرائیل در سازمان ملل متحد، در گفت‌وگو با شبکه آی۲۴نیوز، مسئولیت اسرائیل در آغاز جنگ با جمهوری اسلامی و ...",
-      "link": "https://t.me/IranintlTV/365428",
-      "summary": "دنی دانون، سفیر اسرائیل در سازمان ملل متحد، در گفت‌وگو با شبکه آی۲۴نیوز، مسئولیت اسرائیل در آغاز جنگ با جمهوری اسلامی و افزایش قیمت انرژی در آمریکا را رد کرد و گفت واشینگتن مستقلا تصمیم به جنگ علیه جمهوری اسلامی گرفت.\nدانون در واکنش به اظهارات جی‌دی ونس، معاون رییس‌جمهوری آمریکا، درباره تاثیر جنگ علیه جمهوری اسلامی بر شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای گفت: «واشینگتن مستقلا تصمیم به حمله به ایران گرفت، هرچند اسرائیل از این عملیات حمایت کرد.»\nاو افزود: «همیشه خیلی آسان است که اسرائیل را مقصر همه‌چیز بدانند، اما واقعیت این‌طور نیست.»\nسفیر اسرائیل همچنین در پاسخ به پرسشی درباره احتمال دستیابی دونالد ترامپ، رییس‌جمهوری آمریکا، به توافقی با تهران که الزامات امنیتی اسرائیل را تامین نکند، تاکید کرد: «ما همیشه هر کاری را که برای حفاظت از خودمان ضروری باشد، انجام خواهیم \nسفیر اسرائیل همچنین در پاسخ به پرسشی درباره احتمال دستیابی دونالد ترامپ، رییس‌جمهوری آمریکا، به توافقی با تهران که الزامات امنیتی اسرائیل را تامین نکند، تاکید کرد: «ما همیشه هر کاری را که برای حفاظت از خودمان ضروری باشد، انجام خواهیم داد.»\nh",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T20:33:52+00:00",
-      "published_epoch": 1793824432,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/DaQnaPGSJGIfZq2F8kPEZNFlZ7_5QiHrsb-BeTGdJkv0tULN-Lx2eWNmnWSaSmlI-cjDTq3OeWcuib-MN_kNXhQzWHYhDpkJj_r2XcQfeRmRxH3EkI1wJu-VvtlykXeO-r59CX4ZNcVBS1wGdrPAKfRdjo_WK9_izsAYmLdpOOBupGNymfnX4CWrl7xKg2NoUJ4a6TldF5_M6EOYv9Vsv72z4p5OI7Wle0o9oDE2JmLMF7Epy9H9NQVdBUkHIN2PPgLUgYARA4hIdwDNLfHDwLW2z330NRXqP8V3elqldgBsGWvV7eGEPsnRSsHqPjX-YUMGmgsCQmGuf-dcR9Mltw.jpg"
-      ],
-      "local_media_path": "media/2026-11-04/3c2c7bc55a53758b.jpg"
-    },
-    {
-      "hash": "6c49d70bb69db971",
-      "title": "عبدل السید پس از پیروزی در رقابت سنای میشیگان، با وعده بهبود بیمه درمانی و چالش تحقق آن روبه‌روست. او در سخنرانی پیروزی ...",
-      "link": "https://t.me/IranintlTV/365427",
-      "summary": "عبدل السید پس از پیروزی در رقابت سنای میشیگان، با وعده بهبود بیمه درمانی و چالش تحقق آن روبه‌روست. او در سخنرانی پیروزی خود از دونالد ترامپ و جی‌دی ونس انتقاد کرد؛ در حالی که پیشبرد وعده‌هایش می‌تواند به همکاری با دولت فدرال نیاز داشته باشد. آیا السید می‌تواند هم به وعده‌هایش عمل کند و هم حمایت رای‌دهندگانش را حفظ کند؟\n\nگزارش امیر گیتی، خبرنگار ایران‌اینترنشنال\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T20:33:03+00:00",
-      "published_epoch": 1793824383,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/RgYPz38O9vnWkbbbJIslvdJ5DWy3hrsGoIzndwxMoBYwdI2u2qmBG-sSV2dmEvXWaZFxBz6GXi7IkgqyHkKzvwX74iIwLfNUly6QgLhXjIHnQR7gCIOlPlmV8z3on2yQcWp39-TTLUPrnwSfzNNy8HdF-vrgx9TUHstnFtftgv0T5uSXTmlgtezIUpmSR_Jgr_sG5SUaigYytB-h4Ff2E2YuUBfeWGQzgQEQ6cuHmqBE2NntFcp1zWqFETxljOzHBuRNRKaX-ry7Uj8gXMKBdX9nl0u2xVp5HVKWaJOvYk_jAxAc-5yI51E0-wvRiKJOroZTxVGg_RbwwqoDPIY3uA"
-      ],
-      "local_media_path": "media/2026-11-04/625be468fcab8dc6.jpg"
+      "hash": "7f389d20fdec29db",
+      "title": "3M stock soars following $7.35 billion 'forever chemicals' settlement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUG5PMU43SGNodjZ5UUd2SnB6cFoxYU5TOUU5MG9CU1VFZEhXSHYzSE42Y0FTQVdob2tSTWhpMUF3c3VUazU3MWc2dEhUVVpOS3hrMVI5RnBjdGlEVTlsSFdkWXBiSF9WVjdWVVFMMVFYR0owME5vbEVKSHljbkcxb1ZzbTU1eW9JLXNZS2VrQXpvUGV6Si14Sy1qQmhwQkI3LWozUllXV2N6MVRDSXJjWnQ2TmVveW1JWlE?oc=5",
+      "summary": "3M stock soars following $7.35 billion 'forever chemicals' settlement    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T20:27:41+00:00",
+      "published_epoch": 1793824061,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "93d706ecfd493e4d",
@@ -135,58 +737,22 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/6744e3d53c4113bd428407e3c16598c35465b516-600x488.jpg?rect=0,172,600,314&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-11-04/79101ce46642bc54.jpg"
+      "local_media_path": null
     },
     {
-      "hash": "454ac3ace1b29963",
-      "title": "علیرضا نوری‌زاده، مدیر مرکز پژوهش‌های ایران و عرب، گفت جمهوری اسلامی با وجود شکست جمهوری‌خواهان در انتخابات کنگره آمریکا...",
-      "link": "https://t.me/IranintlTV/365426",
-      "summary": "علیرضا نوری‌زاده، مدیر مرکز پژوهش‌های ایران و عرب، گفت جمهوری اسلامی با وجود شکست جمهوری‌خواهان در انتخابات کنگره آمریکا، نشانه‌ای از تمایل به مصالحه نشان نمی‌دهد. او افزود بر اساس اطلاعاتی که دریافت کرده، طرح‌هایی برای حمله به اهداف حساس در کشورهای خلیج فارس و اسرائیل مطرح شده است.\n\nنوری‌زاده هشدار داد هدف قرار دادن رهبران کشورهای عربی می‌تواند به جنگی گسترده در منطقه منجر شود. به گفته او، کشورهای خلیج فارس در حال تقویت همکاری‌های امنیتی با کشورهای اروپایی و ترکیه هستند و ادامه تهدیدهای تهران ممکن است فشار بر آمریکا برای اقدام نظامی را افزایش دهد.\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T20:17:27+00:00",
-      "published_epoch": 1793823447,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/Bexq35TT2kFx6fzdywjLpeafsYETLT2FXlhQnclsowtoWsL9oNc8bXTbt3V0TKngvClC3-UaC1E9RsvIsmQsEoAIgWLmmAVvmfvo4C6esAPTCMxhYrNLwNqNPLEk1U_EGal9kqjFzJKijeutrMXB4TrQzIpylnMvWO2-P6QAHrP-RGEdp4hRSLKtOm6vFDumMeUj_8pPs3c5cgLSC5LlDqx38lzAgAplA3PA1O6AMKzXeo0nQLPXuCfNPdLeiNYwNQCA0J3hIPaO9IiqKb5H9nFLxgOdJEOxpiyxOn1TR-C6Nl_n9jdrPY5-JM8iNZb6ao49ON6RIwR2gm6kJ-Dzzg"
-      ],
-      "local_media_path": "media/2026-11-04/c4cf99fab56f9778.jpg"
-    },
-    {
-      "hash": "6088d315bcaf41a6",
-      "title": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت تحریم شرکت خدمات فرودگاهی ترکیه ممکن است فع...",
-      "link": "https://t.me/IranintlTV/365425",
-      "summary": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت تحریم شرکت خدمات فرودگاهی ترکیه ممکن است فعالیت پروازهای ایرانی به این کشور را با اختلال روبه‌رو کند. به گفته او، ادامه خدمات‌رسانی این شرکت به هواپیماهای ایرانی به محدودیت‌های بانکی و تصمیم دولت ترکیه بستگی دارد.\n\nملکی همچنین درباره تحریم شبکه جعل پرچم نفتکش‌ها گفت این شبکه با استفاده از اسناد جعلی، به ناوگان سایه برای دور زدن تحریم‌ها کمک می‌کرد. او افزود تحریم‌های تازه می‌تواند برای سال‌ها بر صادرات نفت جمهوری اسلامی تاثیر بگذارد و اهرم فشار واشینگتن در مذاکرات را تقویت کند.\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T20:15:23+00:00",
-      "published_epoch": 1793823323,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/QHR9WFk12bnDzoiHpH1hpbximoKNPetVnzV-BGZLToRX4twz2A4HxbI2bXLIMOQDHTbTMZyb4OI-CV-biYprpKXj0lBNTHhnFbzSGjRxwmmFNEjlAJZ1lzQMTbDFcrBIQD4BtGK_IS0lwQlNTr14NE-EZOTm0qmsTuRp61KKFXqd54RJjuKefiQx5boaHGUIrrw2RuaLAJT9jIyLWRsQXH0ZA8QnW_uxhf8HXof55Kp-867rXklgqUR22Bj-RQ3U1W2cKTPniOu0HMtbaf6CelH_vefZ5fJNesoOx8YcCqfLGulPnyd7FVX4ojZdyAtdznC1bCif7YB1p4h_iZeWzw"
-      ],
-      "local_media_path": "media/2026-11-04/7e69f5ba419a5b00.jpg"
-    },
-    {
-      "hash": "0675b4731d43c30e",
-      "title": "یک شهروند تصویری به ایران اینترنشنال ارسال کرده و می‌گوید که در برخی ایستگاه‌های متروی تهران پوسترهایی تبلیغاتی روی دیوا...",
-      "link": "https://t.me/IranintlTV/365424",
-      "summary": "یک شهروند تصویری به ایران اینترنشنال ارسال کرده و می‌گوید که در برخی ایستگاه‌های متروی تهران پوسترهایی تبلیغاتی روی دیوارها نصب شده و در یکی از آن‌ها مجتبی خامنه‌ای، رهبر غایب جمهوری اسلامی، اسلحه‌به‌دست دیده می‌شود.\n https://iranintl.com/202611044655",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T20:15:09+00:00",
-      "published_epoch": 1793823309,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/lUpPdp7yb0WxaKTf_Q79e0dm7e5giap6BLhG0zH3Sw7m4Twdcy4IIiQuraK7qEw11nlA0Au61QpqVxc5hzVC2Hh8dm-3s9yY_dCEebdqTnmBDz_JQp8ASTNzPhiZS-b6Ghil2S-GyIuvDgHU9O68jdob9T1zfER63li3uhal_lnZtpe6Cv3kmoUBzVS88yFtYQylVewYU3iEh1yisiSNAmelh9soYGSDIUy6MA17wG_DcaDNi9eq5MUSZklMq1ColyQ51KztAmfj7E80y9d8K9xYSYlSJY_XZgxKdhZ_IN0Z45TEb7fNXX7HiQez4pGiRu46OSYX0JBwQBSLmdJ40A.jpg"
-      ],
-      "local_media_path": "media/2026-11-04/50abbe5e898ac3a4.jpg"
+      "hash": "db285d1e847a3d57",
+      "title": "Conservative US Supreme Court justices Thomas and Alito in spotlight after Democratic landslide - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMDVYRXNneFQxQ09sNE1LRkU2a2RmdWlkcHl4QmxWYnpYUUxCNThGejlvY1E1U0RoaTlEZkZkRjdlaDlIbzlubDZlMjBnWGRKbngwQXNqS1FtRzQ2by1Zd0xFWnBwdWpDY1BLbFFraEFOV08zTUgtTkRLTnRLN0tiQ2hpcjQ4amdJaWdLcExGSVF4Vk9Kc1REdTh2eVdHVTFPYzA2UzV2THBnUmhTYUdwTHVXc3ZpcGVtS3J0N2ZOUF9YMnRkajZMTjY3aw?oc=5",
+      "summary": "Conservative US Supreme Court justices Thomas and Alito in spotlight after Democratic landslide    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-04T20:14:35+00:00",
+      "published_epoch": 1793823275,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "da03439e7a31371b",
@@ -203,36 +769,19 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/0c4ea3c2cb4b97d2603c81dc852fbcc12acce19f-1280x576.jpg?rect=168,70,903,473&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-11-04/64de4dec24a12463.jpg"
+      "local_media_path": null
     },
     {
-      "hash": "e24fadef1a0e4727",
-      "title": "ویدیوی ارسال‌شده به ایران‌اینترنشنال نشان می‌دهد چهارشنبه ۱۳ آبان برای راهپیمایی حکومتی در کرج تک‌تیرانداز بالای ساختمان...",
-      "link": "https://t.me/IranintlTV/365422",
-      "summary": "ویدیوی ارسال‌شده به ایران‌اینترنشنال نشان می‌دهد چهارشنبه ۱۳ آبان برای راهپیمایی حکومتی در کرج تک‌تیرانداز بالای ساختمانی مستقر شده است.",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T20:00:51+00:00",
-      "published_epoch": 1793822451,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/Rb2B9XqbhR24mCbT-Nf2pvMZ5USZpJMOL7tG4O4yJKiDsvdJ8SXT5q9NDCEWj0paxHHHI1aB5nm3Wn0ERtIKq-OZb2kQN_f5-KW6boLCJaX5bXjjU3B6gcPuGaDA5CH5qeUnZpkr52oQsV7jb4URXAN1Dv4pqez7qLfsGVIb24xreL_2Kv-Ig6bj8iEhnVqwwfWvqB42AchJF47uGK59Hc8qdV_SbIwWCEUDDCN3zc_BDUfhF-MNnLIbl_6QcPi6DIErjE_mhJK_a9xBIEFwCr5QsplXXsDmGRbZbuguLbSf0TMLaVLp1O3iV0Ojl9jhFJMz2_TaperQKvUSiSpVKg"
-      ],
-      "local_media_path": "media/2026-11-04/20c9f5974e572d94.jpg"
-    },
-    {
-      "hash": "db285d1e847a3d57",
-      "title": "Conservative US Supreme Court justices Thomas and Alito in spotlight after Democratic landslide - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMDVYRXNneFQxQ09sNE1LRkU2a2RmdWlkcHl4QmxWYnpYUUxCNThGejlvY1E1U0RoaTlEZkZkRjdlaDlIbzlubDZlMjBnWGRKbngwQXNqS1FtRzQ2by1Zd0xFWnBwdWpDY1BLbFFraEFOV08zTUgtTkRLTnRLN0tiQ2hpcjQ4amdJaWdLcExGSVF4Vk9Kc1REdTh2eVdHVTFPYzA2UzV2THBnUmhTYUdwTHVXc3ZpcGVtS3J0N2ZOUF9YMnRkajZMTjY3aw?oc=5",
-      "summary": "Conservative US Supreme Court justices Thomas and Alito in spotlight after Democratic landslide    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
+      "hash": "b39a113144ec46b8",
+      "title": "Bob Dylan comes knockin’ on pope’s door as Leo welcomes legend to Vatican - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2J0LXl6djVuN2xHa2VndjNMcmZQTTdzNDRRb1RIVzU3NHpkMWxHcWNxUWxaUHctOHlQbFM0VEFDS3ZtZE9xcFBid0pDalZ5dlpWb0Q4Z21rOFRrb2V1VHZwNTlIVE9sUUx0bGQwam9YZHdXa1pLckNfaG5TZHd0ejVaVGtxcHhvMFhfVWFfdw?oc=5",
+      "summary": "Bob Dylan comes knockin’ on pope’s door as Leo welcomes legend to Vatican    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
       "category": "wire",
-      "published_at": "2026-11-04T19:56:10+00:00",
-      "published_epoch": 1793822170,
+      "published_at": "2026-11-04T20:00:00+00:00",
+      "published_epoch": 1793822400,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -241,7 +790,7 @@
       "hash": "53fa588925c68a52",
       "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
       "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra \n Comments URL: https://news.ycombinator.com/item?id=50370654 \n Points: 31 \n # Comments: 11",
+      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra \n Comments URL: https://news.ycombinator.com/item?id=50370654 \n Points: 100 \n # Comments: 43",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -254,9 +803,9 @@
     },
     {
       "hash": "40135049b8604e11",
-      "title": "Insects Don't Swarm at LED Lights",
+      "title": "Insects don't swarm at LED lights",
       "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "summary": "Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/ \n Comments URL: https://news.ycombinator.com/item?id=50370610 \n Points: 52 \n # Comments: 28",
+      "summary": "Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/ \n Comments URL: https://news.ycombinator.com/item?id=50370610 \n Points: 164 \n # Comments: 93",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
       "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
@@ -266,53 +815,6 @@
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
-    },
-    {
-      "hash": "cacc4485ac8564a5",
-      "title": "🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ",
-      "link": "https://t.me/IranintlTV/365421",
-      "summary": "🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ\n @iranintlTV",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T19:49:13+00:00",
-      "published_epoch": 1793821753,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "d6306f8d2e9b53dc",
-      "title": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUZjXy1DNGJHT1JRMlBGNVZ4alh1Ymc4NnI1azRtblU5YmlGWFRmTU5KeEFvNnUtdDYta2pWZEpDRENSZVd0QXk2NlNmMmRsenAzUHlBcktGZDdzUUltbUp1YVNTYkR1cE5HZXVGbDg1dXdTS0xCUEcyQ2g1dWFZR280NDhWbC1KZmsxYVZGUWhxV1N5ZGxraG4zUUloMzBPcDhCalhRaHJnZy1LNzBobGd0R25SQQ?oc=5",
-      "summary": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T19:46:21+00:00",
-      "published_epoch": 1793821581,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "3b6b4aa490814179",
-      "title": "🔻 گل دوم تیم زنان گل‌گهر در بازی روز گذشته با پرسپولیس، با کار تیمی کم‌نظیر و فقط با ۵ پاس از جلوی دروازه خودی به ثمر رس...",
-      "link": "https://t.me/IranintlTV/365420",
-      "summary": "🔻 گل دوم تیم زنان گل‌گهر در بازی روز گذشته با پرسپولیس، با کار تیمی کم‌نظیر و فقط با ۵ پاس از جلوی دروازه خودی به ثمر رسید.\n\n 🔹 این گل با پاس فاطمه عادلی شروع شد، در ادامه پاس هنرمندانه شبنم بهشت، توپ را به زهرا علیزاده رساند، او پا به توپ به جریمه پرسپولیس رسید، دروازه‌بان را دربیل کرد و در ادامه پاس‌گل به افسانه چترنور داد.\n\n 🔹 همین حرکت تاکتیکی، پایه‌گذار گل پیروزی بخش سیرجانی‌ها و اولین شکست سرخ‌پوشان بود؛ ۲ بر یک به سود گل‌گهر.\n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-04T19:44:01+00:00",
-      "published_epoch": 1793821441,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/alfgXwirr8_6PZYkFrBU4kVtd4nPuGTe0TODHHbuBJS6zOXD3ckD-UteKv7EWtfUyxc8_QF1yttkkz3X4mYxMjK1XZor22v0U_17-jis-tVvcyHTpHT6LsLkQqd2HzQGBgK4_aWrsOsGuyBMZ84TBFldgj_pxvwJvpTgggV_L-8uaglxBiScBFYgMaZ6LTUKuLwcFq02YGty2NfK02kUU6O36wYvfsOprchlUaMrRzlzKRGiqX51RW6tl1MVVVzb0B5EZitWp4p6xy3Rk6v7VDaxpMqos-cRicocJd18of3FUNEKXThjHJan5J7WTUKboqfne7Rjqvrh9C9bELav_A"
-      ],
-      "local_media_path": "media/2026-11-04/9a73a519cdb45bff.jpg"
     },
     {
       "hash": "840f2b7b920d48c5",
@@ -329,35 +831,20 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/011e35d0c1a37354c55990a1bcec9f5a973c2399-5064x3346.jpg?rect=0,348,5064,2650&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-11-04/a5ecf71798587cdf.jpg"
-    },
-    {
-      "hash": "217156e1c6ea1ed2",
-      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
-      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T19:36:33+00:00",
-      "published_epoch": 1793820993,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "468dffd7fac8dcdf",
-      "title": "Democrats' midterm sweep fuels $750 billion Big Tech rally - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzc2SlBDbW9CQmpVSmZXdzM1aW9hSGV3cnF2ZFZWTnozUHl0ejU2T3R1eG5xVmhFMG1Vb25oQTc0clFCUVhOQ1ZQaHhLWF9POElFb3cwMjVGdGt5UTFlaWgyUlAtWWIwbFlpbDFmaC1mM1Rta2g5OE1NVk0yNlA4bl9HTi1VTWdqYlc0enR0a3BMUW5MU1RPaTBiWmVVNy00SmdteVk0LVptR21iWGRyVnk2ekttazR3?oc=5",
-      "summary": "Democrats' midterm sweep fuels $750 billion Big Tech rally    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T19:28:58+00:00",
-      "published_epoch": 1793820538,
-      "rtl": false,
+      "hash": "755afe96cf5e852f",
+      "title": "سریع‌ترین جونده در حال ناپدید شدن در اروپا سر از انبار آمازون درآورد",
+      "link": "https://parsi.euronews.com/2026/11/04/europes-fastest-disappearing-rodent-found-in-poland-amazon-warehouse-traveler-arrived-fro",
+      "summary": "کارکنان مرکز لجستیکی آمازون در شهر وروتسواف لهستان، این جونده وحشت‌زده را روی قسمت پشتی یک کامیون مشاهده کردند که از فرانسه به لهستان بازمی‌گشت.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T19:25:18+00:00",
+      "published_epoch": 1793820318,
+      "rtl": true,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -376,7 +863,22 @@
       "raw_media_urls": [
         "https://gdb.rferl.org/d396cf01-9bfe-458b-9052-9aba2454fcbc_w800_h450.jpg"
       ],
-      "local_media_path": "media/2026-11-04/d71156c306f01c5e.jpg"
+      "local_media_path": null
+    },
+    {
+      "hash": "a6b21db4251ed725",
+      "title": "دانشمندان «گلبول‌های قرمز خون» را روی استخوان فسیل یک دایناسور کشف کردند",
+      "link": "https://parsi.euronews.com/2026/11/04/discovery-of-red-blood-cells-on-a-fossilized-dinosaur-bone",
+      "summary": "این پلاسمای ماقبل تاریخ، در یک قطعه از استخوان فسیل‌شده پای دایناسوری ۱۱۵ میلیون ساله کشف شد. این استخوان در سال ۲۰۰۸ میلادی از معدنی در برزیل استخراج شده است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T19:15:43+00:00",
+      "published_epoch": 1793819743,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "d4a6836c1d3849ae",
@@ -393,21 +895,6 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/jUnxsTxRqr4fBn3wRSus_gh34kQrLQ-IroOQxH6uO6H2J880tTp-cGyctCk57WL_QopiSbWnWZtb6I9SBFcaddJ4vUpQAES_7BDRE3H3Uv9qZXfYuPAgskbZyWKMKtsUb9me9CW-hi-XrjnS_akXiadxgv_Y-1dAEZe8kd97fDQzKCfaKTeiMPWo1180C5qpvMecEEW1sN9sDPUpw2uhxJ_hS308wVc_1LL_6UhzoWB5xk-sL63dZS1C6RnyRfrOmg4wxT3zIU8xGDR17dTd73jxU0GAzhPDxzW_hZo-DkghmCZLVa2mIssimIFYO5Uw0tUzfyHBLqbgY8YuPnyfig"
       ],
-      "local_media_path": "media/2026-11-04/7863b2cac343689c.jpg"
-    },
-    {
-      "hash": "42ae8a2c2bb26da2",
-      "title": "US stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
-      "summary": "US stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-11-04T19:11:00+00:00",
-      "published_epoch": 1793819460,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -422,21 +909,6 @@
       "published_at": "2026-11-04T19:10:39+00:00",
       "published_epoch": 1793819439,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "2ff47a820ce1e60b",
-      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5",
-      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T19:06:12+00:00",
-      "published_epoch": 1793819172,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -456,36 +928,6 @@
       "local_media_path": null
     },
     {
-      "hash": "43143adb1c68f075",
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "link": "https://www.ricursive.com/ripple",
-      "summary": "Article URL: https://www.ricursive.com/ripple \n Comments URL: https://news.ycombinator.com/item?id=50369925 \n Points: 108 \n # Comments: 36",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-04T18:53:29+00:00",
-      "published_epoch": 1793818409,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "94caccd74b048f0c",
-      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-      "link": "https://fireflyk64.github.io/wcmulti/",
-      "summary": "Article URL: https://fireflyk64.github.io/wcmulti/ \n Comments URL: https://news.ycombinator.com/item?id=50369895 \n Points: 20 \n # Comments: 3",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-04T18:51:27+00:00",
-      "published_epoch": 1793818287,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "b7791ede9af6e7a6",
       "title": "تکمیل نظامی‌سازی مدارس ایران با طرح «نومیدان» حکومت",
       "link": "https://www.iranintl.com/202611044456",
@@ -500,39 +942,7 @@
       "raw_media_urls": [
         "https://i.iranintl.com/images/rdk9umy0/production/4536b2ea821661f318322696f85176a3bb042e0b-1200x800.jpg?rect=0,86,1200,628&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
-      "local_media_path": "media/2026-11-04/b781118b79b28ff3.jpg"
-    },
-    {
-      "hash": "42357a7738eee25a",
-      "title": "Have I Befriended a Murderer?",
-      "link": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
-      "summary": "Article URL: https://longreads.com/2026/11/03/murder-friendship-doubt/ \n Comments URL: https://news.ycombinator.com/item?id=50369754 \n Points: 63 \n # Comments: 25",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-04T18:40:54+00:00",
-      "published_epoch": 1793817654,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
-    },
-    {
-      "hash": "39d448f2a0abaaee",
-      "title": "دروازه‌بان آندورا پس از برخورد مرگبار با خسوس د میگل: بدترین روزهای زندگی‌ام را می‌گذرانم",
-      "link": "https://www.iranintl.com/202611043362",
-      "summary": "خسوس اوونو، دروازه‌بان تیم فوتبال آندورا، پس از مرگ خسوس د میگل، مهاجم تنریف، در برخورد با او در جریان مسابقه دو تیم در لالیگا ۲، گفت: «این روزها، سخت‌ترین روزهای زندگی من هستند. به‌سختی می‌توانم کلمات مناسبی پیدا کنم. پذیرفتن تمام اتفاقاتی که رخ داده، برایم بسیار دشوار است.»",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-04T18:37:37+00:00",
-      "published_epoch": 1793817457,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/164c54cc9c91c4373cd443351f403716fbab0e54-1080x1350.png?rect=0,91,1080,565&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": "media/2026-11-04/83b744614f673c51.jpg"
     },
     {
       "hash": "c0d77a95243c4a1f",
@@ -549,161 +959,35 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/EX5ZB1pmlo-lMg-dJTq3X3sFWRgfeQ85SA1lXN6YKUlVbvEZqPYHhUzEEH86EKwI8Qe502tGZfjLOSOWMhCwgqiBHGiNQRToSyosyppDG_rmjOY5BRUUh3cBONnga-3cwI_UGeDyzaJTENfQkgyWEv1v0tqdlR7cTuCHR3C3snoF72l86ydIsGBidz1-R3eZ3PR7-9Eo_kkSQCKl2ofXXYmqRxnpoUKJRWCJ2cxYHsSn5DLUrt7xmNYw24bwUp6XA0db4sfpxvgjRlRLB6VRssudLKoThMydfM8tHZX06azdBXH6kTJIC34YQED5w8bXhANIAn4-cWGd2zOFEZES4g.jpg"
       ],
-      "local_media_path": "media/2026-11-04/efa5f26fcf79505e.jpg"
-    },
-    {
-      "hash": "15090051431afadb",
-      "title": "From wild to mild: Friendly foxes show changes in brain region",
-      "link": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
-      "summary": "Article URL: https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region \n Comments URL: https://news.ycombinator.com/item?id=50369527 \n Points: 11 \n # Comments: 1",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-04T18:24:16+00:00",
-      "published_epoch": 1793816656,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "d4fdb94986e04791",
-      "title": "Conductor Is Joining Meta",
-      "link": "https://www.conductor.build/announcement",
-      "summary": "Article URL: https://www.conductor.build/announcement \n Comments URL: https://news.ycombinator.com/item?id=50369503 \n Points: 31 \n # Comments: 18",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-04T18:22:40+00:00",
-      "published_epoch": 1793816560,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "89b4e38158ba437b",
-      "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
-      "link": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
-      "summary": "Article URL: https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/ \n Comments URL: https://news.ycombinator.com/item?id=50369462 \n Points: 20 \n # Comments: 3",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-04T18:20:06+00:00",
-      "published_epoch": 1793816406,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "34736f2f7736808b",
-      "title": "ونس جنگ ایران را دلیل شکست جمهوری‌خواهان دانست؛ ترامپ بر ادامه اقدام علیه تهران تاکید کرد",
-      "link": "https://www.iranintl.com/202611047093",
-      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، ارزیابی معاونش، جی‌دی ونس، درباره نقش جنگ ایران در شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای را تا حد زیادی درست دانست، اما از تصمیم خود برای جنگ دفاع کرد و گفت: «در مورد ایران، باید این کار را می‌کردیم و همچنان به آن ادامه می‌دهیم.»",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
+      "hash": "58d59533fa92192f",
+      "title": "از تحریم‌ اتحادیه اروپا تا اعلام ورشکستگی؛ هتل لوکس علی انصاری در آلمان فروخته شد",
+      "link": "https://parsi.euronews.com/2026/11/04/from-eu-sanctions-to-bankruptcy-ali-ansaris-luxury-hotel-in-germany-has-been-sold",
+      "summary": "هتل لوکس «گراونبروخ» در ژوئیه ۲۰۲۶ میلادی هدف تحریم‌های اتحادیه اروپا علیه ایران قرار گرفت و دلیل آن نیز مالکیت علی انصاری بر هتل بود. این سرمایه‌گذار مستقر در دبی، به عنوان مهره پوششی مجتبی خامنه‌ای، سومین رهبر جمهوری اسلامی شناخته می‌شود.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
       "category": "persian",
-      "published_at": "2026-11-04T18:15:34+00:00",
-      "published_epoch": 1793816134,
+      "published_at": "2026-11-04T18:28:20+00:00",
+      "published_epoch": 1793816900,
       "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/2ef13ee4ec564a7897d5ad5a9e98e1b103ce392a-3325x2216.jpg?rect=0,238,3325,1740&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": "media/2026-11-04/444a7c0433d5221a.jpg"
-    },
-    {
-      "hash": "34cfe2dbdf2d8a77",
-      "title": "Seven numbers that explain Democrats' US midterm triumph - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQjNiTDV1RGJXeTYtWWc2NnRMLU1kOFFvYjFtWTZ3aXJMZWh6NDJ4Z2NHbHBiZnNTMDBVY2NPdWMydGxtQlVjNzBxa3A1Z0wtRHBKSV94elZBbHNKNlFGaFVPdEVCTkI4THd3RUxlRUcydks1UmVBbnduVkN2V1B5TlZ3em1uVERjdWgydVZKSGZqSGl4MWR5b0pqalNGdw?oc=5",
-      "summary": "Seven numbers that explain Democrats' US midterm triumph    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T18:08:49+00:00",
-      "published_epoch": 1793815729,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "4082f53383c4a5c1",
-      "title": "آمریکا یک شبکه هندی و یک شرکت ترکیه‌ای را به‌دلیل همکاری با جمهوری اسلامی تحریم کرد",
-      "link": "https://www.iranintl.com/202611042631",
-      "summary": "وزارت خزانه‌داری آمریکا چهارشنبه ۱۳ آبان اعلام کرد که در چارچوب عملیات «طرد اقتصادی» یک شبکه هندی را به‌دلیل «اقدامات متقلبانه در حوزه دریانوردی و کمک به ناوگان سایه جمهوری اسلامی» و یک شرکت ترکیه‌ای را به‌دلیل ارائه خدمات زمینی به خطوط هوایی ایرانی تحریم کرده است.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
+      "hash": "de5dc497ae18af0d",
+      "title": "باب دیلن در دیدار با پاپ لئون؛ موسیقی راک، ایمان و تسبیحی به‌عنوان هدیه",
+      "link": "https://parsi.euronews.com/2026/11/04/bob-dylan-visiting-pope-leo-rock-faith-and-a-rosary-as-a-gift",
+      "summary": "باب دیلن در واتیکان با پاپ لئون چهاردهم دیدار می‌کند. پاپ به او یک تسبیح هدیه می‌دهد و برنده نوبل زندگینامه‌اش را تقدیم می‌کند. فردا کنسرت در رم است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
       "category": "persian",
-      "published_at": "2026-11-04T18:05:00+00:00",
-      "published_epoch": 1793815500,
+      "published_at": "2026-11-04T18:26:37+00:00",
+      "published_epoch": 1793816797,
       "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/0c917dba4d0a40871a04290a8cac24084b8c0998-5812x3875.jpg?rect=0,417,5812,3042&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": "media/2026-11-04/4e932694c89377a8.jpg"
-    },
-    {
-      "hash": "1b1600c10bf21bf8",
-      "title": "تصویر مزار امیرحسین ملکی، معترض اعدام‌شده به دست حکومت",
-      "link": "https://www.iranintl.com/202611043076",
-      "summary": "تصویر ارسالی به ایران اینترنشنال نمایی از سنگ مزار جاویدنام امیرحسین ملکی، شهروند معترض اعدام‌شده، به دست جمهوری اسلامی را نشان می‌دهد. بر اساس این گزارش، او در روستایی در اطراف سمیرم تدفین شده است.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-04T18:01:24+00:00",
-      "published_epoch": 1793815284,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/5a50afa526a4a5ad37f8691d11c9d70219f12a41-950x1280.jpg?rect=0,392,950,497&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": "media/2026-11-04/521d399d6ac505fd.jpg"
-    },
-    {
-      "hash": "90bd23ce656f2644",
-      "title": "A new Go API for JSON",
-      "link": "https://go.dev/blog/jsonv2",
-      "summary": "Article URL: https://go.dev/blog/jsonv2 \n Comments URL: https://news.ycombinator.com/item?id=50369106 \n Points: 137 \n # Comments: 43",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-04T17:52:11+00:00",
-      "published_epoch": 1793814731,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "70cf544b0efabe0c",
-      "title": "Vance repudiates Iran war after US electoral defeat - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
-      "summary": "Vance repudiates Iran war after US electoral defeat    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T17:51:52+00:00",
-      "published_epoch": 1793814712,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "6c86b061ac3c046a",
-      "title": "Europe to invest €525 million in chip startups to catch up with US and China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWJ3cnhGTVFUOE9TZXZkdVB0OW9tVFhjWVhFRjlDRktBLUNVcmh1MHFQc1lkb0R4UU96OFY0OEdwT0F4Z2p4aHhlUkVCQXlNSVQtSThhSVVBSGprdm1UNTAxTHB5MHpScXVhM0EyaDQtNGdMMUFia2Vya01vTzNqUlF2eDF1U2p5Mzk5WDZqaGNEVDEtSFk1N1NBRmZpRVlhUWNZeFdySnE2VHhvQVA0?oc=5",
-      "summary": "Europe to invest €525 million in chip startups to catch up with US and China    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T17:43:40+00:00",
-      "published_epoch": 1793814220,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -725,6 +1009,36 @@
       "local_media_path": null
     },
     {
+      "hash": "141b148c3594e7da",
+      "title": "گسترش پشه‌ببری در قاره سبز؛ اروپا برای مهار بیماری‌های استوایی می‌شتابد",
+      "link": "https://parsi.euronews.com/2026/11/04/europes-tropical-disease-threat-is-moving-north-can-it-stop-mosquitoes-in-their-tracks",
+      "summary": "پشه‌هایی که زمانی فقط در مناطق استوایی دیده می‌شدند، اکنون در چند کشور اروپایی مستقر شده و به‌سوی شمال پیش می‌روند. مقام‌های بهداشتی می‌کوشند جلوی بیماری‌هایی مانند دنگی، چیکونگونیا و زیکا را بگیرند و نقش شهروندان در این زمینه بسیار مهم است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T17:38:56+00:00",
+      "published_epoch": 1793813936,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "f8d99b588d38461d",
+      "title": "برزیل؛ مدرسه بابا نوئل جشن فارغ‌التحصیلی در کنار مجسمه «مسیح نجات‌دهنده»",
+      "link": "https://parsi.euronews.com/video/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer",
+      "summary": "ده‌ها بابانوئل کنار مجسمه مسیح نجات‌دهنده در ریو دو ژانیرو گرد آمدند تا فارغ‌التحصیلی را جشن بگیرند. ۵۵ عضو جدید آماده‌اند شادی کریسمس را در سراسر برزیل پخش کنند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T17:31:11+00:00",
+      "published_epoch": 1793813471,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
       "hash": "3400ef524fbca0e5",
       "title": "محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، روز چهارشنبه ۱۳ آبان‌ماه، در واکنش به نتایج انتخابات میان‌دوره‌ای آ...",
       "link": "https://t.me/VahidOnline/78999",
@@ -738,38 +1052,6 @@
       "rtl": true,
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/VCudtQsHrdMst15n0GNEEjeUAcBpIFEk4xe1ZaD73ZHb7Q17AsMoompOZaSq0ZyIqyG8Kg0PCvwH60salMzH5hppuj9qt_X0YSgKteSuMhUucKGvUIno01IZr2rlAIe72zsMj0u3HFQkmVH45OUJt_tF4TanArcV2nE1V_dxuN5Yt-HgpBuu-EWUW5H_9_rdpkDcirKzMDUOHglvkb9wHOtawINfc-bzU_TKmN2xCNosmxoHBdDH2W9IclCzQrTT52FeuhYeG1YH1gOj1mCqA_wjzZfYCKK3SD5TcY4e7su7Gzd_9QQegQZGEivN1eCKu44wP_aHUH3rNzx7hKMEmA.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "de5f839ebbf9c618",
-      "title": "Texas data centers face uncertain future after Hinojosa wins governor’s race - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUURSU3JiR2xDMkJBZzlqbkgxbER5MjF3aVh1TXZzM2tIbkNVWTVGb3BYZmVzelhxVlRLTEVqRXBoNDBSNlQwSlh2SDJNM29jRWZGRm1mUENidEZVaDhXMFpsZWRQNVFlOHp6VGRPaU9oT3BBdFhweTN1Qk1nSkZaMDg5MkJGTTN2ZmlUYnFTYTllYjFUVlZQNllZUG54TVptcFFSVnlQbEFEbnNQdDNmNEJMbWpLT05GR0dDWg?oc=5",
-      "summary": "Texas data centers face uncertain future after Hinojosa wins governor’s race    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T17:24:20+00:00",
-      "published_epoch": 1793813060,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "be4867f349b0414b",
-      "title": "با تعویق جام ملت‌های آسیا، هاجیمه موریاسو از تیم ملی ژاپن جدا می‌شود",
-      "link": "https://www.iranintl.com/202611041894",
-      "summary": "خبرگزاری فرانسه گزارش داد که تعویق جام ملت‌های آسیا ۲۰۲۷ از ژانویه به دسامبر، آینده هاجیمه موریاسو در تیم ملی ژاپن را مبهم کرده است. قرار بود او پس از این رقابت‌ها کنار برود، اما اکنون ممکن است در پایان سال ۲۰۲۶ جای خود را به گو اویوا بدهد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-04T17:23:31+00:00",
-      "published_epoch": 1793813011,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/00708d6244fc8a74cb9c316190a2d6a3b73e3819-1200x855.jpg?rect=0,52,1200,628&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
       "local_media_path": null
     },
@@ -806,17 +1088,32 @@
       "local_media_path": null
     },
     {
-      "hash": "6174c92ceaf68abb",
-      "title": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1ZyNWRabEpTdG9UeDUzc3BpN1RRZ1FXZm1OZGdFSDVoNms1S0JHWU00bnhZeGxHaHlFclFTX0ZVUzU5ZEx3ZXIzTmVRUE5KMlBETUpXWEZiVC1zckhRaDk3ejNpMnVqZVh1WmllVk9jUVJoRHE4R3pnN3ZRSUI4TVJGcjN5UjhPWEVhYTJvWGFLUkRKbE1kcUFLTS0wU09KbFllV2ZXYXFHcHVhemFUNWVmQUlPaTNIVnd5V2FyZGZxRzlo?oc=5",
-      "summary": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-04T17:16:41+00:00",
-      "published_epoch": 1793812601,
-      "rtl": false,
+      "hash": "771f878212d26c34",
+      "title": "سازمان جهانی بهداشت: شش اقدام اقلیمی می‌تواند سالانه ۱.۶ میلیون نفر را نجات دهد",
+      "link": "https://parsi.euronews.com/2026/11/04/just-six-climate-actions-could-save-16-million-lives-a-year-says-who",
+      "summary": "سازمان جهانی بهداشت از دولت‌ها می‌خواهد شش اقدام را برای مقابله با پیامدهای سلامت تغییرات اقلیمی گسترش دهند؛ این اقدامات می‌تواند میلیون‌ها جان را نجات داده و منافع اقتصادی بزرگی ایجاد کند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T17:16:56+00:00",
+      "published_epoch": 1793812616,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "00ed7f78af77c7a2",
+      "title": "حکیم جفریز در آستانه تاریخ‌سازی؛ نخستین رئیس سیاه‌پوست مجلس نمایندگان آمریکا کیست؟",
+      "link": "https://parsi.euronews.com/2026/11/04/hakeem-jeffries-making-history-as-first-black-speaker-us-house",
+      "summary": "وکیل سابق و سیاستمداری که در صحن مجلس از آیات انجیل و ترانه‌های هیپ‌هاپ نقل‌قول می‌کند، به دنبال پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای، رهبری اکثریت مجلس نمایندگان و ریاست بر آن را بر عهده خواهد گرفت.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-04T17:15:02+00:00",
+      "published_epoch": 1793812502,
+      "rtl": true,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -936,23 +1233,6 @@
       "rtl": true,
       "raw_media_urls": [
         "https://cdn5.telesco.pe/file/ObPSCmXFPJuTTcULqDBli6l-JwlAvZuZX-LKv9WPcm-7Ji8NxsxzT5NkoNs8vL9-2EQW-Cys3Yge74kV0RNFqx-a5JsS8hCEDXn55q2l8q2lmcYWW9Gv7g3mUeOxOCRuYkoTxbbIsYesN7MckYCcB8doSvi7GdRVteLXEqGly6ytFH0453USXds_150FUMW8xczHUKn88wMmCjk31G6zqVBiU1F-E3L-fPXTop3IWyLAQCBO5xS0_kJHJB0lw_3DKSf2VAb97YIGsUgRSN-Vj9Y-tBan0bmClBKmlHy3hEIHrQTlbAyrS417ilrhx6jYjXVU7GbG5ne86j6dQa_WAw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "aa14b20d3b33acb2",
-      "title": "سه شکایت پرسپولیس از مدیرعامل استقلال خوزستان و بازیکن پیشین سرخ‌پوشان",
-      "link": "https://www.iranintl.com/202611046040",
-      "summary": "باشگاه پرسپولیس در دو روز متوالی سه شکایت علیه بهنام ابوالقاسم‌پور، مدیرعامل استقلال خوزستان و بازیکن پیشین سرخ‌پوشان، در دادگاه و کمیته اخلاق فدراسیون فوتبال ثبت کرد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-04T16:14:27+00:00",
-      "published_epoch": 1793808867,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/ddc8b1c03cc51e61df01ab9596a68659b49e8996-1223x1222.jpg?rect=0,319,1223,640&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
       ],
       "local_media_path": null
     },
@@ -1215,7 +1495,7 @@
       "local_media_path": null
     },
     {
-      "hash": "d8e1a7e6dbc966f0",
+      "hash": "0d72013394618504",
       "title": "چین: اولویت اصلی ما جلوگیری از شروع دوباره مخاصمه در خاورمیانه است",
       "link": "https://www.bbc.com/persian/articles/c6gqwdv2k2z4o?at_medium=RSS&at_campaign=rss",
       "summary": "چین می‌گوید که جلوگیری از شروع مجدد درگیری‌ها در خاورمیانه، «اولویت اصلی» تلاش‌های دیپلماتیکش با کشورهای منطقه است.",
@@ -1281,6 +1561,21 @@
       "local_media_path": null
     },
     {
+      "hash": "630675d8c04cf826",
+      "title": "Thank you, @weimers, for welcoming Prince Reza Pahlavi to the European Parliament and for standing firmly with the Iranian people. Charlie Weimers made clear that he wants Europe to be ready for the future of a free Iran, and willing to help bring that future - X",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lVWdnX0J2djItNlNLVEdVWF9xVjZiRHFwZldyOFBqdzVpeGdQOEFHUDVBOWloRXN2ZG40eERCNFo4RUhSTi1aMndUQ1RELXJTcWx6N0E3dE9Cak9FakdqUmFsaw?oc=5",
+      "summary": "Thank you, @weimers, for welcoming Prince Reza Pahlavi to the European Parliament and for standing firmly with the Iranian people. Charlie Weimers made clear that he wants Europe to be ready for the future of a free Iran, and willing to help bring that future    X",
+      "source_id": "tw_PahlaviComms",
+      "source_name": "@PahlaviComms",
+      "source_name_fa": "@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)",
+      "category": "twitter",
+      "published_at": "2026-11-04T09:30:18+00:00",
+      "published_epoch": 1793784618,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
       "hash": "13d275eada2cc057",
       "title": "دقیقا 188 تا سایت بررسی کردم واسه‌ی این کار که اسماشون رو می‌تونید ببینید واقعا اذیت شدم این چند روز سر بررسیشون یکی احر...",
       "link": "https://t.me/MatinSenPaii/5778",
@@ -1310,309 +1605,6 @@
       "raw_media_urls": [
         "https://gdb.rferl.org/6d7fb5f1-f91b-4cdb-9c53-34ca1c735eed_cx0_cy4_cw0_w800_h450.jpg"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "64dc016db94b4351",
-      "title": "At the European Parliament, Prince Reza Pahlavi met with @davidmcallister , Chair of the Committee on Foreign Affairs. Their discussion focused on practical measures the EU could take to support the Iranian people, from imposing further sanctions on the Isl - X",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1Wnp3Tmt5YkVIRnVjZWZqME9rVWlFX0lUWE04WFI0UTNNRmM4NW1ZdTFuQTNKMXFJZ1doaERRakUyN3dmblN0UjZxeUhjRHdXbjY3SUlmTXE4QWhCbTMyMFNtNA?oc=5",
-      "summary": "At the European Parliament, Prince Reza Pahlavi met with @davidmcallister , Chair of the Committee on Foreign Affairs. Their discussion focused on practical measures the EU could take to support the Iranian people, from imposing further sanctions on the Isl    X",
-      "source_id": "tw_PahlaviComms",
-      "source_name": "@PahlaviComms",
-      "source_name_fa": "@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)",
-      "category": "twitter",
-      "published_at": "2026-11-04T08:44:21+00:00",
-      "published_epoch": 1793781861,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "d61aa1ff23bdb308",
-      "title": "همچنان وارپ masque-http/2 سریعترین و راحتترین راه اتصال عمومی است.",
-      "link": "https://t.me/patt_channel_x/215",
-      "summary": "همچنان وارپ masque-http/2 سریعترین و راحتترین راه اتصال عمومی است.\n\n* دقت کنید برای فایروال ایرانسل باید فینگرپرینتی غیر کروم براش انتخاب کنید.\n\n* برای دور زدن تحریم‌ها اون رو با سایفون چین کنید (warp->psiphon).",
-      "source_id": "tg_patt_channel_x",
-      "source_name": "@patt_channel_x",
-      "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
-      "category": "telegram",
-      "published_at": "2026-11-04T08:28:25+00:00",
-      "published_epoch": 1793780905,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "6ac35bcedc849cb6",
-      "title": "دموکرات‌ها در شبی تاریخی محاسبات سیاسی ترامپ را برهم زدند",
-      "link": "https://www.bbc.com/persian/articles/c617kjepl42po?at_medium=RSS&at_campaign=rss",
-      "summary": "دموکرات‌ها در شبی که پیامدهای آن تا سال‌ها سیاست آمریکا را تحت تاثیر قرار خواهد داد، محاسبات سیاسی دونالد ترامپ را برهم زدند.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-11-04T08:22:01+00:00",
-      "published_epoch": 1793780521,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f263/live/3f174b00-d815-11f1-b441-2b33b063138f.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "4fcccabe9d4266cd",
-      "title": "معرفی یه پروژه‌ی خوب 👆",
-      "link": "https://t.me/patt_channel_x/214",
-      "summary": "معرفی یه پروژه‌ی خوب 👆",
-      "source_id": "tg_patt_channel_x",
-      "source_name": "@patt_channel_x",
-      "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
-      "category": "telegram",
-      "published_at": "2026-11-04T08:11:31+00:00",
-      "published_epoch": 1793779891,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "e22b081b4bf0ab6e",
-      "title": "#Proxy | پروکسی رایگان",
-      "link": "https://t.me/patt_channel_x/213",
-      "summary": "#Proxy | پروکسی رایگان\n\nدوستان پروژه ای نوشتند\nکه تمام پروکسی های سطح تلگرام رو جمع میکنه، تست واقعی انجام میده روشون\nو بهترین و پرسرعت ترین پروکسی رو به شما میده\nکه دیگه نیاز به کانال های پروکسی نداشته باشید\n\nلینک سایت بدون فیلتر : https://0xradikal.github.io/Free-Telegram-Proxy/fa/ \n\nلینک ریپوزیتوری : https://github.com/0xRadikal/Free-Telegram-Proxy (حتما استار بدید برای حمایت)\n\nو برای استفاده مستقیم از این ربات تلگرام میتونید استفاده کنید : @ConfigExBot",
-      "source_id": "tg_patt_channel_x",
-      "source_name": "@patt_channel_x",
-      "source_name_fa": "@patt_channel_x (کانال پترنی‌ها)",
-      "category": "telegram",
-      "published_at": "2026-11-04T08:10:30+00:00",
-      "published_epoch": 1793779830,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/Q7U3ZfuTmAGV1jyoZCigGJql11nk8v2H7jR4E0FVFfyqnT-omfsaQdtZ5R3AsGmcbF5IDi-r97uX5GYyQ_ojJeg85AXbwD3FsMhYxkgQBXaJ9yRFzi0KHQtDWfyYqhz-8g0kN94CNeUjV630KQRAuXNmNTyMhWH6eirOSsD6i49nwY_8BUwIMwj3wXaUYblzZWRInqSEKb3QdLR-rUYRwMR1RFD38NFZfa2buVEr-Se3ybFM9tJ9ZP-SEl_E2LFVJ4GlKxdw_ZV7jeNL2__o_Kq6l4uFuKzylevxPmyiEkAcaR32HlcKSoPFUGlh127nHspAOjX9wc8I2wwB4VsJnw"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "cd7b51cf153581ad",
-      "title": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
-      "summary": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-11-04T07:57:00+00:00",
-      "published_epoch": 1793779020,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "0e0ae7e34b14c040",
-      "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5",
-      "summary": "Takeaways: Voters punish Trump, and the GOP suffers historic losses    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-11-04T07:42:00+00:00",
-      "published_epoch": 1793778120,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "dcb4bf2d6986b3e5",
-      "title": "دوستم با یه انیمیشن کارتونی باحال که با GPT و Ai ساخته، نزدیک 1000 تا فالوور گرفت و 100 K ویو خیلی باحال بود. اگه اجازه ...",
-      "link": "https://t.me/MatinSenPaii/5777",
-      "summary": "دوستم با یه انیمیشن کارتونی باحال که با GPT و Ai ساخته، نزدیک 1000 تا فالوور گرفت و 100 K ویو خیلی باحال بود. اگه اجازه داد پیجشو می‌ذارم 😁",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
-      "category": "telegram",
-      "published_at": "2026-11-04T07:22:58+00:00",
-      "published_epoch": 1793776978,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "5da19bd707208116",
-      "title": "دوستم با یه انیمیشن کارتونی باحال که با GPT و Ai ساخته، نزدیک 1000 تا فالوور گرفت و 100 K ویو خیلی باحال بود. اگه اجازه ...",
-      "link": "https://t.me/MatinSenPaii/5776",
-      "summary": "دوستم با یه انیمیشن کارتونی باحال که با GPT و Ai ساخته، نزدیک 1000 تا فالوور گرفت و 100 K ویو خیلی باحال بود. اگه اجازه داد پیجشو می‌ذارم 😁",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
-      "category": "telegram",
-      "published_at": "2026-11-04T07:16:20+00:00",
-      "published_epoch": 1793776580,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "cecfa51ef868510b",
-      "title": "اف‌بی‌آی از بازداشت ۱۸ نفر طی ۲۱ ماه در پرونده‌های ضدجاسوسی مرتبط با ایران خبر داد",
-      "link": "https://www.radiofarda.com/a/fbi-reports-18-arrests-in-iran-related-counterintelligence-cases/33890221.html",
-      "summary": "در آمار منتشرشده، جزئیاتی درباره هویت ۱۸ فرد بازداشت‌شده در پرونده‌های مرتبط با ایران، اتهامات مشخص آن‌ها یا سرانجام قضایی این پرونده‌ها ارائه نشده است.",
-      "source_id": "radio_farda",
-      "source_name": "Radio Farda",
-      "source_name_fa": "رادیو فردا",
-      "category": "persian",
-      "published_at": "2026-11-04T07:07:54+00:00",
-      "published_epoch": 1793776074,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://gdb.rferl.org/57a7f778-3fdd-48a3-a695-d67f3075149c_cx0_cy2_cw0_w800_h450.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "59c8af7b1cf1d8e1",
-      "title": "@mb_ghalibaf Stop lecturing about “conscience” while you hang 19- and 20-year-old Iranian protesters. #AmirHosseinEbrahimi and #AmirHosseinMaleki were hanged yesterday after torture and forced confessions on charges of “waging war against God.” Yo - X",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuWlhOQnhaVnVlbGE1eDhjeTJacVdMeFVMRmZIanFKVWxCNHh2ZlBlSjZocDFabFM4RUVWN1NTYTZnMDdPbkxLMTc4QUtZWGNocXFfeFhkUDhlUUVWcUdIU2NQNUE?oc=5",
-      "summary": "@mb_ghalibaf Stop lecturing about “conscience” while you hang 19- and 20-year-old Iranian protesters. #AmirHosseinEbrahimi and #AmirHosseinMaleki were hanged yesterday after torture and forced confessions on charges of “waging war against God.” Yo    X",
-      "source_id": "tw_SharifiZarchi",
-      "source_name": "@SharifiZarchi",
-      "source_name_fa": "@SharifiZarchi (دکتر علی شریفی زارچی)",
-      "category": "twitter",
-      "published_at": "2026-11-04T07:01:38+00:00",
-      "published_epoch": 1793775698,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "a922e5b98d7ae722",
-      "title": "رای دادگاه در پرونده پرویز ثابتی: ترس شاکیان دلیل تاخیر بود؛ رسیدگی ادامه دارد",
-      "link": "https://www.bbc.com/persian/articles/cm78pg0z2pgvo?at_medium=RSS&at_campaign=rss",
-      "summary": "در تازه‌ترین تحول در پرونده شکایت سه ایرانی که می‌گویند در دوران حکومت پهلوی قربانی شکنجه‌های ساواک شده‌اند، دادگاه فدرال فلوریدا با ادامه رسیدگی به شکایت آنها علیه پرویز ثابتی، از مقام‌های ارشد پیشین این سازمان، موافقت کرده است.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-11-04T06:54:17+00:00",
-      "published_epoch": 1793775257,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b1e/live/80384a10-d7ae-11f1-93e1-3b657b665bcf.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "864c1ab98df57147",
-      "title": "ادامه مذاکرات غیرمستقیم؛ ترامپ می‌گوید آمریکا فعلاً برنامه‌ای برای حمله به ایران ندارد",
-      "link": "https://www.radiofarda.com/a/trump-no-immediate-plans-iran-strikes-indirect-talks-continue/33890239.html",
-      "summary": "رئیس‌جمهور آمریکا در تازه‌ترین اظهارات خود اعلام کرد ایالات متحده فعلاً برنامه‌ای برای حملهٔ نظامی به ایران ندارد، اما تأکید کرد که در صورت لزوم برای اقدام نظامی کاملاً آماده است.",
-      "source_id": "radio_farda",
-      "source_name": "Radio Farda",
-      "source_name_fa": "رادیو فردا",
-      "category": "persian",
-      "published_at": "2026-11-04T06:52:44+00:00",
-      "published_epoch": 1793775164,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://gdb.rferl.org/a5f36568-e81c-4b32-b430-21182af2274a_w800_h450.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "f18728e487f9c6a1",
-      "title": "ترامپ: جنگ ایران بر نتیجه انتخابات میان‌دوره‌ای تأثیر گذاشت",
-      "link": "https://www.dw.com/fa-ir/ترامپ-جنگ-ایران-بر-نتیجه-انتخابات-میان‌دوره‌ای-تأثیر-گذاشت/live-79849820?maca=per-rss-per-all-1491-xml-mrss",
-      "summary": "دونالد ترامپ،‌ رئیس‌جمهور آمریکا با توجه به شکست سنگین جمهوری‌خواهان در انتخابات کنگره در گفت‌وگو با خبرنگاران کاخ سفید، اظهارات معاون خود در این باره اینکه جنگ ایران یکی از عوامل این شکست بوده را تأیید کرد.",
-      "source_id": "dw_persian",
-      "source_name": "DW Persian",
-      "source_name_fa": "دویچه‌وله فارسی",
-      "category": "persian",
-      "published_at": "2026-11-04T06:16:00+00:00",
-      "published_epoch": 1793772960,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "1833ed425a147810",
-      "title": "realDonaldTrump",
-      "link": "https://t.me/VahidOnline/78992",
-      "summary": "realDonaldTrump \n\n 📡 @VahidOnline",
-      "source_id": "tg_VahidOnline",
-      "source_name": "@VahidOnline",
-      "source_name_fa": "@VahidOnline (وحید آنلاین)",
-      "category": "telegram",
-      "published_at": "2026-11-04T06:06:23+00:00",
-      "published_epoch": 1793772383,
-      "rtl": false,
-      "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/FdqYnL2GOfH7WmeE189-Sngg54SEjUYjjLvX27g8qVGT34f9XLRhAZNnFXCcLRJTmdaK9m2jyp3k87RzRa9tCJPwh2fmGEpEIZ3cWnmE0K_fY4HDfTuWo3VMz7_5WWQhvridzcd4PbgO-UucrmBPH9Kkce2j33G27AdJ54lmkAQxfRB-dL_z6BykMoV7vSJ23VGzeWh-Idtv7T18J3nBnHtKA3tuP3dt7oEZqtCkSYBIlABe7hmnvd1xhIpek4YY_x0ism-ahqh1A5ucNYsdDivs_fA5n_-isO1RwH5b-Njk7kyAGVvqj0vSFK4zI-yql7wVI8HR-nUfW2VvwnOvNw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "e5b7e119b551ab9f",
-      "title": "محمد باقر قالیباف، رئیس مجلس شورای و نماینده ارشد جمهوری اسلامی در مذاکرات با ایالات متحده، صبح چهارشنبه ۱۳ آبان و پس از...",
-      "link": "https://t.me/VahidOnline/78991",
-      "summary": "محمد باقر قالیباف، رئیس مجلس شورای و نماینده ارشد جمهوری اسلامی در مذاکرات با ایالات متحده، صبح چهارشنبه ۱۳ آبان و پس از اعلام نتایج انتخابات میان‌دوره‌ای ایالات متحده، موفقیت دموکرات‌ها در تسلط بر هر دو مجلس نمایندگان و سنا را «نه» مردم آمریکا به جنگ توصیف کرد.\n\nقالیباف در این پیام نوشت: «چه به خاطر وجدان باشد و چه به دلیل هزینه‌های زندگی، آمریکایی‌ها به جنگ «نه» گفتند و ما از این پیام حمایت می‌کنیم.\nاگر دولت ایالات متحده به خواست مردم خود خیانت کند تا در خدمت اربابان بین‌المللی و باج‌گیران باشد، درخواهد یافت که «نه» ما، کابوسی را به دنبال خواهد داشت.»\n@ VahidOOnLine \n\n 📡 @VahidOnline",
-      "source_id": "tg_VahidOnline",
-      "source_name": "@VahidOnline",
-      "source_name_fa": "@VahidOnline (وحید آنلاین)",
-      "category": "telegram",
-      "published_at": "2026-11-04T06:04:58+00:00",
-      "published_epoch": 1793772298,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/o0Yk9KWALf4qhU2xmiWvcZQ_nj_m6yrkJJ1uONUN9c5efkI-mb2xK6QqpujAk0tfFmM4cycN0mNaoIq5VgbLymnw3k1ygdOFKHHiqMwICmbALjro-wJkWe8eK7L67Iv-LPorXXyvEcWCh-Cl4FSkbXoCm6zRIt168ZJ-JR4NjQePmbLlTLIlQ4p_fIJaqnbx6wPBsyWqUhaHOBw8SxEBcPMRR1aeFZmk0Ql2-0crGI336rf_mD5nxG3m5NEvKJUQtS_kYwSjzR1dgAOIwKCcGq5BS6OCUk_g4x98QIQ3Duu5gvzyMCC_03Z-rIno6_pebqIyKjWRdcah-b2fY797Og.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "b2b260a2d0c9bfa4",
-      "title": "📥 دنبال ابزار مناسب برای دسترسی آزاد و امن به اینترنت هستی، اما نمی‌دونی کدومش به کارت میاد؟ 🤔",
-      "link": "https://t.me/whitedns/2229",
-      "summary": "📥 دنبال ابزار مناسب برای دسترسی آزاد و امن به اینترنت هستی، اما نمی‌دونی کدومش به کارت میاد؟ 🤔 \n\nسایت WhiteDNS یه راهنمای فوق‌العاده و ۱۰۰٪ رایگان براتون آماده کرده که بدون پیچیدگی، دقیقا دست میذاره روی نیاز شما! 💡 \n\n «چه کاری می‌خواهی انجام بدهی؟» \n 👇 این صفحه بهت کمک می‌کنه بر اساس نیازت، بهترین ابزار رو انتخاب کنی:\n\n 🔹 اتصال روزمره و مدیریت ساب؟ ➡️ WhiteVPN (با اشتراک داخلی و امکان اضافه کردن ساب شخصی) \n 🔹 تنظیم مسیرهای Aether؟ ➡️ WhiteAesther \n 🔹 پروفایل تونل DNS داری؟ ➡️ WhiteDNS \n 🔹 پیدا کردن IP یا رزولور فعال؟ ➡️ اسکنر شبکه (Finder) \n 🔹 مخصوص کاربران آیفون و آیپد؟ ➡️ CoreForge (نسخه iOS) \n 🔹 کاهش پینگ و بررسی شبکه بازی؟ ➡️ WhiteGame (مخصوص اندروید) \n 🔹 راه‌اندازی سرور شخصی؟ ➡️ WhiteDNS Panel (برای VPS لینوکسی) \n 🔹 دریافت کانفیگ و حساب؟ ➡️ ربات‌های Exit Chain و MasterDNS \n ⚠️ مهم‌ترین ویژگی‌ها: \n ✅ تمامی سرویس‌ها و ابزارها ۱۰۰٪ رایگان هستند (هیچ اکانت فروشی یا پلن VIP وجود ندارد!) \n ✅ بدون ثبت لاگ و بدون ردیاب 🔒 \n ✅ راهنمای گام‌به‌گام و آموزش استفاده برای هر ابزار 📖 \n 🔍 از همین‌جا شروع کن و ابزار مناسبِ شبکه خودت رو پیدا کن: \n 🔗 لینک ورود به راهنمای انتخاب ابزار WhiteDNS \n ✨ دسترسی آزاد، امن و رایگان حق شماست. \n 📣 این پست رو برای دوستات هم بفرست تا اون‌ها هم ابزار مناسبشون رو پیدا کنن!\n @whitedns \n https://whitedns.online",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-11-04T05:55:54+00:00",
-      "published_epoch": 1793771754,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn5.telesco.pe/file/JC5IxVRBLA-BXXe5KH62lZyeJh03YA6yPbgDniOw3XhkvD9GFcQoyTzOBCrCO98U2RCSkWLC7aEnkfBg6QZajJ8Ydr9IBybrEmAvoXd_QcT7ttQE9P8dVURALQABTqPbh8j1uaMzUP5mpcVzq5XKcxNoQ-C7YcaDpELzBL3KSVj_2NT54QcJfhxqk7mF6wFcapBxlu75h6xdUIa6YF-HeksUEJKeL5_GU-9gq6w3JY5f-ogxHwHUdm3PERrcnLtseGUndn0KNJuML04po9BuUm0ZIecauakHYRr_W50A_PuVkvXjPfneDJaobqs6T35UTCP_X5sB3SvEeCLuFDLu5Q.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "9330375e192e5582",
-      "title": "«نه جنگ، نه صلح» در «چهار راه تدبیر»؛ ایران چه گزینه‌هایی در مقابل آمریکا دارد؟",
-      "link": "https://www.bbc.com/persian/articles/cmn4ed94dqdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "این مطلب به بررسی گزینه‌های پیش روی حکومت ایران در بن‌بست کنونی با آمریکا می‌پردازد؛ از ادامه وضعیت «نه جنگ، نه صلح» و احتمال جنگ تا توافق محدود یا جامع. همزمان، مواضع مقام‌ها و تحلیلگران ایرانی نشان می‌دهد که با محدودتر شدن گزینه‌ها، تصمیم‌گیری درباره مذاکره، بازدارندگی و تغییر در سیاست امنیتی ایران دشوارتر شده است.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-11-04T04:42:45+00:00",
-      "published_epoch": 1793767365,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a39d/live/1e358310-d541-11f1-93de-81de9e959fac.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "6731e27bb958465a",
-      "title": "انتخابات میان‌دوره‌ای آمریکا؛ دموکرات‌ها کنترل کنگره را به دست گرفتند",
-      "link": "https://www.dw.com/fa-ir/انتخابات-میان‌دوره‌ای-آمریکا؛-دموکرات‌ها-کنترل-کنگره-را-به-دست-گرفتند/live-79841491?maca=per-rss-per-all-1491-xml-mrss",
-      "summary": "طبق جدیدترین نتایج انتخابات میان‌دوره‌ای آمریکا، حزب دموکرات موفق شد با کسب اکثریت در سنا و مجلس نمایندگان، کنترل کنگره را به دست گیرد. این نتیجه، شکست سیاسی مهمی برای ترامپ و جمهوری‌خواهان به‌شمار می‌رود.",
-      "source_id": "dw_persian",
-      "source_name": "DW Persian",
-      "source_name_fa": "دویچه‌وله فارسی",
-      "category": "persian",
-      "published_at": "2026-11-04T04:09:00+00:00",
-      "published_epoch": 1793765340,
-      "rtl": true,
-      "raw_media_urls": [],
       "local_media_path": null
     }
   ]
