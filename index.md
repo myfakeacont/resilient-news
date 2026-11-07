@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-11-07 00:15 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-11-07 04:15 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,74 +13,73 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [«کشیده شدن به تونلی تاریک»؛ هشدار عراق درباره دخالت شبه‌نظامیان در درگیری احتمالی آمریکا و ایران](https://www.bbc.co.uk/persian/live/c574ppxj0y0xt?at_medium=RSS&at_campaign=rss) — `00:15 IRST` / `20:45 UTC`
-  > فواد حسین، وزیر خارجه عراق نسبت به ورود گروه‌های مسلح نزدیک به ایران به هرگونه درگیری نظامی احتمالی میان ایران و آمریکا هشدار داد. ائتلاف به رهبری عربستان از رهگیری و انهدام یک پهپاد حوثی‌ها در آسمان مکه و دو موشک بالستیک در نجران خبر داد. پیش‌تر نیز گزارش‌هایی از رهگیری پرتاب...
-- **`یورونیوز فارسی`** [بهشت‌های مالیاتی بریتانیا و ۸ میلیارد یورو زیان در اتحادیه اروپا؛ کدام کشورها بیشتر باختند؟](https://parsi.euronews.com/2026/11/06/uk-tax-havens-linked-to-8bn-in-eu-tax-losses-who-loses-most) — `00:00 IRST` / `20:30 UTC`
-  > شبکه عدالت مالیاتی برآورد می‌کند کشورهای اتحادیه اروپا هر سال نزدیک ۶۰ میلیارد یورو به‌دلیل جابه‌جایی سود شرکت‌ها از دست می‌دهند. حدود ۸ میلیارد یورو از این رقم به بریتانیا و شبکه پناهگاه‌های مالیاتی‌اش نسبت داده می‌شود، هرچند خود بریتانیا هم از زیان‌دیدگان اصلی جهان است.
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [یک مقام آمریکایی به ایران‌اینترنشنال گفت ایالات متحده نگران امنیت و ایمنی مردم ایران است و از آنان می‌خواهد در صورت تشدی...](https://t.me/IranintlTV/365733) — `23:59 IRST` / `20:29 UTC`
-  > یک مقام آمریکایی به ایران‌اینترنشنال گفت ایالات متحده نگران امنیت و ایمنی مردم ایران است و از آنان می‌خواهد در صورت تشدید تنش‌های نظامی، در خانه بمانند و از نیروها و مراکز سپاه پاسداران فاصله بگیرند.
+- **`بی‌بی‌سی فارسی`** [گزارش حملات تازه به قشم و چند نقطه دیگر در جنوب؛ ارتش ایران مدعی سرنگونی پهپاد آمریکایی شد](https://www.bbc.co.uk/persian/live/cjg477wl2dg2t?at_medium=RSS&at_campaign=rss) — `04:15 IRST` / `00:45 UTC`
+  > رسانه‌های ایران از حملات تازه به چند نقطه در استان هرمزگان، از جمله جزیره قشم، سیریک و جاسک خبر داده‌اند. خبرگزاری صداوسیما گزارش داد که شش صدای انفجار در قشم شنیده شده و دو مخزن آب در سیریک هدف قرار گرفته است. به گفته این خبرگزاری، در پی این حمله آب آشامیدنی بخشی از سیریک قطع...
 
-این مقام گفت سپاه پاسداران تجهیزات و تاسیسات نظامی، از جمله تسلیحات و مراکز ...
+  ![Media](media/2026-11-07/3e226071b83921f7.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ، رییس‌جمهوری آمریکا، در سخنرانی خود در برنامه‌ای متعلق به ناسا در فلوریدا تاکید کرد که آمریکا باید همچنان د...](https://t.me/IranintlTV/365751) — `04:11 IRST` / `00:41 UTC`
+  > دونالد ترامپ، رییس‌جمهوری آمریکا، در سخنرانی خود در برنامه‌ای متعلق به ناسا در فلوریدا تاکید کرد که آمریکا باید همچنان در زمینه «ابرهوش» (هوش مصنوعی) رهبر بلامنازع جهان باقی بماند.
 
-  ![Media](media/2026-11-06/6260aefcf8e4dfa1.jpg)
-- **`AP News Wire`** [Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHdReU5NTkhUSUdyRGlEeFF3YVVOaW9PMjdJOUtSd2YwdEpzUUM5WmhtRlJ1NFNrekdLZjM3Y0RSeTIwQ0xwQW5xaHJhUnFrSlhHZm1HZmdzcjFlZzcydHVhV3dLQ1U4X21vakg3a01ONi1VREdFc1pJMVB2S3JXVEN4clJyR182NnBBSG9WcWQtQXNpSVQzQw?oc=5) — `23:48 IRST` / `20:18 UTC`
-  > Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat    AP News
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دونالد ترامپ، رییس‌جمهوری آمریکا، در پاسخ به پرسشی درباره پیامش برای ایران گفت واشینگتن با تهران در حال گفت‌وگو است.](https://t.me/IranintlTV/365732) — `23:39 IRST` / `20:09 UTC`
-  > دونالد ترامپ، رییس‌جمهوری آمریکا، در پاسخ به پرسشی درباره پیامش برای ایران گفت واشینگتن با تهران در حال گفت‌وگو است.
+او گفت: «ما اکنون حدود یک سال و شاید حتی کمی بیشتر از چین جلوتر هستیم و می‌خواهیم پیروز شویم. ب...
 
-ترامپ جمعه ۱۵ آبان، پیش از عزیمت به فلوریدا، به خبرنگاران گفت: «در مورد ایران خوب پیش می‌رویم. با ایران صحبت می‌کنیم.»
+  ![Media](media/2026-11-07/77e2494aef55ff13.jpg)
+- **`بی‌بی‌سی فارسی`** [شرکت‌های گمنام، زنگ خطر حباب هوش مصنوعی را به صدا درآورده‌اند](https://www.bbc.com/persian/articles/cqkgjvglvkk5o?at_medium=RSS&at_campaign=rss) — `04:11 IRST` / `00:41 UTC`
+  > شرکت‌های نئوکلاود که مراکز داده و توان پردازشی مورد نیاز غول‌های هوش مصنوعی را تامین می‌کنند، تا همین اواخر نام‌هایی ناشناخته برای بیشتر سرمایه‌گذاران بودند. اما افت ارزش سهام برخی از این شرکت‌ها، بدهی‌های سنگین و تردیدها درباره پایداری مدل کسب‌وکارشان، به نگرانی‌ها درباره شکل...
 
-او همچنین گفت آمریکا در «شش یا هفت ماه»...
+  ![Media](media/2026-11-07/a1f1a020690a054d.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [اکسیوس به نقل از دو منبع آگاه گزارش داد جی‌دی ونس، معاون رییس‌جمهوری آمریکا، طی دو هفته گذشته شخصا در مذاکرات غیرمستقیم ...](https://t.me/IranintlTV/365750) — `03:53 IRST` / `00:23 UTC`
+  > اکسیوس به نقل از دو منبع آگاه گزارش داد جی‌دی ونس، معاون رییس‌جمهوری آمریکا، طی دو هفته گذشته شخصا در مذاکرات غیرمستقیم با ایران برای دستیابی به آتش‌بس جدید و ازسرگیری مذاکرات هسته‌ای مشارکت داشته است.
 
-  ![Media](media/2026-11-06/e99c788f4449ef10.jpg)
-- **`دویچه‌وله فارسی`** [آیزنکوت از تلاش برای یک "دولت اضطرار ملی" خبر داد و چهار شرط برای پیوستن به ائتلاف این دولت ذکر کرد.](https://www.dw.com/fa-ir/آیزنکوت-از-تلاش-برای-یک-دولت-اضطرار-ملی-خبر-داد-و-چهار-شرط-برای-پیوستن-به-ائتلاف-این-دولت-ذکر-کرد/live-79871689?maca=per-rss-per-all-1491-xml-mrss) — `23:35 IRST` / `20:05 UTC`
-  > آیزنکوت با بیان این که "اسرائیل در وضعیت اضطراری واقعی، ملموس و خطرناکی است"، دولت کنونی "تهدیدی بنیادین برای موجودیت دموکراسی اسرائیل" خواند. او گفت که با شرکایش در حال تشکیل یک "دولت اضطراری ملی" است.
-- **`Reuters Wire`** [Trump promotes Stephen Miller to chief of staff, replacing Susie Wiles - Reuters](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5) — `23:34 IRST` / `20:04 UTC`
-  > Trump promotes Stephen Miller to chief of staff, replacing Susie Wiles    Reuters
-- **`ایران اینترنشنال`** [اولین پس‌لرزه‌های شکست انتخاباتی در کاخ سفید؛ میلر جایگزین سوزی وایلز شد](https://www.iranintl.com/202611064287) — `23:34 IRST` / `20:04 UTC`
-  > دونالد ترامپ، رییس‌جمهوری آمریکا، جمعه ۱۵ آبان، سه روز پس از شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای کنگره، از جایگزینی سوزی وایلز، رییس دفتر کاخ سفید، با استیون میلر، یکی از نزدیک‌ترین مشاوران خود و از طراحان اصلی سیاست‌های سخت‌گیرانه مهاجرتی دولت، خبر داد.
+به نوشته اکسیوس، ونس تلاش می‌کند آمریکا را از جنگی خارج کند که به گفته او،...
 
-  ![Media](media/2026-11-06/5608b0159f93ea48.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [سارا از تهران: «نکنه هیچ اتفاقی نیفته و باز جمهوری اسلامی باقی بمونه؟»](https://t.me/IranintlTV/365731) — `23:32 IRST` / `20:02 UTC`
-  > سارا از تهران: «نکنه هیچ اتفاقی نیفته و باز جمهوری اسلامی باقی بمونه؟»
+  ![Media](media/2026-11-07/ccaf1f606adb782b.jpg)
+- **`بی‌بی‌سی فارسی`** [چه کسی پشت تهدیدهای جعلی بمب علیه پروازهای اروپایی است؟](https://www.bbc.com/persian/articles/c615jj0y5x3no?at_medium=RSS&at_campaign=rss) — `03:42 IRST` / `00:12 UTC`
+  > تا این لحظه هیچ مدرک قطعی‌ به دست نیامده که تهدیدهای بمب‌گذاری علیه خطوط هوایی را به روسیه، ایران یا هر یک از گروه‌های نیابتی آن‌ها مرتبط کند.
 
-«یک ایران صدای شما را می‌شنود»
-دوشنبه تا پنجشنبه ۱۱ شب تهران
-از تلویزیون ایران اینترنشنال
+  ![Media](media/2026-11-07/23bdb34ae732d3d7.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️هواداران تیم فوتبال سپاهان، روز جمعه ۱۵ آبان، در جریان بازی با ملوان در استادیوم نقش جهان اصفهان، آتش بازی کردند...](https://t.me/IranintlTV/365749) — `03:19 IRST` / `23:49 UTC`
+  > 🔻️ ️️️️️هواداران تیم فوتبال سپاهان، روز جمعه ۱۵ آبان، در جریان بازی با ملوان در استادیوم نقش جهان اصفهان، آتش بازی کردند و جو فوق‌العاده‌ای را بوجود آوردند؛ چیزی شبیه به صحنه‌هایی که هواداران تیم فوتبال دورتموند آلمان در استادیوم سیگنال ایدونا پارک خلق می‌کنند.
 
- @iranintltv
+ @iranintltvsport
 
-  ![Media](media/2026-11-06/f4f0110c46e0ee02.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا، اوفک، هشت شرکت و صرافی مستقر در کانادا را به فهرست تحریم‌های مرتبط ...](https://t.me/IranintlTV/365730) — `23:27 IRST` / `19:57 UTC`
-  > دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا، اوفک، هشت شرکت و صرافی مستقر در کانادا را به فهرست تحریم‌های مرتبط با جمهوری اسلامی اضافه کرد.
+  ![Media](media/2026-11-07/f16e8d89e833eae2.jpg)
+- **`ایران اینترنشنال`** [کارشناسان سازمان ملل حملات و تهدیدها علیه گزارشگران حقوق بشر را محکوم کردند](https://www.iranintl.com/202611063400) — `03:11 IRST` / `23:41 UTC`
+  > گروهی از کارشناسان مستقل سازمان ملل، از جمله مای ساتو، گزارشگر ویژه وضعیت حقوق بشر در ایران، با محکوم کردن افزایش حملات شخصی و تهدیدها علیه مسئولان سازوکارهای حقوق بشری این سازمان، تاکید کردند که تلاش برای ارعاب، آن‌ها را ساکت نخواهد کرد.
 
-بر اساس اطلاعیه اوفک در جمعه ۱۵ آبان، شرکت‌های اداره‌کننده صرافی‌های «امین اکسچنج ونکوور»، «فرح اکسچنج»، «درویش»، «میلیون»، «نیا...
-
-  ![Media](media/2026-11-06/fbadcf28208014eb.jpg)
-- **`Hacker News`** [HN: CloneGuard – scan a repo for credential-stealing tricks before you run it](https://github.com/tharun208/cloneguard) — `23:19 IRST` / `19:49 UTC`
-  > Article URL: https://github.com/tharun208/cloneguard 
- Comments URL: https://news.ycombinator.com/item?id=50397435 
- Points: 6 
+  ![Media](media/2026-11-07/ffcb2f435cf34cb3.jpg)
+- **`Reuters Wire`** [Pope Leo voted in US midterms because 'I'm proud to be an American' - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FvZXNaNFI4TGtadFQ4NkF6bGc4SjQyQWtTQmZXN3lvQ3piVUNmeDFkb0JlZE9WZEZrbjBSTzB5MzIxbHRLaS1UalhfdEYyTi1Ja3UzMmtpZTZackc0VzI0R3VHMFdydWVJRVdaN0ZzR0Z5ZGdFaWtNaDRCdE44OElqZ1RtMjEzOE91WWljTDRDMG1EMnBDcUVCR293MHVaWGc?oc=5) — `03:04 IRST` / `23:34 UTC`
+  > Pope Leo voted in US midterms because 'I'm proud to be an American'    Reuters
+- **`Reuters Wire`** [Paraguay ex-president Peña placed under house arrest after impeachment - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5) — `03:04 IRST` / `23:34 UTC`
+  > Paraguay ex-president Peña placed under house arrest after impeachment    Reuters
+- **`Hacker News`** [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) — `03:00 IRST` / `23:30 UTC`
+  > Article URL: https://mitchellh.com/writing/libghostty-1-0 
+ Comments URL: https://news.ycombinator.com/item?id=50399933 
+ Points: 16 
  # Comments: 0
-- **`Hacker News`** [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) — `23:18 IRST` / `19:48 UTC`
-  > Article URL: https://hightouch.com/blog/llm-judges-identity-resolution 
- Comments URL: https://news.ycombinator.com/item?id=50397429 
- Points: 37 
- # Comments: 6
-- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [بهترین توصیف از یه ایجنت بدون گاردریل‌های امنیتی روی سرور/سیستم شما:](https://t.me/MatinSenPaii/5801) — `23:12 IRST` / `19:42 UTC`
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان](https://t.me/IranintlTV/365729) — `23:07 IRST` / `19:37 UTC`
-  > 🎧 نسخه صوتی ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
- @iranintlTV
-- **`Hacker News`** [As the Japanese Countryside Empties Out, Wildlife Is Disappearing](https://e360.yale.edu/digest/japan-depopulation-biodiversity) — `23:06 IRST` / `19:36 UTC`
-  > Article URL: https://e360.yale.edu/digest/japan-depopulation-biodiversity 
- Comments URL: https://news.ycombinator.com/item?id=50397264 
- Points: 27 
- # Comments: 12
+- **`Reuters Wire`** [OpenAI gets $11 billion funding at $1.25 trillion valuation, source says - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5) — `02:49 IRST` / `23:19 UTC`
+  > OpenAI gets $11 billion funding at $1.25 trillion valuation, source says    Reuters
+- **`Hacker News`** [Outbound SIP calling is now available to all organizations](https://developers.openai.com/api/docs/guides/voice-sip) — `02:33 IRST` / `23:03 UTC`
+  > Article URL: https://developers.openai.com/api/docs/guides/voice-sip 
+ Comments URL: https://news.ycombinator.com/item?id=50399695 
+ Points: 11 
+ # Comments: 8
+- **`Hacker News`** [CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/) — `02:30 IRST` / `23:00 UTC`
+  > Article URL: https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/ 
+ Comments URL: https://news.ycombinator.com/item?id=50399657 
+ Points: 90 
+ # Comments: 38
+- **`Reuters Wire`** [Trump makes hardliner Stephen Miller his chief of staff after midterm defeat - Reuters](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5) — `02:28 IRST` / `22:58 UTC`
+  > Trump makes hardliner Stephen Miller his chief of staff after midterm defeat    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، گفت همکاری تسلیحاتی روسیه و جمهوری اسلامی همچنان ادامه دارد و ابعاد آن ف...](https://t.me/IranintlTV/365748) — `02:27 IRST` / `22:57 UTC`
+  > هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، گفت همکاری تسلیحاتی روسیه و جمهوری اسلامی همچنان ادامه دارد و ابعاد آن فراتر از معاملات نظامی معمول است. به گفته او، مسکو با تحویل تجهیزات پیشرفته و گسترش همکاری‌های موشکی با تهران، اهداف بلندمدتی را دنبال می‌کند و به‌طور غیرمستق...
+
+  ![Media](media/2026-11-07/59af1df77fc3604e.jpg)
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-11-07 - ساعت 00:30](news/2026-11-07/00-30.md)
 - 📅 [2026-11-06 - ساعت 20:30](news/2026-11-06/20-30.md)
 - 📅 [2026-11-06 - ساعت 14:30](news/2026-11-06/14-30.md)
 - 📅 [2026-11-06 - ساعت 06:00](news/2026-11-06/06-00.md)
@@ -140,7 +139,6 @@
 - 📅 [2026-10-24 - ساعت 14:00](news/2026-10-24/14-00.md)
 - 📅 [2026-10-24 - ساعت 10:30](news/2026-10-24/10-30.md)
 - 📅 [2026-10-24 - ساعت 05:30](news/2026-10-24/05-30.md)
-- 📅 [2026-10-24 - ساعت 00:30](news/2026-10-24/00-30.md)
 
 ---
 توسعه‌یافته برای استقرار سبک و مداوم بر روی اوبونتو ARM64.
