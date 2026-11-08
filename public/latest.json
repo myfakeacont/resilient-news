@@ -1,24 +1,904 @@
 {
-  "generated_at_utc": "2026-11-08T02:10:53.034009+00:00",
-  "generated_at_tehran": "2026-11-08T05:40:53.034009+03:30",
+  "generated_at_utc": "2026-11-08T10:00:10.822129+00:00",
+  "generated_at_tehran": "2026-11-08T13:30:10.822129+03:30",
   "article_count": 100,
   "articles": [
     {
       "hash": "a1b78387ad833264",
-      "title": "تشدید تنش در تنگه هرمز و دریای عمان؛ حمله آمریکا به یک کشتی و گزارش سپاه از انفجار دو نفتکش با مین",
+      "title": "حمله هوایی به برج آرامکو در منطقه مالی پایتخت عربستان",
       "link": "https://www.bbc.co.uk/persian/live/c9x28erk2yv0t?at_medium=RSS&at_campaign=rss",
-      "summary": "تنش در تنگه هرمز و دریای عمان با حمله آمریکا به یک کشتی باری و گزارش سپاه از برخورد دو نفتکش با مین بالا گرفته است. سنتکام می‌گوید که کشتی «هودا» را در دریای عمان هدف قرار داده است. نیروی دریایی سپاه نیز اعلام کرده که دو نفتکش در تنگه هرمز و محدوده شرقی آن پس از برخورد با مین منفجر شده و دچار آتش‌سوزی شدید شده‌اند. همزمان، مرکز عملیات تجارت دریایی بریتانیا گزارشی درباره رویدادی با حضور یک کشتی فله...",
+      "summary": "بنابر گزارش‌ها، برج شرکت نفتی آرمکو، در حمله هوایی به منطقه ملک عبدالله ریاض، قلب مالی پایتخت عربستان، آسیب دیده است. در همین حال، حوثی‌های یمن می‌گویند حملات هوایی ائتلاف به رهبری عربستان سعودی در ۲۴ ساعت گذشته ۸۳ کشته و بیش از ۵۰ زخمی بر جا گذاشته است.",
       "source_id": "bbc_persian",
       "source_name": "BBC Persian",
       "source_name_fa": "بی‌بی‌سی فارسی",
       "category": "persian",
-      "published_at": "2026-11-08T02:10:55.739373+00:00",
-      "published_epoch": 1794103855,
+      "published_at": "2026-11-08T10:00:13.232581+00:00",
+      "published_epoch": 1794132013,
       "rtl": true,
       "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f133/live/89907af0-db06-11f1-b441-2b33b063138f.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bde/live/96eb7d60-db53-11f1-98f5-8d1276fd5e57.jpg"
       ],
-      "local_media_path": "media/2026-11-08/f98ef2eb21917ec9.jpg"
+      "local_media_path": null
+    },
+    {
+      "hash": "67ff3d887be2528e",
+      "title": "۷۸ هزار کشته در چهار سال؛ تلفات سالانه تصادفات در ایران نزدیک به ۲۰ هزار نفر ماند",
+      "link": "https://www.iranintl.com/202611083424",
+      "summary": "چهار سال است که شمار جان‌باختگان تصادفات رانندگی در ایران هر سال از ۱۹ هزار نفر فراتر می‌رود. با وجود هشدارهای پلیس و کارشناسان درباره ایمنی پایین خودروهای داخلی، وزیر صنعت جمهوری اسلامی خواسته است اجرای استانداردهای جدید خودرو دست‌کم یک سال به تعویق بیفتد.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T09:53:24+00:00",
+      "published_epoch": 1794131604,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/2e2db4b5c927c233dfcd0eb933b5daffc952723c-720x405.jpg?rect=0,15,720,377&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-08/1844b9bbfb6b7525.jpg"
+    },
+    {
+      "hash": "225be2f85a964aad",
+      "title": "خدا به خیر کنه",
+      "link": "https://t.me/MatinSenPaii/5815",
+      "summary": "خدا به خیر کنه",
+      "source_id": "tg_MatinSenPaii",
+      "source_name": "@MatinSenPaii",
+      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:50:34+00:00",
+      "published_epoch": 1794131434,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "ae2d98a1266a44f9",
+      "title": "آنتروپیک از ۲۱ آبان نسخه جدید سیاست‌های استفاده از هوش مصنوعی کلاد رو اجرا می‌کنه، که در اون محدودیت دسترسی کاربران کشور...",
+      "link": "https://t.me/MatinSenPaii/5814",
+      "summary": "آنتروپیک از ۲۱ آبان نسخه جدید سیاست‌های استفاده از هوش مصنوعی کلاد رو اجرا می‌کنه، که در اون محدودیت دسترسی کاربران کشورهای پشتیبانی‌نشده \"از جمله ایران\" صریح‌تر شده. \nبر اساس این قوانین، نه‌تنها افرادی که از داخل این کشورها به کلاد وصل میشن، بلکه شرکت‌هایی که در این مناطق ثبت شدن یا عمده مالکیت و کنترلشون در اختیار افراد و نهادهای مستقر در اونهاست هم اجازه استفاده از سرویس رو ندارن! بنابراین احتمال مسدود شدن حساب کاربرانی که با روش‌های غیرمستقیم از کلاد استفاده می‌کنن وجود داره، هرچند آنتروپیک زمان یا برنامه مشخصی برای مسدودسازی حساب‌ها اعلام نکرده.\n\n 🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ \n @ircfspace",
+      "source_id": "tg_MatinSenPaii",
+      "source_name": "@MatinSenPaii",
+      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:50:29+00:00",
+      "published_epoch": 1794131429,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn1.telesco.pe/file/c6YLDvD8fxDDzZd__ZcDkA0GXEv5bh-uuIKoqVFFM5O-U5e23zN6FnOFWVefRx_pEdQt15mAhIvbIowqYDUrXjxNqvWYVqupP5S3oBcZI0uGTSh5hDvwB3p_YidhUs70kcJVSCg-DxcUsEKSU84kkk3puHLTHtJGIgB-VRjOuW6OC7IWfvREHuaD0sbmV_OTipPkXieUb3An3CHmUG39d8aJR0Qw62lJ0xoX_ATGTCz-iKLHL-OMGniLlcRB0UX0bVHkw53JAsH72hMszJdPKBXxi5LXEYmXl0lk-XXfWCKLl2cTwRthKaFcHimDlTLMzmL27EYhpL3Rr0pHs0sGTw.jpg"
+      ],
+      "local_media_path": "media/2026-11-08/16a5fae2cd8a2e37.jpg"
+    },
+    {
+      "hash": "1a98e8e0501194b9",
+      "title": "پس از انتقاد از مدیران پرسپولیس؛ امیرحسین محمودی به کمیته انضباطی باشگاه احضار شد",
+      "link": "https://www.iranintl.com/202611086232",
+      "summary": "اظهارات انتقادی امیرحسین محمودی درباره وضعیت قراردادش با پرسپولیس، واکنش مدیران این باشگاه را به دنبال داشت و این بازیکن جوان به کمیته انضباطی احضار شد. همچنین با تصمیم مهدی‌تارتار، محمودی تا اطلاع ثانوی از حضور در تمرینات پرسپولیس محروم شده است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T09:41:35+00:00",
+      "published_epoch": 1794130895,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/8c44da11598e364e8e3283b03b2e1d74519abfe7-1280x735.jpg?rect=0,33,1280,670&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-08/a03f7de3c8b0122d.jpg"
+    },
+    {
+      "hash": "910fced75effea5c",
+      "title": "انفجار در ریاض و آسیب به آرامکو؛ عربستان از رهگیری پنج موشک خبر داد",
+      "link": "https://parsi.euronews.com/2026/11/08/saudi-aramco-tower-damaged-riyadh-houthi-missiles-november-2026",
+      "summary": "در پی حملات موشکی به ریاض، پایتخت عربستان سعودی، صدای چندین انفجار مهیب در این شهر شنیده شد و برج شرکت نفتی آرامکو در منطقه مالی ریاض آسیب دید. مقام‌های سعودی اعلام کردند که پدافند هوایی این کشور پنج موشک را رهگیری کرده است. این حملات هم‌زمان با تشدید درگیری‌ها میان عربستان و حوثی‌های یمن رخ داد.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T09:39:56+00:00",
+      "published_epoch": 1794130796,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "1e5e464ca638bd30",
+      "title": "در پی وقوع سیلاب در استان خوزستان، آب به روستای چلچلک رسید. هم‌زمان، رودخانه قم نیز طغیان کرد و تصاویری از بالا آمدن آب ...",
+      "link": "https://t.me/IranintlTV/365946",
+      "summary": "در پی وقوع سیلاب در استان خوزستان، آب به روستای چلچلک رسید. هم‌زمان، رودخانه قم نیز طغیان کرد و تصاویری از بالا آمدن آب در این مناطق منتشر شده است.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:38:38+00:00",
+      "published_epoch": 1794130718,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/c-AMxi7syjE0atChZcm0wteNXTe701rNycB-0yQAzXnSQ5kuhLRmST7zWoHOeO2cabVOoSu5nfVMv5-kR3nOJ17vblFXKsmYREF9OI6wvgg7TZ7rwPMcMvV_OJY3xWGFL73ZvyvPsO6Sq-kLagT8j1b8wO08yYdnomxuKNkjqWnAOA7kgCdOY3TbZ5Qkgdv3psbYXwj-PDd-DD_EQ8VZ0b6tDt2h_wbiokVymnBB_ICbpFsJbkDmFpB6PWXBoK-add-6VrS8WPcOKWWidH_LZRTMmd6iNNnmTaT-f16JAUjnNBRqn_-FBMmFYvcLWITvPDo5vrUtyXmFjmoGSASTTw"
+      ],
+      "local_media_path": "media/2026-11-08/23852856a835f220.jpg"
+    },
+    {
+      "hash": "3b47423614d482aa",
+      "title": "جایزه بزرگ ساعت‌سازی ژنو ۲۰۲۶؛ رکسهپ رکشپی برنده «اگوییل دور» شد",
+      "link": "https://parsi.euronews.com/2026/11/08/grand-prix-dhorlogerie-de-geneve-2026-rexhep-rexhepi-wins-prestigious-aiguille-dor-prize",
+      "summary": "در جوایز ساعت‌های لوکس امسال، ۸۴ ساعت مچی و ساعت دیواری در ۱۴ دسته، از جمله ورزشی، تقویم و نجومی، جواهرات و شگفتی‌های مکانیکی، با هم رقابت کردند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T09:38:28+00:00",
+      "published_epoch": 1794130708,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "ffcd53eb3d39a8e2",
+      "title": "سرخط خبرهای یکشنبه ۱۷ آبان",
+      "link": "https://t.me/IranintlTV/365945",
+      "summary": "سرخط خبرهای یکشنبه ۱۷ آبان\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:37:50+00:00",
+      "published_epoch": 1794130670,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/EOtj1P3PgIuaMl8DxLLVBbe0az4jObDepqquq_76mJ_uVOAtxv9S3G_DZfTc_8DJJ6GLxgLyil-DJI4Gs_Liuyord0cy4acGnXlBy1Own4lm1JiYYGWdRnet13QtyHyO8eqmm9CUe4n_dJhjVZLW0lPAwct-R7RQxvF-wwwJMjonAmmTt49Q6E-XQ_ocIs8ZkMpVqvCUKesXNQvXkCEwZf_CvtSZTirXrQVNuN2fOpxBevsvGuY3xryU0lFSQatRJYc1XuSljI0SunxwA7tvObJOKyPLcI0vAp7W0LyTKn0bO0_LFFJNu4vfd1uf2Mv-O-YZTZux7cDA0P1ARm6O4Q"
+      ],
+      "local_media_path": "media/2026-11-08/c1a66aaa99997ed9.jpg"
+    },
+    {
+      "hash": "428e5fee6474b3b8",
+      "title": "خبرگزاری رسمی عربستان سعودی یکشنبه ۱۷ آبان به نقل از یک منبع در وزارت انرژی این کشور اعلام کرد یکی از ساختمان‌های اداری ...",
+      "link": "https://t.me/IranintlTV/365944",
+      "summary": "خبرگزاری رسمی عربستان سعودی یکشنبه ۱۷ آبان به نقل از یک منبع در وزارت انرژی این کشور اعلام کرد یکی از ساختمان‌های اداری آرامکو در ریاض هدف یک حمله قرار گرفته و ترکش‌هایی به ساختمان اصابت کرده است.\n\nبر اساس این گزارش، ساختمان خسارت محدودی دیده، اما هیچ‌کس کشته یا زخمی نشده است. نهادهای مسئول نیز رسیدگی به حادثه را آغاز کرده‌اند.\n\nپیش‌تر نیز رویترز از هدف قرار گرفتن یک برج در منطقه تجاری ملک عبدالله در ریاض خبر داده بود.\n https://iranintl.com/202611084374",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:28:57+00:00",
+      "published_epoch": 1794130137,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/K-pACst_H1Pdu3zRS60Jtur3uf6hpHDrxZWdOwGhhzNqdY6s9cFqa_oX5Rgo5yk6plCV3ANpQxGbuya_dA2Sw7h63qAQQhiaqBsXT-KYyQmLJhNRE0ltdHGtvBFguFZUFUMO3TSgwdm9BD6AqMfJz4ht4binuH6-UEJAT6U2uNIOcaBhYeYG9h-Ocm4zyWNEG43LXtulZYQUY63LR6jgW2XtZqV6CN5LJ6KZTe_VoT4MG3TvgP3gqcQ-_msddmFqizkjvUTgQV8M0wAIujjlce6L3uKD5seepAgu8k1qmP140SuV3RGdinOIINg8It6H9h_NQB3DZFkVNY5wqjNB3g.jpg"
+      ],
+      "local_media_path": "media/2026-11-08/99883774c8a696f0.jpg"
+    },
+    {
+      "hash": "2d78a0fc277255f2",
+      "title": "احسان دانشور، کارشناس محیط زیست و انرژی، با اشاره به خسارات سیل در مناطق مختلف ایران گفت سیلاب پدیده‌ای طبیعی و قابل پیش...",
+      "link": "https://t.me/IranintlTV/365943",
+      "summary": "احسان دانشور، کارشناس محیط زیست و انرژی، با اشاره به خسارات سیل در مناطق مختلف ایران گفت سیلاب پدیده‌ای طبیعی و قابل پیش‌بینی است، اما غافلگیری مکرر در برابر آن نشان‌دهنده ضعف زیرساخت‌ها و مدیریت خطر سیلاب است.\n\nاو با انتقاد از ساخت‌وساز در حریم رودخانه‌ها، تخریب پوشش گیاهی و بی‌توجهی به لایروبی مسیل‌ها تاکید کرد که جمهوری اسلامی به جای مدیریت علمی منابع آب، کشور را در چرخه‌ای از بحران گرفتار کرده است.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:20:07+00:00",
+      "published_epoch": 1794129607,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/RWLP4fP47vmadFEXKRrbPk-W6BEhqcUWmW8nhyYMKLZGWK-3pf_-b1NoOMSDUfzvRXVn9h-Wqk_G_6mp2Kw8SwGaZ3taEzoui8EKuOlT1Sd-oGS8WPT1x2JZ63k0CxztK0lQ20Ho9G-C8hfn6NW_UlnZL5ZGc1X_3E4h8O9e2IjIlx59MDXY02OmW8lRgAC1sdUnna3TxUmB0JialRSso-CfNW7u1iQW76u8j9mbhaKOP-VliXmNmGZVaDroQ1FHJz1pt59frvER_zoWcD4yCoTt0UyyUrP2lILlw4ZwSv-47acoz-2V0jOZ8U42o_m-YD2M29e5323p2AWoWdScyg"
+      ],
+      "local_media_path": "media/2026-11-08/2bddd07c3955352d.jpg"
+    },
+    {
+      "hash": "f1a7c53114a6b487",
+      "title": "علی شیرازی، عضو تحریریه ایران‌اینترنشنال، با اشاره به سرمقاله حسین شریعتمداری در روزنامه کیهان گفت آنچه بیش از جنگ با آم...",
+      "link": "https://t.me/IranintlTV/365942",
+      "summary": "علی شیرازی، عضو تحریریه ایران‌اینترنشنال، با اشاره به سرمقاله حسین شریعتمداری در روزنامه کیهان گفت آنچه بیش از جنگ با آمریکا و اسرائیل، نماینده رهبر جمهوری اسلامی را نگران کرده، سبک زندگی مردم ایران و گسترش حجاب اختیاری است.\n\nبه گفته شیرازی، شریعتمداری این تغییرات اجتماعی را بخشی از جنگ آمریکا و اسرائیل علیه جمهوری اسلامی می‌داند و خواستار برخورد فوری با آن شده است؛ آن هم در شرایطی که حکومت با بحران‌های اقتصادی و معیشتی دست‌وپنجه نرم می‌کند.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:17:40+00:00",
+      "published_epoch": 1794129460,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/j1uR3FiECkTrg5ae8u1KOZGI8F2lkjYdHxOe-4epLeSB3b4L7WXpf8QAfMXy1vLXWO4U4zUigPRrZMd1dMPS-kLMihT1wu22UbwxtTHp3xFA0sQXQqOnif6myB-OnU2PYXvBD6PdtRbdN3sb-MPx78NZ2MbW44qwQR_OWf8XTnn_8ZSYq_FaI0BnaOta6P_QSOkYe8iDnAoRca7hu2EC6XydyZ2SVkBeNK0RNijQsrjSsUpACDK6kmDVFDBeTZxl99tkQTYozCwV_w2akF6YVmeR9y1-7O663KQ7taVH6zVQxiV7L7W7fqKj-k1dUqWaoNXDKSs6CnOL-2Fg2va8rw"
+      ],
+      "local_media_path": "media/2026-11-08/6d56fbc0f78cdd50.jpg"
+    },
+    {
+      "hash": "cf50be569f2f20b7",
+      "title": "بارش باران در یک‌شنبه ۱۷ آبان موجب آب‌گرفتگی معابر و خیابان‌ها در شهرهای بوشهر و بندر گناوه شد.",
+      "link": "https://t.me/IranintlTV/365941",
+      "summary": "بارش باران در یک‌شنبه ۱۷ آبان موجب آب‌گرفتگی معابر و خیابان‌ها در شهرهای بوشهر و بندر گناوه شد.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:17:24+00:00",
+      "published_epoch": 1794129444,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/aejBsrztKrpFIKcphkdhaWZfIV4xQCbvFHXhTJ7u-StSv3Ww7C9WaRrR7GRrMWVwSw0B9YMVZRG9O-LBjmv1fS3a9WOyMHqTv3WScBUPlIA2--sBCe58JlzqzPb7RlcFfEZNXoxwuvouuTyxmKqyVPxCJCacy9b-XDXsE0LxIsoW-QM1XdX43E3Xm6I7j7Pbs3sX3_9qn-p_QZ1H2xX1RmyXt5k9Z0iMv1_fdHZPjXus-xXs_Tnie34G9Ae3BaFUADNheU4CEztq_pdYW2lIpqY6iSFqVpxxry5TanwzrwA546Ay867vk5nCdbgRC-dWsfyTIOemW_Szp3NFjCutFw"
+      ],
+      "local_media_path": "media/2026-11-08/e35b9e7edbd6958a.jpg"
+    },
+    {
+      "hash": "a7f6c8a040ee36a3",
+      "title": "حسین محبی، سخنگوی سپاه پاسداران، در واکنش به طرح جدید آمریکا برای محاصره ایران موسوم به «دروازه آهنین»، گفت: «این طرح صر...",
+      "link": "https://t.me/IranintlTV/365940",
+      "summary": "حسین محبی، سخنگوی سپاه پاسداران، در واکنش به طرح جدید آمریکا برای محاصره ایران موسوم به «دروازه آهنین»، گفت: «این طرح صرفا بازی با الفاظ است و آمریکایی‌ها نخواهند توانست از این طریق به هدف خود، یعنی اعمال فشار شدید اقتصادی برای فروپاشی و متلاشی کردن اقتصاد ایران، دست پیدا کنند.»\n\nسخنگوی سپاه پاسداران، یکشنبه ۱۷ آبان با اشاره به احتمال هدف قرار گرفتن شناورهای ایرانی از سوی آمریکا، گفت: «در شرایط جنگی ممکن است چنین اتفاقاتی رخ دهد، اما آنچه اهمیت دارد این است که ما چند برابر آن‌ها را مورد اصابت قرار می‌دهیم.»\n\nمحبی اضافه کرد: «آمریکا هرگز نمی‌تواند محاصره اقتصادی را به آن معنایی که دنبال می‌کند و با عناوین و طرح‌های مختلف مطرح می‌کند، محقق سازد و اگر آمریکا در این زمینه جدی باشد، ما جدی‌تر از آن هستیم و تمهیدات لازم را برای ارتباط با کشورهای همسایه اندیشیده‌ایم.»\n\nپیش‌تر سنتکام از تشکیل کارگروه «دروازه آهنین» در هماهنگی با نهادهای دولتی آمریکا، برای جلوگیری از انتقال تسلیحات پیشرفته و اقلام مشمول تحریم از مرزهای زمینی ایران و دریای خزر خبر داده بود.\n https://iranintl.com/202611084686",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:14:36+00:00",
+      "published_epoch": 1794129276,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/U0TO2sVqOvMMNxiBsb8SMKine_aY2Wvh4LA4gEKiu7UicarToLKXxKIHh_Y6MNgdwreNYfNgjyPEZUgLLR2TtYQ7mcLOZZTZboZ_-Fy6GeqfT76oxFUrKTHdiiT0oOPrq0sgEBKUl1U1D9Mqg0DXJBcO3OrTAZLkUL_S3qKR_CMXxaf1yQ4NBLPP0vpZ_koveqMFI6GaesjMhQqnZ0WU_9cJnMjbW1Xsuun7QbWeCH8hUJOokm11GEdUDEXkmRZWtCWtfn1PpiJxh_KpV1MKT8Sm1KNI6lVKhGJPzKxkPmN928NDUehdaSt3zIlhykLXt5CK5lbEaB-2xyIFmuWhVw.jpg"
+      ],
+      "local_media_path": "media/2026-11-08/4f8432a3ce741c79.jpg"
+    },
+    {
+      "hash": "4812b0a440026e97",
+      "title": "قوه قضائیه ایران سه نفر از بازداشت‌شدگان اعتراضات دی‌ماه را اعدام و اموالشان را مصادره کرد",
+      "link": "https://www.bbc.com/persian/articles/cqp8g34231d0o?at_medium=RSS&at_campaign=rss",
+      "summary": "قوه قضائیه ایران اعلام کرد که حکم اعدام حسن دیوبند و حمید کاظمی و رضا زنگنه، سه نفر از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ در کرج، را صبح یکشنبه به اجرا درآورده است.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T09:12:36+00:00",
+      "published_epoch": 1794129156,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a11b/live/3789e7c0-db4f-11f1-a701-fddedf244c16.png"
+      ],
+      "local_media_path": "media/2026-11-08/193eddf83bed4f35.jpg"
+    },
+    {
+      "hash": "d58e704ed45864df",
+      "title": "معجزه دقیقه ۹۶ در لا بومبونرا؛ بوکاجونیورز جشن قهرمانی تیم دی‌ماریا را به کابوس تبدیل کرد",
+      "link": "https://www.iranintl.com/202611084191",
+      "summary": "رقابت‌های فوتبال آرژانتین با پایانی عجیب همراه شد؛ در حالی که بازیکنان و هواداران روزاریو سنترال، تیم آنخل دی‌ماریا، جشن قهرمانی گرفته بودند، گل دقیقه ۹۶ انر والنسیا برای بوکاجونیورز همه‌چیز را تغییر داد و آنها پس از سه سال قهرمان آرژانتین شدند.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T09:12:19+00:00",
+      "published_epoch": 1794129139,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/ba23cd58233d469e79e7fac12ab82cc95d5622c2-1080x1349.jpg?rect=0,462,1080,565&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-08/6d467edb5ef63d6e.jpg"
+    },
+    {
+      "hash": "85255d79293812d9",
+      "title": "ویدیوی رسیده به ایران‌اینترنشنال، آبگرفتگی خیابان فرشته تهران را در یکشنبه ۱۷ آبان و پس از بارش باران نشان می‌دهد. ارسال...",
+      "link": "https://t.me/IranintlTV/365939",
+      "summary": "ویدیوی رسیده به ایران‌اینترنشنال، آبگرفتگی خیابان فرشته تهران را در یکشنبه ۱۷ آبان و پس از بارش باران نشان می‌دهد. ارسال‌کننده ویدیو می‌گوید: «مدیریت شهری را ببینید، خیابان شده استخر.»",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T09:00:16+00:00",
+      "published_epoch": 1794128416,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/BYCGlHxhN5n_5TILH7Z2lAZcic-qMlsBRoblTdOwufR3jycK0GvGaaniJAmfkYp6Ih9zWJMR2xvMUS9t2xwko98oflJgEEh_cpOyqysCajykCpTdWzCR7Gvovv1nRr7PPQNhyt4KrmHDKj1Nv4U2tibdGOn83sELv4p-XfXE076VCzIix1gj7_3weWw6By0lVsyxnsWRtqJcLtFkuenXkK_LfrG8jgqASlHAu3W_CV2GrNaf1xQPh7vBAAGOVLfpAzHBUWdVEYkskUjL2ls2VmKskPHsZ8i_QjbYbvJ7xlcN2erBTrsTtWAqvJbmmBxf-t8-BCcFMS04KES1KhVKLw"
+      ],
+      "local_media_path": "media/2026-11-08/063cccb36776d83e.jpg"
+    },
+    {
+      "hash": "c7df44b53ea5830f",
+      "title": "سایت هرانا گزارش داد ابوالفضل صداقت، جوان معترض ۲۰ ساله، یکی از سه بازداشت‌شده اعتراضات دی‌ماه ۱۴۰۴ در مشهد، به اعدام مح...",
+      "link": "https://t.me/IranintlTV/365938",
+      "summary": "سایت هرانا گزارش داد ابوالفضل صداقت، جوان معترض ۲۰ ساله، یکی از سه بازداشت‌شده اعتراضات دی‌ماه ۱۴۰۴ در مشهد، به اعدام محکوم شده است. \n\nپیش از این، هویت متین فرنیان و وحید خدری‌خواه، دو معترض محکوم به اعدام دیگر در این پرونده احراز شده بود.\n\nبر اساس این گزارش، ابوالفضل صداقت، متولد اسفندماه ۱۳۸۴ به همراه متین فرنیان، ۲۳ ساله و وحید خدری‌خواه، ۳۴ ساله، در پرونده‌ای مشترک از سوی شعبه پنجم دادگاه انقلاب مشهد به ریاست قاضی حسین یزدان‌خواه، از بابت اتهام «محاربه» به اعدام محکوم شده است.\n https://iranintl.com/202611084048",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T08:55:17+00:00",
+      "published_epoch": 1794128117,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/tgl9GTOTIWNqgnlQcvuBM0zrH59pMzXzxeMw8iD6qdHER_epG7pnSGsfCL63WMHWCndS_YYv-X9jgfU3-vmZ8OPS_fDF7dKrNWCik9wfDnMM_cPRFrfSoBX-rWMHiaeZaGOJTie-0OMkRpiPrGbdNJU9evUkTGqMlSlGbcRo1b7V9xuJAt3PNCNr19nbBjY1885215t6JWZRXaNSsNHaUkFehuzdX8pmyIXW7SdoW_kQrSLXwuMv4_1WmetBYNLU0BAJV5N8LbdtkqzZfRzy5gkJIfNXqv85goCOAI-oLvElRe-IS-cQ2R6aX8BfgJGceWA2fbZcQ8HWZhD1wp5WUQ.jpg"
+      ],
+      "local_media_path": "media/2026-11-08/35fab0823088d58c.jpg"
+    },
+    {
+      "hash": "486f1f45495a1a0d",
+      "title": "کنکور ایران؛ موفقیت تحصیلی در انحصار ثروتمندان؟",
+      "link": "https://www.dw.com/fa-ir/کنکور-ایران؛-موفقیت-تحصیلی-در-انحصار-ثروتمندان؟/a-79889289?maca=per-rss-per-all-1491-xml-mrss",
+      "summary": "انتشار نتایج کنکور ۱۴۰۵ بار دیگر شکاف طبقاتی در آموزش ایران را آشکار کرده است. آمارها از حضور پررنگ دانش‌آموزان مدارس خاص در میان برترین‌ها حکایت دارند.",
+      "source_id": "dw_persian",
+      "source_name": "DW Persian",
+      "source_name_fa": "دویچه‌وله فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T08:54:00+00:00",
+      "published_epoch": 1794128040,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "203bf94ad02ac01c",
+      "title": "به گفته روابط عمومی پالایشگاه تهران، علت دود غلیظ مشاهده‌شده در این پالایشگاه در صبح یک‌شنبه ۱۷ آبان ناشی از «مشکلات برق...",
+      "link": "https://t.me/IranintlTV/365937",
+      "summary": "به گفته روابط عمومی پالایشگاه تهران، علت دود غلیظ مشاهده‌شده در این پالایشگاه در صبح یک‌شنبه ۱۷ آبان ناشی از «مشکلات برقی و فنی» بوده و هیچ‌گونه آتش‌سوزی در واحدهای پالایشگاهی رخ نداده است.\n @iranintltv",
+      "source_id": "tg_IranintlTV",
+      "source_name": "@IranintlTV",
+      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
+      "category": "telegram",
+      "published_at": "2026-11-08T08:36:44+00:00",
+      "published_epoch": 1794127004,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/qQcCCTXiY-KqH_R7HBtMb-5Bqc_tDokrf9MbalRT0pkAWxrFLJ6f6vXdr8wBJZtnGdJUXUn24rfDGmIHMY0Gpxeb1Iqq-IyMexjbkUEgzFuQmzvo13bXuXfVKwTWNM2mWzmnws9xtDxyg6HFO-96y-KaK6ZS3CBq1y1BpCZVJaLincGnPg0OgGGmMGKHbAYZp0tjxyknPb2V5dblJF5Y2PU3JIyNd0vkzU6pogHA_FxmvAr8k41_jYp80KcdK8yya4UfRzZTuuPUtAyNDv2KPTDpu0D1F0XdPgj2MN-W-bsUS30Y17nJeM3bSovHOuyBuMx8CApsHQ-vePElHJq-VQ"
+      ],
+      "local_media_path": "media/2026-11-08/0a9427e69b3a3b42.jpg"
+    },
+    {
+      "hash": "92918fa7e01eca77",
+      "title": "تشدید درگیری‌های دریایی ایران و آمریکا؛ سپاه از انفجار دو نفتکش در تنگه هرمز خبر داد",
+      "link": "https://www.radiofarda.com/a/33893195.html",
+      "summary": "در ادامه حمله به کشتی‌ها در خلیج فارس و دریای عمان، نیروی دریایی سپاه پاسداران بامداد یک‌شنبه از انفجار و آتش‌سوزی در دو نفتکش «متخلف» در پی برخورد با مین در تنگه هرمز خبر داد.",
+      "source_id": "radio_farda",
+      "source_name": "Radio Farda",
+      "source_name_fa": "رادیو فردا",
+      "category": "persian",
+      "published_at": "2026-11-08T08:24:55+00:00",
+      "published_epoch": 1794126295,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://gdb.rferl.org/e433fde6-264e-4280-ec6b-08df13afe2a0_w800_h450.jpg"
+      ],
+      "local_media_path": "media/2026-11-08/9b892b8ba08b9ca2.jpg"
+    },
+    {
+      "hash": "a4ae0eb2a887ca10",
+      "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZy1KSXNvR1dGeEJmdHRLLUNyanRpWlFMR3JKVlhQR3AyMU83Vkp1bTk0Y2tXUUhEVHdIUzZpQ2o5RmVzclR3S1QtVjlacmthZlQ0OUFyTTRzbl9Nb3JpMlFreTFPdzVoRlRNeDZNMlRBODVieTBXbU9vSTNSN1VvT2lNNjVfcXBaMmpTaTJtS2Q?oc=5",
+      "summary": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-11-08T08:06:00+00:00",
+      "published_epoch": 1794125160,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "d85389b5d9565e41",
+      "title": "وزنه‌برداری قهرمانی جهان؛ علیرضا یوسفی رکورد جهان را شکست، علی داوودی چهارم شد",
+      "link": "https://www.iranintl.com/202611083400",
+      "summary": "علیرضا یوسفی، ملی‌پوش دسته فوق‌سنگین وزنه‌برداری ایران، در آخرین روز مسابقات قهرمانی جهان در چین، با مهار وزنه ۲۶۳ کیلوگرمی رکورد جهان در حرکت دوضرب را شکست و مدال طلا گرفت. او همچنین در مجموع به مدال نقره دست یافت.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T08:04:59+00:00",
+      "published_epoch": 1794125099,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/dc1f82504d0684d5fcecab75b40facac99a1211d-800x533.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-08/651ceb75f3533b26.jpg"
+    },
+    {
+      "hash": "9bc816e8b29919d0",
+      "title": "یک ساعت زودتر خوابیدن، ۶۰۰ گرم کاهش وزن؟ پژوهش تازه از نقش ساعت خواب در لاغری می‌گوید",
+      "link": "https://parsi.euronews.com/2026/11/08/simple-bedtime-change-may-help-some-individuals-lose-weight",
+      "summary": "پژوهش تازه محققان دانشگاه نیویورک نشان می‌دهد زمان به خواب رفتن، مستقل از مدت خواب، ممکن است با کاهش وزن ارتباط داشته باشد. بر اساس این مطالعه، هر یک ساعت زودتر به خواب رفتن با حدود ۶۰۰ گرم کاهش وزن طی هشت هفته همراه بوده؛ هرچند محققان تاکید دارند که رابطه علت و معلولی میان این دو اثبات نشده است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T07:53:34+00:00",
+      "published_epoch": 1794124414,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "c5119aff439de7a7",
+      "title": "برج شرکت آرامکو در حملات موشکی به ریاض آسیب دید",
+      "link": "https://www.radiofarda.com/a/yemen-saudi-updates/33893187.html",
+      "summary": "چند شاهد عینی روز یکشنبه ۱۷ آبان به خبرگزاری فرانسه گفتند که منطقه مالی ریاض، پایتخت عربستان سعودی، هدف حمله قرار گرفته و ساختمان شرکت نفتی آرامکو در این منطقه آسیب دیده است.",
+      "source_id": "radio_farda",
+      "source_name": "Radio Farda",
+      "source_name_fa": "رادیو فردا",
+      "category": "persian",
+      "published_at": "2026-11-08T07:47:54+00:00",
+      "published_epoch": 1794124074,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://gdb.rferl.org/f7a81cdd-32cb-4981-abc6-59d5278b5fbb_cx0_cy11_cw0_w800_h450.jpg"
+      ],
+      "local_media_path": "media/2026-11-08/59a809fe68635148.jpg"
+    },
+    {
+      "hash": "1e4f4d3375d8baf5",
+      "title": "واژگونی اتوبوس تیم بسکتبال زنان آکادمی سحر در مسیر بازگشت از آبادان",
+      "link": "https://www.iranintl.com/202611087516",
+      "summary": "رسانه‌های ایران از واژگونی اتوبوس حامل بازیکنان و اعضای تیم بسکتبال زنان آکادمی سحر در مسیر بازگشت از آبادان به تهران خبر دادند. در پی این حادثه، شماری از سرنشینان اتوبوس به بیمارستان منتقل شدند.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T07:35:56+00:00",
+      "published_epoch": 1794123356,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/dfac6de85cdb233578e38120c8d67f94a3643514-800x533.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-08/effac02ad27b0227.jpg"
+    },
+    {
+      "hash": "07ac2eada8e60261",
+      "title": "لیورپول علیه فروش پیراهن‌های تقلبی حامی فلسطینی‌ها اقدام می‌کند",
+      "link": "https://parsi.euronews.com/2026/11/08/liverpool-fc-targets-counterfeit-pro-palestinian-shirts-using-altered-club-crest",
+      "summary": "پیراهن‌های تقلبی تیم‌های لیگ برتر فوتبال انگلیس با شعارهای حمایت از فلسطینی‌ها در اینترنت به فروش می‌رسند. باشگاه لیورپول نیز از جمله باشگاه‌هایی است که نشان آن روی این پیراهن‌ها استفاده شده و اکنون برای مقابله با این اقدام وارد عمل شده است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T07:30:25+00:00",
+      "published_epoch": 1794123025,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "1b8b5f959acea5d2",
+      "title": "حسین خیراندیش، مدعی طب سنتی، به اتهام کلاهبرداری بازداشت شد",
+      "link": "https://www.iranintl.com/202611085736",
+      "summary": "خبرگزاری تسنیم از بازداشت «ح.خ.»، از «مدعیان طب سنتی» در ایران، در پی شکایت خصوصی و سازمان نظام پزشکی خبر داد. ایران‌اینترنشنال پیش‌تر این فرد را حسین خیراندیش، متهم ردیف اول پرونده جذب دانشجو با وعده دریافت مدرک از دانشگاهی در ارمنستان، معرفی کرده بود.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T07:13:31+00:00",
+      "published_epoch": 1794122011,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/fe08ba352a0e83f2b5aed7affea1290a750c960e-800x482.jpg?rect=0,32,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": "media/2026-11-08/2cd3a55b77bf602b.jpg"
+    },
+    {
+      "hash": "096d90041eef9b50",
+      "title": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGhlRE5JMEs0azJVTzgtQjZNd3ROQ0dlN0FzX1BFeTFhQndEWFJqV3RwSFhDaW5BcUtiYlgyZzFXV28wVDdHWFpWeUlReFhtTnk3d1pZOUp1VDBtV3Jkc3dQQTJPc2ZqcDZRNnlzeFdUN0o3WEtKcnhZZmUyTDJsOG9TamVKNE9Ic09GU0o4MkMzRWNmcFNtUkpSc3ZEcFdBWW1wNjUyMTcxMl9QTGE3c2pnOUJnWktJVGtMcHBIbjVYS3pMa2oyMTNpc0FSdDY1?oc=5",
+      "summary": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-08T07:02:00+00:00",
+      "published_epoch": 1794121320,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "cb097f6640cce0f1",
+      "title": "جمهوری اسلامی حسن دیوبند، حمید کاظمی و رضا زنگنه، از بازداشت‌شدگان اعتراضات دی‌ماه را اعدام کرد",
+      "link": "https://parsi.euronews.com/2026/11/08/iran-executes-three-january-protesters-dioband-kazemi-zanganeh-nov-2026",
+      "summary": "قوه قضاییه جمهوری اسلامی ایران بامداد یکشنبه از اجرای حکم اعدام حسن دیوبند، حمید کاظمی و رضا زنگنه، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ در کرج خبر داد. این سه نفر به اتهام «مشارکت در اقدام عملیاتی» برای اسرائیل، آمریکا و گروه‌هایی که قوه قضاییه آن‌ها را متخاصم خوانده به اعدام محکوم شده بودند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T06:37:02+00:00",
+      "published_epoch": 1794119822,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "13ebc0a4d1300b48",
+      "title": "جواد لاریجانی: می‌توان به‌صورت تاکتیکی از سلاح هسته‌ای علیه پایگاه‌های دشمن استفاده کرد",
+      "link": "https://www.iranintl.com/202611080156",
+      "summary": "محمدجواد لاریجانی، رییس پژوهشگاه دانش‌های بنیادی گفت: «استفاده نظامی از فناوری هسته‌ای لزوما به معنای ساخت بمبی برای انداختن بر سر مردم و کشتار جمعیت غیرنظامی نیست. حتی در حوزه تسلیحات نیز می‌توان درباره کاربردهای تاکتیکی و هدف قرار دادن مراکز و پایگاه‌های نظامی سخن گفت.»",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T06:28:00+00:00",
+      "published_epoch": 1794119280,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/abc3959026964866049a85887b93d6a7b778c958-1200x800.jpg?rect=16,31,967,506&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "5f2df7aaf2c05b5f",
+      "title": "ماشین‌زمان؛ فیزیکدانی می‌گوید سفر در زمان فقط رو به آینده ممکن است، نه گذشته",
+      "link": "https://parsi.euronews.com/2026/11/08/where-would-you-travel-in-a-time-machine-a-physicist-says-time-travel-only-moves-forward",
+      "summary": "برای فردا چمدان ببند، نه برای دیروز. یک فیزیک‌دان می‌گوید سفر در زمان به گذشته ممکن است غیرممکن باشد.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T06:26:22+00:00",
+      "published_epoch": 1794119182,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "0cd137d88e1f0b8a",
+      "title": "چه کسی از همسایه‌اش جاسوسی می‌کرد؟ مجارستان آرشیو دوران کمونیسم را باز می‌کند",
+      "link": "https://www.bbc.com/persian/articles/ckwy4z99z113o?at_medium=RSS&at_campaign=rss",
+      "summary": "مجارستان در حال انتشار کامل آرشیو اسناد امنیت دولتی خود به صورت آنلاین است؛ اقدامی که ممکن است مشخص کند چه کسانی در چهار دهه حکومت کمونیستی تا سال ۱۹۸۹ از همسایه‌ها، همکاران، دوستان و بستگان خود جاسوسی می‌کردند.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T06:21:30+00:00",
+      "published_epoch": 1794118890,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57da/live/1d6c20c0-d77f-11f1-a391-ad4d37bef273.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "f548fa738f747ab2",
+      "title": "سه تن از بازداشت‌شدگان اعتراضات دی‌ماه اعدام شدند",
+      "link": "https://www.dw.com/fa-ir/سه-تن-از-بازداشت‌شدگان-اعتراضات-دی‌ماه-اعدام-شدند/live-79888648?maca=per-rss-per-all-1491-xml-mrss",
+      "summary": "قوه قضائیه جمهوری اسلامی سه نفر از بازداشت‌شدگان اعتراضات دی‌ماه را به اتهام \"مشارکت در اقدام عملیاتی برای اسرائیل، آمریکا و گروه‌های متخاصم\" اعدام کرد. دیوان عالی کشور این احکام را پیش‌تر تایید کرده بود.",
+      "source_id": "dw_persian",
+      "source_name": "DW Persian",
+      "source_name_fa": "دویچه‌وله فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T06:19:00+00:00",
+      "published_epoch": 1794118740,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "cdfc3e40694a61ee",
+      "title": "روایت دیپلمات‌های غربی از زندگی در مسکو در دوران جنگ؛ «منتظر دوربین در هر اتاق باشید»",
+      "link": "https://www.bbc.com/persian/articles/cqpvgdj2y8ljo?at_medium=RSS&at_campaign=rss",
+      "summary": "دیپلمات‌های غربی در مسکو می‌گویند از زمان آغاز جنگ اوکراین، کار آن‌ها زیر سایه نظارت گسترده، فشارهای امنیتی و انزوای فزاینده قرار گرفته است. آن‌ها وضعیت کنونی را با برخی از تنش‌آلودترین سال‌های جنگ سرد مقایسه می‌کنند و معتقدند حفظ کانال‌های ارتباطی با روسیه، با وجود همه دشواری‌ها، امروز بیش از هر زمان دیگری اهمیت دارد.",
+      "source_id": "bbc_persian",
+      "source_name": "BBC Persian",
+      "source_name_fa": "بی‌بی‌سی فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T06:18:34+00:00",
+      "published_epoch": 1794118714,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfb3/live/964c6d20-cef0-11f1-accf-3309656ad0bb.png"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "30b200795f631374",
+      "title": "قوه قضاییه از اعدام سه بازداشت‌شده دیگر اعتراضات دی‌ماه ۱۴۰۴ خبر داد",
+      "link": "https://www.radiofarda.com/a/iran-executes-three-men-over-armed-unrest-during-january-protests/33893171.html",
+      "summary": "قوه قضاییه روز یک‌شنبه، ۱۷ آبان‌ماه، اعلام کرد که سه بازداشت‌شده دیگر در اعتراضات دی‌ماه سال ۱۴۰۴ در کرج اعدام شده‌اند.",
+      "source_id": "radio_farda",
+      "source_name": "Radio Farda",
+      "source_name_fa": "رادیو فردا",
+      "category": "persian",
+      "published_at": "2026-11-08T06:14:13+00:00",
+      "published_epoch": 1794118453,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://gdb.rferl.org/45fccb27-1020-43a7-7a3d-08df13a869ed_w800_h450.png"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "3febe7e5856fb934",
+      "title": "⚠️",
+      "link": "https://t.me/whitedns/2252",
+      "summary": "⚠️",
+      "source_id": "tg_whitedns",
+      "source_name": "@whitedns",
+      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
+      "category": "telegram",
+      "published_at": "2026-11-08T06:13:46+00:00",
+      "published_epoch": 1794118426,
+      "rtl": false,
+      "raw_media_urls": [
+        "https://cdn5.telesco.pe/file/bRhXhs0BBoXJZt2gCgxgC2I1RZVzcK6CpEwd18UescVy155Oz57zasM3hIGL4CEy55AEmuJaZl_uksvObAoLzsnALQa4OBJWKzuAwKQ9JWMgEpWTHp6iNRgfQv9zwQVgXohX8QN2QMBSK6mYJMRSk7SH_9qOvpdPDBKmn-m4rr_Oc-nfC9s3rtSU23X9X_gWPeHLXTL7VCu3Lvlx_yixPauMi7711kuOzdsqCs2YrrAHc39hkiJEE-2LbGDyQmUB2YrCoUuB02Q-bfr8Xe0QIK7xOLC_5uRQWojNudAkAyTKSXwYVmXxGSCsPGxTHW-4ADaaBVnOltsFu9KxUKlFsA.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "a520faae33aac37a",
+      "title": "رد جیوه در دو شهر باستانی مکزیک؛ آلودگی در قلمرو مایاها گسترده‌تر از تصور پیشین بود",
+      "link": "https://www.iranintl.com/202611083252",
+      "summary": "پژوهشگران با بررسی رسوبات دریاچه‌های دو شهر باستانی مایا در مکزیک دریافتند که جیوه موجود در شنگرف، رنگدانه سرخ و مقدس مایاها، قرن‌ها آب این دریاچه‌ها را آلوده کرده و با راه یافتن به زنجیره غذایی، جان بسیاری از آبزیان را گرفته است.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T06:07:14+00:00",
+      "published_epoch": 1794118034,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/e476b5575436451b8b3c58696533f57d0aacf31c-3500x2377.jpg?rect=0,273,3500,1832&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "f93eb9a7a89e09bb",
+      "title": "«تقریبا برق تولید نمی‌کنیم»؛ آیا رونق خورشیدی اروپا از زمستان ابری جان سالم به‌در می‌برد؟",
+      "link": "https://parsi.euronews.com/2026/11/08/were-hardly-producing-any-power-can-europes-solar-boom-survive-a-cloudy-winter",
+      "summary": "یک دوره طولانی هوای ابری و بدون باد می‌تواند تولید برق خورشیدی و بادی اروپا را کاهش دهد و شبکه را وادار کند به منابع آلایندهٔ پشتیبان تکیه کند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T06:02:13+00:00",
+      "published_epoch": 1794117733,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "3b5d646aac2e83e7",
+      "title": "قوانین آداب معاشرت اروپایی؛ از بوسه‌گونه و کفش‌درآوردن تا وقت‌شناسی مسافران",
+      "link": "https://parsi.euronews.com/2026/11/08/cheek-kisses-shoes-off-and-punctuality-european-social-etiquette-rules-travellers-should-k",
+      "summary": "از درآوردن کفش‌ها در داخل خانه تا وقت‌شناسی، نظرسنجی تازه‌ای آداب اجتماعی لازم برای مسافران پیش از رفتن به اروپا را آشکار کرده است.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T06:00:44+00:00",
+      "published_epoch": 1794117644,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "82e9984f3a01be6c",
+      "title": "مجله خبری| ۱۷ آبان ۱۴۰۵ (۸ نوامبر ۲۰۲۶) - بامدادی",
+      "link": "https://parsi.euronews.com/video/2026/11/08/mglh-khbri-aban-noambr-bamdadi",
+      "summary": "آخرین تحولات اروپا و جهان را دنبال کنید ۱۷ آبان ۱۴۰۵ (۸ نوامبر ۲۰۲۶). با یورونیوز در جریان آخرین اخبار و رویدادهای سیاسی، اقتصادی، فرهنگی و سرگرمی قرار بگیرید.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T06:00:10+00:00",
+      "published_epoch": 1794117610,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "e54d22160edf6ae8",
+      "title": "Saudi-led coalition intercepts two Houthi missiles fired towards Riyadh - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
+      "summary": "Saudi-led coalition intercepts two Houthi missiles fired towards Riyadh    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-08T05:24:00+00:00",
+      "published_epoch": 1794115440,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "3e8adc10ddd1f76f",
+      "title": "تدارک نبرد با دموکرات‌ها؟ ترامپ سمت سخنگوی کاخ سفید را به دینا وایت، رئیس یو‌اف‌سی پیشنهاد کرد",
+      "link": "https://parsi.euronews.com/2026/11/08/trump-offers-white-house-press-secretary-ufc-dana-white-nov-2026",
+      "summary": "ترامپ روز شنبه سمت سخنگویی کاخ سفید را به دینا وایت، مدیرعامل سازمان هنرهای رزمی ترکیبی «یو‌اف‌سی»، پیشنهاد داد و از او خواست این سمت را بپذیرد. وایت نیز گفت که قرار است دوشنبه در دیدار با ترامپ درباره این پیشنهاد گفتگو کند.",
+      "source_id": "euronews_persian",
+      "source_name": "Euronews Persian",
+      "source_name_fa": "یورونیوز فارسی",
+      "category": "persian",
+      "published_at": "2026-11-08T05:13:50+00:00",
+      "published_epoch": 1794114830,
+      "rtl": true,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "cdb96e05b4b9656a",
+      "title": "حسین خیراندیش، مدعی طب‌سنتی که گفت خامنه‌ای را حجامت کرده، به اتهام کلاهبرداری بازداشت شد",
+      "link": "https://www.iranintl.com/202611080900",
+      "summary": "خبرگزاری تسنیم گزارش داد حسین خیراندیش، از مدعیان «طب سنتی»، با شکایت یک شاکی خصوصی و سازمان نظام پزشکی بازداشت شده است.\nبر اساس این گزارش، خیراندیش با وعده فراهم کردن امکان تحصیل در یکی از دانشگاه‌های معتبر ارمنستان، دانشجویان را فریب داده و مبالغی دلاری از آنان دریافت کرده بود.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T05:13:06+00:00",
+      "published_epoch": 1794114786,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/4b2f6c7b813e9a35fa2687e1437bb1f59cef4301-771x475.jpg?rect=175,0,451,236&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "06377a013231730e",
+      "title": "📅 برنامه‌های رستم مدیا | یکشنبه ۱۷ آبان:",
+      "link": "https://t.me/Rostamchannel/8538",
+      "summary": "📅 برنامه‌های رستم مدیا | یکشنبه ۱۷ آبان:\n\nگفت‌وگوی داریوش آشوری و شهلا شفیق پیرامون دیدار با شاهزاده رضا پهلوی\nواقعاً چه اتفاقی برای پول‌های پابلو اسکوبار افتاد؟ \nبررسی هشدار دریاسالار ترک در مورد مساله ایران\nفرماندهان کشته شدند؛ پس چرا سپاه از بین نرفت؟\nکتاب ۵۰ متفکر بزرگ معاصر\nکتاب روزمرگی در زمین رنج ها\nخلاصه اخبار وب‌سایت‌های خبری\n\n 👨‍💻 تیم پشتیبانی رستم‌مدیا آماده پاسخ‌گویی به سوالات شماست.\n\n @rostamsupport \n\n 🔸 نسخه ویندوز نرم‌افزار \n 🤖 نسخه اندروید نرم‌افزار",
+      "source_id": "tg_Rostamchannel",
+      "source_name": "@Rostamchannel",
+      "source_name_fa": "@Rostamchannel (کانال رستم (دور زدن فیلترینگ))",
+      "category": "telegram",
+      "published_at": "2026-11-08T05:04:27+00:00",
+      "published_epoch": 1794114267,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn5.telesco.pe/file/fXdlLl-1rfOrgl9MsyG-jcuQKiJDA-4YXpWK51qJNcML54P5tR9_WYbwEXW8RpYv8ASjkyNowmXiqmRqgM4wduLD6dyHvAYXECWEsM7tSMrYqd6GRHMfSY5nbCs130TeJLcH0kOGmudJrYc8DSp6QcWO0nEhAK65HafImiecs1YAS9lIIdDrcIlrl7KquGoI9rpJgjdjPY705MkGQTJUxMG4gber2ORiiLP6LRpVCgyVAovnVrWRy2A8i7SR61lOfJndiwmz4ltGKhdL5r4ocZpcru2mB35NRxmX7OmgWTmJ2iU9RwGCm3mVF5avHiCDEhGzgIhKQ0KdnKtr8pUkFg.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "3663aecde2d5d8ca",
+      "title": "چه جالبه! کامپوننت های تعاملی اینسپکتور و کلی چیز جالب دیگه :",
+      "link": "https://t.me/Linuxor/5984",
+      "summary": "چه جالبه! کامپوننت های تعاملی اینسپکتور و کلی چیز جالب دیگه :\n\n bencho.dev \n\n @Linuxor",
+      "source_id": "tg_Linuxor",
+      "source_name": "@Linuxor",
+      "source_name_fa": "@Linuxor (لینوکسور (جامعه گنو/لینوکس))",
+      "category": "telegram",
+      "published_at": "2026-11-08T05:03:48+00:00",
+      "published_epoch": 1794114228,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn4.telesco.pe/file/pVM8A3gXksqBsRSd_IqoYiTu3p3jK7ZDazNvEc4OC_FZgnvBHJN45kBpnA5ddWjwopNSKRO21ydQYzFsZXG8p_RnT6bopnT5n9cffyuZQqBMAKPMgmPgBYXP8O7b9iUuECBwwn8U2tVhSBNong73U03JFKLOdfIcMbLTqnR9T4JnfyzwhlAMs1U_pQ5OamL8bXarSYMAEk379V25ctQKCbBSUH0c3IscSxon4FPP30QfFh6qZoXsUqdE56JQz-KSk1lithKRDPqlilnvFWZOYZkQsK6XZiGL-902zp8tuk0Fn4NotGJ6eqsH_t9f8H63O1sjzSDCa7cKxGmLbOedng"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "b98c59b97aaf1a56",
+      "title": "فیلترشکن دیفیکس قابلیت Split Tunneling رو در جدیدترین بروزرسانی برای نسخه‌های اندروید، iOS، ویندوز، لینوکس و مک در دسترس...",
+      "link": "https://t.me/ircfspace/2709",
+      "summary": "فیلترشکن دیفیکس قابلیت Split Tunneling رو در جدیدترین بروزرسانی برای نسخه‌های اندروید، iOS، ویندوز، لینوکس و مک در دسترس قرار داد.\nبا این قابلیت می‌تونین مشخص کنین ترافیک کدوم اپلیکیشن‌ها، آیپی‌ها یا آدرس‌ها از تانل VPN عبور نکنه و مستقیماً از اینترنت عادی استفاده کنن. مثلاً می‌تونین بدون قطع اتصال VPN، به سامانه‌های دولتی، بانکی یا سرویس‌هایی که به IP واقعی شما نیاز دارن دسترسی داشته باشین.\nاز طرف دیگه، امکان انتخاب مسیر معکوس هم وجود داره؛ یعنی می‌تونین مشخص کنین فقط اپلیکیشن‌های خاصی از تانل دیفیکس عبور کنن.\n\n 👉 defyxvpn.com/download \n\n 🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ \n @ircfspace",
+      "source_id": "tg_ircfspace",
+      "source_name": "@ircfspace",
+      "source_name_fa": "@ircfspace (پایگاه کلودفلر و پروکسی IRCF)",
+      "category": "telegram",
+      "published_at": "2026-11-08T04:59:39+00:00",
+      "published_epoch": 1794113979,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn1.telesco.pe/file/F4YCJUI2KqnSxYHbjo6EqK87O2rARwPA-wl783tXPB1QX6wJZr33W1vIXn7GY5kYkVFJz-4tVcZSRvHFzWuy30c-oaU76VJw-cVyz-eMZfWjVcPxCTyeYiWvBm9F6-xBbc1T5Tcg5BaY39bB3uRaoADhIBPLNf-lRNMihg-IkzfQfte21jOfrRHUB-jyeW9lRBqz9IUCl5dnI-DlyWkbEe_awAjyqRczIsVoTR1x6-hrjpR-57lF23lMc6KtlVYVq81pvRucuLFiXrTnF0ge7m2IDnB_Dgsw7pmQNRSsob8YNjEHfO3epMmBUqC4MmCkXZYr3fg7jFd9C16o6Tgkbg.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "a93ddaf69391a05f",
+      "title": "مدتیه گزارش‌های مختلفی از قطع موقت آنتن‌دهی اپراتورهای تلفن همراه در نقاط مختلف کشور منتشر میشه؛ اختلال‌هایی که روی تماس...",
+      "link": "https://t.me/ircfspace/2708",
+      "summary": "مدتیه گزارش‌های مختلفی از قطع موقت آنتن‌دهی اپراتورهای تلفن همراه در نقاط مختلف کشور منتشر میشه؛ اختلال‌هایی که روی تماس‌ها، اینترنت و حتی دستگاه‌های کارتخوان اثر میذارن و معمولاً در کمتر از یک ساعت برطرف میشن.\n\nاین اتفاق در تابستون و همزمان با قطعی‌های روزانه برق چندان عجیب نبود، اما تداوم چنین گزارش‌هایی در شرایط فعلی می‌تونه نشونه‌ای از مشکلات جدی‌تر در زیرساخت مخابراتی باشه. \nدر کنار اختلال‌های عامدانه و محدودیت‌هایی که در شرایط جنگی بر شبکه اعمال میشن، فرسودگی تجهیزات، آسیب دیدن باتری‌ها و سیستم‌های پشتیبان بر اثر قطعی‌های مکرر برق، کمبود منابع مالی برای تعمیر و نوسازی و همچنین تحریم‌های گسترده که تأمین تجهیزات، قطعات جایگزین و خدمات فنی رو دشوارتر کرده، میتونن از جمله عوامل این اختلال‌ها باشن.\n\nالبته بدون دسترسی به اطلاعات فنی اپراتورها نمیشه علت مشخصی رو تأیید کرد، اما تداوم این وضعیت احتمالا نشونه‌ای از کاهش تاب‌آوری شبکه تلفن همراه و دشوارتر شدن نگهداری و نوسازی زیرساخت‌های ارتباطی کشوره.\n\n 🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ \n @ircfspace",
+      "source_id": "tg_ircfspace",
+      "source_name": "@ircfspace",
+      "source_name_fa": "@ircfspace (پایگاه کلودفلر و پروکسی IRCF)",
+      "category": "telegram",
+      "published_at": "2026-11-08T04:45:22+00:00",
+      "published_epoch": 1794113122,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn1.telesco.pe/file/SZl29-n1eeNU58vZ0Ou9p_N9VzrXss4JVSlui6fAlzhOFLVYm6Vvff25ms1F-i4I6hdcheQUq13UuicjV-wjcHNe5A01ej7SIKcV5AAp8A4SEH3btTuuFJ7LqHBjPJBvOQqlGveXoRfh6OMnymA4Ywmk8I2O3f0OAwFrGncVcyVjQPjg7n2Rf7Xbg5a-inp25-Qzpfyl4qf49Qbt3nDcGQwO5BP67Dztn9eboj1vw0HdM0M3Ku99JrL4JaRpMRGq8yEv7BRg_NaOzsffPhBZO3_jAMHgtStv5BRz4OVCxF1YB6wYfJq493KYH5iRoxkdY2smVJMmqtQ0fz9zMAbocQ.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "4daaff71b8a6f05a",
+      "title": "قوه قضاییه از اعدام سه نفر در پرونده اعتراضات دی‌ماه کرج خبر داد",
+      "link": "https://www.iranintl.com/202611084007",
+      "summary": "خبرگزاری میزان، وابسته به قوه قضاییه، اعلام کرد حسن دیوبند، حمید کاظمی و رضا زنگنه در پرونده‌ای مرتبط با اعتراضات ۱۸ و ۱۹ دی ۱۴۰۴ در کرج اعدام شدند. به گفته میزان، دیوان عالی کشور احکام هر سه نفر را تایید کرده بود.",
+      "source_id": "iran_intl",
+      "source_name": "Iran International",
+      "source_name_fa": "ایران اینترنشنال",
+      "category": "persian",
+      "published_at": "2026-11-08T04:41:44+00:00",
+      "published_epoch": 1794112904,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://i.iranintl.com/images/rdk9umy0/production/b177a699bce0151da8e78b6f6d99c3973aa4c29a-1920x1080.png?rect=0,38,1920,1005&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "5038234497431cd7",
+      "title": "Iran executes three men over armed unrest during January protests - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3AtenozM05Va3RPQ1JUYWZ2T2ZYSHVLeDVpN0pKd2lObzVlTjFmSTAyazZoUzNFbHNEc3F5NVBsclI5Rkt3MlpQaVpISy1HdEtOTmNWQVFPQ0IyOGVMOUp0aURUQWJNWENqTklhSUlNQkRqTnFSWm9QR2o3R201b0FVRk00WjV2dG5XaEwzRjIwWVoxQUtkRExIVWdUV1FqdFdPNUQxRjBIdXdfUVJ5RWJ3RkFEX0p5dUZtSzFVLVpsQlI2OTdRQ0pJeDl5djg?oc=5",
+      "summary": "Iran executes three men over armed unrest during January protests    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-08T04:41:00+00:00",
+      "published_epoch": 1794112860,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "ff7b33300e49380c",
+      "title": "گزارش‌ها به از دسترس خارج شدن تعدادی از دامنه بین‌المللی سایت‌های ایرانی اشاره دارن. دامنه ورزش۳ هم در همین دسته قرار می...",
+      "link": "https://t.me/ircfspace/2707",
+      "summary": "گزارش‌ها به از دسترس خارج شدن تعدادی از دامنه بین‌المللی سایت‌های ایرانی اشاره دارن. دامنه ورزش۳ هم در همین دسته قرار می‌گیره، که توسط شرکت ثبت‌کننده در وضعیت تعلیق (HOLD) قرار گرفته. \nهنوز مشخص نیست این اتفاق‌ها به تحریم‌ها یا اجرای سیاست جدیدی از سوی GoDaddy مربوط باشن و این شرکت هم تا الان توضیح رسمی‌ای در این زمینه ارائه نکرده.\n\n 🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ \n @ircfspace",
+      "source_id": "tg_ircfspace",
+      "source_name": "@ircfspace",
+      "source_name_fa": "@ircfspace (پایگاه کلودفلر و پروکسی IRCF)",
+      "category": "telegram",
+      "published_at": "2026-11-08T04:30:42+00:00",
+      "published_epoch": 1794112242,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn1.telesco.pe/file/oJ5vhstNN52TDV8ykszY_VOsgZGgGoIVaP2qqRmod-ZXJi_qK8X6K86ChCAmaIR4U_BJVIlBvpiyTJ1s5yhN7eOR_uINvWuuHYSlHJc6ysPdR9QpDbR7k58p_ddRmS5Wd4twAERavzB-N1OdHZCzLQZMohyIwxw03LkC5DhNm-xc6oJ53fLHOy1SGA3XpaMP9NcO23yUVz_-9nCSlYN3Pzerh-LiIx-3bOMqZZ8g70-LAjUZU7L2_0_HJeZ6xl_Z0yf8athF9Bt0EnUX0k-xP55a38HRKS9203GPIrxnlkSdOihOhPO2khxO7gyeUK8r2UFtLwd8UZeMVJJMKbK2Vg.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "197fa11b1933c788",
+      "title": "آنتروپیک از ۲۱ آبان نسخه جدید سیاست‌های استفاده از هوش مصنوعی کلاد رو اجرا می‌کنه، که در اون محدودیت دسترسی کاربران کشور...",
+      "link": "https://t.me/ircfspace/2706",
+      "summary": "آنتروپیک از ۲۱ آبان نسخه جدید سیاست‌های استفاده از هوش مصنوعی کلاد رو اجرا می‌کنه، که در اون محدودیت دسترسی کاربران کشورهای پشتیبانی‌نشده \"از جمله ایران\" صریح‌تر شده. \nبر اساس این قوانین، نه‌تنها افرادی که از داخل این کشورها به کلاد وصل میشن، بلکه شرکت‌هایی که در این مناطق ثبت شدن یا عمده مالکیت و کنترلشون در اختیار افراد و نهادهای مستقر در اونهاست هم اجازه استفاده از سرویس رو ندارن! بنابراین احتمال مسدود شدن حساب کاربرانی که با روش‌های غیرمستقیم از کلاد استفاده می‌کنن وجود داره، هرچند آنتروپیک زمان یا برنامه مشخصی برای مسدودسازی حساب‌ها اعلام نکرده.\n\n 🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ \n @ircfspace",
+      "source_id": "tg_ircfspace",
+      "source_name": "@ircfspace",
+      "source_name_fa": "@ircfspace (پایگاه کلودفلر و پروکسی IRCF)",
+      "category": "telegram",
+      "published_at": "2026-11-08T04:22:34+00:00",
+      "published_epoch": 1794111754,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn1.telesco.pe/file/szX1mGhKw7r71C9gA-Cemu6tYNz9TbogOyjpV0Mk-2G3XTZXhWq85JvUCBQHFE9HllWcG20omSMTUBekqaE19DtdHtTA6_3nNojyQ2BDoFNJ3dU_Z-wy6V2F_7TAZPib7VwJRLr4ShkftmLQQDpl40OD94-w93j6RlEwcJvhpPYa_b77dkIfxObxtao9xOqDuTq9bAeumPLODT4kbNVL9fECOAp0TxdNb1E_m8N_Eq5xupAZ9LycDQC2d9ZZ95_1Tm25tMsq1zj4hm38ubI5WDqAOvtN_2oWfHmPar53N5144MtWl0_3ZlRmjgRbheJXlVI7o7jksXMa5_25XYvz7Q.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "01e163a150bed948",
+      "title": "بررسی ترافیک اینترنت ایران در ۷ روز اخیر نشون میده که در ساعات پایانی شب، علاوه بر کاهش معمول مصرف اینترنت بدلیل ساعت اس...",
+      "link": "https://t.me/ircfspace/2705",
+      "summary": "بررسی ترافیک اینترنت ایران در ۷ روز اخیر نشون میده که در ساعات پایانی شب، علاوه بر کاهش معمول مصرف اینترنت بدلیل ساعت استراحت مردم، افت‌های قابل‌توجهی در ترافیک ثبت شده. این افت‌ها از نظر زمانی با گزارش‌های اخیر کاربران درباره ایران‌اکسس شدن یا قطع چند دقیقه‌ای اینترنت در اواخر شب همخوانی داره.\n\nاین وضعیت در حالی ادامه داره که اینترنت ایران بعد از تجربه ۸۸ روز قطع سراسری، هنوز حتی به شرایط قبل از جنگ برنگشته و همچنان با اختلال، افت کیفیت و محدودیت‌های متعدد همراهه. در این مدت، به جای بهبود کیفیت و دسترسی اینترنت، تنها تغییر ملموسی که کاربران باهاش مواجه شدن، افزایش حدود ۴۰ درصدی قیمت بسته‌های اینترنت بوده!\n\n 🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ \n @ircfspace",
+      "source_id": "tg_ircfspace",
+      "source_name": "@ircfspace",
+      "source_name_fa": "@ircfspace (پایگاه کلودفلر و پروکسی IRCF)",
+      "category": "telegram",
+      "published_at": "2026-11-08T04:12:49+00:00",
+      "published_epoch": 1794111169,
+      "rtl": true,
+      "raw_media_urls": [
+        "https://cdn1.telesco.pe/file/C2RqQlPlRbYvM1-Q9fb7MZGIZ0LGkxxWFxXQu9cLV_Z7A8i9enBm6L0mzXipDM7tJ-k5GJDbSsY58Tr4uGbDrZt1ZxHPInUPwHL-ljgumvBrTDfJNVTbN0Tc7iKAAYuWaBe7Znklz9kcS8CyzwEsvLOIVnFJnMGpo1OHucr5Yf8SpFf9uCsLm0d2L3fAl5YhH2m5JBRS6ogZYFpL1Epb7bx2qh49x92fO3WUxYyubXUnP27xc4-cAAiBobLTotvu9iupfwmPr2znonOMwhxe_XB-yDRQa3-CsCroB8-h2h5lawq-u74xKKSWXLJniw6tFd09t0MNKMaz6L9kP5D6MA.jpg"
+      ],
+      "local_media_path": null
+    },
+    {
+      "hash": "903b34dbb5f8d78e",
+      "title": "Melania Trump and LSU announce $7.2 million to endow scholarships for former foster care students - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
+      "summary": "Melania Trump and LSU announce $7.2 million to endow scholarships for former foster care students    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-11-08T03:58:00+00:00",
+      "published_epoch": 1794110280,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
+    },
+    {
+      "hash": "1f1a0f4f01148efb",
+      "title": "Saudi civil defence gives all-clear after alerts in Eastern Province - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5",
+      "summary": "Saudi civil defence gives all-clear after alerts in Eastern Province    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-08T03:11:00+00:00",
+      "published_epoch": 1794107460,
+      "rtl": false,
+      "raw_media_urls": [],
+      "local_media_path": null
     },
     {
       "hash": "3abfc458098c7578",
@@ -35,21 +915,6 @@
       "raw_media_urls": [
         "https://cdn5.telesco.pe/file/cYM6KLitUj30KojTdtJEdqqEz7h8yVdnzQsLY9H4Xv8SvbIBHw4VWoZwgVkPRX2GJJRsk6naLTvVWCmfZOjRlHxqmrYXBWpMNVdOGPAlN6uAqCDIxJ9RrJ4A2-Et-2lGmjhTL8qLpXfgEHeliu20KrNW-Su59-730yJHJasM36hvfAWD4uEB4Z1pE1S-EwZl6IgZHNvkw86_kNoT6FMyaQ5xci5d0YxyiimLaMFfBw8I261Wvgm1hsKXY3p2sOwwnxSA3ZUAQtgQ_PUAUgxd5k3p6Erom8gLKtDOvfLJha6a0zvBi5omQMppyRKjvK2pcwuMs0rHKa5gx_8D7zb0jQ.jpg"
       ],
-      "local_media_path": "media/2026-11-08/21e89d5b3297f4d7.jpg"
-    },
-    {
-      "hash": "903b34dbb5f8d78e",
-      "title": "Melania Trump and LSU announce $7.2M to endow scholarships for former foster care students - AP News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
-      "summary": "Melania Trump and LSU announce $7.2M to endow scholarships for former foster care students    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-11-08T01:36:00+00:00",
-      "published_epoch": 1794101760,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -67,7 +932,7 @@
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8fb9/live/2c86d160-cb93-11f1-93a7-b36f3083f4d3.jpg"
       ],
-      "local_media_path": "media/2026-11-08/98299fd37a0b5da7.jpg"
+      "local_media_path": null
     },
     {
       "hash": "db51dcab2a4f9da2",
@@ -84,7 +949,7 @@
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/Ln0Eh2Q713myrrEPLzzttqWnqjCYt4F2a9Rd6yA42di28jKoFebaz5hpSCJDkmVG4yDfHFDsmgIK1vHjKPU0AwT_K56HGMfh267_cf6dESSKClhOYy7x3sTDTFtHqKQUyknLK8mJKX_TkpmDm5FDPVefW2TI7E0mAvv7Vq9UA0OtWhxzVbwAPPyHrScKDmhPaQHWtzV8_ZoOvjxHJpwB9qbq2qCPg_iePT0vd-DMRwlKAceMVhwoMGGhDIHPNNGizm3imHhG_KNMLHmWCeKfuiJXrNcoIHHtOhuOywGFCZAvMa7ZGxsfIwf0KynOw2kvbWxJqFFxCmCMULkmiPNLhQ.jpg"
       ],
-      "local_media_path": "media/2026-11-08/2ea6328985301649.jpg"
+      "local_media_path": null
     },
     {
       "hash": "4573f90d3c65f920",
@@ -116,24 +981,7 @@
       "raw_media_urls": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
       ],
-      "local_media_path": "media/2026-11-08/3055d4adc94c8e20.jpg"
-    },
-    {
-      "hash": "ca3ec5cce6bd9d84",
-      "title": "تیراندازی در میدان اصلی شهر کراکوف در لهستان چندین کشته بر جا گذاشت",
-      "link": "https://www.iranintl.com/202611070342",
-      "summary": "مقام‌های لهستان گفتند مردی مسلح شنبه ۷ نوامبر، برابر با ۱۶ آبان، در میدان اصلی شهر کراکوف، در جنوب این کشور، شش نفر را کشت و پلیس پس از شلیک به او، بازداشتش کرد. نخست‌وزیر لهستان گفت سه جسد دیگر نیز در خانه مظنون پیدا شده است.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T23:54:46+00:00",
-      "published_epoch": 1794095686,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/c19e488673544457961b10329e38a8dad2a1a41b-800x533.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": "media/2026-11-08/2e4292ca56d63be4.jpg"
+      "local_media_path": null
     },
     {
       "hash": "44afa003cf75e135",
@@ -153,102 +1001,34 @@
       "local_media_path": null
     },
     {
-      "hash": "7eba67255659c65a",
-      "title": "علی راشد النعیمی، رییس کمیته دفاع، کشور و امور خارجه شورای ملی فدرال امارات متحده عربی، به شبکه فاکس‌نیوز گفت با وجود نگ...",
-      "link": "https://t.me/IranintlTV/365910",
-      "summary": "علی راشد النعیمی، رییس کمیته دفاع، کشور و امور خارجه شورای ملی فدرال امارات متحده عربی، به شبکه فاکس‌نیوز گفت با وجود نگرانی‌ها درباره احتمال ازسرگیری درگیری نظامی در خاورمیانه، نسبت به مذاکرات واشینگتن و تهران خوش‌بینی محتاطانه‌ای دارد.\n\nالنعیمی این خوش‌بینی را ناشی از پیشرفت‌های به‌دست‌آمده در روزهای گذشته با میانجی‌گری قطر دانست.\n\nاو افزود: «نشانه‌هایی از پیشرفت را مشاهده می‌کنیم» و ابراز امیدواری کرد دو طرف بتوانند «به نقطه‌ای برسند که اعتمادسازی را آغاز کنند و به‌گونه‌ای تعامل داشته باشند که از وقوع جنگ جلوگیری و راه‌حلی سیاسی پیدا شود.»\n\nاین مقام اماراتی اضافه کرد: «کمی خوش‌بین هستم، اما احتمال گزینه دیگر را هم منتفی نمی‌دانم.»\n\nالنعیمی گفت: «ما برای بدترین شرایط برنامه‌ریزی می‌کنیم و به بهترین نتیجه امیدواریم. همیشه اطمینان حاصل می‌کنیم که برای مقابله با همه چالش‌ها و تهدیدها آمادگی داریم.»\n https://iranintl.com/202611075826",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T23:31:29+00:00",
-      "published_epoch": 1794094289,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/mnvt1LZVElPqIfZrrub0tsRvCi-iJxTZUw2jzNXxaAw8UFI6NoTDsCPw8o7fCfumXWbXkdWGp4nvQ5ZT7kuXGN8sdFBOOKLqgeVGZd_ltL-seeEyaxcuIVQbRR76sOx0gzxx46_YXsuZDD4wbIlpnCSwP_ehJsbabLsCFnjKakkGGu1tRSl1UVnyj_8Qbp617Nvs6bcsjf1g2_lVFyJo5sSINnkw-qClBR5cz7PXzMX-cu4sfsjU3cXCylpKK6bFw07MMa4Kh5KFx4uwLJojf0PT-WAaP9VaeIew1J_8PPxexFm3bwBHycqjTAqpnmilve5srI2HZ1edDI-iHBl28g.jpg"
-      ],
-      "local_media_path": "media/2026-11-08/dadfc8595b41b30b.jpg"
-    },
-    {
-      "hash": "aaa01dc86d6e59a7",
-      "title": "نیویورک‌تایمز به نقل از نهادهای اطلاعاتی آمریکا گزارش داد یک زن تاجر به ماموریت سازمان‌های اطلاعاتی چین، رابطه‌ای عاشقان...",
-      "link": "https://t.me/IranintlTV/365909",
-      "summary": "نیویورک‌تایمز به نقل از نهادهای اطلاعاتی آمریکا گزارش داد یک زن تاجر به ماموریت سازمان‌های اطلاعاتی چین، رابطه‌ای عاشقانه با جن‌سن هوانگ، مدیرعامل انویدیا، برقرار کرده است. بر اساس این گزارش، هدف پکن دستیابی به اطلاعات تراشه‌های پیشرفته هوش مصنوعی و تاثیرگذاری بر سیاست‌های صادراتی آمریکا بوده است.\n\nدر این گزارش همچنین به تلاش چین برای دستیابی به فناوری انویدیا اشاره شده است. پکن این گزارش‌ها را رد کرده است.\n\nگفت‌وگو با مهدی صارمی‌فر، روزنامه‌نگار حوزه علم و فناوری\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T23:25:02+00:00",
-      "published_epoch": 1794093902,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/FDeVKrYb_oRclssBBUcUiQS-baZHbfBimfquDnb_2Xp2iOVUnc2rCcL12yDv57MwXkN3oD4HGbvorDyIx82YLe_U_I4BeCvFYMsTSuAMQwGWMHymGx6ztatlNZom8_AccN3vp6yzcD9vxzmwWO4uLmAPWBKTse-Xzi-WOElP0B0iE97y_OeuQRMCQeMai4VZH2ySZu1n81u223W4Br-_VklEIwQq0k2BXED0z-tb68KbJ2tiqmnRggfNSRWlsz8dSTLFiDLjSDlU7_omPGaOjrQz0dj8Fnx32XFUsOys6R83aNf_wjdkZm-2g_c6hooF0wPdFzgNz8tHUqLyiuXJVA"
-      ],
-      "local_media_path": "media/2026-11-08/a5626310c1ceb108.jpg"
-    },
-    {
-      "hash": "941733d0151141dc",
-      "title": "Commodore PET – The Worlds First Personal Computer",
-      "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ \n Comments URL: https://news.ycombinator.com/item?id=50408961 \n Points: 19 \n # Comments: 1",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T23:15:34+00:00",
-      "published_epoch": 1794093334,
+      "hash": "2607d31288a07209",
+      "title": "Explainer: What happens next after New Zealand's vote? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXBnajlhbkZ6bEs3X2tsanJQZFhLTWpTOVYwcUpDajdySE1qTWtId1RYa1pJMF9PR2cyOGdHTlYxT3JVdFJJc0FZcDNPbU5waVJaNHRzU2lJY1RacHc0cExSRVBiN2M0N0xGbVB1eHc5NXh4WWdxazIwazBfOFRhQ1RHc0JpQ3FOU1hEX2ZNQXFkMUNpZTZOWUs0UWY?oc=5",
+      "summary": "Explainer: What happens next after New Zealand's vote?    Reuters",
+      "source_id": "reuters_wire",
+      "source_name": "Reuters Wire",
+      "source_name_fa": "خبرگزاری رویترز",
+      "category": "wire",
+      "published_at": "2026-11-07T23:47:20+00:00",
+      "published_epoch": 1794095240,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
     {
-      "hash": "e86a8d3dbaad25be",
-      "title": "GitHub New pull request overview page in public preview",
-      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ \n Comments URL: https://news.ycombinator.com/item?id=50408931 \n Points: 61 \n # Comments: 40",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T23:09:40+00:00",
-      "published_epoch": 1794092980,
+      "hash": "3e324dfd8143f666",
+      "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeC1mdElFZXUyYm4xaVhUemJnQm5XVUcybXJBYmdBRi1leDJwLTRPVnljdjFvYmJLemFubkpMaml3R0M5MjIxSk9IOHpNNnV2NXNNR1FiMllyc1l0SFhDdFB4N0hMYW1OajJqMGtBUy1JajR3UjVFVmdFcVA1S2c0OUFFY25hM3owcUszOFFhOVloS3R3VEM0bGVZX1ItRVVQYlM4OTNaQTcxNXBSOUY1SnpHaDQ?oc=5",
+      "summary": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on    AP News",
+      "source_id": "ap_news_wire",
+      "source_name": "AP News Wire",
+      "source_name_fa": "اسوشیتد پرس",
+      "category": "wire",
+      "published_at": "2026-11-07T23:13:00+00:00",
+      "published_epoch": 1794093180,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
-    },
-    {
-      "hash": "e40471ea986ca415",
-      "title": "🔻 حامد کاویانپور، بازیکن پیشین پرسپولیس و مدیر فنی فعلی آکادمی این باشگاه، در یک گفتگوی ویدیویی با ورزش سه، گفت: «بدون ت...",
-      "link": "https://t.me/IranintlTV/365908",
-      "summary": "🔻 حامد کاویانپور، بازیکن پیشین پرسپولیس و مدیر فنی فعلی آکادمی این باشگاه، در یک گفتگوی ویدیویی با ورزش سه، گفت: «بدون تعارف می‌گویم، آقا کریم غم‌خوار باخت پرسپولیس نیست، اگر بود، نمی‌توانست با ۱۲ سرمربی کار کند، اگر بود یک‌جایی سرمربی‌ میشد.»\n\n 🔹 اما در واکنش به این اظهارات، باشگاه پرسپولیس اعلام کرد با دستور پیمان حدادی، مدیرعامل باشگاه، حامد کاویانپور برای ادای توضیحات به کمیته انضباطی باشگاه پرسپولیس احضار شد و «پس از این در خصوص او تصمیم‌گیری خواهد شد.»\n\n @iranintltvsport",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T23:05:14+00:00",
-      "published_epoch": 1794092714,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/pL3RWDfIaYi_qquk0BS5gCkZSupSfPeesU4uvmZb7BfTZTUz7_VhE7cvVJJ9X80feftrgVE06GYPbUeccfiarH4B4w6i-fSXy3dda-kyXcqIjDOv-YznNW_FLd2g2sED7nHoUeNa2WXroPszBORSNDs0OYaiVYCOaU9Wg4rI83lxqjIPwIustALiWQeqN12XQrzXjZQgqfNkdXVEQuoVKpRsBTZKV2Rka4c1DGco_L7ZR0KHZPptuSIa60RNMt-Spm1cf8bW8FwxvBweu4rtAcBlBAGQVHCYE7t3Jx8aALw2kBJbJGZYEuM7_jH-hoXLBS77yiGXZg3L6BLE9ruO5g"
-      ],
-      "local_media_path": "media/2026-11-08/3a2a35f66fa8bc22.jpg"
-    },
-    {
-      "hash": "533147618522997d",
-      "title": "علیرضا نامور حقیقی، تحلیل‌گر سیاسی، گفت گادی آیزنکوت با وجود حمایت پارلمانی برای تشکیل دولت اسرائیل، با اختلاف‌های جدی م...",
-      "link": "https://t.me/IranintlTV/365907",
-      "summary": "علیرضا نامور حقیقی، تحلیل‌گر سیاسی، گفت گادی آیزنکوت با وجود حمایت پارلمانی برای تشکیل دولت اسرائیل، با اختلاف‌های جدی میان متحدانش، به‌ویژه بر سر همکاری با احزاب عرب، روبه‌روست. به گفته او، مخالفت مشترک این احزاب با ادامه نخست‌وزیری بنیامین نتانیاهو می‌تواند به تشکیل دولت کمک کند، اما پایداری آن را تضمین نمی‌کند.\n\nنامور حقیقی افزود تفاوت اصلی آیزنکوت با نتانیاهو در رویکرد به جمهوری اسلامی است. به گفته او، آیزنکوت مقابله با تهدیدهای هسته‌ای و موشکی تهران را ضروری می‌داند، اما تغییر نظام در ایران را وظیفه اسرائیل نمی‌شمارد. او همچنین بعید دانست شکایت‌های انتخاباتی حزب لیکود بتواند نتیجه کلی انتخابات را تغییر دهد.\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T22:53:50+00:00",
-      "published_epoch": 1794092030,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/PDO61P3XKhNUl3B8XsBNZQOnq7TF3ZKGQUpfaPFZmUAXBh-3hUr0mAMzwzB-itvucUWMFwMR1VDenMPDIhqL0K4H_7I7n0jfniQEK7mcP8J-0xcWNT6wBUycE5Ctn7vq8rZwTUBNXN-TYqQ6jsDKP6siHBoGSLzVr5mELc6DLmTiP_Ajw2sNjnu8pjj5jfCYkwkDQxnZLK_mJoK5HS9mMgg2q2C3Nk3uc7j1DjQ-cgYQXfr3pBPmWMDQOm4GCGYc1QtCDBEoJnz_XuoChtQy71iAY3emG-FMCQwHSLIrxHAmu8CB-5L7RyV8usaFy-GIg1xW5hx0xQYZ-bGvhJLQlw"
-      ],
-      "local_media_path": "media/2026-11-08/7af5d70d927eb481.jpg"
     },
     {
       "hash": "af2ce4a316828188",
@@ -266,194 +1046,6 @@
       "local_media_path": null
     },
     {
-      "hash": "648b741fc3ccf6c9",
-      "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
-      "summary": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-07T22:48:58+00:00",
-      "published_epoch": 1794091738,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "5bf82a1df4bddde5",
-      "title": "افراح الزوبه، وزیر خارجه دولت قانونی یمن، در پیامی در شبکه اجتماعی ایکس، با بازنشر بیانیه اخیر دولت لبنان درباره ضرورت ج...",
-      "link": "https://t.me/IranintlTV/365906",
-      "summary": "افراح الزوبه، وزیر خارجه دولت قانونی یمن، در پیامی در شبکه اجتماعی ایکس، با بازنشر بیانیه اخیر دولت لبنان درباره ضرورت جلوگیری از مداخله گروه‌های لبنانی در امور داخلی یمن و دیگر کشورهای عربی، نوشت که دولت‌های یمن و لبنان همکاری‌های خود را برای مقابله با حمایت حزب‌الله از حوثی‌ها ادامه می‌دهند.\n https://iranintl.com/202611072632",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T22:46:02+00:00",
-      "published_epoch": 1794091562,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/kBYyGGzePedniF_IO5E9OMyKod8hkliULaQAso7tTSUtuECd1G_sHz-uOKjeKQWlqxdyP5ewOv8eceJa5b49xoD8TWWk-02371P5Sv3CW3s3aWPj7O5FF1qhoJPf7PlmpG6DUoDnCJNczjvF4NDZ5H040QY1PLuutv0lUaAcs_ErWBTmzO4n5JWRxpK-4dFPHnSYqqYIh6PoiNQF1UhWeipGCCrAWSduO26rtr1MMf7kgFpTzyxWOqUA3_3onVgQ7eZxd3YrzMYwKA03jYeAUXhRBkiJBimNL4Usdz2oZXSz4-kZa388GYU-FANHIpET2tnCgl0iy-vjMqAVzSeDCA.jpg"
-      ],
-      "local_media_path": "media/2026-11-08/f073c0535ddd9168.jpg"
-    },
-    {
-      "hash": "a71647824ef2e937",
-      "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
-      "summary": "Tesla to add Cybertruck shift to clear orders before dismantling line next year    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-07T22:45:57+00:00",
-      "published_epoch": 1794091557,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "6479930d10348b97",
-      "title": "IRA Velinsky – Commodore's Industrial Designer",
-      "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ \n Comments URL: https://news.ycombinator.com/item?id=50408750 \n Points: 11 \n # Comments: 0",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T22:45:39+00:00",
-      "published_epoch": 1794091539,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "25068ed5d334c6ab",
-      "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1JmenBXVVhvTTZIU0dnVDduN0VVeWNYU3R1Sl9CLVRhQ3RPaUYwcG85TWZrenoxS3Nwc2NKU3FmNnI0Z05ydlhySG9fWjF1cy1sdm9WVlluYUt6SFNzSTVzUFdaSWVQY21Ud0dOV1ROamRnSUFPUUFTZF9mLXpidXRRdjlwRkZfaGVSNmxnMDVhWF9SRDE4TmxsanRkRktselE4SGVRZFlXYmNvbWo1aEJaVl8zZy1YZm9nQg?oc=5",
-      "summary": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-07T22:45:30+00:00",
-      "published_epoch": 1794091530,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "2f9f54eb8a73373f",
-      "title": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت سیاست آمریکا در قبال جمهوری اسلامی پس از انتخابات میان‌دوره‌ای تغییر نکر...",
-      "link": "https://t.me/IranintlTV/365905",
-      "summary": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت سیاست آمریکا در قبال جمهوری اسلامی پس از انتخابات میان‌دوره‌ای تغییر نکرده و واشینگتن همچنان فشار اقتصادی و اجرای تحریم‌ها را در اولویت قرار داده است. به گفته او، سنتکام به‌جای ورود به جنگی متعارف، به ابزاری نظامی برای اجرای تحریم‌ها و تشدید محاصره اقتصادی تبدیل می‌شود.\n\nتوانا افزود این فشارها ممکن است از مسیرهای دریایی به گذرگاه‌های زمینی ایران نیز گسترش یابد و اجرای آن به همکاری کشورهای منطقه نیاز دارد. او همچنین احتمال تغییر فرمانده سنتکام در ارتباط با تحولات اخیر را رد کرد و گفت فعالیت رسانه‌ای فرماندهی آمریکا بخشی از تلاش برای تشریح سیاست‌ها و آماده‌سازی افکار عمومی است.\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T22:44:16+00:00",
-      "published_epoch": 1794091456,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/af3V_y51zX61NdUVjE6cUQ-ArVTmGU2Fy4wD2HfLRFfJ6jK3PG-CGVk8qqwDpnZeWZEXf5tPRoZO4rCXeAsg0SAX79q2fLNamCy8tjTTOzqDVYp6modi3ki7wf77-IylPO1Jq-Pd95rTZeL6BdmDclJm_0hnwCpkUfkI7z1PE-SIC_cgFyRMHQufIdb4lS_QYvKVlR54s51WJULlsg42iH_QzyRCmtVSATyRjY4R7-3IS1tTOzAS2D-SM0uivIdaOKcxzoO76YqtRMlrUNSVK8k4DRUuKU_m7EJ2R5s_ZktL6DemGSSvtG88npVAKHG251N3sA_138GaVcMxeM-MWw"
-      ],
-      "local_media_path": "media/2026-11-08/7b2417aa27c47c33.jpg"
-    },
-    {
-      "hash": "a708cc9e1525f78f",
-      "title": "Making any integer with four 2s (2025)",
-      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ \n Comments URL: https://news.ycombinator.com/item?id=50408713 \n Points: 59 \n # Comments: 12",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T22:38:58+00:00",
-      "published_epoch": 1794091138,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "e8f8ededa20cc42a",
-      "title": "جو ویلسون، نماینده جمهوری‌خواه مجلس نمایندگان آمریکا، در شبکه اجتماعی ایکس نوشت: «عمیقا از سوریه به‌خاطر رهبری شجاعانه‌ا...",
-      "link": "https://t.me/IranintlTV/365904",
-      "summary": "جو ویلسون، نماینده جمهوری‌خواه مجلس نمایندگان آمریکا، در شبکه اجتماعی ایکس نوشت: «عمیقا از سوریه به‌خاطر رهبری شجاعانه‌اش در ارائه کمک‌های نظامی به مردم یمن و عربستان سعودی در مبارزه با تروریست‌های افراط‌گرای حوثی سپاسگزارم.»\n\nاو افزود: «سوریه از ایران رها شده و به‌زودی به آزادسازی یمن از سلطه ایران نیز کمک خواهد کرد.»\n\nاین نماینده کنگره آمریکا خواستار آن شد که همه مردم منطقه «علیه ایران و نیروهای نیابتی آن اقدام کنند».\n https://iranintl.com/202611072146",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T22:34:18+00:00",
-      "published_epoch": 1794090858,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/gWneqlIWOu6AgdDYZSIDyP4oQR-jqpWqm07I1sfJwSNnrAl7yEEb8WJEEMw0QcSrOhVMv9OmB7mREFz6GuBx6qfEkIOTzzgEEGMFgrmBVbQk_2dZ2LDz-E7DkUhKr4Woxhe1hy-G_UrHjEh6FlULTe87Kf_sOHwe1AhLf0OfGoVfnqaEAZaHllzmpuy4BklhNPhffwP0CllaEJCdrQ2b2vPNGh2Ep-1Pfb2WcemRTSVgPCE1DsK3s2rNbJoyudgeB52oZ4M3Cxudr9PLgnYKSeQqeS1YKW2VlyDYCJurvwxfPoTqhOTIfKuLfFjJT7ELEm4T0QLTa0fWonftiMqQUg.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "bc156bf03bc30043",
-      "title": "🎧 نسخه صوتی سیاست با مراد ویسی: حماسه فرانکفورت؛ شاهزاده :اتحاد برای سرنگونی",
-      "link": "https://t.me/IranintlTV/365903",
-      "summary": "🎧 نسخه صوتی سیاست با مراد ویسی: حماسه فرانکفورت؛ شاهزاده :اتحاد برای سرنگونی\n @iranintlTV",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T22:32:46+00:00",
-      "published_epoch": 1794090766,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "01ebbf67fe3fd924",
-      "title": "حمله آمریکا به یک کشتی به دلیل تلاش برای نقض محاصره؛ سپاه: دو نفتکش در تنگه هرمز درپی برخورد با مین آتش گرفتند",
-      "link": "https://parsi.euronews.com/2026/11/07/us-strikes-vessel-gulf-of-oman-irgc-tankers-hit-mines-hormuz-nov-2026",
-      "summary": "هم‌زمان با افزایش تنش‌ها در تنگه هرمز، سنتکام شامگاه شنبه از حمله به یک کشتی تجاری در دریای عمان خبر داد و گفت که این کشتی چندین بار برای نقض محاصره دریایی آمریکا علیه ایران تلاش کرده است. هم‌زمان، سپاه اعلام کرد که دو نفتکش هنگام عبور از تنگه هرمز پس از برخورد با مین دریایی آتش گرفته‌اند.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T22:28:08+00:00",
-      "published_epoch": 1794090488,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "b40f54e680978df5",
-      "title": "لهستان؛ ویدئو فرار مردم هنگام تیراندازی یک مهاجم مسلح در کراکوف را نشان می‌دهد",
-      "link": "https://parsi.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
-      "summary": "تصاویر نشان می‌دهد مردم در حالی می‌گریزند که خودروها با شتاب دور می‌شوند، در جریان تیراندازی مرگبار در میدان اصلی بازار کراکوف که شش کشته و حدود ۱۵ زخمی بر جا گذاشت.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T22:11:32+00:00",
-      "published_epoch": 1794089492,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "f476acf2f0867aa5",
-      "title": "والنسیا ۰-۳ رئال مادرید؛ مورینیو، مستایا را فتح کرد و به بارسلونا رسید",
-      "link": "https://www.iranintl.com/202611079254",
-      "summary": "تیم فوتبال رئال مادرید در هفته دوازدهم لالیگا با نتیجه سه بر صفر در مستایا، خانه والنسیا پیروز شد و با ۳۰ امتیاز، هم‌امتیاز بارسلونای صدرنشین در رده دوم جدول قرار گرفت. بارسلونا یک بازی کمتر انجام داده است.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T22:08:46+00:00",
-      "published_epoch": 1794089326,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/25870ef33c2b15f4c037f0dc3cb21a13e910c1e0-1876x2078.jpg?rect=0,249,1876,982&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
       "hash": "c689c8b87d8490fa",
       "title": "نیروی دریایی سپاه پاسداران روز شنبه ۱۶ آبان اعلام کرد دو نفتکش در محدوده تنگه هرمز و شرق این آبراه پس از برخورد با مین م...",
       "link": "https://t.me/VahidOnline/79032",
@@ -467,40 +1059,6 @@
       "rtl": true,
       "raw_media_urls": [
         "https://cdn4.telesco.pe/file/dZyqbG21nGrNZS_Ljb_yCDos8avkqW1wpLetpudAhm29PqfoviGtj_t0CSXg2Q-2ahyOoqpJEpReipfQ3-yjfc0cHtnY_LLWLY6IwX1lsuZCoQM-W9B7VAztIoG_um0e4UURCA8KzNvqtHlI0A3d33xCDlyQhJp6I6D1RMgVXue4XcgMIjsqRM6kdx2KaI2kwAilcZybYuaPIhWbBs3eXKpM3M076do-YUnBoRkQ-ZpRXrJorwzXtpYNIbxXsqsr4nhxd-mbIBHTohnE9lXm8H0F33c7Z2StYijkcWpoIR87G6JvD7-w_Nb3YzDpHEYy-0ngzw37FXz4mqPKJur9dA.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "7823f6c6eaf018e8",
-      "title": "سازمان عملیات تجارت دریایی بریتانیا شنبه از وقوع حادثه‌ای میان یک کشتی فله‌بر و نیروهای نظامی در دریای عمان، در فاصله حد...",
-      "link": "https://t.me/IranintlTV/365902",
-      "summary": "سازمان عملیات تجارت دریایی بریتانیا شنبه از وقوع حادثه‌ای میان یک کشتی فله‌بر و نیروهای نظامی در دریای عمان، در فاصله حدود ۱۸ مایل دریایی (۳۳ کیلومتری) شرق خورفکان در امارات متحده عربی، خبر داد.\n\nاین سازمان اعلام کرد هنوز اطلاعاتی درباره وضعیت خدمه کشتی، میزان خسارت و پیامدهای احتمالی زیست‌محیطی این حادثه در دست نیست.\n https://iranintl.com/202611076860",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T22:07:29+00:00",
-      "published_epoch": 1794089249,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/bJozsq6EAHmfwXIED6-8GbgIJTFaFTeTTgSY6Yr2jFj0F6c1Tx0uYh3yIJFHuFpah2RQWWxkgVFPAQuEDwDnM-JM3gQ7W-hg0-Q2emfkFu7zjOZu0qdxxZkwoBieqlCQYSgwdQ3l3ZFGonKGKbvd4xvVgq9nb5OABhMDgrBviy7TI2CoaiMe3a_4YD9fmctH8hy3rAMbi0-GiO7z3W5DekeB0ODLxPczHDNWtCoki2NIFeJXbWgQkAhP3EYmb4_GHDkxeL814ZCSu7R7F0M_lpeyaJjYq7bQVYEgbioje9we7v8PHkdlgHnS8doPHDSmy0k9ZSJIdjnV-gLfAszaNA.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "654355bd1804ad1d",
-      "title": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «شاهزاده رضا پهلوی با وجود محبوبیت گسترده در میان ایرانیان، همواره بر رج...",
-      "link": "https://t.me/IranintlTV/365901",
-      "summary": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «شاهزاده رضا پهلوی با وجود محبوبیت گسترده در میان ایرانیان، همواره بر رجوع به صندوق رای برای تعیین نظام سیاسی آینده ایران تاکید کرده است. او نهادینه شدن دموکراسی را در گرو تقویت نهادهای مدنی، نظام حزبی، انتخابات آزاد و آزادی رسانه‌ها می‌داند.»\n @iranintltv",
-      "source_id": "tg_IranintlTV",
-      "source_name": "@IranintlTV",
-      "source_name_fa": "@IranintlTV (ایران اینترنشنال (تلگرام))",
-      "category": "telegram",
-      "published_at": "2026-11-07T22:03:23+00:00",
-      "published_epoch": 1794089003,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/RBS3n1AvrM5E77W69hbQv5Inn33VfH1h69_ehSOEiWv5f7qlTuzC5yTYrr3CcFKo3yQqbk4yjjFWpEySqZ_X7tmVK3-UzY3ALcJJVR1zjrWwSe8_B_b3E2aPnueDpt3vKmnkWUiykVKjLGmSL1taJczRyoMVOCEhongkQoCOw3GNOK9pa4kbA3lvt_Un1o5LPVnguA36B6KdOHUHRfWwJ1qoJj5_5RPkXvrhcKpgXF2jPML9KHHDQTOokMib07lcMfElThk4HivivVdFw9WSRBIPM1klHp1Rz1LvRb3sIwKbTsGvKI09nMZ3SsiF2PJwfo7IFGCROFiJj4-vy-i-Jw"
       ],
       "local_media_path": null
     },
@@ -537,36 +1095,6 @@
       "local_media_path": null
     },
     {
-      "hash": "209e1fbf811f5eee",
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "link": "https://eyesrhythm.com/",
-      "summary": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel ...",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T21:47:47+00:00",
-      "published_epoch": 1794088067,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "5c48f5b7e0568e88",
-      "title": "اوکراین؛ حملات روسیه به منطقه کی‌یف و آسیب به زیرساخت‌ها",
-      "link": "https://parsi.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
-      "summary": "حملات روسیه به زیرساخت‌های منطقه کی‌یف آسیب زده و یک مهدکودک را در پایتخت اوکراین ویران کرده است. آتش‌نشانان با حریقی بزرگ جنگیدند، هم‌زمان با حملات تازه به شبکه انرژی اوکراین.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T21:46:36+00:00",
-      "published_epoch": 1794087996,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "294720d8a51840b0",
       "title": "US military says it disabled cargo vessel in Gulf of Oman - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5",
@@ -575,23 +1103,8 @@
       "source_name": "Reuters Wire",
       "source_name_fa": "خبرگزاری رویترز",
       "category": "wire",
-      "published_at": "2026-11-07T21:22:49+00:00",
-      "published_epoch": 1794086569,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "96d81d2f7e2a0d32",
-      "title": "Shadow of the Sun (2021)",
-      "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-      "summary": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ \n Comments URL: https://news.ycombinator.com/item?id=50408104 \n Points: 20 \n # Comments: 4",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T21:11:05+00:00",
-      "published_epoch": 1794085865,
+      "published_at": "2026-11-07T21:22:00+00:00",
+      "published_epoch": 1794086520,
       "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
@@ -612,38 +1125,6 @@
       "local_media_path": null
     },
     {
-      "hash": "70dc755d827882f1",
-      "title": "Show HN: Where Were We",
-      "link": "https://wherewerewe.app/",
-      "summary": "A little web game I made as an anniversary present for my wife. Upload vacation photos and make them into a game. WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. \n\n Comments URL: https://news.ycombinator.com/item?id=50408082 \n Points: 24 \n # Comments: 9",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T21:08:35+00:00",
-      "published_epoch": 1794085715,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "93fd76b7c3fa44a1",
-      "title": "ترامپ سمت سخنگوی کاخ سفید را به دینا وایت، رییس سازمان ورزش‌‌های رزمی UFC، پیشنهاد داد",
-      "link": "https://www.iranintl.com/202611072206",
-      "summary": "دونالد ترامپ، رییس‌جمهوری آمریکا، روز شنبه اعلام کرد که از دینا وایت، چهره سرشناس ورزش‌های رزمی ترکیبی، خواسته است سمت سخنگوی کاخ سفید را بر عهده بگیرد و تعدادی از مبارزان را نیز به‌عنوان دستیار همراه خود بیاورد؛ «هرچند برخی از آن‌ها اهل کشور ما نیستند».",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T21:02:41+00:00",
-      "published_epoch": 1794085361,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/32a390e7f3d5475154d177a1fb26e7b74393ac74-1920x1280.jpg?rect=0,138,1920,1005&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
       "hash": "167f5fc97ad80432",
       "title": "پست سنتکام، ترجمه ماشین:",
       "link": "https://t.me/VahidOnline/79031",
@@ -658,51 +1139,6 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/foSYF3X_qU38Ra_6vSDpoJMO6SCj-3CQDnFUd41vnrN5SGyDhZYaQg5GJAIaAaGqRIAno6tNIXxqvvemMic4Cdw-0PUjhnPkHBfx9_pBICmScd1fMhcErflX4FZzoUrlKxmo49CmnSQUh_sASo1vJljQHobph3N0eO8DD2bL1YgpbKH_90N4iP5ClxrMLxC4y048vsTFxpe3KMy25vo2FJesjarygRkI8ff2wR5cH5PvDwWFedROwGSiCICd5_l_RfaWXp85mKNdYSjrdymPIxNPrt9QwgldqxfTv1YTeGScVzNkNZ9L8ffKZwEnFsgazGf1bBfPgPSHMkKdQAJlbg"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "1b952e8ccf388d9f",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again \n Comments URL: https://news.ycombinator.com/item?id=50407882 \n Points: 184 \n # Comments: 126",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T20:45:32+00:00",
-      "published_epoch": 1794084332,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "11da7aa1b0864d0a",
-      "title": "Trump says he's asked UFC's Dana White to be his press secretary. No one will say if he's joking - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
-      "summary": "Trump says he's asked UFC's Dana White to be his press secretary. No one will say if he's joking    AP News",
-      "source_id": "ap_news_wire",
-      "source_name": "AP News Wire",
-      "source_name_fa": "اسوشیتد پرس",
-      "category": "wire",
-      "published_at": "2026-11-07T20:43:00+00:00",
-      "published_epoch": 1794084180,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "b7ce36ab32051be8",
-      "title": "Trump orders DOJ to look into Democrats for 'threatening' people - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjlwZUZkRUtqc0VreVlMdGlfcGF6bHZjMUp4TzkwLXJnRWROVENWc2VhNjE3SXhfd0pTbGZLTDJTYzZYdWdBMTFPYVZEczVic1VuQUtnWG9zT1ZhMVFueGp1M1lYLWVrNExtM3B5SFRBM1czYW9DcUVvbkVRcnVCRDBsQS1wWDVWdHpuVXhLdEx0eUtlUUNUUXkxc2U3dw?oc=5",
-      "summary": "Trump orders DOJ to look into Democrats for 'threatening' people    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-07T20:13:18+00:00",
-      "published_epoch": 1794082398,
-      "rtl": false,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -723,69 +1159,18 @@
       "local_media_path": null
     },
     {
-      "hash": "3ab7bbe09813fc6a",
-      "title": "امیرحسین زارع، بهترین آزادکار مسابقات جهانی ۲۰۲۶",
-      "link": "https://www.iranintl.com/202611077120",
-      "summary": "اتحادیه جهانی کشتی، عملکرد امیرحسین زارع در مسابقات قهرمانی جهان ۲۰۲۶ در آستانه را برترین عملکرد کشتی آزاد این رقابت‌ها معرفی کرد: «زارع در وزن ۱۲۵ کیلوگرم با چهار پیروزی و کسب ۴۲ امتیاز، بدون واگذاری حتی یک امتیاز، چهارمین طلای جهانی خود را به دست آورد.»",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T19:59:10+00:00",
-      "published_epoch": 1794081550,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/a917cc7aa6e531355f7c2f700fe957ca342db618-6000x4000.jpg?rect=0,423,6000,3140&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "4b32f27f8394cb37",
-      "title": "رییس‌جمهوری اسرائیل گادی آیزنکوت، رقیب نتانیاهو، را مامور تشکیل دولت جدید کرد",
-      "link": "https://www.iranintl.com/202611070584",
-      "summary": "اسحاق هرتزوگ، رییس‌جمهوری اسرائیل شامگاه شنبه ۱۶ آبان گادی آیزنکوت، سرسخت‌ترین رقیب بنیامین نتانیاهو، نخست‌وزیر این کشور، را مامور تلاش برای تشکیل دولت جدید کرد. این ماموریت یک‌شنبه به ‌طور رسمی به آیزنکوت ابلاغ خواهد شد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T19:57:41+00:00",
-      "published_epoch": 1794081461,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/c8fe9a38c235db9e829b79fa63cd6d3b98d6398b-800x534.jpg?rect=0,58,800,419&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "68df4f88899c2232",
-      "title": "ویدئو فرار مردم هنگام تیراندازی فرد مسلح در کراکوف لهستان را نشان می‌دهد",
-      "link": "https://parsi.euronews.com/video/2026/11/07/video-shows-people-fleeing-as-a-gunman-opens-fire-in-krakow-poland",
-      "summary": "تصاویر ارسالی کاربران نشان می‌دهد مردم هنگام تیراندازی مرگبار در کراکوف لهستان برای در امان ماندن می‌دوند؛ به گفته پلیس، دست‌کم شش نفر کشته و حدود دوازده نفر زخمی شده‌اند.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T19:30:20+00:00",
-      "published_epoch": 1794079820,
+      "hash": "797a9302c5e6f7d2",
+      "title": "We extend our sincere gratitude to the Frankfurt and Hesse Police for their professionalism and protection, which allowed Prince Reza Pahlavi to safely address tens of thousands of Iranians despite security threats. We are especially grateful for their close coor - X",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yWGVhOUF5TlRIT1pHVXpUSHNDeEphc1FaOXdNRW5yblFEbUVmdWhySUtYdnQ0cGYtbnppUVdDSnRIOUxIYnIxQUF3T0Y0Zjl3YmlxTkUyUVVIVHVSek5UZ08xNA?oc=5",
+      "summary": "We extend our sincere gratitude to the Frankfurt and Hesse Police for their professionalism and protection, which allowed Prince Reza Pahlavi to safely address tens of thousands of Iranians despite security threats. We are especially grateful for their close coor    X",
+      "source_id": "tw_PahlaviComms",
+      "source_name": "@PahlaviComms",
+      "source_name_fa": "@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)",
+      "category": "twitter",
+      "published_at": "2026-11-07T19:25:14+00:00",
+      "published_epoch": 1794079514,
       "rtl": true,
       "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "0789ebdd64c8404b",
-      "title": "ناتینگهام فارست ۳-۱ منچسترسیتی؛ تیم مارسکا بردن در لیگ برتر را فراموش کرده است",
-      "link": "https://www.iranintl.com/202611074743",
-      "summary": "منچسترسیتی در هفته دهم لیگ برتر انگلیس با نتیجه سه بر یک مقابل ناتینگهام فارست شکست خورد و سومین شکست پیاپی خود در این رقابت‌ها را تجربه کرد. با این نتیجه، سیتی همچنان با ۲۱ امتیاز در رده دوم جدول باقی ماند و فاصله‌اش با آرسنال صدرنشین به شش امتیاز رسید.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T19:28:06+00:00",
-      "published_epoch": 1794079686,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/318b3b0493169ca6b9fcba3071ffaf7dc2cda1b0-1823x2123.jpg?rect=0,298,1823,954&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
       "local_media_path": null
     },
     {
@@ -818,23 +1203,6 @@
       "published_epoch": 1794078841,
       "rtl": true,
       "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "ac9c8a1afd5973e4",
-      "title": "یاسر آسانی مدعی کمک‌داور شد: از داور بپرسید که به من چه گفت",
-      "link": "https://www.iranintl.com/202611075924",
-      "summary": "یاسر آسانی، ستاره استقلال در واکنش به ویدیوهایی که از حرکت توهین‌آمیز او خطاب به داور پربازدید شده است، با انتشار کامنتی نوشت: «می‌توانید از داور بپرسید که به من چه گفت. این اتفاق واقعا شرم‌آور است. دیگر حرفی برای گفتن ندارم. تنها چیزی که می‌توانم بگویم این است: احترام.»",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T19:12:57+00:00",
-      "published_epoch": 1794078777,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/58d4f65754b8cd9d74be5b393af712704e53406b-2048x1365.jpg?rect=0,147,2048,1072&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
       "local_media_path": null
     },
     {
@@ -921,23 +1289,6 @@
       "local_media_path": null
     },
     {
-      "hash": "192862cf572261de",
-      "title": "شکایت ملوان از تراکتور به دلیل شعارهای نژادپرستانه",
-      "link": "https://www.iranintl.com/202611074011",
-      "summary": "باشگاه ملوان بندرانزلی با استناد به ماده ۱۵ مقررات انضباطی فیفا، از تراکتور به دلیل شعارهای نژادپرستانه در دیدار با خیبر خرم‌آباد در استادیوم سهند تبریز شکایت کرد و خواستار رسیدگی انضباطی و بررسی کسر امتیاز از این تیم شد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T18:43:55+00:00",
-      "published_epoch": 1794077035,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/7867f0353638fddd63bf0f412034df38c60e24aa-1080x1350.png?rect=0,253,1080,565&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
       "hash": "664a379aec46d7e5",
       "title": "🚀 با ابزارهای هوش مصنوعی، چند قدم جلوتر از بقیه باش!",
       "link": "https://t.me/Linuxor/5980",
@@ -955,95 +1306,16 @@
       "local_media_path": null
     },
     {
-      "hash": "93bb467211f88e80",
-      "title": "زلنسکی: روسیه با موشک‌های کره شمالی به تاسیسات انرژی اوکراین حمله کرد",
-      "link": "https://parsi.euronews.com/2026/11/07/russia-fires-north-korean-missiles-at-key-ukrainian-energy-facility-zelenskyy",
-      "summary": "ولودیمیر زلنسکی، رئیس‌جمهوری اوکراین، اعلام کرد روسیه در حملات گسترده شبانه به زیرساخت‌های انرژی این کشور از موشک‌های بالستیک ساخت کره شمالی استفاده کرده است. این حملات که تنها چهار موشک از ۳۶ موشک شلیک‌شده در آن رهگیری شد، اختلال گسترده‌ای در تامین برق، آب و گرمایش کی‌یف ایجاد کرده است.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T18:24:13+00:00",
-      "published_epoch": 1794075853,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "75414c40661bb356",
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "link": "https://blog.bosscher.ch/posts/openstick/",
-      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ \n Comments URL: https://news.ycombinator.com/item?id=50406670 \n Points: 339 \n # Comments: 83",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T18:12:12+00:00",
-      "published_epoch": 1794075132,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "d4fb7ab9194d4e86",
-      "title": "رییس سازمان فوتبال استقلال درباره حرکت جنجالی آسانی: به هر حال یاسر هم یک انسان است",
-      "link": "https://www.iranintl.com/202611074654",
-      "summary": "سعید فتاحی، رئیس سازمان فوتبال باشگاه استقلال تهران پس از بازی با استقلال خوزستان درباره اخراج یاسر آسانی در دقایق پایانی مسابقه با حرکت جنجالی گفت: «به هر حال آسانی هم یک انسان و فوتبالیست است و این حجم از فشارها جایی خودش را نشان می‌دهد و بازیکن دیگر نمی‌تواند آن را تحمل کند.»",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T18:04:10+00:00",
-      "published_epoch": 1794074650,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/7e5d5042c77f427569d8d82f7c03c6ce20915aab-2048x1365.jpg?rect=0,219,1946,1018&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "2a546c1ef6811c76",
-      "title": "نتانیاهو: دولت وحدت ملی تهدید هسته‌ای جمهوری اسلامی را برای همیشه از میان می‌برد",
-      "link": "https://www.iranintl.com/202611070681",
-      "summary": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، شنبه ۱۶ آبان در پیامی ویدیویی با هشدار درباره تشکیل دولتی متکی به حمایت احزاب عرب، خواستار تشکیل دولت وحدت ملی با مشارکت همه احزاب «اردوگاه ملی» و احزاب صهیونیستی شد و گفت چنین دولتی تهدید هسته‌ای جمهوری اسلامی را برای همیشه از میان خواهد برد.",
-      "source_id": "iran_intl",
-      "source_name": "Iran International",
-      "source_name_fa": "ایران اینترنشنال",
-      "category": "persian",
-      "published_at": "2026-11-07T18:03:34+00:00",
-      "published_epoch": 1794074614,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://i.iranintl.com/images/rdk9umy0/production/9d6dd348cae13172b56727bc70e716715901497d-3788x2525.jpg?rect=0,272,3788,1982&w=1200&h=628&fm=jpg&q=85&fit=max&auto=format"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "c0caf17611be2173",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "link": "https://hunch.net/?p=13764006",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... \n\n Comments URL: https://news.ycombinator.com/item?id=50406563 \n Points: 389 \n # Comments: 226",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "source_name_fa": "هکر نیوز (تکنولوژی و امنیت)",
-      "category": "tech",
-      "published_at": "2026-11-07T18:02:17+00:00",
-      "published_epoch": 1794074537,
-      "rtl": false,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "7e9f6ac53b7544fc",
-      "title": "مجله خبری| ۱۶ آبان ۱۴۰۵ (۷ نوامبر ۲۰۲۶) - شامگاهی",
-      "link": "https://parsi.euronews.com/video/2026/11/07/mglh-khbri-aban-noambr-shamgahi",
-      "summary": "آخرین تحولات اروپا و جهان را دنبال کنید ۱۶ آبان ۱۴۰۵ (۷ نوامبر ۲۰۲۶). با یورونیوز در جریان آخرین اخبار و رویدادهای سیاسی، اقتصادی، فرهنگی و سرگرمی قرار بگیرید.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T17:00:30+00:00",
-      "published_epoch": 1794070830,
+      "hash": "09ae4de30fa3e2a9",
+      "title": "Today, at Frankfurt’s historic Paulskirche, their courage, sacrifice, and unwavering determination to be free were honored. Prince Reza Pahlavi accepted the prize in trust and on their behalf, until it can be presented to Iran’s freely elected representatives. This r - X",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JU2xNbldNX3lvM0lJekotWW9BUDlqaXVlSnk0dmdZSXlWbnRJdXJSWWtDdG5TU2Zob050eFQ3UFdHN0dKSnpHU0trVnNtanBBVm9pVGV2V3JDVlRxZU84Vm9fVQ?oc=5",
+      "summary": "Today, at Frankfurt’s historic Paulskirche, their courage, sacrifice, and unwavering determination to be free were honored. Prince Reza Pahlavi accepted the prize in trust and on their behalf, until it can be presented to Iran’s freely elected representatives. This r    X",
+      "source_id": "tw_PahlaviComms",
+      "source_name": "@PahlaviComms",
+      "source_name_fa": "@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)",
+      "category": "twitter",
+      "published_at": "2026-11-07T17:36:50+00:00",
+      "published_epoch": 1794073010,
       "rtl": true,
       "raw_media_urls": [],
       "local_media_path": null
@@ -1066,21 +1338,6 @@
       "local_media_path": null
     },
     {
-      "hash": "672fa5353a09c5fc",
-      "title": "اعتراضات در فرانسه برای چهارمین شنبه ادامه یافت؛ شمار معترضان کاهش یافت",
-      "link": "https://parsi.euronews.com/2026/11/07/france-protests-november-2026-turnout-drops-cost-of-living",
-      "summary": "در چهارمین شنبه متوالی اعتراضات در فرانسه، هزاران نفر بار دیگر علیه گرانی و کاهش قدرت خرید به خیابان‌ها آمدند. وزارت کشور فرانسه از کاهش چشمگیر شمار معترضان خبر داد.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T16:45:19+00:00",
-      "published_epoch": 1794069919,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "7fea23c3486d4cd2",
       "title": "لیکویید گلس 27 برای وب، به‌صورت کامپوننت‌های React.",
       "link": "https://t.me/Linuxor/5979",
@@ -1099,7 +1356,7 @@
     },
     {
       "hash": "cdb93eeddef284f5",
-      "title": "بارش باران و برف در مناطق مختلف ایران شدت گرفت؛ ۷۰ تا ۸۰ درصد بیشتر از مدت مشابه پارسال",
+      "title": "بارش‌ها در مناطق مختلف ایران شدت گرفت؛ ۷۰ تا ۸۰ درصد بیشتر از مدت مشابه پارسال",
       "link": "https://www.radiofarda.com/a/iran-heavy-rain-snowfall-autumn-drought-2026/33892948.html",
       "summary": "بر اساس تازه‌ترین آمار سازمان هواشناسی تا ۱۴ آبان، میانگین بارندگی کشور ۱۱.۴ میلی‌متر بوده که همچنان ۱۹ درصد کمتر از میانگین بلندمدت است.",
       "source_id": "radio_farda",
@@ -1130,38 +1387,6 @@
       "local_media_path": null
     },
     {
-      "hash": "40248951f3926a90",
-      "title": "سازمان ملل متحد می‌گوید که انتظار می‌رود تا پایان امسال «۷۰۰ مرکز درمانی» در افغانستان بسته شود",
-      "link": "https://www.bbc.com/persian/articles/c9e8l5xx3jdgo?at_medium=RSS&at_campaign=rss",
-      "summary": "رونو لمارکی، معاون نماینده ویژه ملل متحد در افغانستان، می‌گوید که با کاهش کمک‌های بشردوستانه در یک سال اخیر انتظار می‌رود تا «۷۰۰ مرکز صحی» تا پایان سال ۲۰۲۶ در این کشور تعطیل شوند. به باور او بسته شدن این مراکز منجر به فروپاشی خدمات صحی و درمانی در این کشور می‌شوند.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T16:18:30+00:00",
-      "published_epoch": 1794068310,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a04/live/1ccf61f0-daa8-11f1-93e1-3b657b665bcf.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "2f30c1fa68e22562",
-      "title": "پلیس لهستان: دست‌کم پنج نفر در تیراندازی در شهر کراکوف کشته شدند",
-      "link": "https://parsi.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say-people-are-passing-through-t",
-      "summary": "به گفته شهرداری کراکوف، تیراندازی در میدان اصلی این شهر رخ داده است. سخنگوی آتش‌نشانی محلی به شبکه خبری پولست نیوز گفت که عامل تیراندازی از داخل یک خودروی در حال حرکت اقدام به شلیک کرده است",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T16:15:45+00:00",
-      "published_epoch": 1794068145,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "670a57870d8d3a2f",
       "title": "رئیس‌ جمهور پاراگوئه برکنار و بازداشت خانگی شد",
       "link": "https://www.dw.com/fa-ir/رئیس‌-جمهور-پاراگوئه-برکنار-و-بازداشت-خانگی-شد/a-79886079?maca=per-rss-per-all-1491-xml-mrss",
@@ -1173,36 +1398,6 @@
       "published_at": "2026-11-07T15:42:00+00:00",
       "published_epoch": 1794066120,
       "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "f2710b829eb5051b",
-      "title": "Iranian gathering in Frankfurt, Germany, in support of @FNFreiheit awarding the 2026 Freedom Award to Prince Reza Pahlavi. - X",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kcXYwLU9pSG9EZjAwMjl4TjhlNGJyTldYNHFtbjNLLXNHdXZYTnBiaklyU3dhRVlkd3ZZVndYOWRzdUhGa04weVN0cWlTdUlOMXVTNVN5TnBwbkFpVFhmX0RPbw?oc=5",
-      "summary": "Iranian gathering in Frankfurt, Germany, in support of @FNFreiheit awarding the 2026 Freedom Award to Prince Reza Pahlavi.    X",
-      "source_id": "tw_PahlaviComms",
-      "source_name": "@PahlaviComms",
-      "source_name_fa": "@PahlaviComms (دفتر رسانه‌ای رضا پهلوی)",
-      "category": "twitter",
-      "published_at": "2026-11-07T15:11:56+00:00",
-      "published_epoch": 1794064316,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "8d65565f240f566b",
-      "title": "Poland in shock after six die in Krakow mass shooting - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-      "summary": "Poland in shock after six die in Krakow mass shooting    Reuters",
-      "source_id": "reuters_wire",
-      "source_name": "Reuters Wire",
-      "source_name_fa": "خبرگزاری رویترز",
-      "category": "wire",
-      "published_at": "2026-11-07T15:08:00+00:00",
-      "published_epoch": 1794064080,
-      "rtl": false,
       "raw_media_urls": [],
       "local_media_path": null
     },
@@ -1221,21 +1416,6 @@
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/c_O5LvkkP1ICAG6L1ggQ-FV7lbyT6wHfuQPk_0xYYHcRytrhlElbFlRmTBVCQoiP5s4XDlDQylCXKezumvtoZNZSqQaf5uWjS2afOc8nEaQb8bcRAm_H1vIAptnewMGvuPnoDvwo78-lex0rTorXKTlLq25iMWtA5ByEMCt_oDqttCoqenZcbxFN5yHCafVeFh4FXa9PPhjT0b_oBOuJqIJNUCXnLkKQSox1ka8QJ_pBeA8XfLrPmQ-AHyhR26MU5tNs1_8MqzeLlzc6MSeMnualzrddvxWKoZvjccKa4sMGwfPP27elGicUHflz9F5GPbrqvNOpB5JbVR55fXsh_g"
       ],
-      "local_media_path": null
-    },
-    {
-      "hash": "a49225e2b73f11b1",
-      "title": "«دروازه آهنین»؛ آمریکا پس از محاصره دریایی ایران، مرزهای زمینی و دریای خزر را هم هدف می‌گیرد",
-      "link": "https://parsi.euronews.com/2026/11/07/us-iran-land-trade-caspian-sea-blockade",
-      "summary": "ارتش آمریکا در حال تشکیل کارگروهی تازه برای محدود کردن انتقال تسلیحات پیشرفته و کالاهای تحریم‌شده ایران از مسیر مرزهای زمینی و دریای خزر است؛ اقدامی که نشان می‌دهد واشنگتن در کنار محاصره دریایی چندماهه، مسیرهای جایگزین تجارت و جابه‌جایی محموله‌ها را نیز زیر نظر گرفته است.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T14:47:07+00:00",
-      "published_epoch": 1794062827,
-      "rtl": true,
-      "raw_media_urls": [],
       "local_media_path": null
     },
     {
@@ -1273,21 +1453,6 @@
       "local_media_path": null
     },
     {
-      "hash": "9176f4bb05c77b0e",
-      "title": "اسپانیا: جسد نوزادی در فریزر پیدا شد که ممکن است بیش از ۲۰ سال در آنجا بوده باشد",
-      "link": "https://parsi.euronews.com/2026/11/07/spain-babys-body-found-in-freezer-in-ourense-may-have-been-there-over-20-years",
-      "summary": "جسد یک نوزاد تازه‌متولدشده در یک فریزر صندوقی در انباری ساختمانی در شهر آیاریتس، واقع در استان اورنسه اسپانیا، کشف شده است. به گزارش روزنامه محلی «لا رخیون»، ممکن است این جسد بیش از ۲۰ سال در فریزر بوده باشد.",
-      "source_id": "euronews_persian",
-      "source_name": "Euronews Persian",
-      "source_name_fa": "یورونیوز فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T14:27:36+00:00",
-      "published_epoch": 1794061656,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
       "hash": "f2f0c4feb3a8bb0d",
       "title": "\"سنتکام کارگروهی برای مختل کردن مسیرهای ترانزیت زمینی ایران در حمایت از محموله‌های غیرقانونی تشکیل می‌دهد\"",
       "link": "https://t.me/VahidOnline/79026",
@@ -1318,38 +1483,6 @@
       "rtl": true,
       "raw_media_urls": [
         "https://cdn1.telesco.pe/file/o4u2m62Jj7eBWn5KTl952eVNlwGrqhOSDGra5A-UrnjTvMizV8XsR_0U__U-eIws5KwRAZNuUL4JtrOFlY6XlwfSUW8XvcNjRDyUMFlTmYJqAVbNSVwLWMJebeEv8YiZL9kKltHzJg8YJyHf5avkpHeT1PjuwibsdbHOknmifXVKtxff0cfGVfmn6-roiN4Jimmh_8s3zzNRYUYcxAmrErZJgzI4Wc0frHwyeZ0aAyYjqi99gfOLFz6slDHQWb_03oS8dhL7gLx4WUYH2oPKRQcVtZV7z0uCiO9QhN2JjrBOaH9udKF6AykhnTeWmDL15KH6RLbK68L3RV95emUQGA"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "f6e3b5fc812e0bcc",
-      "title": "آلمان در جست‌وجوی سرباز؛ از کمبود نیرو تا مطالبات زنان",
-      "link": "https://www.dw.com/fa-ir/آلمان-در-جست‌وجوی-سرباز؛-از-کمبود-نیرو-تا-مطالبات-زنان/a-79885179?maca=per-rss-per-all-1491-xml-mrss",
-      "summary": "وزارت دفاع آلمان می‌خواهد شمار سربازان خود را افزایش دهد و زنان بیشتری را جذب ارتش کند. اما آمار آزار جنسی در ارتش و انتقادهای فزاینده نشان می‌دهند که راه رسیدن به این هدف چندان هموار نیست.",
-      "source_id": "dw_persian",
-      "source_name": "DW Persian",
-      "source_name_fa": "دویچه‌وله فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T13:42:00+00:00",
-      "published_epoch": 1794058920,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "e09c057f43efec76",
-      "title": "شش نامزد ایرانی تبار در انتخابات آمریکا؛ چهار پیروز، یک شکست و یک رقابت ناتمام",
-      "link": "https://www.bbc.com/persian/articles/c6kgl724dje0o?at_medium=RSS&at_campaign=rss",
-      "summary": "در انتخابات میان‌دوره‌ای سوم نوامبر آمریکا، شش نامزد ایرانی تبار برای ورود یا ادامه فعالیت در کنگره و مجالس قانونگذاری ایالتی رقابت کردند. سه نفر از آنها نامزد مجلس نمایندگان فدرال و سه نفر نامزد مجالس ایالتی بودند.",
-      "source_id": "bbc_persian",
-      "source_name": "BBC Persian",
-      "source_name_fa": "بی‌بی‌سی فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T13:39:57+00:00",
-      "published_epoch": 1794058797,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9792/live/062628f0-daa1-11f1-a523-f508a3e924cb.png"
       ],
       "local_media_path": null
     },
@@ -1494,121 +1627,6 @@
       "published_epoch": 1794052891,
       "rtl": true,
       "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "ebff44f8e3b8ab4b",
-      "title": "سرورهای (کانفیگ های ) عمومی جدید ⭕️ برای استفاده در برنامه های whitedns ! 🆕",
-      "link": "https://t.me/whitedns/2247",
-      "summary": "سرورهای (کانفیگ های ) عمومی جدید ⭕️ برای استفاده در برنامه های whitedns ! 🆕 \n\n 2 روزه برای تست و آشنایی با برنامه whitedns ⚠️ \n\n 📥 دانلود نسخهٔ اندروید \n 📥 دانلود نسخهٔ دسکتاپ \n\n راهنمای واردکردن کانفیگ و اتصال WhiteDNS \n\n برنامه whitedns برای زمان اختلال های شدید و یا قطغی های گسترده طراحی شده و به شما تجربه برنامه هایی مثل whitevpn یا whiteaesther را نخواهد داد \n\n 🔥 WhtieDNS Temp server \n\nسرور عمومی SOAR \n\n soar://eyJwcm9maWxlIjp7ImlkIjoiZTBjNTNjOTc0MDkyMTU0NjUyZmJjZjVjMmE1NDVkZDYiLCJuYW1lIjoiVGVtcCIsInJlc29sdmVycyI6WyIxLjEuMS4xIiwiOC44LjguOCJdLCJzZXJ2ZXIiOnsiZG9tYWluIjoiNGRjdHpmMmFzaWt1bXV4M3o1b2N1di5zb2FyLndoaXRlZG5zLmRvd25sb2FkIiwicHVibGljX2tleSI6IjJYNE5CeWV6cGxteGM1NHpBcmk5UXFyZDhxMStOalljb0REMWlnMFczSlU9In0sInNvYXJTZXR0aW5ncyI6eyJ0cmFuc3BvcnQiOiJhdXRvIiwiZGlzY292ZXJ5Ijp0cnVlLCJkaXNjb3ZlcnlXYW50IjoyLCJkaXNjb3ZlcnlDb25jdXJyZW5jeSI6MiwiZGlzY292ZXJ5UGFjZU1zIjoxMDAwLCJzYWZlUU5hbWUiOjEwMSwibWF4UU5hbWUiOjI1MywibWF4QW5zd2VyIjoxMjMyLCJob2xkTXMiOjUwMCwibWF4SW5mbGlnaHQiOjEyOCwibWF4UGF0aFdpbmRvdyI6MzIsIm1heFN0cmVhbXMiOjEyOCwic3RyZWFtV2luZG93S2lCIjoyNTYsInNlbmRCdWZmZXJLaUIiOjY0LCJzZXNzaW9uSWRsZVNlY29uZHMiOjkwLCJkaWFsVGltZW91dFNlY29uZHMiOjkwLCJjb3VudHJ5IjoiSVIifX0sInNjaGVtYSI6IndoaXRlZG5zLnByb2ZpbGUiLCJ2ZXJzaW9uIjoxfQ \n\nسرور عمومی CottenDNS \n\n cottendns://eyJwcm9maWxlIjp7ImVuZ2luZSI6ImNvdHRlbmRucyIsImlkIjoiZTBjNTNjOTc0MDkyMTU0NjUyZmJjZjVjMmE1NDVkZDY6Y290dGVuIiwibmFtZSI6IlRlbXAgwrcgQ290dGVuIiwicmVzb2x2ZXJzIjpbIjEuMS4xLjEiLCI4LjguOC44Il0sInNlcnZlciI6eyJkb21haW4iOiJjb3QuNGRjdHpmMmFzaWt1bXV4M3o1b2N1di5zb2FyLndoaXRlZG5zLmRvd25sb2FkIiwiZW5jcnlwdGlvbl9rZXkiOiIzZGQ5ZmQyYmYwOWI3NzgxZTg5NjM4NWQ0NDQzNzZhMmY3Y2EzMzhiMDkzODNmMmZlZmEwZjQyYWJhMzU1YTBmIiwiZW5jcnlwdGlvbl9tZXRob2QiOjV9fSwic2NoZW1hIjoid2hpdGVkbnMucHJvZmlsZSIsInZlcnNpb24iOjF9 \n\nسرور عمومی masterdns\n\n masterdns://eyJwcm9maWxlIjp7ImVuZ2luZSI6Im1hc3RlcmRucyIsImlkIjoiZTBjNTNjOTc0MDkyMTU0NjUyZmJjZjVjMmE1NDVkZDY6bWFzdGVyZG5zIiwibmFtZSI6IlRlbXAgwrcgTWFzdGVyRE5TIiwic2VydmVyIjp7ImRvbWFpbiI6Im1kbnMtMS40ZGN0emYyYXNpa3VtdXgzejVvY3V2LnNvYXIud2hpdGVkbnMuZG93bmxvYWQiLCJlbmNyeXB0aW9uX2tleSI6ImEzNzE1M2Q1NWIyOTU1NTZkMjkyMWQwNDJiYWI3OTFjMzY3Y2IxNDdjZDI2MzRkODFmYjExNjZhNmY3YTZiNmMiLCJlbmNyeXB0aW9uX21ldGhvZCI6NX19LCJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MX0 \n\n @whitedns \n\n----------\n #کانفیگ #CottenDNS #Soar #Servers \n\n وب‌سایت WhiteDNS",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-11-07T11:35:41+00:00",
-      "published_epoch": 1794051341,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn5.telesco.pe/file/rysvD2gjj_g_tfdvRZc9H2QhpBXBkE_2c3q0yJDgUU1TxmKIvYt8Yiqq1WsdJGj8ijgZmoG1sNPUrUnDn6rqnGIT1zbNEw62hB9jP-bF7aIagV2z75nZGyrmkh7i88CgSDPTyS5YhlF9Bpuwg9m4LzuGqq-YT56k0F5Lg6Ipux0INHsvecTrmEOshhJI90yHLTUE17HWenMhNaK4UhrnCIQsfeYnMNuflgRqnXDMw9NjYhzZvynOB5QCa8IVHzd2LS06AEtInCssH0ERYDDGvYq6Q4EkN_tCFySSZPvgfzqV9fxC0XVP-Qq_9myiSBDO8bDy5FryZXHEVUvsELWkCQ.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "a9454d2a207e65b1",
-      "title": "دونالد ترامپ، استیون میلر را به عنوان رئیس دفتر خود منصوب کرد",
-      "link": "https://www.dw.com/fa-ir/دونالد-ترامپ،-استیون-میلر-را-به-عنوان-رئیس-دفتر-خود-منصوب-کرد/a-79884008?maca=per-rss-per-all-1491-xml-mrss",
-      "summary": "رئیس جمهور آمریکا استیون میلر را به عنوان رئیس دفتر کاخ سفید منصوب کرد. میلر یکی از حامیان جنگ ۱۲روزه علیه جمهوری اسلامی ایران بود. ناظران معتقدند، ترامپ با این انتصاب نشان داد که قصد تجدیدنظر در سیاست‌هایش را ندارد.",
-      "source_id": "dw_persian",
-      "source_name": "DW Persian",
-      "source_name_fa": "دویچه‌وله فارسی",
-      "category": "persian",
-      "published_at": "2026-11-07T10:20:00+00:00",
-      "published_epoch": 1794046800,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "43a81582a3a04a55",
-      "title": "یه نسخه از Jev که وقتی شک داره از Opus کمک می‌گیره، همون دقت Opus رو با ۴ برابر هزینه کمتر می‌ده",
-      "link": "https://t.me/MatinSenPaii/5807",
-      "summary": "یه نسخه از Jev که وقتی شک داره از Opus کمک می‌گیره، همون دقت Opus رو با ۴ برابر هزینه کمتر می‌ده \n\nبلاگ Hightouch می‌گه تیمشون یه تست جالب کرده: مدل تصمیم‌گیر Jev(همونی که تصمیم صفر و یک میگیره و اینجا راجبش صحبت کردم https://youtu.be/l-o_fQM_9AI ) رو گذاشتن جلو تا قضاوت کنه کدوم رکوردها واقعا مال یه آدمن و کدوم‌ها اشتباهی قاطی شدن.\n\nخود Jev به تنهایی، دقتش ۹۵٫۶٪ بود و از هر هزار تا قضاوت فقط ۰٫۰۵ دلار خرج داشت؛ Opus تنهایی ۹۹٪ دقیق بود ولی ۳٫۸۶ دلار هزینه داشت واسه این هزارتا و طبیعتا سرعت خیلیییی پایینتر.\n\nحالا وقتی Jev فقط همون‌هایی که اطمینانش بین ۳۰ تا ۹۰٪ بود رو فرستاد دست Opus، دقت رسید به ۹۸٫۸٪ با ۰٫۸۸ دلار؛ و خیلی سریعتر. یعنی تقریبا دقت Opus با بیش از ۴ برابر هزینه کمتر.\n\nروی یه تست سخت‌تر هم همین ترکیب ۹۵٫۳٪ شد و از خود Opus با ۹۵٫۱٪ یه ذره جلو زد. خلاصه‌اش اینه که مدل ارزون وقتی بلده بگه نمی‌دونم، لازم نیست همه چی رو بسپرید دست مدل گرون.\n\n 🔗 منبع \n ✉️ t.me/MatinSenPaii",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
-      "category": "telegram",
-      "published_at": "2026-11-07T09:47:02+00:00",
-      "published_epoch": 1794044822,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn1.telesco.pe/file/EWXZxMxCHBhNLm4lsBl4BvfNcLprL0rs7cyyUc6s4Wl1L1IF0tw5FHCt575KlJesH8xN1OuUWbAAH7AUp4wmpEoZaMy0C6_DyyKt91vfKs4OphGR6r6c69u3ThYssKCZw40Hmqnv2frRHGUNYz0X6OgBSXsvqFgOMAq58HvDA5z1kYQFjcL-n9WM3or4hCJSQnY5EZG7jmQbLylqsAk2No-hx7mXQ7NE0s5H-XdmYqADiEdKYYgcqE7-LjrjNgjU6UdIoPMf-0WTvWD-ixTHYyIEriCBgnZxMOVc9Lg1SGsJ63x4W8Kiu2TnlsChxD3pRNiiDuzty4i-TAQ2np9lnw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "481c8ddd577d4a81",
-      "title": "🔸 رستم مدیا، حالا با پشتیبانی گسترده‌تر از لینوکس!",
-      "link": "https://t.me/Rostamchannel/8537",
-      "summary": "🔸 رستم مدیا، حالا با پشتیبانی گسترده‌تر از لینوکس! \n\nبا انتشار دو بسته جدید RPM و Flatpak ، کاربران توزیع‌های بیشتری از لینوکس می‌توانند از نرم‌افزار استخراج و بازیابی فایل‌های ضبط‌شده ماهواره‌ای رستم مدیا استفاده کنند.\n\n ویژگی‌های نرم‌افزار: \n\n ✅ استخراج آفلاین فایل‌های ضبط‌شده ماهواره‌ای\n ✅ پشتیبانی از ماهواره‌های Yahsat و فرکانس‌های مختلف\n ✅ امکان انتخاب چند فایل و استخراج محتوای آن‌ها\n ✅ رابط کاربری ساده و فارسی\n ✅ سازگاری با توزیع‌های مختلف لینوکس\n\n روش‌های دریافت و دانلود: \n\n۱. دانلود مستقیم بسته‌های جدید RPM یا Flatpak از وب‌سایت rostam.media \n۲. اسکن کد QR موجود در تصویر\n۳. ارسال ایمیل به begir@rostam.media\n\n 👨‍💻 تیم پشتیبانی رستم‌مدیا آماده پاسخ‌گویی به سوالات شماست.\n\n @rostamsupport",
-      "source_id": "tg_Rostamchannel",
-      "source_name": "@Rostamchannel",
-      "source_name_fa": "@Rostamchannel (کانال رستم (دور زدن فیلترینگ))",
-      "category": "telegram",
-      "published_at": "2026-11-07T09:25:04+00:00",
-      "published_epoch": 1794043504,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn5.telesco.pe/file/IBhvqAxSCbR3xMi9SeQrMC4NGzXs8Vf1EPcYVZGwA2d0Mj5oSvY0i_PqvKw9Krx4zI6pDup4YaXIARcHQIocQ1o2Phj0VOTQZLNWR8ILQm9zZ1HIDL_JNXRKrfIY57RFDIcAUdG4qeidDllwpjT5WesGmfsB5coM-i5EYKDc_-1nWWPhbcyoOjHWYXSEoWq6WJVpbq8Rf9sjESjnsXRGMYn6tcRdsTxq3s2W3Kh4hGIpUfBfw-GnO3U6CSyR9q5h_bUGLI9t_qFBlvAdB4KJ3DmGK-RRaxq4m1jMk526uWhau6OryWzyoBCuckaFxNfjqs_wOKCqE-X24u1cDSZaSw.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "4e26969df93480c4",
-      "title": "مدل Ling-3.2-flash حالا عکس و ویدئو رو هم مستقیم می‌فهمه",
-      "link": "https://t.me/MatinSenPaii/5806",
-      "summary": "مدل Ling-3.2-flash حالا عکس و ویدئو رو هم مستقیم می‌فهمه \n\nتوی r/LLMDevs میگن داک API شرکت Ant Ling حالا Ling-3.2-flash رو با ورودی native عکس و ویدئو لیست کرده، هم با API سازگار با OpenAI و هم سازگار با Anthropic. مشخصاتش: ۵۶۰ میلیارد پارامتر در کل، ۲۵ میلیارد فعال، پنجره کانتکست ۱ میلیون توکن؛ و راهنمای اتصال به کلاد کد و Kilo Code هم براش منتشر شده.\n\n 🔗 منبع \n ✉️ t.me/MatinSenPaii",
-      "source_id": "tg_MatinSenPaii",
-      "source_name": "@MatinSenPaii",
-      "source_name_fa": "@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))",
-      "category": "telegram",
-      "published_at": "2026-11-07T08:33:01+00:00",
-      "published_epoch": 1794040381,
-      "rtl": true,
-      "raw_media_urls": [],
-      "local_media_path": null
-    },
-    {
-      "hash": "fa46591b57cad273",
-      "title": "ویدیو جدید رسییددد 😌",
-      "link": "https://t.me/whitedns/2246",
-      "summary": "ویدیو جدید رسییددد 😌 \n\nتوی این آموزش پنل Nightline رو روی Railway دیپلوی می‌کنیم، کانفیگ V2Ray می‌سازیم و با اسکن IPهای Railway، روش‌های مختلف اتصال رو تست می‌کنیم! 💘 \n\n 👇 آموزش کامل راه‌اندازی پنل رو ببین:\n 🎬 https://youtu.be/FK9mc_jjmIA \n\n 👥 گروه تلگرام Nightline:\n https://t.me/+CzY2mRiwWldkZWQ0 \n\n·:¨༺ @BlueKnight_Net ༻¨:·",
-      "source_id": "tg_whitedns",
-      "source_name": "@whitedns",
-      "source_name_fa": "@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))",
-      "category": "telegram",
-      "published_at": "2026-11-07T08:11:00+00:00",
-      "published_epoch": 1794039060,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://cdn4.telesco.pe/file/j0XRpM0f1sSHVq7Q4ujpD1s0vLrLdXcRyf8BKIKJUn5LvBMY6bVidreELa2jU6iSv6vs03iyxP5hYtzOAUT6pF7mARQ_15v_nZO6KquiNcBVZwh8jaEIcm-ops5DPro-BEJn7g0UlwQCL-TzN9YxqiMWDr_ItMtf2ql3SO_xag7FIz-NnxGhvBA2Y0nsjPcZN5l62aYpkNNLkVWSv4g4ymKXMEQFy9c1rH1rHTk1vn1ZacysEXTVZu_vOMjblyqt67FAkEs4gX6r7WIN3usUjZTXjzQU_WBCww2clF9FVYkU_mPxF2ltLt60bZwuEZmvSU8PFHZOpASQKdYgE5aQXg.jpg"
-      ],
-      "local_media_path": null
-    },
-    {
-      "hash": "9fcc759f1103b8e5",
-      "title": "سوریه اعزام نیروی نظامی به یمن را رد کرد؛ تداوم درگیری‌ها و حملات مرگبار در یمن",
-      "link": "https://www.radiofarda.com/a/yemen-houthi-updates/33892790.html",
-      "summary": "در حالی که درگیری‌ها میان عربستان سعودی و حوثی‌های مورد حمایت ایران شدت گرفته، منابع آگاه از اعزام شماری از نیروهای نظامی سوریه به عربستان برای ارائه مشاوره و آموزش خبر داده‌اند.",
-      "source_id": "radio_farda",
-      "source_name": "Radio Farda",
-      "source_name_fa": "رادیو فردا",
-      "category": "persian",
-      "published_at": "2026-11-07T07:19:34+00:00",
-      "published_epoch": 1794035974,
-      "rtl": true,
-      "raw_media_urls": [
-        "https://gdb.rferl.org/2935e678-a680-41a4-d64a-08dd3bb47256_w800_h450.jpg"
-      ],
       "local_media_path": null
     }
   ]
