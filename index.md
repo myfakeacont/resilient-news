@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-11-10 06:49 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-11-10 15:50 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,75 +13,62 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [ترامپ: از سرگیری حملات به ایران بسیار بعید است](https://www.bbc.co.uk/persian/live/cmx2d20qnl88t?at_medium=RSS&at_campaign=rss) — `06:49 IRST` / `03:19 UTC`
+- **`بی‌بی‌سی فارسی`** [ترامپ: از سرگیری حملات به ایران بسیار بعید است](https://www.bbc.co.uk/persian/live/cmx2d20qnl88t?at_medium=RSS&at_campaign=rss) — `15:50 IRST` / `12:20 UTC`
   > دونالد ترامپ گفته است که از سرگیری حملات ایالات متحده علیه ایران «بسیار بعید و غیرضروری» است. آقای ترامپ پس از شکست سنگین حزبش در انتخابات میان‌دوره‌ای در کاخ سفید گفت که ایران «از نظر نظامی عملاً از پا درآمده است» و روندی مثبت به سوی دستیابی به توافقی برای پایان دادن به جنگ ش...
+- **`یورونیوز فارسی`** [تصادف زنجیره‌ای در بزرگراهی در بلغارستان؛ دست‌کم ۱۰ قربانی در برخورد بیش از ۵۰ خودرو](https://parsi.euronews.com/2026/11/10/at-least-10-victims-in-bulgarian-motorway-pile-up-involving-more-than-50-vehicles) — `15:48 IRST` / `12:18 UTC`
+  > تصاویر پهپادی خودروهایی را نشان می‌دهند که در مه غلیظ، در نزدیکی شهر یامبول بلغارستان، میان کامیون‌ها له شده‌اند. در پی این حادثه که بیش از ۵۰ وسیله نقلیه در آن درگیر شدند، بزرگراه در هر دو جهت مسدود شده است.
+- **`@MatinSenPaii (متین سنپای (شبکه و فیلترشکن))`** [مدل Fable 5.2 برای محصولی که خودش اختراع کرده یه فیلم تبلیغاتی کامل ساخته](https://t.me/MatinSenPaii/5838) — `15:48 IRST` / `12:18 UTC`
+  > مدل Fable 5.2 برای محصولی که خودش اختراع کرده یه فیلم تبلیغاتی کامل ساخته 
 
-  ![Media](media/2026-11-10/3f0427665871b8a2.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ترامپ در واکنش به تلاش‌ها برای استیضاح پیت هگست، وزیر جنگ آمریکا، از عملکرد هگست در عملیات نظامی علیه جمهوری اسلامی و ون...](https://t.me/IranintlTV/366218) — `06:29 IRST` / `02:59 UTC`
-  > ترامپ در واکنش به تلاش‌ها برای استیضاح پیت هگست، وزیر جنگ آمریکا، از عملکرد هگست در عملیات نظامی علیه جمهوری اسلامی و ونزوئلا دفاع کرد و گفت او باید مورد ستایش قرار گیرد، نه استیضاح.
-ترامپ در پستی در تروث‌سوشال نوشت: «در شرایطی که شمار نیروهای جذب‌شده به ارتش از پایین‌ترین سطح...
+حساب رسمی Higgsfield این ویدیو رو گذاشته و می‌گه کلاد برای یه محصول خیالی، یه مفصل ربات، یه فیلم معرفی ۲۵ ثانیه‌ای ساخته. به گفته‌ی خودشون Fable 5.2 با کمک چند ایجنت کمکی، کل مدل سه‌بعدی رو توی Blender...
 
-  ![Media](media/2026-11-10/bdb48aa6f482806f.jpg)
-- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [رسانه منتشر شده در وایت دی‌ان‌اس (DNS و ضدسانسور)](https://t.me/whitedns/2256) — `06:02 IRST` / `02:32 UTC`
+  ![Media](media/2026-11-10/d7d5f45c924cb213.jpg)
+- **`Reuters Wire`** [EXCLUSIVE: Anthropic sets modest $1 trillion IPO valuation target in test of Wall Street's AI fervor - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5) — `15:45 IRST` / `12:15 UTC`
+  > EXCLUSIVE: Anthropic sets modest $1 trillion IPO valuation target in test of Wall Street's AI fervor    Reuters
+- **`یورونیوز فارسی`** [از آتش‌سوزی در فروشگاه‌ها تا حمله به المپیک؛ افشاگری فرانسه درباره عملیات سایبری سپاه پاسداران](https://parsi.euronews.com/2026/11/10/french-government-report-cyber-activities-iran-islamic-revolutionary-guard-corps) — `15:43 IRST` / `12:13 UTC`
+  > اعضای «مرکز هماهنگی بحران سایبری» فرانسه پس از مشاهده چندین حمله بی‌ثبات‌کننده علیه منافع فرانسه و انجام تحقیقات مرتبط با آن، اعلام کردند که این حملات از سوی «واحدهای تهاجمی سایبری شهید شوشتری و شهید کاوه» انجام شده است که در مرکز الکترونیک و سایبری سپاه پاسداران انقلاب اسلامی...
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌ها، ظرف گرجه‌فرنگی سرخ‌شده‌ای را نشان می‌دهد و می‌گوید: «ا...](https://t.me/IranintlTV/366285) — `15:33 IRST` / `12:03 UTC`
+  > یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌ها، ظرف گرجه‌فرنگی سرخ‌شده‌ای را نشان می‌دهد و می‌گوید: «این ناهار امروز ماست. مرگ بر مجتبی.»
 
-  ![Media](media/2026-11-10/df57b907dc8408c0.jpg)
-- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [🔥 به هوش مصنوعی گفتم برای کانالم موشن‌گرافیک بساز؛ این شد نتیجه!](https://t.me/whitedns/2255) — `05:55 IRST` / `02:25 UTC`
-  > 🔥 به هوش مصنوعی گفتم برای کانالم موشن‌گرافیک بساز؛ این شد نتیجه!
+  ![Media](media/2026-11-10/f63c9350394ea205.jpg)
+- **`رادیو فردا`** [پایان قرار بازداشت یک‌ماهه امیرسالار داودی؛ وکیلش خواستار آزادی او شد](https://www.radiofarda.com/a/amirsalar-davoudi-arrest-end-period-lawyer-ask-free/33894503.html) — `15:30 IRST` / `12:00 UTC`
+  > منابع رادیوفردا گفته‌اند که امیرسالار داودی هفتهٔ گذشته به دلیل حملهٔ قلبی از سلول انفرادی به بیمارستان الزهرا در اصفهان منتقل شده و سپس به زندان بازگردانده شده است.
 
-توی ویدیوی جدید، Raea رو نصب می‌کنیم و از پرامپت تا خروجی نهایی رو می‌بینیم ✨ 
+  ![Media](media/2026-11-10/e9bb2c9984a87387.jpg)
+- **`ایران اینترنشنال`** [کارزار «سه‌شنبه‌های نه به اعدام»: ماشین کشتار ولایت فقیه همچنان قربانی می‌گیرد](https://www.iranintl.com/202611106738) — `15:30 IRST` / `12:00 UTC`
+  > کارزار «سه‌شنبه‌های نه به اعدام» در بیانیه هفته صد و چهل‌وششم خود با هشدار درباره ادامه موج اعدام‌ها و اعدام دست‌کم ۱۵ نفر، از جمله شش زندانی سیاسی در یک هفته گذشته، اعلام کرد «ماشین کشتار ولایت فقیه» با اعدام و سرکوب همچنان قربانی می‌گیرد.
 
- 🎬 تماشای آموزش: https://youtu.be/qcl01iCMkP0 
+  ![Media](media/2026-11-10/c0d3df84f5648769.jpg)
+- **`یورونیوز فارسی`** [نخستین مزرعه بادی آسیای مرکزی با باتری‌های عظیم در ازبکستان رو به تکمیل است](https://parsi.euronews.com/2026/11/10/central-asias-first-wind-farm-with-large-scale-batteries-nears-completion-in-uzbekistan) — `15:29 IRST` / `11:59 UTC`
+  > بیست‌و‌پنج توربین از ۲۶ توربین هم‌اکنون به شبکه ملی برق وصل شده‌اند و سامانه ذخیره‌سازی در حال بررسی‌های ایمنی است. سرمایه‌گذاری ۲۳۲ میلیون یورویی با تأمین مالی بین‌المللی و قرارداد خرید برق ۲۵ساله همراه است؛ در حالی که نصب‌های عظیم ذخیره‌سازی در اروپا در سال ۲۰۲۵ بیش از دو بر...
+- **`بی‌بی‌سی فارسی`** [پس از حکم ۱۰ سال زندان به جرم تجاوز، جمایما گلداسمیت هم راسل برند را به خشونت و آزار متهم کرد](https://www.bbc.com/persian/articles/c680z02m01mro?at_medium=RSS&at_campaign=rss) — `15:22 IRST` / `11:52 UTC`
+  > جمایما گلداسمیت، دوست‌دختر سابق راسل برند، او را به «خشونت، کنترل اجباری و آزار» در دوره رابطه‌شان متهم کرده است.
 
-·:¨༺ @BlueKnight_Net ༻¨:·
+  ![Media](media/2026-11-10/e336ec32d6cbd6e4.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻 سایت فوتبالی خبر داد که یاسر آسانی، بازیکن آلبانیایی استقلال، صبح سه‌شنبه به‌صورت آنلاین در جلسه کمیته انضباطی فدراسیو...](https://t.me/IranintlTV/366284) — `15:22 IRST` / `11:52 UTC`
+  > 🔻 سایت فوتبالی خبر داد که یاسر آسانی، بازیکن آلبانیایی استقلال، صبح سه‌شنبه به‌صورت آنلاین در جلسه کمیته انضباطی فدراسیون فوتبال حاضر شد و درباره درگیری خود با علیرضا ایلدروم، کمک‌داور دیدار استقلال و استقلال خوزستان، توضیح داد.
 
-  ![Media](media/2026-11-10/9420c771f24a8301.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [Iran International ایران اینترنشنال pinned a photo](https://t.me/IranintlTV/366217) — `05:55 IRST` / `02:25 UTC`
-- **`@whitedns (وایت دی‌ان‌اس (DNS و ضدسانسور))`** [🟢 پنل WhiteDNS نسخهٔ 0.14.4](https://t.me/whitedns/2254) — `05:54 IRST` / `02:24 UTC`
-  > 🟢 پنل WhiteDNS نسخهٔ 0.14.4 
-(شامل تغییرات 0.14.3)
- 🔓 پورت روی IP خود سرور
-گزینهٔ تازه: «پورت‌های مجاز روی IP خود سرور». پیش‌فرض خالی است و اتصال به خود سرور مسدود می‌ماند.
- ⚠️ پورت بازشده برای همهٔ حساب‌ها در دسترس است؛ پورت پنل و SSH را اضافه نکنید.
- 🔀 پراکسی خروجی پایدارتر
-...
+ 🔹 آسانی در دقایق پایانی این مسابقه از هفته دوا...
 
-  ![Media](media/2026-11-10/f2b6643983ad98f3.jpg)
-- **`یورونیوز فارسی`** [ارائه طرح استیضاح وزیر دفاع آمریکا بر سر جنگ با ایران؛ دموکرات‌ها حمایت کردند](https://parsi.euronews.com/2026/11/10/democrats-back-pete-hegseth-impeachment-resolution-iran-war-nov-2026) — `05:37 IRST` / `02:07 UTC`
-  > توماس مسی، نماینده جمهوری‌خواه مجلس نمایندگان آمریکا، روز دوشنبه با ارائه طرح استیضاح پیت هگست، وزیر دفاع آمریکا، او را به «سوءاستفاده از اختیارات» و «اجرای آگاهانه دستورهای غیرقانونی» متهم کرد. این طرح بر نقش هگست در هدایت جنگ با ایران متمرکز است.
-- **`Reuters Wire`** [China seeks high-tech upper hand in industry carrying 80% of global trade - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWNwN3AyR0VFQTBqeUREa3A0M25yWkktTGFNX082dE5xSzl1NXk5ajRhajRXb0tOdUVYT1FXQm11WHduOGR1Z09YQlByZklSNE96UTlySkhYM0F4TmZNWHluNFpuTDM2dHNfZG9za1U5bHM0Qjh6Z2hwTWd6TmV2OFE2dll3RlZ0YlM2azc1UmdxN0RnVzAzQkpjaFN0UFhWNFNVZzEwRDlWLWFjbkM5UXNLNmI?oc=5) — `05:20 IRST` / `01:50 UTC`
-  > China seeks high-tech upper hand in industry carrying 80% of global trade    Reuters
-- **`بی‌بی‌سی فارسی`** [سرعت قدم‌هایتان می‌تواند سن واقعی مغزتان را فاش کند](https://www.bbc.com/persian/articles/cp8j3nv54rno?at_medium=RSS&at_campaign=rss) — `05:17 IRST` / `01:47 UTC`
-  > سرعت راه رفتن می‌تواند سرنخ‌هایی مهم درباره سلامت جسمی و شناختی افراد در اختیار ما بگذارد. پژوهش‌ها نشان داده‌اند که کندتر راه رفتن فقط نشانه افزایش سن نیست، بلکه ممکن است با خطر بیشتر بیماری، افت عملکرد مغز و حتی کاهش امید به زندگی ارتباط داشته باشد.
+  ![Media](media/2026-11-10/0f7b00e146025222.jpg)
+- **`Reuters Wire`** [US to skip UN human rights review, drawing censure - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEtsLVNMZXJDNlczNHVhVV9EdzZaaDdXeXBGa3lRd25ZVWF5X0NSUTg2aFlWaWVaZHpGM29qUVlxSlZjWkdyQUdBckt2bFlXZUFqYk1pei1iZF9zZ2tKXzdnY0NyNDRiWWpqaHlPZkliMVk1aGxDRDMyekozcU5jQl9maTZBTWtkeWh3NEJTZXlFVWI5TW9UbmtSdHhPbVBO?oc=5) — `15:18 IRST` / `11:48 UTC`
+  > US to skip UN human rights review, drawing censure    Reuters
+- **`ایران اینترنشنال`** [یاسر آسانی در جلسه کمیته انضباطی؛ سند تصویری «توهین» کمک‌داور به بازیکن استقلال ارائه شد](https://www.iranintl.com/202611109071) — `15:17 IRST` / `11:47 UTC`
+  > سایت فوتبالی خبر داد که یاسر آسانی، بازیکن آلبانیایی استقلال، صبح سه‌شنبه به‌صورت آنلاین در جلسه کمیته انضباطی فدراسیون فوتبال حاضر شد و درباره درگیری خود با علیرضا ایلدروم، کمک‌داور دیدار استقلال و استقلال خوزستان، توضیح داد.
 
-به گفته پژوهشگران، سرعت ...
+  ![Media](media/2026-11-10/5f020a0b4e08441c.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [علی عبداللهی، رییس ستادکل نیروهای مسلح جمهوری اسلامی، در ویدیویی که با عنوان «رونمایی از شهر موشکی جدید سپاه پاسداران» م...](https://t.me/IranintlTV/366283) — `15:16 IRST` / `11:46 UTC`
+  > علی عبداللهی، رییس ستادکل نیروهای مسلح جمهوری اسلامی، در ویدیویی که با عنوان «رونمایی از شهر موشکی جدید سپاه پاسداران» منتشر شده، گفت: «اخیرا نتانیاهو گفته یا ما باید جمهوری اسلامی را نابود کنیم یا آن‌ها ما را. این هم یک چیز جدیدی بود. خب معلوم است که ما حتما آن‌ها را نابود خو...
 
-  ![Media](media/2026-11-10/cfd598bfbd4fada7.jpg)
-- **`ایران اینترنشنال`** [نماینده جمهوری‌خواه روند استیضاح هگست به دلیل عملکردش در جنگ ایران را به جریان انداخت](https://www.iranintl.com/202611109134) — `05:13 IRST` / `01:43 UTC`
-  > توماس ماسی، نماینده جمهوری‌خواه کنگره آمریکا، روند بررسی استیضاح پیت هگست، وزیر دفاع، را با اتهام‌هایی از جمله آغاز جنگ با ایران بدون مجوز کنگره به جریان انداخت. در مقابل، دونالد ترامپ رییس‌جمهوری آمریکا بر حمایت از وزیر دفاع کابینه‌اش تاکید کرد.
-
-  ![Media](media/2026-11-10/a9add56dc938553f.jpg)
-- **`AP News Wire`** [College Football Playoff decides to double down and a 24-team playoff is set for next season - AP News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fbF93YUxPdUdrMEhlR3pTRTV2cGNjazhEYk1acFVUSjZjTGdISlc1cURnSHJRRDRLVW9JeDVDU3E1MmlINEZ6Tl9NUUxmY2hsWmxqN3Q3U04zOGc3U1F1NTQzQ3RLb1BCeWc4NndXWHNuV19HblRfZ0tEd2gxZw?oc=5) — `04:55 IRST` / `01:25 UTC`
-  > College Football Playoff decides to double down and a 24-team playoff is set for next season    AP News
-- **`Reuters Wire`** [EXCLUSIVE: Anthropic sends out, then retracts details of IPO filing, emails show - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5) — `04:52 IRST` / `01:22 UTC`
-  > EXCLUSIVE: Anthropic sends out, then retracts details of IPO filing, emails show    Reuters
-- **`AP News Wire`** [FBI is investigating a possible killing aboard a cruise ship out of Texas - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWVURkdHem1tOTJ4LVgxMDZhdHo2U3I1dFQ1N2pwUnNLV1FmQURJU2hsb3hnUjlab2VCRjkzYjd1TmY2Um5CTDJHdTNCME0wMWc3ZTVxekZwZl9fUGVhcDRyUnB2RWRoclhCYnJ5a0xnakFXcWxCbW1VNnBjOWtWanMydTRDR2lkUU9PN1NIRWQwRV9FS1JUSkctSnU?oc=5) — `04:38 IRST` / `01:08 UTC`
-  > FBI is investigating a possible killing aboard a cruise ship out of Texas    AP News
-- **`@M4tinBeigi (متین بیگی)`** [با Claude Code ویدیو بساز](https://t.me/M4tinBeigi/452) — `04:30 IRST` / `01:00 UTC`
-  > با Claude Code ویدیو بساز 
-
-با یه skill به اسم Cinecode می‌تونی توی Claude Code یا Cursor ویدیو بسازی. ایده رو می‌دی، agent سناریو و صحنه‌ها رو آماده می‌کنه و خروجی MP4 می‌گیره.
-
-تصویرها با کد ساخته و روی کامپیوترت render می‌شن. قبل از ساخت کامل هم نمونه صحنه‌ها رو می‌بینی و م...
-- **`بی‌بی‌سی فارسی`** [ام جان هریسون با رمان پساآخرالزمانی «پایان همه‌چیز» برنده جایزه بوکر ۲۰۲۶ شد](https://www.bbc.com/persian/articles/cmx2q25v115no?at_medium=RSS&at_campaign=rss) — `04:05 IRST` / `00:35 UTC`
-  > مایک جان هریسون، برای رمانش با عنوان «پایان همه‌چیز» برنده جایزه بوکر سال ۲۰۲۶ شد.
-داوران کتاب «پایان همه‌چیز» اثر هریسون را به خاطر «نگارش فوق‌العاده ماهرانه و همچنین بلندپروازی عظیمش» ستوده‌اند.
-
-  ![Media](media/2026-11-10/d31d0c96bcbdffd0.jpg)
+  ![Media](media/2026-11-10/73e56c2f7b86aeba.jpg)
+- **`Reuters Wire`** [EXCLUSIVE: Microsoft presses Trump to scuttle expected ban on Chinese data center technology - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5) — `15:15 IRST` / `11:45 UTC`
+  > EXCLUSIVE: Microsoft presses Trump to scuttle expected ban on Chinese data center technology    Reuters
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-11-10 - ساعت 12:00](news/2026-11-10/12-00.md)
 - 📅 [2026-11-10 - ساعت 03:00](news/2026-11-10/03-00.md)
 - 📅 [2026-11-09 - ساعت 20:30](news/2026-11-09/20-30.md)
 - 📅 [2026-11-09 - ساعت 09:00](news/2026-11-09/09-00.md)
@@ -141,7 +128,6 @@
 - 📅 [2026-10-26 - ساعت 22:00](news/2026-10-26/22-00.md)
 - 📅 [2026-10-26 - ساعت 17:00](news/2026-10-26/17-00.md)
 - 📅 [2026-10-26 - ساعت 10:30](news/2026-10-26/10-30.md)
-- 📅 [2026-10-26 - ساعت 04:30](news/2026-10-26/04-30.md)
 
 ---
 توسعه‌یافته برای استقرار سبک و مداوم بر روی اوبونتو ARM64.
