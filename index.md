@@ -2,7 +2,7 @@
 
 سامانه مانیتورینگ چندرسانه‌ای خودکار از منابع مستقل فارسی، کانال‌های تلگرام، توییتر و خبرگزاری‌های مادر بین‌المللی با **هزینه صفر (Zero LLM Tokens)** و سازگار با محدودیت‌های شدید اینترنت ملی در ایران.
 
-⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-11-18 01:09 IRST`
+⏱ **وضعیت پایپ‌لاین:** فعال بر روی Server 2 (ARM64) | **آخرین همگام‌سازی:** `2026-11-18 06:59 IRST`
 
 ### 🚀 راه‌های دسترسی سریع در شرایط فیلترینگ و اینترنت ملی:
 1. **فایل متنی سبک (Raw Markdown):** دریافت مستقیم [`news/latest.md`](news/latest.md) از طریق CDN گیت‌هاب با حجم اندک.
@@ -13,67 +13,76 @@
 
 ## 📌 مهم‌ترین سرخط‌های جاری
 
-- **`بی‌بی‌سی فارسی`** [در آستانه دیدار ترامپ با پوتین و شی؛ روسیه خواستار توقف فوری درگیری‌ها در خلیج فارس شد](https://www.bbc.co.uk/persian/live/cj4gnx0vr1ewt?at_medium=RSS&at_campaign=rss) — `01:09 IRST` / `21:39 UTC`
+- **`بی‌بی‌سی فارسی`** [حملات هوایی به کویت و بحرین همزمان با حمله آمریکا به قشم](https://www.bbc.co.uk/persian/live/cm879d8q0292t?at_medium=RSS&at_campaign=rss) — `06:59 IRST` / `03:29 UTC`
+  > ساعتی پس از آن که آمریکا عصر سه‌شنبه به چند نقطه در جزیره قشم حمله کرد و آن را «حملات دفاعی» خواند، آژیرهای حملات هوایی در بحرین و کویت به صدا درآمد و سپاه پاسداران مدعی شد که مجددا پایگاه آمریکا در بحرین را هدف قرار داده است. روسیه آمریکا را «آغازگر درگیری‌های جدید» خوانده و ...
+
+  ![Media](media/2026-11-18/5e7944040a13925c.jpg)
+- **`بی‌بی‌سی فارسی`** [آنچه گذشت؛‌ روسیه خواستار توقف فوری درگیری‌ها در خلیج فارس شد](https://www.bbc.co.uk/persian/live/cj4gnx0vr1ewt?at_medium=RSS&at_campaign=rss) — `06:59 IRST` / `03:29 UTC`
   > وزارت خارجه روسیه در آستانه دیدار ولادیمیر پوتین با دونالد ترامپ و وشی جین‌پینگ با اشاره به حملات جدید به قشم و بحرین کفته است: ««مسکو بار دیگر از همه طرف‌های این رویارویی، در درجه نخست ایالات متحده که آغازگر آن بوده است، می‌خواهد بدون تأخیر به درگیری‌ها پایان دهند.» عصر سه‌شن...
-- **`بی‌بی‌سی فارسی`** [شنژن؛ شهر رویایی هوش مصنوعی چین و واقعیتی که رهبران جهان نخواهند دید](https://www.bbc.com/persian/articles/c63dg59l82p0o?at_medium=RSS&at_campaign=rss) — `01:07 IRST` / `21:37 UTC`
-  > شنژن، ویترین آینده فناورانه چین، با پهپادها، تاکسی‌های بدون راننده و ربات‌های انسان‌نما به نمادی از جاه‌طلبی‌های هوش مصنوعی پکن تبدیل شده است. اما دور از آسمان‌خراش‌های درخشان این شهر، نشانه‌هایی از مشکلات اقتصادی و نگرانی کارگران درباره آینده نیز به چشم می‌خورد.
 
-  ![Media](media/2026-11-17/4f8331b3659e060d.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «اعتراضات آبدانان نشان داد تهدیدهای مقام‌های امنیتی و قضایی نتوانسته مانع ...](https://t.me/IranintlTV/367475) — `01:03 IRST` / `21:33 UTC`
-  > مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «اعتراضات آبدانان نشان داد تهدیدهای مقام‌های امنیتی و قضایی نتوانسته مانع بازگشت مردم به خیابان‌ها شود؛ همزمان، تکرار شعارهای «جاوید شاه» و حمایت از شاهزاده رضا پهلوی در این اعتراضات، ابطال ادعاهای مطرح‌شده درباره کاهش محبوبیت او ا...
+  ![Media](media/2026-11-18/90a68ab08a997afc.jpg)
+- **`ایران اینترنشنال`** [نیویورک‌تایمز: با شکست انتخاباتی جمهوری‌خواهان، تهران در مذاکرات سرسخت‌تر شده است](https://www.iranintl.com/202611186115) — `06:50 IRST` / `03:20 UTC`
+  > نیویورک‌تایمز به نقل از مقام‌های آمریکایی، اروپایی و ایرانی گزارش داد مواضع جمهوری اسلامی در مذاکرات با میانجی‌ها پس از شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا، سرسخت‌تر شده است و مذاکره‌کنندگان ایرانی تمایل کمتری به امتیاز دادن دارند.
 
-  ![Media](media/2026-11-17/99356d52b1ff41e2.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️روزنامه آاس گزارش داد که سیلویا تویا وینیاس، متخصص ۴۶ ساله اسپانیایی آمادگی جسمانی، احتمالا همراه مائوریسیو پوچت...](https://t.me/IranintlTV/367474) — `00:56 IRST` / `21:26 UTC`
-  > 🔻️ ️️️️️روزنامه آاس گزارش داد که سیلویا تویا وینیاس، متخصص ۴۶ ساله اسپانیایی آمادگی جسمانی، احتمالا همراه مائوریسیو پوچتینو به منچستریونایتد می‌پیوندد. در صورت تایید این انتصاب، او نخستین زن در کادر فنی تیم اول مردان این باشگاه خواهد بود.
+  ![Media](media/2026-11-18/4af5e4b1cca864d3.jpg)
+- **`یورونیوز فارسی`** [محکومیت «عامل سپاه» در آمریکا به ۳۳۰ ماه زندان؛ آصف مرچنت تلاش کرد برای ترور ترامپ آدمکش اجیر کند](https://parsi.euronews.com/2026/11/18/asif-merchant-sentenced-330-months-prison-iranian-agent-trump-assassination-plot) — `06:40 IRST` / `03:10 UTC`
+  > آصف مرچنت روز سه‌شنبه به اتهام تلاش برای ارتکاب اقدام تروریستی فرامرزی و اجیر کردن آدمکش در دادگاه فدرال بروکلین به ۳۳۰ ماه زندان محکوم شد. بنابر اعترافات مرچنت، او از سال ۲۰۲۲ جذب سپاه شده و در آن آموزش دیده بود. هیات منصفه در ماه مارس مرچنت را گناهکار دانسته بود.
+- **`ایران اینترنشنال`** [ادامه تبادل آتش میان آمریکا و جمهوری اسلامی در قشم و بحرین هم‌زمان با حمله پهپادی به کویت](https://www.iranintl.com/202611180937) — `06:08 IRST` / `02:38 UTC`
+  > جنگنده‌های آمریکا شامگاه سه‌شنبه ۲۶ آبان در واکنش به حمله سپاه به سامانه راداری این کشور در بحرین، موضع پرتاب موشک سپاه در قشم را هدف قرار دادند. هم‌زمان، کویت از مقابله با حملات پهپادی خبر داد. این حملات در میانه تلاش‌های دیپلماتیک برای پایان جنگ رخ داد.
 
- 🔹️ ️️️️️مائوریسیو پوچتینو از چهارشنب...
+  ![Media](media/2026-11-18/7cf09232d940800b.jpg)
+- **`@VahidOnline (وحید آنلاین)`** [عصر روز سه‌شنبه، آصف مرچنت، ۴۸ ساله و تبعه پاکستان و از عوامل سپاه پاسداران، از سوی اریک آر. کومیتی، قاضی دادگاه فدرال ب...](https://t.me/VahidOnline/79160) — `05:35 IRST` / `02:05 UTC`
+  > عصر روز سه‌شنبه، آصف مرچنت، ۴۸ ساله و تبعه پاکستان و از عوامل سپاه پاسداران، از سوی اریک آر. کومیتی، قاضی دادگاه فدرال بروکلین، به ۳۳۰ ماه زندان محکوم شد.
 
-  ![Media](media/2026-11-17/81d3e3cfa40ea5f2.jpg)
-- **`ایران اینترنشنال`** [جی‌جی گابریل، پدیده ۱۶ ساله منچستریونایتد، با رئال مادرید به توافق رسید](https://www.iranintl.com/202611174286) — `00:48 IRST` / `21:18 UTC`
-  > جی‌جی گابریل، پدیده ۱۶ ساله منچستریونایتد، با انتشار ویدیوی خداحافظی جدایی خود را تایید کرد. او که از سپتامبر در اسپانیا تمرین می‌کند، برای پیوستن به رئال مادرید به توافق شفاهی رسیده است.
+او به تلاش برای ارتکاب اقدام تروریستی با ابعاد فراملی و اجیر کردن آدمکش برای قتل محکوم شد.
 
-  ![Media](media/2026-11-17/af3fbf71bf012a40.jpg)
-- **`Hacker News`** [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) — `00:41 IRST` / `21:11 UTC`
-  > Article URL: https://calif.io/java4shell/ 
- Comments URL: https://news.ycombinator.com/item?id=50538240 
- Points: 19 
- # Comments: 3
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ابراهیم روشندل، دیپلمات سابق و عضو کمیته مبارزه با تروریسم سازمان امنیت داخلی آمریکا، با اشاره به تهدیدهای مقام‌های نظام...](https://t.me/IranintlTV/367473) — `00:39 IRST` / `21:09 UTC`
-  > ابراهیم روشندل، دیپلمات سابق و عضو کمیته مبارزه با تروریسم سازمان امنیت داخلی آمریکا، با اشاره به تهدیدهای مقام‌های نظامی جمهوری اسلامی گفت نقش نظامیان در تصمیم‌گیری پررنگ‌تر شده و فضای ابتکار عمل سیاسی محدود شده است.
- @iranintltv
+به گزارش وزارت دادگستری آمریک...
 
-  ![Media](media/2026-11-17/db264878809a517a.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [🔻️ ️️️️️امیر قلعه‌نویی، سرمربی تیم ملی پس از تساوی با عراق در دیداری تدارکاتی گفت: «راه جوان‌گرایی را شروع کردیم و ادامه...](https://t.me/IranintlTV/367472) — `00:36 IRST` / `21:06 UTC`
-  > 🔻️ ️️️️️امیر قلعه‌نویی، سرمربی تیم ملی پس از تساوی با عراق در دیداری تدارکاتی گفت: «راه جوان‌گرایی را شروع کردیم و ادامه می‌دهیم. از مسئولان فدراسیون می‌خواهم بازی با تیم‌های بزرگ را فراهم کنند. از بازیکنان جوان راضی بودیم و توقع داریم باتجربه‌ترها در این بازی‌ها تیم را بهتر ر...
+  ![Media](media/2026-11-18/ac0f44ac936abd17.jpg)
+- **`Reuters Wire`** [Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms - Reuters](https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5) — `05:16 IRST` / `01:46 UTC`
+  > Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms    Reuters
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [مارکو روبیو، وزیر خارجه آمریکا، در گفت‌وگوی خود با خبرنگاران در مانیل، در فیلیپین، درباره جمهوری اسلامی گفت: «هیچ تهدید ...](https://t.me/IranintlTV/367500) — `04:52 IRST` / `01:22 UTC`
+  > مارکو روبیو، وزیر خارجه آمریکا، در گفت‌وگوی خود با خبرنگاران در مانیل، در فیلیپین، درباره جمهوری اسلامی گفت: «هیچ تهدید قریب‌الوقوعی از سوی ایران علیه خاک آمریکا وجود ندارد.»
 
-  ![Media](media/2026-11-17/0b2dd17a04d838e5.jpg)
-- **`AP News Wire`** [Measles is no longer considered eliminated in the US and Mexico - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJRWUV3Zl9CaUJrdWZXYjlIY2txdlRRSGtNUWNkUEtmZXFGNWg3LWl4a0M0VnVuejRFWUlrTHhPbWdUZ194Nzg3bFEzSXB5b0Q5VXQwS3cxZTA4MXpSNzc2X0xVcTd0TFZBYTRJNGxZOWxINFRmY0NXU0w0VHhpdGJieVlRT1VSR0o2WUpmaVVaMDMxVHdXQ0I0eWc?oc=5) — `00:34 IRST` / `21:04 UTC`
-  > Measles is no longer considered eliminated in the US and Mexico    AP News
-- **`Reuters Wire`** [Kalshi suspends Trump speech wagers on US regulatory order - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUxvREJseXMtOWhTYnY1RUdXZkhROXJrTEtBRjQxaW1VTWJrQkctUm5xZWc5aFAwU1dtS2FwZmd4SmtaVEdrc1lLT0NzNXZ1VUZpaTYtTTVSLTU2UUUyZF92eGZqTGt6U1hNczBVOUpDTUhXUjdraFZFYUF0V250dE45WEVLWWh4Q1NmZkZ2QUg0bWV5ZDJpTUVsbzNQNG1rTlRuRlVCMDY3SURP?oc=5) — `00:26 IRST` / `20:56 UTC`
-  > Kalshi suspends Trump speech wagers on US regulatory order    Reuters
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [ایران‌اینترنشنال به اطلاعاتی اختصاصی درباره هویت اعضای شبکه‌ای از آخوندهای تایلندی مقیم ایران دست یافته است که نشان می‌د...](https://t.me/IranintlTV/367471) — `00:25 IRST` / `20:55 UTC`
-  > ایران‌اینترنشنال به اطلاعاتی اختصاصی درباره هویت اعضای شبکه‌ای از آخوندهای تایلندی مقیم ایران دست یافته است که نشان می‌دهد آن‌ها پس از جذب از سوی نیروی قدس و حزب‌الله لبنان، قرار بود به سفارت اسرائیل در بانکوک حمله کنند.
+وزیر خارجه ایالات متحده درباره اختلال‌های اخیر در آمریکا گفت: «هیچ مدرکی وجود ندارد که نشان دهد این ق...
 
-یک منبع اطلاعاتی بین‌المللی و یک منبع نزدیک به نیروی قد...
+  ![Media](media/2026-11-18/76c5f0bee946f788.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [وزارت دفاع بحرین اعلام کرد جمهوری اسلامی با «حملات جنایتکارانه» خود علیه بحرین، همچنان به رویکرد «خصمانه و سازمان‌یافته»...](https://t.me/IranintlTV/367499) — `04:32 IRST` / `01:02 UTC`
+  > وزارت دفاع بحرین اعلام کرد جمهوری اسلامی با «حملات جنایتکارانه» خود علیه بحرین، همچنان به رویکرد «خصمانه و سازمان‌یافته» خود ادامه می‌دهد.
 
-  ![Media](media/2026-11-17/0200e35dedbd11d2.jpg)
-- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [احمد علوی، اقتصاددان، با اشاره به کاهش سهمیه سوخت در ۱۱ استان مرزی و صف‌های طولانی بنزین گفت جمهوری اسلامی با کاهش تدریج...](https://t.me/IranintlTV/367470) — `00:24 IRST` / `20:54 UTC`
-  > احمد علوی، اقتصاددان، با اشاره به کاهش سهمیه سوخت در ۱۱ استان مرزی و صف‌های طولانی بنزین گفت جمهوری اسلامی با کاهش تدریجی سهمیه‌ها، مصرف‌کنندگان را به خرید سوخت با قیمت بالاتر سوق می‌دهد. به گفته او، محدود کردن دسترسی به سوخت، فعالیت‌های اقتصادی را کاهش می‌دهد و به رکود و بیکا...
+این وزارتخانه همچنین تاکید کرد که سامانه‌های پدافند هوایی این کشور با «اراده‌ای استوار و آمادگی رزمی بالا»، بامداد چهارشنبه شماری از «حمل...
 
-  ![Media](media/2026-11-17/bcdb0b70039f65c6.jpg)
-- **`Reuters Wire`** [Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5) — `00:23 IRST` / `20:53 UTC`
-  > Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected    Reuters
-- **`Reuters Wire`** [Classified US national security communications network hit by outage, NSA says - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5) — `00:23 IRST` / `20:53 UTC`
-  > Classified US national security communications network hit by outage, NSA says    Reuters
-- **`ایران اینترنشنال`** [سردار آزمون: مطمئنم اتفاق خوبی در جام ملت‌ها می‌افتد](https://www.iranintl.com/202611174241) — `00:23 IRST` / `20:53 UTC`
-  > سردار آزمون، کاپیتان تیم ملی پس از بازی با عراق و دریافت کاپ تورنمنت بصره عراق، گفت: مطمئنم اتفاق خوبی در جام ملت‌ها می‌افتد. امیدوارم جوانان قدر خودشان را بدانند و بفهمند که قبلا چه بازیکنانی پیراهن تیم ملی را پوشیده‌اند تا در آینده مایه افتخار ایرانیان باشند.»
+  ![Media](media/2026-11-18/139925764672e4d6.jpg)
+- **`@IranintlTV (ایران اینترنشنال (تلگرام))`** [وزارت کشور بحرین همزمان با به صدا درآمدن مجدد آژیرهای هشدار در این کشور، با صدور یک بیانیه از شهروندان و افراد مقیم خواس...](https://t.me/IranintlTV/367498) — `04:31 IRST` / `01:01 UTC`
+  > وزارت کشور بحرین همزمان با به صدا درآمدن مجدد آژیرهای هشدار در این کشور، با صدور یک بیانیه از شهروندان و افراد مقیم خواست برای حفظ ایمنی عمومی، آرامش خود را حفظ کنند، به نزدیک‌ترین مکان امن بروند و اخبار را از طریق کانال‌های رسمی پیگیری کنند.
 
-  ![Media](media/2026-11-17/ae5a1461723e1b32.jpg)
+پیش‌تر و در ساعات اولیه بامداد چه...
+
+  ![Media](media/2026-11-18/17640c7c71e54d0e.jpg)
+- **`Reuters Wire`** [How India became a rice powerhouse - and why it's becoming a problem - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPLS1aa2RCdVBHNXQxZ29XN0RvNGVxa3AwNHpBODVJRXc0aThWX283QllXWmFfQzNxVUowS2xrUlR5M1BKMjV2LXowanYwVHZUVzZnaUVjMXVWRmdJSU4wR1ExOElxZktDbTNpZVlOeTlaYmUxSTNiNlJXZHJodUpMQTgwT095bnNHVWtfeVFSSnBlU3FxdEYtdGpNdG5tdExq?oc=5) — `04:30 IRST` / `01:00 UTC`
+  > How India became a rice powerhouse - and why it's becoming a problem    Reuters
+- **`بی‌بی‌سی فارسی`** [آصف رضا مرچنت به جرم سازمان‌دهی طرح ترور و دریافت پول از سپاه پاسداران به ۲۷ سال زندان محکوم شد](https://www.bbc.com/persian/articles/cwz0kll92xlpo?at_medium=RSS&at_campaign=rss) — `04:27 IRST` / `00:57 UTC`
+  > آصف مرچنت، مرد پاکستانی که به اتهام تلاش برای انجام اقدامات تروریستی و سازمان‌دهی طرح ترور با دریافت پول، به دستور سپاه پاسداران محکوم شده بود، با تعیین میزان مجازات، روز سه‌شنبه به ۲۷ سال و نیم زندان فدرال محکوم شد.
+
+  ![Media](media/2026-11-18/f5e0d2bc44a58595.jpg)
+- **`Hacker News`** [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference) — `04:26 IRST` / `00:56 UTC`
+  > Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference 
+ Comments URL: https://news.ycombinator.com/item?id=50540472 
+ Points: 31 
+ # Comments: 9
+- **`AP News Wire`** [White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans - AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcll5dHZkX3V1YXFqb0d6X0ZVUmZDV0htM096X3VQcEFUbVE5SlAtRFFkenNqM1ZhVjlmM3BvTlRRNWR3ZmxRYUttYnNOcUIwdmI5SXFBQlhMcEVVRFlMWEdGazdrVUl5aWhwZ0JWeVoxeHU2bHhORHAyZkxhUEtsSzhyOU9qMWdFa3Yxc3d0UGhieXZzVTQ1Z21OTGctRW9kcEE?oc=5) — `04:24 IRST` / `00:54 UTC`
+  > White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans    AP News
+- **`Hacker News`** [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) — `04:21 IRST` / `00:51 UTC`
+  > Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in 
+ Comments URL: https://news.ycombinator.com/item?id=50540437 
+ Points: 155 
+ # Comments: 54
 
 ---
 
 ## 🗄 آرشیو بولتن‌های ۳۰ دقیقه‌ای (Interval Archive)
 
+- 📅 [2026-11-18 - ساعت 03:00](news/2026-11-18/03-00.md)
 - 📅 [2026-11-17 - ساعت 21:30](news/2026-11-17/21-30.md)
 - 📅 [2026-11-17 - ساعت 12:30](news/2026-11-17/12-30.md)
 - 📅 [2026-11-17 - ساعت 03:30](news/2026-11-17/03-30.md)
@@ -133,7 +142,6 @@
 - 📅 [2026-11-01 - ساعت 22:30](news/2026-11-01/22-30.md)
 - 📅 [2026-11-01 - ساعت 18:00](news/2026-11-01/18-00.md)
 - 📅 [2026-11-01 - ساعت 12:30](news/2026-11-01/12-30.md)
-- 📅 [2026-11-01 - ساعت 05:00](news/2026-11-01/05-00.md)
 
 ---
 توسعه‌یافته برای استقرار سبک و مداوم بر روی اوبونتو ARM64.
